@@ -1,0 +1,134 @@
+{
+ "schema": 1,
+ "set": "texture-holdout",
+ "settings": [
+  "texture-100",
+  "texture-50",
+  "texture-25",
+  "texture+25",
+  "texture+50",
+  "texture+100"
+ ],
+ "photos": [
+  {
+   "raw": "raws/signature-edits/Free Raw Files - Tag @signatureeditsco DSC_3500.nef",
+   "sha256": "133c5741e60bd6cfa12550a74f4a801a76376b5ff6795fd1a912025d16083a29",
+   "p90_L": 32.34933854561544,
+   "stratum": "low",
+   "make": "Nikon",
+   "model": "D3100",
+   "subject": "woman in black dress lying on stone steps",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/signature edits free raws DSC08455.arw",
+   "sha256": "0d8075966a38ef4798eea7d52916e7d6c1bf0dd151de1607784d8fdf0bf32fec",
+   "p90_L": 29.757108088076194,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "ILCE-6300",
+   "subject": "woman sitting on a chair in a sunlit room",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/DSC_0097.NEF",
+   "sha256": "e004211a1f14c71844aa875b7cabdd0510b3bc65c2dfe24d0bcfe57494232792",
+   "p90_L": 39.81911294077833,
+   "stratum": "low",
+   "make": "Nikon",
+   "model": "D5200",
+   "subject": "close-up of a green and yellow parrot",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/ Free raws by @signatureeditsco DSC03068.arw",
+   "sha256": "3701336af8a8a028d432bb831945fc98d9165aa6854e7af1e718eecd43ee6c26",
+   "p90_L": 19.586510814460794,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "ILCE-6300",
+   "subject": "woman in traditional Japanese attire holding a blue umbrella",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/free raw files from signatureedits.com _MG_5222.CR2",
+   "sha256": "188d4c474331d0bfe157aa0a8952d54d9063b91a32dcf31aadd4e2e1ceb8d57f",
+   "p90_L": 54.27518948348101,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS Rebel T6i",
+   "subject": "man in striped shirt leaning on a red railing",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/pls tag @ryanbreitkreutz signature edits free raw photos DJI_0239.DNG",
+   "sha256": "b81eab585cf2fa8a7b56c6f9f617a0af2f3d40450bb1c05e655034bff3fa54b1",
+   "p90_L": 66.81749428424304,
+   "stratum": "mid",
+   "make": "DJI",
+   "model": "FC7303",
+   "subject": "person floating in a swimming pool surrounded by tropical foliage",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/credit @signatureeditsco - signatureedits.com DSC_0055.NEF",
+   "sha256": "04f48748ae522779995cc342c0e992067bdd181757a2260a4cbfa9c2875c4193",
+   "p90_L": 68.58721689002772,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "D3200",
+   "subject": "two women in wedding attire holding bouquets",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/PANA5062.RW2",
+   "sha256": "246b4648f1009a62fea7a6b1359496d42d51497e6590253ca0906d66402ec8d1",
+   "p90_L": 67.21096162971061,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DC-GH5",
+   "subject": "silver necklace on a patterned scarf",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/signature edits free raws tarevir .CR2",
+   "sha256": "39440d899a2527d4cc5574da601034e97b21c30c7710025e5e929f1c0e864a47",
+   "p90_L": 94.61672977852697,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS 700D",
+   "subject": "rustic mountain hut with prayer flags in fog",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/Copy of free raws from signatureedits.com - tag @signatureeditsco - DSC_1473.nef",
+   "sha256": "0efcd4831ef02309c210836a7ee57c041080d57ccf31214acd9321d220cdf7b3",
+   "p90_L": 76.63414867644407,
+   "stratum": "high",
+   "make": "Nikon",
+   "model": "D3100",
+   "subject": "young woman with autumn leaves framing her face",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/PANA2592.RW2",
+   "sha256": "072fabc7dd56f40cffb3a6dcc3ff18cf0c1c6b4d8eccb86e1b2659237b93ef8b",
+   "p90_L": 93.80401397125098,
+   "stratum": "high",
+   "make": "Panasonic",
+   "model": "DC-GH5",
+   "subject": "woman with blonde hair wearing a denim jacket",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco DSC02439.ARW",
+   "sha256": "37ebfa80ff6981a25861db0e2e00a6138c1a067966ef70e0ed8899bf4b849099",
+   "p90_L": 94.73281007983987,
+   "stratum": "high",
+   "make": "Sony",
+   "model": "ILCE-7SM3",
+   "subject": "couple wrapped in a colorful blanket in a grassy field",
+   "score": 2
+  }
+ ]
+}

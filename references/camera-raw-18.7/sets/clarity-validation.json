@@ -1,0 +1,104 @@
+{
+ "schema": 1,
+ "set": "clarity-validation",
+ "settings": [
+  "clarity-100",
+  "clarity-50",
+  "clarity-25",
+  "clarity+25",
+  "clarity+50",
+  "clarity+100"
+ ],
+ "photos": [
+  {
+   "raw": "raws/pixls/Panasonic/DC-S1RM2/P1000454.RW2",
+   "sha256": "0fde3176fd98214f64d5d472162d47f7146267c29f39eb8f3dd2351bc60158d0",
+   "p90_L": 30.57402220611348,
+   "stratum": "low",
+   "make": "Panasonic",
+   "model": "DC-S1RM2",
+   "subject": "star trails over a lit urban scene",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS Rebel T7i/20190925-1501-0421.cr2",
+   "sha256": "03fb55af71f384ada6b6aa0ca93279d48cf5fbd13651a323408d2fd97e1d1f7c",
+   "p90_L": 70.2815250024545,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS Rebel T7i",
+   "subject": "a yellow and pink plastic chair in a grassy field with trees",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-A10/DSCF8207.RAF",
+   "sha256": "05309c5434500cc53d5782072cc0dcdd947d2f0a34f0ddcd4656c82cc7803272",
+   "p90_L": 55.132809170214536,
+   "stratum": "mid",
+   "make": "Fujifilm",
+   "model": "X-A10",
+   "subject": "mountainous valley with grassy field under blue sky",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Olympus/E-PL9/EB000005.ORF",
+   "sha256": "22525e54442f52281d007b5e8a75a2c61f768856699cf5ed697d85e055f2cc4f",
+   "p90_L": 73.73384406303272,
+   "stratum": "mid",
+   "make": "Olympus",
+   "model": "E-PL9",
+   "subject": "trees against a clear blue sky",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-G100/P1000346.RW2",
+   "sha256": "045fbeed3f92ebe523849959ee0d7c20abdcb32cdbba88f334b648a44ae868fc",
+   "p90_L": 68.5993068222199,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DC-G100",
+   "subject": "paved path beside a fenced field with trees",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Canon/Canon EOS M200/_MG_2233.CR3",
+   "sha256": "0585a468143c6606936d0ffbff1788c6c02e3610d8ecb50614e21492fbacd052",
+   "p90_L": 75.24732937356374,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS M200",
+   "subject": "residential waterfront with distant city skyline",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/FUJIFILM/X-T30 III/DSCF0133.RAF",
+   "sha256": "1910b95422240f97781fa3296d67a56cc8f62de63144ac11cbf4267a11278042",
+   "p90_L": 81.09573295160197,
+   "stratum": "high",
+   "make": "Fujifilm",
+   "model": "X-T30 III",
+   "subject": "rock formation at sunset with parking lot in foreground",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Hasselblad/L1D-20c/DJI_0017.DNG",
+   "sha256": "7afecae0db80d832941eeeb3c0eb2dc03f5696637b6e78b3c592e8c002dce4ec",
+   "p90_L": 91.26349434036108,
+   "stratum": "high",
+   "make": "Hasselblad",
+   "model": "L1D-20c",
+   "subject": "historic city with red rooftops and a tall spire",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Olympus/TG-6/_6100003.ORF",
+   "sha256": "edd6f928bc790c79852a17fce56718d26563c7a593894d22970ef0fdb86ba45f",
+   "p90_L": 84.35840154190788,
+   "stratum": "high",
+   "make": "Olympus",
+   "model": "TG-6",
+   "subject": "gravel path alongside wooden fence under clear sky",
+   "score": 2
+  }
+ ]
+}

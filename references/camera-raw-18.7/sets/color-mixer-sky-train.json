@@ -1,0 +1,194 @@
+{
+ "schema": 1,
+ "set": "color-mixer-sky-train",
+ "settings": [
+  "blue-hue-50",
+  "blue-hue+50",
+  "blue-sat-50",
+  "blue-sat+50",
+  "blue-lum-50",
+  "blue-lum+50"
+ ],
+ "photos": [
+  {
+   "raw": "raws/pixls/Leica/V-Lux 5/_1000200.RWL",
+   "sha256": "6540d067665a842d903d2c44ec101e6f95f65759d4754a94f38817d7a2fd72f4",
+   "p90_L": 0.003529896599236082,
+   "stratum": "low",
+   "make": "Leica",
+   "model": "V-Lux 5",
+   "subject": "full moon against a dark sky",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS 850D/IMG_1837.CR3",
+   "sha256": "47f7747b74073515bdbd65015738bc31947504d68255c5377baa21f179df2486",
+   "p90_L": 34.86673123208111,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS 850D",
+   "subject": "fairytale scene with magical creatures and horses",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Apple/iPhone XS/IMG_1105.dng",
+   "sha256": "50bc64ee8cfbbfb6c0531e29ab428ff985506a16fe2d1d2e74656f21b54505f6",
+   "p90_L": 66.23743602838603,
+   "stratum": "mid",
+   "make": "Apple",
+   "model": "iPhone XS",
+   "subject": "modern building facade with ivy and reflections",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Canon/PowerShot G7 X Mark II/IMG_0166.CR2",
+   "sha256": "b81acebf5ac49b0389c354942d128d9423fdd59ff92217554f232f94e3e87ef5",
+   "p90_L": 58.37516663705029,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "PowerShot G7 X Mark II",
+   "subject": "calm lake with algae-covered shoreline and distant hills",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/GFX 50S/20170525_0036TEST.RAF",
+   "sha256": "bb7c832430549029ddfc61224b97cc40a5149ec363e11c566a57de65d9582ec9",
+   "p90_L": 73.82251451658374,
+   "stratum": "mid",
+   "make": "Fujifilm",
+   "model": "GFX 50S",
+   "subject": "stacked shipping containers with boarded-up windows",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Leica/C-Lux/_1001076.RWL",
+   "sha256": "286106ec2df65539912709c64e84a9b94686443fe5ea05b8ebada76daa1feb2d",
+   "p90_L": 71.05190198204406,
+   "stratum": "mid",
+   "make": "Leica",
+   "model": "C-Lux",
+   "subject": "city skyline reflected in a river on a clear day",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/NIKON CORPORATION/NIKON Z5_2/Lossless_compression_1-1.NEF",
+   "sha256": "133d8a624f2d39769dec3cb9e7b9ae81971ae8787b5e8d0675bc6ecd27ddef4b",
+   "p90_L": 70.23765733226382,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "Z5_2",
+   "subject": "view from a quarry overlooking farmland and a village",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Olympus/E-M1X/P3240916.ORF",
+   "sha256": "ab171cedfe3a65438dd47c2df704a7d3001f45f5ab43e67b7f96cfe30b6ebbcf",
+   "p90_L": 73.71540726376253,
+   "stratum": "mid",
+   "make": "Olympus",
+   "model": "E-M1X",
+   "subject": "frozen lake at dusk with wooden pier",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-G90/PMAT0201.RW2",
+   "sha256": "41de770701618b7276871fd1566da08782bf1009977c5bea91c0cc300bb8ed65",
+   "p90_L": 62.67492132811666,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DC-G90",
+   "subject": "forested hills under a partly cloudy sky",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Apple/iPhone 7 Plus/IMG_0739.DNG",
+   "sha256": "e8c7ebd8f22f7281d165496b91c8fea8a8e79c8113172fb499e1d66d6045332e",
+   "p90_L": 78.32542395205516,
+   "stratum": "high",
+   "make": "Apple",
+   "model": "iPhone 7 Plus",
+   "subject": "aerial view of a green valley with scattered houses and clouds",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Canon/PowerShot G5 X Mark II/Canon_-_PowerShot_G5_X_Mark_II_-_RAW_(1:1).CR3",
+   "sha256": "13bc9926954dd62f2b84c1539428554754c078953c7af9baa5650cb85237aec8",
+   "p90_L": 92.76644753643757,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "PowerShot G5 X Mark II",
+   "subject": "a lakeside village seen through autumn trees",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/DJI/FC9287/DJI_20250528104510_0025_D.DNG",
+   "sha256": "901b7970f02f7197c782f111363feef02108f75811342d8cc4a2b66757bb7af0",
+   "p90_L": 90.44344241638767,
+   "stratum": "high",
+   "make": "DJI",
+   "model": "FC9287",
+   "subject": "suburban neighborhood with solar panels and distant buildings",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/XF10/DSCF6466.RAF",
+   "sha256": "0486676fdbbdc7f3f4c63cd45aa76581cbc1316f4c9baef8781bced0fbc137db",
+   "p90_L": 79.05712297626046,
+   "stratum": "high",
+   "make": "Fujifilm",
+   "model": "XF10",
+   "subject": "castle on a hill overlooking a waterfront",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Google/Pixel 4 XL/IMG_20191023_125156.dng",
+   "sha256": "0c03a6c93b4b8593cd0e4426166e6389710007238b82eb23861ef191322f0c54",
+   "p90_L": 85.23252275405812,
+   "stratum": "high",
+   "make": "Google",
+   "model": "Pixel 4 XL",
+   "subject": "roadside view with houses and autumn trees",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Leica/CL/L1080510_2018_CL-35-135-Chateau_Thy__Chateau_Ham.DNG",
+   "sha256": "1f4cfa565d176d85838d96bd3eb598bbeed719cac8acb9999d5823c527635950",
+   "p90_L": 87.85820882036465,
+   "stratum": "high",
+   "make": "Leica",
+   "model": "CL",
+   "subject": "stone castle in a green field under a partly cloudy sky",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Nikon/Z 50/DSC_0450.NEF",
+   "sha256": "5e93735923229117abee2779d81f114f180f361e8ae553c9dd9bdaaedb0d9e02",
+   "p90_L": 94.78218465983109,
+   "stratum": "high",
+   "make": "Nikon",
+   "model": "Z 50",
+   "subject": "green hill with city skyline in background",
+   "score": null
+  }
+ ],
+ "crs": {
+  "blue-hue-50": {
+   "HueAdjustmentBlue": "-50"
+  },
+  "blue-hue+50": {
+   "HueAdjustmentBlue": "+50"
+  },
+  "blue-sat-50": {
+   "SaturationAdjustmentBlue": "-50"
+  },
+  "blue-sat+50": {
+   "SaturationAdjustmentBlue": "+50"
+  },
+  "blue-lum-50": {
+   "LuminanceAdjustmentBlue": "-50"
+  },
+  "blue-lum+50": {
+   "LuminanceAdjustmentBlue": "+50"
+  }
+ }
+}

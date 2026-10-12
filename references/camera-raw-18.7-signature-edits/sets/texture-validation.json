@@ -1,0 +1,134 @@
+{
+ "schema": 1,
+ "set": "texture-validation",
+ "settings": [
+  "texture-100",
+  "texture-50",
+  "texture-25",
+  "texture+25",
+  "texture+50",
+  "texture+100"
+ ],
+ "photos": [
+  {
+   "raw": "raws/signature-edits/free raws from www.signatureedits.com - tag @signatureeditsco IMG_4924.cr2",
+   "sha256": "77c10c131210ac0bf53b6b5f40fcc106b9dd671a0f1df3b675b75f6e7157f30b",
+   "p90_L": 36.67824060434794,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS 1100D",
+   "subject": "portrait of a young woman wearing a beanie",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/IG_MuzeTheFuze_DuckPicture.NEF",
+   "sha256": "e1601cf98c4bd3d1eaf815573ab7c9f01b46d3341d5edf1437b773066fc7f83e",
+   "p90_L": 29.798595064459647,
+   "stratum": "low",
+   "make": "Nikon",
+   "model": "D7200",
+   "subject": "duck swimming in water with foliage",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/Copy of cvl5p6_adventurekid - from signatureedits.com.arw",
+   "sha256": "012aa6db443231a8b976a3489691298c7451514a5d17be5ace2ddbb55b825efc",
+   "p90_L": 37.775968556816046,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "SLT-A77V",
+   "subject": "person standing in a mossy forest",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco L7D_3458.dng",
+   "sha256": "8d31189cc8ae8deb366bb52545d76c6d85c753f2eaceadfe5703e162fd4e4dab",
+   "p90_L": 35.257719247869595,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS 7D",
+   "subject": "woman with curly hair and black lipstick",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/IMG_4525.cr2",
+   "sha256": "0fe2aa8ce3db9196aab1bbbda5f996eb9833e32ba048d7f31487f4dacef25305",
+   "p90_L": 57.80783548880318,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 750D",
+   "subject": "couple holding hands in a vineyard",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/M50R3197.dng",
+   "sha256": "ae83bb3ad7d71c3b80a247f514ffe316510dbc8fbbc0c1ec18bd429f743f4515",
+   "p90_L": 57.20962863505874,
+   "stratum": "mid",
+   "make": "Fujifilm",
+   "model": "GFX 50R",
+   "subject": "woman sitting in a vintage car",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits Free Raws - 1 (103).NEF",
+   "sha256": "3ee510044371f45dffaf78d77d76fbb59393fb01bc10ec5519e359bebddbcad0",
+   "p90_L": 61.98264216960476,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "D7200",
+   "subject": "young woman smiling while leaning against a wall",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/P1015288.dng",
+   "sha256": "1860202e66858d1087fe2049d420ac2068f21ea72fd46724a7ad5085deb50eec",
+   "p90_L": 62.25797321173595,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DC-S1",
+   "subject": "woman holding a pink skateboard indoors near a cactus",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/IMG_7495.CR2",
+   "sha256": "0ed65f1923b881cd09b07d73732ee9bf3b996a6302f6490ccd288cc89d4f7957",
+   "p90_L": 83.12550180892967,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS Rebel T7i",
+   "subject": "woman leaning against a brick wall in an urban setting",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/July_mReKo_002.DNG",
+   "sha256": "e5d9b5ba519f8abc0126d03fabe72508d4c3d8c5d45b22c1007ec0dce26160a4",
+   "p90_L": 88.35092438025104,
+   "stratum": "high",
+   "make": "Hasselblad",
+   "model": "L1D-20c",
+   "subject": "snow-capped mountain under a partly cloudy sky",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/ free raw files from signatureedits.com 1 (72).NEF",
+   "sha256": "0831fd4abfa6b5aae00963b04cc20a75462427c11d11c97e8a4d7ac9fed322cd",
+   "p90_L": 82.08327216391433,
+   "stratum": "high",
+   "make": "Nikon",
+   "model": "D7200",
+   "subject": "woman leaning against a wall",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/s signature edits raws free.dng",
+   "sha256": "2baf5c2ac6202028a50ddc1eded1feff02b859f14d20bd111e6877ab935a7f13",
+   "p90_L": 89.36353286095797,
+   "stratum": "high",
+   "make": "Panasonic",
+   "model": "DC-S1",
+   "subject": "desert landscape with red rock formations and sparse vegetation",
+   "score": 2
+  }
+ ]
+}

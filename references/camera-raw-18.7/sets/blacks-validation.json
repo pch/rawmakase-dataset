@@ -1,0 +1,94 @@
+{
+ "schema": 1,
+ "set": "blacks-validation",
+ "settings": [
+  "blacks-100",
+  "blacks-50",
+  "blacks-25",
+  "blacks+25",
+  "blacks+50",
+  "blacks+100"
+ ],
+ "photos": [
+  {
+   "raw": "raws/pixls/Canon/Canon EOS M200/_MG_2231.CR3",
+   "sha256": "9b900c04ae37ba827b7894e66907657a0b174a74855c40039a8ca0c95583f141",
+   "p90_L": 72.17529542892358,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS M200",
+   "subject": "city skyline viewed from a residential waterfront",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/GFX 50R/2019-01-24-14-02-50_DSCF1316_e819634e46ecdb8ea241012ee70ae11e5c220c48.raf",
+   "sha256": "9d0570010a36fda60823de10837c47b39d7693ad8a87e531c859cfe411e41172",
+   "p90_L": 71.69172849416752,
+   "stratum": "mid",
+   "make": "Fujifilm",
+   "model": "GFX 50R",
+   "subject": "San Francisco Ferry Building with Bay Bridge in background",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Olympus/E-PL9/EB000005.ORF",
+   "sha256": "22525e54442f52281d007b5e8a75a2c61f768856699cf5ed697d85e055f2cc4f",
+   "p90_L": 73.73384406303272,
+   "stratum": "mid",
+   "make": "Olympus",
+   "model": "E-PL9",
+   "subject": "trees against a clear blue sky",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-FZ10002/P1015595.RW2",
+   "sha256": "2af14516a1fb0a519af7f71bdfec9b40c8a16882b0277b4141d712d6a5a7e8a5",
+   "p90_L": 67.54393803335046,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DC-FZ10002",
+   "subject": "cartoonish cow statue with soccer ball",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-TZ96/TZ96-16:9.RW2",
+   "sha256": "5d8aaf06eab5df28c10ddaa4984f3d69c4bd21d5f373beaea2830644fb0e1dd9",
+   "p90_L": 85.75016171750963,
+   "stratum": "high",
+   "make": "Panasonic",
+   "model": "DC-TZ96",
+   "subject": "modern apartment complex with landscaped courtyard",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-TZ96/TZ96-4:3.RW2",
+   "sha256": "d4a5e8bfa291e3b596c397721a6a8f13a9936a0dc473802a7db7cc4d4e163b0c",
+   "p90_L": 83.44847181729457,
+   "stratum": "high",
+   "make": "Panasonic",
+   "model": "DC-TZ96",
+   "subject": "modern apartment complex with landscaped courtyard under clear sky",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Canon/Canon EOS M200/_MG_2233.CR3",
+   "sha256": "0585a468143c6606936d0ffbff1788c6c02e3610d8ecb50614e21492fbacd052",
+   "p90_L": 75.24732937356374,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS M200",
+   "subject": "residential waterfront with distant city skyline",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/FUJIFILM/X-E5/DSCF0202.RAF",
+   "sha256": "7595cf39268d2b026773fe5648f0d96c93a3781d0c73c90604e16866ae9fbf0e",
+   "p90_L": 83.94761386995346,
+   "stratum": "high",
+   "make": "Fujifilm",
+   "model": "X-E5",
+   "subject": "modern office tower with surrounding buildings under cloudy sky",
+   "score": 1
+  }
+ ]
+}

@@ -1,0 +1,224 @@
+{
+ "schema": 1,
+ "set": "contrast-train",
+ "settings": [
+  "contrast-100",
+  "contrast-50",
+  "contrast-25",
+  "contrast+25",
+  "contrast+50",
+  "contrast+100"
+ ],
+ "photos": [
+  {
+   "raw": "raws/signature-edits/APC_0031.DNG",
+   "sha256": "35aa4ca2f978f733aa784d68352453af7e61ee1b98b84a1a041c75294cdca962",
+   "p90_L": 16.775749126442584,
+   "stratum": "low",
+   "make": "Apple",
+   "model": "iPhone XS Max",
+   "subject": "woman in denim dress standing in front of a window",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/free raw from signature edits 2.dng",
+   "sha256": "07e8cfe35a42ce287e60027633436862845a9c76d5327e2576981bc759daf690",
+   "p90_L": 38.41550309106501,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS R",
+   "subject": "woman in profile against a dark red backdrop",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/tag @arwcoe - free raw files from signatureedits.com @arwcoe(3).NEF",
+   "sha256": "164f99961ef8df2e7ec3dc61503fb7a9ea05e2f821b4cc8057ab50a7bd4b8ba6",
+   "p90_L": 29.688070960576177,
+   "stratum": "low",
+   "make": "Nikon",
+   "model": "D810",
+   "subject": "elderly man with cane in formal attire",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/tag @ryanbreitkreutz - free raws from @signatureeditsco DSC01139.ARW",
+   "sha256": "160717d00fe688a8caf10f8d3284781c58d2b0c4945bc45765e50739a0fcdcb9",
+   "p90_L": 14.225469298849097,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "ILCE-7M4",
+   "subject": "silhouette of a person sitting by a window",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/IMG_0069.CR2",
+   "sha256": "5daffb31ab0aca5e2b7394dc58f52afa2b4839c364c71af8b8c5f2e7f6cdc0ef",
+   "p90_L": 38.773057707797804,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS 5D Mark III",
+   "subject": "mountain under a starry night sky",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits Free Raw Photos - DSC_2470.dng",
+   "sha256": "3fbc4422aa9523d7e1fc234996460ecc5a6a2458162f70bd91c0117d0d0b68a0",
+   "p90_L": 37.46964332892568,
+   "stratum": "low",
+   "make": "Nikon",
+   "model": "D800",
+   "subject": "woman lying on a rug surrounded by vinyl records",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/credit @ryanbreitkreutz signature edits free raw photos DSC01153.ARW",
+   "sha256": "5dee4eb2351133d6947bcd1a7c66d349172fd40c0baaf07f2212ee15627cb350",
+   "p90_L": 16.251516174879033,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "ILCE-7M3",
+   "subject": "person standing in a cave with a waterfall",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/APC_0144-2.DNG",
+   "sha256": "53a31861ada23c63234d51b4a6552f347cb18114b1300738530ae3c8c27100f6",
+   "p90_L": 52.54881108458819,
+   "stratum": "mid",
+   "make": "Apple",
+   "model": "iPhone XS Max",
+   "subject": "Aesop store window with tree shadows",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/IMG_7837-1kok_KMB.cr2",
+   "sha256": "02717156f67fdc7007758286e66d5ebd8f5af75ad2a748ab2365d61f1320fb02",
+   "p90_L": 74.3427873479507,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 6D",
+   "subject": "portrait of a woman with orange paint on her face",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/tag @alisalahphotographie - free raw photos from signatureedits.com.NEF",
+   "sha256": "0d5d71d87e6ec85e1a9f71340970f6598f0768584249edabc9df1c61a960a87d",
+   "p90_L": 52.42877499119663,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "D750",
+   "subject": "wedding couple posing outdoors",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/ig _snipeer.ARW",
+   "sha256": "039b4219fef7d4bba392b896ee77144cd3cd3c18c46a0cefe4195af1133bb829",
+   "p90_L": 51.84244299727681,
+   "stratum": "mid",
+   "make": "Sony",
+   "model": "ILCE-7M2",
+   "subject": "silhouette of a person walking past a reflected building at dusk",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/APC_0245-2.DNG",
+   "sha256": "a877e28229d29eb4b8c1c634eaa7bd9a6ee885067bf24bd95d8c02e01e69607b",
+   "p90_L": 69.02332224544276,
+   "stratum": "mid",
+   "make": "Apple",
+   "model": "iPhone XS Max",
+   "subject": "person walking down a sunlit urban street",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/Canon-6D-Shotkit-11.CR2",
+   "sha256": "0b4e66f1c648268544ae2506f2e0b9cdee085093666e47b16ce74ad97e61a744",
+   "p90_L": 65.59872991024392,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 6D",
+   "subject": "wedding couple sitting on a bench in a lush greenhouse",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/tag @arwcoe  _am1 tag @signatureeditsco - free raws from signatureedits.com.NEF",
+   "sha256": "18c5f9ff1e13bee096b8f46636a9ce1ae149209c21c3e877c50a2075fdeaeaa1",
+   "p90_L": 53.801586156845524,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "D810",
+   "subject": "man in sunglasses and suit standing in doorway",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/APC_0183.DNG",
+   "sha256": "24b352f71321a58ce74d61b02004c5b03d9769c730f309faffc8b7096fb4c7df",
+   "p90_L": 76.25619986918346,
+   "stratum": "high",
+   "make": "Apple",
+   "model": "iPhone XS Max",
+   "subject": "man sitting on a white building with tree shadows",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/IMG_2884.CR2",
+   "sha256": "06b4c6cc40925e024faaf4c5e5cf70b6e00eaf58d3dd9fec8cde9149de97a0aa",
+   "p90_L": 90.56112321399881,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS 6D",
+   "subject": "portrait of a woman with curly hair",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco - free raws from signatureedits.comDSC_3024.dng",
+   "sha256": "0518804d22d90b73ea237e01db03f151db6575520c5436edb9a80896f62b6917",
+   "p90_L": 92.42545819104068,
+   "stratum": "high",
+   "make": "Nikon",
+   "model": "D800E",
+   "subject": "portrait of a woman with curly hair",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/Tag @signatureeditsco LAR08325.ARW",
+   "sha256": "046f4b47d8152a73e9f791c46e9e9481128a2317e427122e24ab9ca2f4a8b9b7",
+   "p90_L": 81.33712252027524,
+   "stratum": "high",
+   "make": "Sony",
+   "model": "ILCE-7M3",
+   "subject": "giraffe head and neck against a bright blue sky",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/APC_1211.dng",
+   "sha256": "4989360a54d77ecb83c54f6a625153834530203e4ba72b95b1361f7e02847200",
+   "p90_L": 85.16915002098368,
+   "stratum": "high",
+   "make": "Apple",
+   "model": "iPhone XR",
+   "subject": "urban street at sunset with wet pavement and parked cars",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/ Signature Edits Free Raw Photos - By Tawny Horton - 5E0C9673.CR2",
+   "sha256": "06d079ce7ac9d38f9898818234a8704bd2f68e429c5253f709b8f087c4b4047b",
+   "p90_L": 83.24698609551098,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS 5D Mark III",
+   "subject": "woman in black dress and sunglasses standing in front of a building",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/tag @arwco  tag @signatureeditsco - free raws from signatureedits.com _m1.NEF",
+   "sha256": "146fa50ed0e5ff47282e0e2c2580a61fdbafbc8f28b1c8d0b539049953969129",
+   "p90_L": 76.63131751137603,
+   "stratum": "high",
+   "make": "Nikon",
+   "model": "D810",
+   "subject": "man in goggles and helmet standing on train tracks",
+   "score": 2
+  }
+ ]
+}

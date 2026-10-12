@@ -1,0 +1,94 @@
+{
+ "schema": 1,
+ "set": "dehaze-validation",
+ "settings": [
+  "dehaze-100",
+  "dehaze-50",
+  "dehaze-25",
+  "dehaze+25",
+  "dehaze+50",
+  "dehaze+100"
+ ],
+ "photos": [
+  {
+   "raw": "raws/pixls/Canon/EOS Rebel T100/IMG_7229.CR2",
+   "sha256": "b9fab78e2db2496abc2bd9aec3a3bee81ba2898c68212a468c17c47a7be1ab36",
+   "p90_L": 69.05603328177543,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS Rebel T100",
+   "subject": "coastal cityscape viewed from a cliff",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS Rebel T7i/20190925-1501-0421.cr2",
+   "sha256": "03fb55af71f384ada6b6aa0ca93279d48cf5fbd13651a323408d2fd97e1d1f7c",
+   "p90_L": 70.2815250024545,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS Rebel T7i",
+   "subject": "a yellow and pink plastic chair in a grassy field with trees",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DMC-ZS60/P1000290.RW2",
+   "sha256": "64b2a2e2abba6d26ede59f11d35a74e31e002aef569756771a297bbb3ad1d748",
+   "p90_L": 51.94536385969553,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DMC-ZS60",
+   "subject": "forest floor with tree stumps and moss",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS 80D/IMG_0097.CR2",
+   "sha256": "181cf35881cf967d025948694bc06d5e3e194ec371df3263ed26ec34909ffedb",
+   "p90_L": 73.56452698146948,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 80D",
+   "subject": "large tree with new leaves in front of brick buildings",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Canon/Canon EOS M200/_MG_2233.CR3",
+   "sha256": "0585a468143c6606936d0ffbff1788c6c02e3610d8ecb50614e21492fbacd052",
+   "p90_L": 75.24732937356374,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS M200",
+   "subject": "residential waterfront with distant city skyline",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/FUJIFILM/X-T30 III/DSCF0133.RAF",
+   "sha256": "1910b95422240f97781fa3296d67a56cc8f62de63144ac11cbf4267a11278042",
+   "p90_L": 81.09573295160197,
+   "stratum": "high",
+   "make": "Fujifilm",
+   "model": "X-T30 III",
+   "subject": "rock formation at sunset with parking lot in foreground",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DMC-G85/_1030984.RW2",
+   "sha256": "0140ae9708c333dd9fd518c936a14835aa41d2c7e79d8e0a3d03aec17aa8f37b",
+   "p90_L": 88.14762601879065,
+   "stratum": "high",
+   "make": "Panasonic",
+   "model": "DMC-G85",
+   "subject": "artichoke plants in a field at golden hour",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Sony/DSC-HX99/DSC00001.ARW",
+   "sha256": "0223d56b8c3af16e6f588b5340275c9bb30bed2cb5a5cafb0f3ffc7ef4da84e4",
+   "p90_L": 82.78396103362196,
+   "stratum": "high",
+   "make": "Sony",
+   "model": "DSC-HX99",
+   "subject": "river with bridge and city buildings",
+   "score": 1
+  }
+ ]
+}

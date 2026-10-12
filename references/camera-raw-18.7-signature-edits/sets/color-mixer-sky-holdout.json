@@ -1,0 +1,154 @@
+{
+ "schema": 1,
+ "set": "color-mixer-sky-holdout",
+ "settings": [
+  "blue-hue-50",
+  "blue-hue+50",
+  "blue-sat-50",
+  "blue-sat+50",
+  "blue-lum-50",
+  "blue-lum+50"
+ ],
+ "photos": [
+  {
+   "raw": "raws/signature-edits/PANA8679.RW2",
+   "sha256": "dc5361099bd205a7bcc82868766098fdcd37774d4f754f3c298edcf06b78f6c4",
+   "p90_L": 36.938062562568895,
+   "stratum": "low",
+   "make": "Panasonic",
+   "model": "DC-GH5",
+   "subject": "two people watching a sunset over rocky coastline",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/DSC00086.ARW",
+   "sha256": "196c168ab39369c031638ecf1705d85a55af43bfe370e6a8006719c6344db936",
+   "p90_L": 15.994231273907769,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "ILCE-7RM2",
+   "subject": "star-filled night sky over a lake with silhouetted trees and mountains",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/NightPhotosMadeEasy-32.ARW",
+   "sha256": "6f64785e8a638035dec2777207b3cec83eaf3ba2ce65aa98c081c7a802fcbf27",
+   "p90_L": 29.646409051377674,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "ILCE-7RM4",
+   "subject": "illuminated cable-stayed bridge over a river at night",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/DSC00092.ARW",
+   "sha256": "d647f15f3993715724c22e84358ea16ed8750923862d1094268bca309f0f19de",
+   "p90_L": 31.508068302460586,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "ILCE-7RM2",
+   "subject": "star-filled night sky over a lake and snow-capped mountain",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/IMG_9087.CR2",
+   "sha256": "1ce800437163d6cb3e0b3bc46a4316ab932768402ba2a0cf82af27e9e4ecd39c",
+   "p90_L": 73.42840519982477,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 1200D",
+   "subject": "pink building viewed from between stone and beige walls",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/inst = m.n_photo.graphy.NEF",
+   "sha256": "1134c087495d6891326d6883ef5a17e10520175de914410e78fb1b3b4f81eec9",
+   "p90_L": 60.08158875681859,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "D3200",
+   "subject": "rainbow-colored skulls mounted on a wall",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - PANA1176.RW2",
+   "sha256": "15dca5746677bd53fcd7bf70651834852c1e7211a062162ba2ab64fc3b7d8ca3",
+   "p90_L": 68.88005044102061,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DC-GH5",
+   "subject": "Joshua tree silhouettes against twilight sky",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco DSC00121.ARW",
+   "sha256": "0a673d1908b1d03986ddeeb4a764a9656be927a3659a89879b5c8bccca131fb6",
+   "p90_L": 74.4706006515353,
+   "stratum": "mid",
+   "make": "Sony",
+   "model": "ILCE-7S",
+   "subject": "historic town square with people and old buildings",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/M4_24117.CR2",
+   "sha256": "170aa36db600207d4d37b7c14b835cb876cc414968a504160b3e9b5bb6bf5460",
+   "p90_L": 90.78639714403866,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS 5D Mark IV",
+   "subject": "bride with floral crown overlooking a lake",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/free raw from @signatureeditsco - DSC_0541.nef",
+   "sha256": "3af8f9eb437fda6f5d861387219aee0d98c5c3342c0f9488a62bf43fa19ffcae",
+   "p90_L": 92.69319978597481,
+   "stratum": "high",
+   "make": "Nikon",
+   "model": "D5100",
+   "subject": "young woman wearing a hooded jacket outdoors",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/P1061136.dng",
+   "sha256": "1c0383f0966a73d2600b371a58427516e26cfb094276f90cd246042e6ce0a7fd",
+   "p90_L": 84.32988665867738,
+   "stratum": "high",
+   "make": "Panasonic",
+   "model": "DC-S5",
+   "subject": "person in bright jacket sitting on mountain ridge overlooking valleys",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco DSC02439.ARW",
+   "sha256": "37ebfa80ff6981a25861db0e2e00a6138c1a067966ef70e0ed8899bf4b849099",
+   "p90_L": 94.73281007983987,
+   "stratum": "high",
+   "make": "Sony",
+   "model": "ILCE-7SM3",
+   "subject": "couple wrapped in a colorful blanket in a grassy field",
+   "score": null
+  }
+ ],
+ "crs": {
+  "blue-hue-50": {
+   "HueAdjustmentBlue": "-50"
+  },
+  "blue-hue+50": {
+   "HueAdjustmentBlue": "+50"
+  },
+  "blue-sat-50": {
+   "SaturationAdjustmentBlue": "-50"
+  },
+  "blue-sat+50": {
+   "SaturationAdjustmentBlue": "+50"
+  },
+  "blue-lum-50": {
+   "LuminanceAdjustmentBlue": "-50"
+  },
+  "blue-lum+50": {
+   "LuminanceAdjustmentBlue": "+50"
+  }
+ }
+}

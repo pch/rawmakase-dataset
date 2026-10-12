@@ -1,0 +1,1065 @@
+{
+ "schema": 1,
+ "camera_raw": "18.7",
+ "set": "contrast-train",
+ "photos": [
+  {
+   "raw": "raws/pixls/Leica/V-Lux 5/_1000200.RWL",
+   "sha256": "6540d067665a842d903d2c44ec101e6f95f65759d4754a94f38817d7a2fd72f4",
+   "p90_L": 0.003529896599236082,
+   "stratum": "low",
+   "make": "Leica",
+   "model": "V-Lux 5",
+   "subject": "full moon against a dark sky",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS 850D/IMG_1837.CR3",
+   "sha256": "47f7747b74073515bdbd65015738bc31947504d68255c5377baa21f179df2486",
+   "p90_L": 34.86673123208111,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS 850D",
+   "subject": "fairytale scene with magical creatures and horses",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Apple/iPhone XS/IMG_1105.dng",
+   "sha256": "50bc64ee8cfbbfb6c0531e29ab428ff985506a16fe2d1d2e74656f21b54505f6",
+   "p90_L": 66.23743602838603,
+   "stratum": "mid",
+   "make": "Apple",
+   "model": "iPhone XS",
+   "subject": "modern building facade with ivy and reflections",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Canon/PowerShot G1 X Mark III/20180719T101829IMG_0246.CR2",
+   "sha256": "ca052ed025432fdacfba7347cb4374fa3b727155912a91c42ed9a275d13bedf5",
+   "p90_L": 70.62433843630569,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "PowerShot G1 X Mark III",
+   "subject": "arched window with brickwork and red metal bars",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Leica/C-Lux/_1001076.RWL",
+   "sha256": "286106ec2df65539912709c64e84a9b94686443fe5ea05b8ebada76daa1feb2d",
+   "p90_L": 71.05190198204406,
+   "stratum": "mid",
+   "make": "Leica",
+   "model": "C-Lux",
+   "subject": "city skyline reflected in a river on a clear day",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Nikon/Z fc/_DSC0070.nef",
+   "sha256": "e4cabbeaf818eaa77719158ca2f480fbbf413e694f3714b44f01d588bc7a9863",
+   "p90_L": 61.45024677395087,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "Z fc",
+   "subject": "pink and purple geranium flowers with green foliage",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Olympus/E-M1X/P3240916.ORF",
+   "sha256": "ab171cedfe3a65438dd47c2df704a7d3001f45f5ab43e67b7f96cfe30b6ebbcf",
+   "p90_L": 73.71540726376253,
+   "stratum": "mid",
+   "make": "Olympus",
+   "model": "E-M1X",
+   "subject": "frozen lake at dusk with wooden pier",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-GH6/4-3.RW2",
+   "sha256": "07996bca904a178d02c5f56ee03a8dce775a0e1150c1beeaec51d72ff5e700d0",
+   "p90_L": 65.37285622457964,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DC-GH6",
+   "subject": "stone sculpture of a seated figure in a garden",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Pentax/K-1 Mark II/_K1I9779.DNG",
+   "sha256": "05b0ecfeddfdf404b5a5831763c3aa77bbf9f5b7b9ad502bb93ff5d68887b9e7",
+   "p90_L": 71.68180638205727,
+   "stratum": "mid",
+   "make": "Pentax",
+   "model": "K-1 Mark II",
+   "subject": "bare tree in a grassy field with evergreens in background",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Canon/PowerShot G5 X Mark II/Canon_-_PowerShot_G5_X_Mark_II_-_RAW_(1:1).CR3",
+   "sha256": "13bc9926954dd62f2b84c1539428554754c078953c7af9baa5650cb85237aec8",
+   "p90_L": 92.76644753643757,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "PowerShot G5 X Mark II",
+   "subject": "a lakeside village seen through autumn trees",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-T100/DSCF0627.RAF",
+   "sha256": "0af086b9569b59317da42b8e136013245486073b6b8d409fc997a71788538c4d",
+   "p90_L": 77.49236513874357,
+   "stratum": "high",
+   "make": "Fujifilm",
+   "model": "X-T100",
+   "subject": "paved path through grassy field with trees under clear sky",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Google/Pixel 6 Pro/PXL_20220910_093206982.dng",
+   "sha256": "3a859e917a91698a3e15ce3b3721a48a1fb1296873e0697d3bf7c2793297200d",
+   "p90_L": 86.47112186784209,
+   "stratum": "high",
+   "make": "Google",
+   "model": "Pixel 6 Pro",
+   "subject": "mountain village nestled in a valley with a lake in the distance",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Hasselblad/L2D-20c/DJI_0023.DNG",
+   "sha256": "dbe98cb202f884ff11e0144899613b26d33cf9cddd9f1a62226f4352397f18e4",
+   "p90_L": 89.73176092937037,
+   "stratum": "high",
+   "make": "Hasselblad",
+   "model": "L2D-20c",
+   "subject": "beach scene with swimmers and coastal houses",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Leica/D-Lux 7/L1023208.RWL",
+   "sha256": "4f6db6492da83f7f2a5012591e370557249d1ed44d4c948784016605b799327c",
+   "p90_L": 81.52160493887374,
+   "stratum": "high",
+   "make": "Leica",
+   "model": "D-Lux 7",
+   "subject": "large rust-colored metal ring sculpture in front of classical building",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/NIKON CORPORATION/NIKON Z fc/Nikon_Z_fc_14bit.NEF",
+   "sha256": "038995c5108899cfa3f54d99364752fe761bb0accb8b26a21ac274d107a85d05",
+   "p90_L": 75.8937142607546,
+   "stratum": "high",
+   "make": "Nikon",
+   "model": "Z fc",
+   "subject": "garden tools and containers against a wooden fence",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/OM Digital Solutions/OM-5MarkII/OM_System_OM-5_2_regular.ORF",
+   "sha256": "c6fe861982ddc18464cf6858d2700f6813cc3a17956bcb12d1179212c999c76a",
+   "p90_L": 84.92070532365615,
+   "stratum": "high",
+   "make": "OM System",
+   "model": "OM-5 Mark II",
+   "subject": "green hillside overlooking a distant town under a partly cloudy sky",
+   "score": 2
+  }
+ ],
+ "cases": [
+  {
+   "photo": 0,
+   "name": "default",
+   "reference": "references/0-default.tif",
+   "reference_sha256": "c03218b2d9230c3a23ad59755b9315b8fbcaad85344676980af6991844617758",
+   "xmp": "references/0-default.xmp",
+   "xmp_sha256": "4fc873e824996bcc94af795534428e8125d5b66801218c4460eaa0a821d33123"
+  },
+  {
+   "photo": 0,
+   "name": "contrast-100",
+   "reference": "references/0-contrast-100.tif",
+   "reference_sha256": "355a5f49c89108c3e124f2014f8b4e39cc1dcb5a963a75f1e6c866bc1bea85aa",
+   "xmp": "references/0-contrast-100.xmp",
+   "xmp_sha256": "99818d17bad798e7e225b0c27d7cf82100cf1e502dcd9a273729ce3d12e6b731"
+  },
+  {
+   "photo": 0,
+   "name": "contrast-50",
+   "reference": "references/0-contrast-50.tif",
+   "reference_sha256": "b4d87aa6f2123d654872f06dee0151af4e99e073327eebd20e657f566e7e79fb",
+   "xmp": "references/0-contrast-50.xmp",
+   "xmp_sha256": "8d50f5f212883b78a3c0282e3aff284804893c3883322ddb07981b6af9be8899"
+  },
+  {
+   "photo": 0,
+   "name": "contrast-25",
+   "reference": "references/0-contrast-25.tif",
+   "reference_sha256": "b43d180f47bc0017b4bb82472c9d9fd3f7a34d046f48cba367234953f203f434",
+   "xmp": "references/0-contrast-25.xmp",
+   "xmp_sha256": "dc47c5a001cd5c6ec226ee9db620a4bdbfef9b7df6427a4f599a8c00a192849d"
+  },
+  {
+   "photo": 0,
+   "name": "contrast+25",
+   "reference": "references/0-contrast+25.tif",
+   "reference_sha256": "81b896aab186c47a713f31a9d48d1a0790fa38a9375de6895f92c64ce5c905e2",
+   "xmp": "references/0-contrast+25.xmp",
+   "xmp_sha256": "53b0efc0dfd97526f4e9b9191d413812a1c1c748e9ff2d03700613abfe4b14d2"
+  },
+  {
+   "photo": 0,
+   "name": "contrast+50",
+   "reference": "references/0-contrast+50.tif",
+   "reference_sha256": "a0ce2340c6a98aacbe7ef8f78e32fb365e7972aff0da129ebf23b1763074728e",
+   "xmp": "references/0-contrast+50.xmp",
+   "xmp_sha256": "fdfb878bee48009a46f581d33fc311093ba0d204008069b1cddd89cf10bbb49a"
+  },
+  {
+   "photo": 0,
+   "name": "contrast+100",
+   "reference": "references/0-contrast+100.tif",
+   "reference_sha256": "b8e2e4d82c4187409e1e579720e8fe6257f2f863ebefcbf674b8009c102e2e4e",
+   "xmp": "references/0-contrast+100.xmp",
+   "xmp_sha256": "a4b7261f2b6dce1a36c9f98fad110fc9d15a853148a00b4c4b1b67d6514cc3c7"
+  },
+  {
+   "photo": 1,
+   "name": "default",
+   "reference": "references/1-default.tif",
+   "reference_sha256": "adc51b5dd795612eb0107655f2ea6fa193f36c2c103ffdea75d1ecad517588fd",
+   "xmp": "references/1-default.xmp",
+   "xmp_sha256": "829a5b2a7bec41fd88ad60eb508ffa5c903b74894c3627855556341d6716b63f"
+  },
+  {
+   "photo": 1,
+   "name": "contrast-100",
+   "reference": "references/1-contrast-100.tif",
+   "reference_sha256": "34664d167fae682f15ee01e6f795b609a2d74537e8f12f9b293a0a51688961ab",
+   "xmp": "references/1-contrast-100.xmp",
+   "xmp_sha256": "d34f5e766dc8f936b45c9089da7a32ffd4f8d888b4b1bcc9bb1f21691503d525"
+  },
+  {
+   "photo": 1,
+   "name": "contrast-50",
+   "reference": "references/1-contrast-50.tif",
+   "reference_sha256": "77cd3693d08972585b647a493f9386cff7908c8be5b767b34b7937895474206b",
+   "xmp": "references/1-contrast-50.xmp",
+   "xmp_sha256": "4ef4fd32ed42b86a8083064958527a66a749ce81946eaf0308665b0e79ac440e"
+  },
+  {
+   "photo": 1,
+   "name": "contrast-25",
+   "reference": "references/1-contrast-25.tif",
+   "reference_sha256": "cb3fadc6d6dfc8f0d44f8e86f0b80652947cb5a3d48b2ff3f11f0ab6104b87ce",
+   "xmp": "references/1-contrast-25.xmp",
+   "xmp_sha256": "c2d4c152ac8027dc89f24db764ca67cf8715224575f159e1004311a0298322c4"
+  },
+  {
+   "photo": 1,
+   "name": "contrast+25",
+   "reference": "references/1-contrast+25.tif",
+   "reference_sha256": "1191cb9dd5782405f1decfb07ce43c173a131d3bafe192064592a1958a6e1b65",
+   "xmp": "references/1-contrast+25.xmp",
+   "xmp_sha256": "6f38f1573d7685e26c6dfc3b63e52c7836814a0f532bd7f8ae2286d1485b8528"
+  },
+  {
+   "photo": 1,
+   "name": "contrast+50",
+   "reference": "references/1-contrast+50.tif",
+   "reference_sha256": "97d2b52d741e7cc2a6cfcab1eafa895784eb18550a8e50d08950f052460fd55b",
+   "xmp": "references/1-contrast+50.xmp",
+   "xmp_sha256": "021eb33337a7e20dce2763ff3597735cbe3813c8a24aaa7063b99d1e57e60c81"
+  },
+  {
+   "photo": 1,
+   "name": "contrast+100",
+   "reference": "references/1-contrast+100.tif",
+   "reference_sha256": "647bd366cf1267326e326248331dfef8d6acc72ee1730ba65fbb225a6377202c",
+   "xmp": "references/1-contrast+100.xmp",
+   "xmp_sha256": "21b0908ee9b5d02b810678787fc81a2586ee2731732786a6fb4bb228085e62ed"
+  },
+  {
+   "photo": 2,
+   "name": "default",
+   "reference": "references/2-default.tif",
+   "reference_sha256": "a4f95a2c56c13c94c04c22f54c62c343defaf47b879df9a110db6a5c14c2c817",
+   "xmp": "references/2-default.xmp",
+   "xmp_sha256": "dd33851bdf8aa2a790d449235e735a042cfc14cb09b190e81587c9fd7b4d0852"
+  },
+  {
+   "photo": 2,
+   "name": "contrast-100",
+   "reference": "references/2-contrast-100.tif",
+   "reference_sha256": "e66ca5f987ec3413681dcdcf8dd82763f9ffead7e827c77b29f858219d5f1b44",
+   "xmp": "references/2-contrast-100.xmp",
+   "xmp_sha256": "343441315ff74ff26b532ed3ed187c9387962386e41b302092ccf9f7bc67b7c6"
+  },
+  {
+   "photo": 2,
+   "name": "contrast-50",
+   "reference": "references/2-contrast-50.tif",
+   "reference_sha256": "0ccc31bee1c5af16ce7e75538b51216b0eb6faddf66390aaaa79a7185c38623a",
+   "xmp": "references/2-contrast-50.xmp",
+   "xmp_sha256": "4d0ea4296f04397b36308fde88679e7edab17e7cd600c8750cb17496e9e97fa7"
+  },
+  {
+   "photo": 2,
+   "name": "contrast-25",
+   "reference": "references/2-contrast-25.tif",
+   "reference_sha256": "3702070662951ef1ca4e3a5241437a71fa9641ee423cf343d18cf71e9740bb0d",
+   "xmp": "references/2-contrast-25.xmp",
+   "xmp_sha256": "75b7c142e47d26dfb4ad3e01fa4753de23f827cef717edc343cfe7463fd68999"
+  },
+  {
+   "photo": 2,
+   "name": "contrast+25",
+   "reference": "references/2-contrast+25.tif",
+   "reference_sha256": "6e318af19ba6f1be33ebb28c6108cc5f0d1078b33ca69bc59bec84f95c06e4f2",
+   "xmp": "references/2-contrast+25.xmp",
+   "xmp_sha256": "678879be2aeb9547e5a9fe06036fa66d1c6f218fbcf5b9693718aabf04604528"
+  },
+  {
+   "photo": 2,
+   "name": "contrast+50",
+   "reference": "references/2-contrast+50.tif",
+   "reference_sha256": "e16f903599a075cfb4f9693dadcc61d8bccd6cc7b1fb2ddde5b87ae5c06ab5af",
+   "xmp": "references/2-contrast+50.xmp",
+   "xmp_sha256": "2fc98b5cecfaec3845d7bfd777ceaf7d8f087ecbd04d4fda6b1ee7067a5c5a74"
+  },
+  {
+   "photo": 2,
+   "name": "contrast+100",
+   "reference": "references/2-contrast+100.tif",
+   "reference_sha256": "38920df4689d6d54c76248185d6c8528d4b5e7f30177d52e6d3edb508d7dd7b6",
+   "xmp": "references/2-contrast+100.xmp",
+   "xmp_sha256": "4067b6613c2de3dea1e068c01c0a718e1d05b59f715d1924d6cca041a1c07d9c"
+  },
+  {
+   "photo": 3,
+   "name": "default",
+   "reference": "references/3-default.tif",
+   "reference_sha256": "b27c0c70459b78dd43ac50a229d84c0b4964cad762e2be2bf9c837ac8b2aeda2",
+   "xmp": "references/3-default.xmp",
+   "xmp_sha256": "e6eb5cddffc88e3ab324e582aedc953443d24a6248460355a986a6b3d39d3d07"
+  },
+  {
+   "photo": 3,
+   "name": "contrast-100",
+   "reference": "references/3-contrast-100.tif",
+   "reference_sha256": "ade0d2a42601d86c512b90a5ed7c2e6ab0a03c1db129f749b95139b522510073",
+   "xmp": "references/3-contrast-100.xmp",
+   "xmp_sha256": "0338529507ebdf1b0855196ba47f5eb70c44fe8631ed3fb5a3a6e1ebbbe64a0a"
+  },
+  {
+   "photo": 3,
+   "name": "contrast-50",
+   "reference": "references/3-contrast-50.tif",
+   "reference_sha256": "c2868d1b91ff457659991f71dbfa0ecd4a5d841ae096da6e88ed4ae16ca3c2ca",
+   "xmp": "references/3-contrast-50.xmp",
+   "xmp_sha256": "8083b8fcd8e174be49c9213cc7860486ce628475165aaac9999b0157e6ba0f95"
+  },
+  {
+   "photo": 3,
+   "name": "contrast-25",
+   "reference": "references/3-contrast-25.tif",
+   "reference_sha256": "1cb3aa6c1e21936640c2db73b41515f112232609b02a8664a3861f827cfe0246",
+   "xmp": "references/3-contrast-25.xmp",
+   "xmp_sha256": "8f08b22e047e7fb0a7cf6a2cc1ae60b74e560186ce1a1bc05059d2d7ec844b84"
+  },
+  {
+   "photo": 3,
+   "name": "contrast+25",
+   "reference": "references/3-contrast+25.tif",
+   "reference_sha256": "34c9a925d25012fc7ba4582e4921d74eaf7a48fe3f41ae7fdae8ef58b4203d72",
+   "xmp": "references/3-contrast+25.xmp",
+   "xmp_sha256": "41bb3116fe95c21a98941734c4708d472ee332630bc6149368906061cfdd9076"
+  },
+  {
+   "photo": 3,
+   "name": "contrast+50",
+   "reference": "references/3-contrast+50.tif",
+   "reference_sha256": "5192ddbaf98793c8c7d5d183d324b181e8e5f2ff316429704b9f2131827e02c6",
+   "xmp": "references/3-contrast+50.xmp",
+   "xmp_sha256": "04a8020e5850567885b41cf0f02c6beb9adf9e51916a28ad6b3c5613c51a9fed"
+  },
+  {
+   "photo": 3,
+   "name": "contrast+100",
+   "reference": "references/3-contrast+100.tif",
+   "reference_sha256": "4ef66c5e3309c232c5e13b5a71a22bc388a3451123e00fc5bd881a1b1691e0e0",
+   "xmp": "references/3-contrast+100.xmp",
+   "xmp_sha256": "828f5a905565fc5955d725d868bd6f8cacbfdd592604b307c80f67d3021e2190"
+  },
+  {
+   "photo": 4,
+   "name": "default",
+   "reference": "references/4-default.tif",
+   "reference_sha256": "fe18e5b65ce68576c504313fe2b392a39ffc74b71098bfc2d0a238db9187e9f8",
+   "xmp": "references/4-default.xmp",
+   "xmp_sha256": "b5adf002b86975efded857876255f722a927cb9c6547958a1ebb0474bba80357"
+  },
+  {
+   "photo": 4,
+   "name": "contrast-100",
+   "reference": "references/4-contrast-100.tif",
+   "reference_sha256": "f8a6a538aa438aae00f61044c60f6e4af7983eaa310afa35c85d7aa6e10d7e91",
+   "xmp": "references/4-contrast-100.xmp",
+   "xmp_sha256": "0dae8e36257b8724c74b5c2d950e40186330475d0dd192ca3754a4cb29736001"
+  },
+  {
+   "photo": 4,
+   "name": "contrast-50",
+   "reference": "references/4-contrast-50.tif",
+   "reference_sha256": "3d151a5e45930663d0213d834cd539e7534cfdb98f63aa04e0354e134e054944",
+   "xmp": "references/4-contrast-50.xmp",
+   "xmp_sha256": "b6290b933a6051599c47fc172ceac629d146f419f4c803d0da5f6ca5a538eee0"
+  },
+  {
+   "photo": 4,
+   "name": "contrast-25",
+   "reference": "references/4-contrast-25.tif",
+   "reference_sha256": "c482592efa1de74594a60f5356bf1c55e99937da528c8f22db8069e1b6d73228",
+   "xmp": "references/4-contrast-25.xmp",
+   "xmp_sha256": "049943a9f3a456813c227d484442e1d6d1f8acd544357453fcbea6b996619346"
+  },
+  {
+   "photo": 4,
+   "name": "contrast+25",
+   "reference": "references/4-contrast+25.tif",
+   "reference_sha256": "84fbfeb06867a11a841ab0d2ac117d714c0c68745baf5c349b23ce4ce0be5a9c",
+   "xmp": "references/4-contrast+25.xmp",
+   "xmp_sha256": "47c8d763d847a1dbdaaed5caba00ec4e73d05fc4016c7263c6d4e0d90011e869"
+  },
+  {
+   "photo": 4,
+   "name": "contrast+50",
+   "reference": "references/4-contrast+50.tif",
+   "reference_sha256": "567a3ccde2e932613566b009f13bf678b00cb0bd2b8c9f72b9657a21ee022bbb",
+   "xmp": "references/4-contrast+50.xmp",
+   "xmp_sha256": "26eecbd4db5bfc51657e613e2fa01a6d43f2c5512b283f80f8564014d0af6038"
+  },
+  {
+   "photo": 4,
+   "name": "contrast+100",
+   "reference": "references/4-contrast+100.tif",
+   "reference_sha256": "627ac42e34d925d12ef7d14783a06348ac48b3185eddeb5fc6a591d63fd5a6ad",
+   "xmp": "references/4-contrast+100.xmp",
+   "xmp_sha256": "07ee94d6dbe0381493f3dfc780891573543cde7e3c2627736856d0cc4e304b43"
+  },
+  {
+   "photo": 5,
+   "name": "default",
+   "reference": "references/5-default.tif",
+   "reference_sha256": "8fe6ec7ff66cd60100954b30f89422552033de6b74a28cb596493ae83f0993aa",
+   "xmp": "references/5-default.xmp",
+   "xmp_sha256": "bddbafdee2cc0437e53a40ed498de5ce8f501ea297e4974f88b51e1afeea7342"
+  },
+  {
+   "photo": 5,
+   "name": "contrast-100",
+   "reference": "references/5-contrast-100.tif",
+   "reference_sha256": "5b9618ee52320355d0797651807fafab6572a279ab7ad26f92f97d18d436e2d9",
+   "xmp": "references/5-contrast-100.xmp",
+   "xmp_sha256": "294a8c2a1aaee86dbe387cd52c51d5993d6b6301c183526e54bb1786e190d71d"
+  },
+  {
+   "photo": 5,
+   "name": "contrast-50",
+   "reference": "references/5-contrast-50.tif",
+   "reference_sha256": "1743f58cce3ebd15719e1ae2cc7086036110a09445d2c56f5165d4b17fe715bf",
+   "xmp": "references/5-contrast-50.xmp",
+   "xmp_sha256": "25ad24d0bc1dbe80a27bbefa815f4609509e516c7fbe838c35521002d78d96f0"
+  },
+  {
+   "photo": 5,
+   "name": "contrast-25",
+   "reference": "references/5-contrast-25.tif",
+   "reference_sha256": "2710d736224128b974286bea4b28f824785ada5c9e122d795a0427426a322557",
+   "xmp": "references/5-contrast-25.xmp",
+   "xmp_sha256": "d60c573b544200d98dba7843ff6e0a35790eb354c98f1dc993304efd850aef37"
+  },
+  {
+   "photo": 5,
+   "name": "contrast+25",
+   "reference": "references/5-contrast+25.tif",
+   "reference_sha256": "fdc7e0d0a1a6be6123af330b40ed8eba56ca93be810a5004fb1bc19c8e23e819",
+   "xmp": "references/5-contrast+25.xmp",
+   "xmp_sha256": "6a400b80ab88fc7cec777d7a1a5294bac7f09324c5d5a878344dcffabedf98f2"
+  },
+  {
+   "photo": 5,
+   "name": "contrast+50",
+   "reference": "references/5-contrast+50.tif",
+   "reference_sha256": "ee08b463ed0d640153ef78f412092185bbe4f8d04ea590a665c0e9a4ef059f2c",
+   "xmp": "references/5-contrast+50.xmp",
+   "xmp_sha256": "f70c5aca457200643c180117b0abcfacb899953b35bd3d8715538c8fbb9db442"
+  },
+  {
+   "photo": 5,
+   "name": "contrast+100",
+   "reference": "references/5-contrast+100.tif",
+   "reference_sha256": "7c335e2a303f3c9cd2651782901bf37b44d1347e25a286fc6af6eb5d1f2dacf8",
+   "xmp": "references/5-contrast+100.xmp",
+   "xmp_sha256": "810af717a3dbe7434f44af15ff69bb95f0224ed419b5f25dc63c99865f231c09"
+  },
+  {
+   "photo": 6,
+   "name": "default",
+   "reference": "references/6-default.tif",
+   "reference_sha256": "284bcdd5f125a915b876aced0cfe86c9310a600b1562a484fdecdd6149c2d45f",
+   "xmp": "references/6-default.xmp",
+   "xmp_sha256": "7295beb074afb3fb7f621b9747431e6cfe56552fae007c76251adf6e2d9b71ef"
+  },
+  {
+   "photo": 6,
+   "name": "contrast-100",
+   "reference": "references/6-contrast-100.tif",
+   "reference_sha256": "a1def7d94ba4b865d0edee8f30ddbc12ae144ed28cadfc9226c856971578ae8f",
+   "xmp": "references/6-contrast-100.xmp",
+   "xmp_sha256": "c6f43dd769982e9880c8fd98f2cbe89bffb201af7aebbbdaabbf8211cec7dc91"
+  },
+  {
+   "photo": 6,
+   "name": "contrast-50",
+   "reference": "references/6-contrast-50.tif",
+   "reference_sha256": "2837af4b1a923a972b4a392857103438b8ca57686d505bad0d396589f6d1fee8",
+   "xmp": "references/6-contrast-50.xmp",
+   "xmp_sha256": "4c35171580fd1cf7e48d30d8331a454913a5a56ce383d9b41e5bcc4c6c4ffac0"
+  },
+  {
+   "photo": 6,
+   "name": "contrast-25",
+   "reference": "references/6-contrast-25.tif",
+   "reference_sha256": "48df39d59411000f11ee9861b3a8867ccbaf61a7ef6bdc4cb719dc0c01c7e355",
+   "xmp": "references/6-contrast-25.xmp",
+   "xmp_sha256": "09732c725ba22302a1dabf1426b337380284abebeea25dd40329a5e2711eac9f"
+  },
+  {
+   "photo": 6,
+   "name": "contrast+25",
+   "reference": "references/6-contrast+25.tif",
+   "reference_sha256": "5ad43908be810400a54334e278137fb75032f194eff912129a58bba9362aa44a",
+   "xmp": "references/6-contrast+25.xmp",
+   "xmp_sha256": "ffe95e91322ea05a2f639c3b4a498c62e8f0c61021f98b620da4e43666892dc3"
+  },
+  {
+   "photo": 6,
+   "name": "contrast+50",
+   "reference": "references/6-contrast+50.tif",
+   "reference_sha256": "8e81ee498b16a600a5256c77033cc7d2b0694c46be1a41c14ca5a165c6c0e108",
+   "xmp": "references/6-contrast+50.xmp",
+   "xmp_sha256": "a9dd6c3ba4404dbd246b00bd025f0ecd9c42e74620dae4a6f524985c58570c51"
+  },
+  {
+   "photo": 6,
+   "name": "contrast+100",
+   "reference": "references/6-contrast+100.tif",
+   "reference_sha256": "0f26cc959b91be8917d60a5694c959549536926f3a29ce5df5a8424a06bc051b",
+   "xmp": "references/6-contrast+100.xmp",
+   "xmp_sha256": "fe6c0a55011f6d3970032b71ec0e26681e6f803859257516e71ad70cb3054d33"
+  },
+  {
+   "photo": 7,
+   "name": "default",
+   "reference": "references/7-default.tif",
+   "reference_sha256": "6c2229b73ca3ae89f88ccfce2f330abe8fead640bbf8523277057c1bb73d1ca5",
+   "xmp": "references/7-default.xmp",
+   "xmp_sha256": "88e22b8aa4b413a885efdd3659a0d268d7228be6ba26f3db42524f7b01a06ef2"
+  },
+  {
+   "photo": 7,
+   "name": "contrast-100",
+   "reference": "references/7-contrast-100.tif",
+   "reference_sha256": "5d69b538b90062111b2e94b6b8cdae6d8142601626d9c15d9cd02247865d246c",
+   "xmp": "references/7-contrast-100.xmp",
+   "xmp_sha256": "26ba702965a2262704ff4a7160541ca64f47d5d4bd97649ebc3a77cca78506ae"
+  },
+  {
+   "photo": 7,
+   "name": "contrast-50",
+   "reference": "references/7-contrast-50.tif",
+   "reference_sha256": "603e2ddb6d1dfbe1700e8e78c8f6bd05effd9f4e783143bdf694969cc80c4232",
+   "xmp": "references/7-contrast-50.xmp",
+   "xmp_sha256": "83fa62982585cf3162b74caf5f4487aa9c6889f11b7bd4bbc8b104fdd9d38720"
+  },
+  {
+   "photo": 7,
+   "name": "contrast-25",
+   "reference": "references/7-contrast-25.tif",
+   "reference_sha256": "3d806b4bbd667a2996dc184e4da13ae596da834e2ae5a1d3e238e138bb83ef6e",
+   "xmp": "references/7-contrast-25.xmp",
+   "xmp_sha256": "056b6fa657ca7a55eced99614607787f101ce70755c16428a2148089c2799685"
+  },
+  {
+   "photo": 7,
+   "name": "contrast+25",
+   "reference": "references/7-contrast+25.tif",
+   "reference_sha256": "613aa78162866fecd62822b020913026a271e7cc2f14f8fd4d5b6822a37aa140",
+   "xmp": "references/7-contrast+25.xmp",
+   "xmp_sha256": "59a48bfa238643ae43425fdc8ac434ba9ceda7b720dabf4cc5bd7e3e56714666"
+  },
+  {
+   "photo": 7,
+   "name": "contrast+50",
+   "reference": "references/7-contrast+50.tif",
+   "reference_sha256": "71377dab00a619b9366f45db13eb58dd888c4e064639a1b804217e1e0dc47d6a",
+   "xmp": "references/7-contrast+50.xmp",
+   "xmp_sha256": "fe9f42f44b2405b54647176ee0a43009dbac160054bff885b40c2c95c6c4f4ed"
+  },
+  {
+   "photo": 7,
+   "name": "contrast+100",
+   "reference": "references/7-contrast+100.tif",
+   "reference_sha256": "323c8179f9fc50be94d5bf0f5678153bb85d18de00076b5ea4e4d87eba19076c",
+   "xmp": "references/7-contrast+100.xmp",
+   "xmp_sha256": "fd59d84bf143e8939725625cc26fdbced19e8ab2b778e227fbb7d17b00b7a2d4"
+  },
+  {
+   "photo": 8,
+   "name": "default",
+   "reference": "references/8-default.tif",
+   "reference_sha256": "86590f29112ca3ea39b813d76c8165969cbcc03aae5a1a47eb2c0f6a5e7546f0",
+   "xmp": "references/8-default.xmp",
+   "xmp_sha256": "aad57718d33c599eed1677748ccddeba04ef005a18de4609dbf94abca48b4e29"
+  },
+  {
+   "photo": 8,
+   "name": "contrast-100",
+   "reference": "references/8-contrast-100.tif",
+   "reference_sha256": "5053f2c646d0ee017e25fdb486dd53a54684c9f34836b0b6f7e0cb1a1fb9fe86",
+   "xmp": "references/8-contrast-100.xmp",
+   "xmp_sha256": "edb33f4bce2e5ba3c2b786502eec5d3f761b8e03281ea9a85d921ea7bf88dc7c"
+  },
+  {
+   "photo": 8,
+   "name": "contrast-50",
+   "reference": "references/8-contrast-50.tif",
+   "reference_sha256": "0d64dd1a1d431c0125efdb891fad31f86bf122982cb2e51ac256b7aafc82f0e3",
+   "xmp": "references/8-contrast-50.xmp",
+   "xmp_sha256": "a9935299399f248dc7c3b365db2ded151229dcdfd72ecb2c9e067def3752270d"
+  },
+  {
+   "photo": 8,
+   "name": "contrast-25",
+   "reference": "references/8-contrast-25.tif",
+   "reference_sha256": "4a3a785d7343bffc11da0d77fe49e6c6241da74068f8142441f1a08147ab882a",
+   "xmp": "references/8-contrast-25.xmp",
+   "xmp_sha256": "1780f94feb2d5ee844e0a5f23dd01f8fcf407d82f193c1017f92bb99987c5dd0"
+  },
+  {
+   "photo": 8,
+   "name": "contrast+25",
+   "reference": "references/8-contrast+25.tif",
+   "reference_sha256": "f76dd35b2c518b0fe1f7c218c6b1e416872f414596ed405aacc808939ed1693a",
+   "xmp": "references/8-contrast+25.xmp",
+   "xmp_sha256": "72521895721b79b5128c7d35e1c70303a896850fe106ca690cb505e8c089e34c"
+  },
+  {
+   "photo": 8,
+   "name": "contrast+50",
+   "reference": "references/8-contrast+50.tif",
+   "reference_sha256": "310ef3ba0fcf1eef06cda08f9e9455a8831d4a713ed6cbfb4b08065219ef467f",
+   "xmp": "references/8-contrast+50.xmp",
+   "xmp_sha256": "c44385c0f3d800e5636b167c9565ce5789178f1bd115a6357397ab8ada615fa2"
+  },
+  {
+   "photo": 8,
+   "name": "contrast+100",
+   "reference": "references/8-contrast+100.tif",
+   "reference_sha256": "315a8fd962205ea1eda18b5f722b77dfa5593ea00efab691f4e6eb6ca88460b4",
+   "xmp": "references/8-contrast+100.xmp",
+   "xmp_sha256": "747162efed55827b80a4ebe2e2863993b7ddc3537d144e843003170dd8e7fc6b"
+  },
+  {
+   "photo": 9,
+   "name": "default",
+   "reference": "references/9-default.tif",
+   "reference_sha256": "20abe79333e58ca38c69218c4d98bd05d0726addf075ca19738da636a7f99132",
+   "xmp": "references/9-default.xmp",
+   "xmp_sha256": "a9137fc90789fd8f986802a47fafcf092d93d9893573d715f1d09120c115b1c6"
+  },
+  {
+   "photo": 9,
+   "name": "contrast-100",
+   "reference": "references/9-contrast-100.tif",
+   "reference_sha256": "468f836d7892255ffeb9673110352ca3006cae93b55cc83bf8d2ce04b7a8f9a4",
+   "xmp": "references/9-contrast-100.xmp",
+   "xmp_sha256": "42545853c34a8b2f39c71abe498bd854623f78889788ac1ba508571bebf7d4c1"
+  },
+  {
+   "photo": 9,
+   "name": "contrast-50",
+   "reference": "references/9-contrast-50.tif",
+   "reference_sha256": "ad329f595eda40bbdeda326fb309b208ac88121dfcd199261542dd292770e3dd",
+   "xmp": "references/9-contrast-50.xmp",
+   "xmp_sha256": "c0430ab3fbcf4b6df8542f7486271cdc44b342a3ffaf35e2424d937d31a75d0f"
+  },
+  {
+   "photo": 9,
+   "name": "contrast-25",
+   "reference": "references/9-contrast-25.tif",
+   "reference_sha256": "a37c5359a326d5531fa4f7ecf74e3acbeddf3c1bbb8ef1ba292353bae39ca711",
+   "xmp": "references/9-contrast-25.xmp",
+   "xmp_sha256": "bf1ce69ef79e2794eb246905afd154d0db6fef01f09cb209eb5f804d9ea34a27"
+  },
+  {
+   "photo": 9,
+   "name": "contrast+25",
+   "reference": "references/9-contrast+25.tif",
+   "reference_sha256": "53c6b5a11552b1e8800bdb6576789e50f04c21c7017e0e8ab7db73349424dadb",
+   "xmp": "references/9-contrast+25.xmp",
+   "xmp_sha256": "c6bbc18430516d6f7b9fbf21e5453e6e39f9984357046211665d973f732912bf"
+  },
+  {
+   "photo": 9,
+   "name": "contrast+50",
+   "reference": "references/9-contrast+50.tif",
+   "reference_sha256": "807b6ee524c245393c8db71489cb65480384474c77ff99163eaad03f21034602",
+   "xmp": "references/9-contrast+50.xmp",
+   "xmp_sha256": "d0fbcba051bdcc614142800c642209856b3f2af82563870317810fec2744cd45"
+  },
+  {
+   "photo": 9,
+   "name": "contrast+100",
+   "reference": "references/9-contrast+100.tif",
+   "reference_sha256": "46ca064263172708bf23e04f765914a3164907de81ccce1e6373f0867e156dae",
+   "xmp": "references/9-contrast+100.xmp",
+   "xmp_sha256": "72d6cd17a72acb002c66af9b3b88fadce5e9dcef696a1d0761aaecadcd4ce86a"
+  },
+  {
+   "photo": 10,
+   "name": "default",
+   "reference": "references/10-default.tif",
+   "reference_sha256": "a304bd3d393e008bff03f9a08cce5629b0671b3f83c4013b3cfb42aa00237863",
+   "xmp": "references/10-default.xmp",
+   "xmp_sha256": "19c41dcac0eb909edc49d6b02da3f3760bd0c290f4095c47cc7631ce28831bf6"
+  },
+  {
+   "photo": 10,
+   "name": "contrast-100",
+   "reference": "references/10-contrast-100.tif",
+   "reference_sha256": "7fbe0852bf9baba6f29afec81d97fc84d638cf4d351562634b47ede441579651",
+   "xmp": "references/10-contrast-100.xmp",
+   "xmp_sha256": "a4c7548cd1dcc170b94ef1906d2af08aff3b6143569270ccd130a3bd866b7ee8"
+  },
+  {
+   "photo": 10,
+   "name": "contrast-50",
+   "reference": "references/10-contrast-50.tif",
+   "reference_sha256": "3dbc0049699ef45e8b23d239afbd938ca31bf17d01ed884bf603b6206213c6ef",
+   "xmp": "references/10-contrast-50.xmp",
+   "xmp_sha256": "e7a01a694e4c4f2d4679dca162edc83de90c37732c650dd21d821cca57a726af"
+  },
+  {
+   "photo": 10,
+   "name": "contrast-25",
+   "reference": "references/10-contrast-25.tif",
+   "reference_sha256": "8f49181f402ff34f9477201e1dbe5965e3b6e7c066578b8274e8ade57cbcf5ad",
+   "xmp": "references/10-contrast-25.xmp",
+   "xmp_sha256": "3725d3ff92e83350539d5f8f01fa8583c7578982b47e76527db5f0d01640f8ae"
+  },
+  {
+   "photo": 10,
+   "name": "contrast+25",
+   "reference": "references/10-contrast+25.tif",
+   "reference_sha256": "9e124564f7a585a965643319ad0218dd980db802c497e204ecd8175fc8c88d92",
+   "xmp": "references/10-contrast+25.xmp",
+   "xmp_sha256": "6e4e6b6733a184046d05efd0e253f85308bece3430ee1cbb79241a78cd77e227"
+  },
+  {
+   "photo": 10,
+   "name": "contrast+50",
+   "reference": "references/10-contrast+50.tif",
+   "reference_sha256": "8c596b1905f4647e7ba109875ca627ee32e943fc334e25ef4e7ee271ab55630a",
+   "xmp": "references/10-contrast+50.xmp",
+   "xmp_sha256": "f817301a4493cb1ac9027c71dab8e8a67be2ca3704941cd24d9983ccd7dbc4b6"
+  },
+  {
+   "photo": 10,
+   "name": "contrast+100",
+   "reference": "references/10-contrast+100.tif",
+   "reference_sha256": "d96e7b597e4a478ed39e138fcbfc3929bcee424cee9e75a3b9928d7a81c31764",
+   "xmp": "references/10-contrast+100.xmp",
+   "xmp_sha256": "3d131866c88ec5150cce55aee4c9c50ca8a3ac648379508f45bbcc7896466c6b"
+  },
+  {
+   "photo": 11,
+   "name": "default",
+   "reference": "references/11-default.tif",
+   "reference_sha256": "cc3e5e89964df6f2843284e94c7661fd08238d96ae991efbada41492eea93403",
+   "xmp": "references/11-default.xmp",
+   "xmp_sha256": "76ce3e27f82c9ebe54d5f9188ba6c8be3b58a6c3a1b68f32ef630b7031843bd8"
+  },
+  {
+   "photo": 11,
+   "name": "contrast-100",
+   "reference": "references/11-contrast-100.tif",
+   "reference_sha256": "0f57f4774042133ed36c8ebe1a4cbfad17ba175537e90096e290707fe971df75",
+   "xmp": "references/11-contrast-100.xmp",
+   "xmp_sha256": "bf4538b647c796e959d7b22f10032a29303100496ff01fcf625db5f0edb121b3"
+  },
+  {
+   "photo": 11,
+   "name": "contrast-50",
+   "reference": "references/11-contrast-50.tif",
+   "reference_sha256": "3d1000e862b6aabe979be39368ce6dc64bb4fca52a4762316bf8d11b441bf631",
+   "xmp": "references/11-contrast-50.xmp",
+   "xmp_sha256": "f619088551ce734511b56305df1e159e34f412d5c5c9e7259a7d3e842c75485c"
+  },
+  {
+   "photo": 11,
+   "name": "contrast-25",
+   "reference": "references/11-contrast-25.tif",
+   "reference_sha256": "77c40b884773fab30cd2b78c131193615a1ca31d425a9aa6a81d9793d3401233",
+   "xmp": "references/11-contrast-25.xmp",
+   "xmp_sha256": "b1cf39fa3d4e5866047d4a2a291de74940e62eda273a7f9f05665c9f6b8defd5"
+  },
+  {
+   "photo": 11,
+   "name": "contrast+25",
+   "reference": "references/11-contrast+25.tif",
+   "reference_sha256": "79f3a3ec9fd823d2192a48405f599c5a6e2518f0ced9332ac7986d335e5153eb",
+   "xmp": "references/11-contrast+25.xmp",
+   "xmp_sha256": "fbc9548f6bb42ca0c85961b42f19e15943b05f094960abbd13d576f0c6608e46"
+  },
+  {
+   "photo": 11,
+   "name": "contrast+50",
+   "reference": "references/11-contrast+50.tif",
+   "reference_sha256": "6ad7f03e199e0184a72e0bdf6ba6bc20f67c27aafd5b2118479b0568cc62d9e6",
+   "xmp": "references/11-contrast+50.xmp",
+   "xmp_sha256": "8ff76df1dd42842a46a69ac4907ce9f3a05785bb954273fd49ec1798656fed7e"
+  },
+  {
+   "photo": 11,
+   "name": "contrast+100",
+   "reference": "references/11-contrast+100.tif",
+   "reference_sha256": "0b51e4206aa5934b1a8bc98271c7b457aea61d73e6f6160560c432ae2f0accd6",
+   "xmp": "references/11-contrast+100.xmp",
+   "xmp_sha256": "5a3eceec1e3dc4aecabb8084f6f9b8a98eb34b9a831ddefdefa16b3558c3bc9d"
+  },
+  {
+   "photo": 12,
+   "name": "default",
+   "reference": "references/12-default.tif",
+   "reference_sha256": "1f0fc501c46592f68d8624f92f655f55138d100d50a959e206af281d215952ea",
+   "xmp": "references/12-default.xmp",
+   "xmp_sha256": "4a5208c0ae499515fdb5f64e3f99b6d9443014d155ca29dfba889ef1f5c0c7ff"
+  },
+  {
+   "photo": 12,
+   "name": "contrast-100",
+   "reference": "references/12-contrast-100.tif",
+   "reference_sha256": "1a66f4600e558d6774a2296cc718056b135b10fda28e2714d2dfcf89b6c75ad6",
+   "xmp": "references/12-contrast-100.xmp",
+   "xmp_sha256": "2ba4923de10dbac9e1e18712a66905b83f48f4b6e80ead15158ee8c3f30f8f00"
+  },
+  {
+   "photo": 12,
+   "name": "contrast-50",
+   "reference": "references/12-contrast-50.tif",
+   "reference_sha256": "d68d4ccfa4bc408e90d3d0e861e5729160878738e8e4f56b2213eb0a09207a17",
+   "xmp": "references/12-contrast-50.xmp",
+   "xmp_sha256": "7f5acf101c07ca534e69c6371e5f525017537d0245e96c605c984450059e6b49"
+  },
+  {
+   "photo": 12,
+   "name": "contrast-25",
+   "reference": "references/12-contrast-25.tif",
+   "reference_sha256": "bd0e145ac1d69dfe0b51ebe352299f757fd47f0b19066d475557b2207db59dcf",
+   "xmp": "references/12-contrast-25.xmp",
+   "xmp_sha256": "6027bfb654d5a5f1a2409c504e64d6320816791a91e1cdf580d097ebaa525c70"
+  },
+  {
+   "photo": 12,
+   "name": "contrast+25",
+   "reference": "references/12-contrast+25.tif",
+   "reference_sha256": "77eb681d359e2ae7f4596afdeb0ff520eee5f1d5256a3b28d25c848e4e59068a",
+   "xmp": "references/12-contrast+25.xmp",
+   "xmp_sha256": "f2f3000222412ab8b93c70052a8f3cae3d4c4519b90584cf0066ed4bcd99138e"
+  },
+  {
+   "photo": 12,
+   "name": "contrast+50",
+   "reference": "references/12-contrast+50.tif",
+   "reference_sha256": "29103179bedf00c14fc0655b1f00d187984ca510a85a0445dac50c110f28b891",
+   "xmp": "references/12-contrast+50.xmp",
+   "xmp_sha256": "c3aa8401b0a2450282e1b3b7266caabd7c42a0d58760f5e97c52a99ea0d14099"
+  },
+  {
+   "photo": 12,
+   "name": "contrast+100",
+   "reference": "references/12-contrast+100.tif",
+   "reference_sha256": "fd43eb34bd5e9114b1a12907e7a2471402b865c6a9819d433b083640133f7c9b",
+   "xmp": "references/12-contrast+100.xmp",
+   "xmp_sha256": "29576131e1d6c8fc60da681d569633ba7c69f022d2b3c657df456e78029155cc"
+  },
+  {
+   "photo": 13,
+   "name": "default",
+   "reference": "references/13-default.tif",
+   "reference_sha256": "a29f158ce5836c7a60ca401ea3bcaa7a1db38c67e7503d3c4bc02bf86c4fe1b4",
+   "xmp": "references/13-default.xmp",
+   "xmp_sha256": "a4cf5199bb252d67dd1ee4fbe12e690c75a997b0a2280cee7cc6b3bc6b3a0659"
+  },
+  {
+   "photo": 13,
+   "name": "contrast-100",
+   "reference": "references/13-contrast-100.tif",
+   "reference_sha256": "16f4602ab3358616f7577bf46229c4380011233d37613e0fcc4bad75e71e08d2",
+   "xmp": "references/13-contrast-100.xmp",
+   "xmp_sha256": "6ee1fd8489e895a26494d14324b769ab336fbe994851432512e41cc9b06ae937"
+  },
+  {
+   "photo": 13,
+   "name": "contrast-50",
+   "reference": "references/13-contrast-50.tif",
+   "reference_sha256": "0c7f8a22386251bb5b75172522c4b28092a2e0433590b9b468c932c554e1540b",
+   "xmp": "references/13-contrast-50.xmp",
+   "xmp_sha256": "d327578d3672084c7582bc984178f346cfea1d4791f37d688dc93ee3db0665a6"
+  },
+  {
+   "photo": 13,
+   "name": "contrast-25",
+   "reference": "references/13-contrast-25.tif",
+   "reference_sha256": "e029bd2c47f6b29258a04eb549f329bcbb5213917adced6bc09ee40c2cefa005",
+   "xmp": "references/13-contrast-25.xmp",
+   "xmp_sha256": "c47c29fd0376943121bc4a4d8fed55bcd0d4f0e276e5b531a1e3e291146afd62"
+  },
+  {
+   "photo": 13,
+   "name": "contrast+25",
+   "reference": "references/13-contrast+25.tif",
+   "reference_sha256": "c660909cb91cc332fe45132e59075cf599c75c84dbf884664c34072f73322ff0",
+   "xmp": "references/13-contrast+25.xmp",
+   "xmp_sha256": "b21a7c36d8c088dcf36db55cc1795ea78acb06758d2f56738c70596306ec3009"
+  },
+  {
+   "photo": 13,
+   "name": "contrast+50",
+   "reference": "references/13-contrast+50.tif",
+   "reference_sha256": "013c136026e330683d746c0990619633c89af9a1269a7c91c55a39a963962060",
+   "xmp": "references/13-contrast+50.xmp",
+   "xmp_sha256": "7c23b29431e634dad31ce72a4fa629b487c66619287eb1c569d727bc3456dc27"
+  },
+  {
+   "photo": 13,
+   "name": "contrast+100",
+   "reference": "references/13-contrast+100.tif",
+   "reference_sha256": "05aeaef009b3499703c8cce8ce1428ac2395ffbad452bb761c93b9492b0bd8b9",
+   "xmp": "references/13-contrast+100.xmp",
+   "xmp_sha256": "0262fe1105c7f91e945c286dcf940ef4f77e392ff268f22b8b6ed9728b617661"
+  },
+  {
+   "photo": 14,
+   "name": "default",
+   "reference": "references/14-default.tif",
+   "reference_sha256": "bbd99b62f94e1c68da0fb809094c452731edcbc4e7f2e7366177e159fccc1c23",
+   "xmp": "references/14-default.xmp",
+   "xmp_sha256": "092ef4af9957dd14c6874dc261c461abce4e52029f37eb365f476e59b06ebbc8"
+  },
+  {
+   "photo": 14,
+   "name": "contrast-100",
+   "reference": "references/14-contrast-100.tif",
+   "reference_sha256": "bac1b9854fc7163f53bb67991a5d7ee3d39ac2b7204cd4823592ee1244fdde3e",
+   "xmp": "references/14-contrast-100.xmp",
+   "xmp_sha256": "20ca266ae4bd91cc0e3227f3e569e921b983f9f638233433b9187db5db9b26f7"
+  },
+  {
+   "photo": 14,
+   "name": "contrast-50",
+   "reference": "references/14-contrast-50.tif",
+   "reference_sha256": "749987b19ec46dd756bb9220acf0fedd0635328099466bada4ab0a76bf24c39e",
+   "xmp": "references/14-contrast-50.xmp",
+   "xmp_sha256": "1f22dc2cdad8e87a4fcbc684b1ded7ea39cbe0c477d58e4258a6483ade47196c"
+  },
+  {
+   "photo": 14,
+   "name": "contrast-25",
+   "reference": "references/14-contrast-25.tif",
+   "reference_sha256": "c8569085a4943d8aba4717d1ce91497ee0fb898a13a5aad2dc4b7d1ba40c2a61",
+   "xmp": "references/14-contrast-25.xmp",
+   "xmp_sha256": "10a6257fb505db7a358cab8615cf3b64166231fdd47d40c4ec59285d12f4db95"
+  },
+  {
+   "photo": 14,
+   "name": "contrast+25",
+   "reference": "references/14-contrast+25.tif",
+   "reference_sha256": "13c2b7f90f5c777a1db0516f9fc7a1f7d84d6d4ecad698fae5a0af02e3c3c1ff",
+   "xmp": "references/14-contrast+25.xmp",
+   "xmp_sha256": "d668fede67a198f360f1fa860387dac8d3b8d4421281931aa240d2b8b359e7a7"
+  },
+  {
+   "photo": 14,
+   "name": "contrast+50",
+   "reference": "references/14-contrast+50.tif",
+   "reference_sha256": "8ebe917c30f39c9174c30d876502ed791613b879d4090dac97bb407b9072f996",
+   "xmp": "references/14-contrast+50.xmp",
+   "xmp_sha256": "9c12c7e4811318d2e69ba0629ae04be9163992711b1297eacac2cd7a3e04537b"
+  },
+  {
+   "photo": 14,
+   "name": "contrast+100",
+   "reference": "references/14-contrast+100.tif",
+   "reference_sha256": "298c14b7eb8b7f4c79398a2b402c3840a05a988fec0aa2f75ea47da3e3d26bb1",
+   "xmp": "references/14-contrast+100.xmp",
+   "xmp_sha256": "a7a82f40b7f316df19c4d963b44cda63ce087806a42e231430ad13d9d84c1c05"
+  },
+  {
+   "photo": 15,
+   "name": "default",
+   "reference": "references/15-default.tif",
+   "reference_sha256": "09ebc229f1df85277235b7cd2ac261028eb381fbd033b61b3f218739d86281a9",
+   "xmp": "references/15-default.xmp",
+   "xmp_sha256": "9d91e221d73036bc709e395d5734dde23d60b759576fe4d149e3706f34ff2e65"
+  },
+  {
+   "photo": 15,
+   "name": "contrast-100",
+   "reference": "references/15-contrast-100.tif",
+   "reference_sha256": "6aad5af045536ce36417c9d8847b14f1726fda15391a51031b444f3b1ef593a7",
+   "xmp": "references/15-contrast-100.xmp",
+   "xmp_sha256": "b54c53f98f84972e38797e0511fb94d42ad4d838b7a2a5322e3c41726942b240"
+  },
+  {
+   "photo": 15,
+   "name": "contrast-50",
+   "reference": "references/15-contrast-50.tif",
+   "reference_sha256": "0e5b4e51e0ccfa929cb1a36e3228dd115d2f6eb0b67a09e42646dd2696543bc8",
+   "xmp": "references/15-contrast-50.xmp",
+   "xmp_sha256": "83a5b6ec7990236e186e5e5e9b1f75224475d221de499a4f872668f86c370d96"
+  },
+  {
+   "photo": 15,
+   "name": "contrast-25",
+   "reference": "references/15-contrast-25.tif",
+   "reference_sha256": "5f7a255dfb848fea5b6ba5517ad7f5703afba25108e196356f43a216474aa8dd",
+   "xmp": "references/15-contrast-25.xmp",
+   "xmp_sha256": "1c6ce073802f365376f7be98aaf5ca4876fd1bb128ab0ba8f6ff98233620bcd2"
+  },
+  {
+   "photo": 15,
+   "name": "contrast+25",
+   "reference": "references/15-contrast+25.tif",
+   "reference_sha256": "3ad7649bb6c1df6c287c4f4affea331be6cb5463df23643aa18808c8ba5ce98b",
+   "xmp": "references/15-contrast+25.xmp",
+   "xmp_sha256": "546dd2825307feaaad8e5518906e3b8f87b307812aaee979656e2d77b3d8b625"
+  },
+  {
+   "photo": 15,
+   "name": "contrast+50",
+   "reference": "references/15-contrast+50.tif",
+   "reference_sha256": "de0f946860d0c5eea0f6889eba041e175865ac9d3370fe876e27afd62c1611e6",
+   "xmp": "references/15-contrast+50.xmp",
+   "xmp_sha256": "37bd40a38ac7bc69b56036794a65c4248aa9e039564e6cb48fdbb718a6d84565"
+  },
+  {
+   "photo": 15,
+   "name": "contrast+100",
+   "reference": "references/15-contrast+100.tif",
+   "reference_sha256": "f57701b1548e1d3bced3fe5ec9a9b4f2c8025d52a4505234f565415486d96894",
+   "xmp": "references/15-contrast+100.xmp",
+   "xmp_sha256": "15ac7e8a4d496443e8276ff933d2e560083d435fa663169b08d4121295ef5493"
+  }
+ ]
+}

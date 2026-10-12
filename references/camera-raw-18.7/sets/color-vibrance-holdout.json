@@ -1,0 +1,134 @@
+{
+ "schema": 1,
+ "set": "color-vibrance-holdout",
+ "settings": [
+  "vibrance-100",
+  "vibrance-50",
+  "vibrance+50",
+  "vibrance+100",
+  "saturation-50",
+  "saturation+50"
+ ],
+ "photos": [
+  {
+   "raw": "raws/pixls/Fujifilm/X70/DSCF8848.RAF",
+   "sha256": "4f9c33fde578addebda991c37d26551b46fab8f592c74f7192560a05ec08d577",
+   "p90_L": 34.48887992945352,
+   "stratum": "low",
+   "make": "Fujifilm",
+   "model": "X70",
+   "subject": "night view of a stone clock tower",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Pentax/K-70/IMGP6854.PEF",
+   "sha256": "1d64c6aa71680642ba8f00b6f6105df3e66a4534e631f422fbf3316273c4408c",
+   "p90_L": 32.46673539235125,
+   "stratum": "low",
+   "make": "Pentax",
+   "model": "K-70",
+   "subject": "a ceiling light in a dim room",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS Rebel T6/IMG_2422.CR2",
+   "sha256": "432e968a244816ed9c7bbae1807bbc66dc6245d294e9f11cb5b3ab1fc830df5a",
+   "p90_L": 48.821274536232195,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS Rebel T6",
+   "subject": "wooden boardwalk through a dense tropical forest",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-H2/Fuji-X-H2-Lossless-Compressed-Raw.RAF",
+   "sha256": "109be38f59963c9b8ff289ebe1f5ec9168c52f609e5b601432bd194520b4605b",
+   "p90_L": 52.693754240415714,
+   "stratum": "mid",
+   "make": "Fujifilm",
+   "model": "X-H2",
+   "subject": "garden with wilting and blooming flowers",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/HUAWEI/VOG-L29/IMG_20190330_123314.dng",
+   "sha256": "6dea2735a31f06e39b1a203826bcdfe4ff0fcdec444772bdab455c49f91b1846",
+   "p90_L": 68.50966729348222,
+   "stratum": "mid",
+   "make": "HUAWEI",
+   "model": "VOG-L29",
+   "subject": "model village with houses and train station",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Nikon/D500/Nikon_D500_RAWL_14bit_LosslessCompressed.NEF",
+   "sha256": "90995baaad6eb2f8c0257b8a38ff6c25557fa8d411f29b84630759d9563e35fd",
+   "p90_L": 71.47176541045063,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "D500",
+   "subject": "tree trunk with ivy against a green forest background",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Canon/Canon EOS R100/_MG_2195[1].CR3",
+   "sha256": "0b66842b2fe00329ebc05fe8ab9357ddbbe1a0a2d2e69a2893102de7fdf5c942",
+   "p90_L": 93.05444482485849,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS R100",
+   "subject": "orange flowers in front of a window",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-T3/AFXT2720.RAF",
+   "sha256": "24abd27b4a200f3170ea1579672944b807d0eb35bf21422a3937bb644f27f2eb",
+   "p90_L": 91.46723874000647,
+   "stratum": "high",
+   "make": "Fujifilm",
+   "model": "X-T3",
+   "subject": "a bag of yerba mate tea next to plush toys",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Google/Pixel 8 Pro/PXL_20240415_103400204.RAW-02.ORIGINAL.dng",
+   "sha256": "45420c595401547cca950ae58d552bc82b32d31ce1d58c082df33004016197f5",
+   "p90_L": 84.64685911785156,
+   "stratum": "high",
+   "make": "Google",
+   "model": "Pixel 8 Pro",
+   "subject": "trees silhouetted against a sunset reflected in water",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Nikon/Z f/DSC_0040.NEF",
+   "sha256": "83c82be0be8865d796096dfbcc8ef2abf5af1bd37db44dfad6715070b0c99d15",
+   "p90_L": 89.69256902501883,
+   "stratum": "high",
+   "make": "Nikon",
+   "model": "Z f",
+   "subject": "building surrounded by autumn trees on a grassy field",
+   "score": null
+  }
+ ],
+ "crs": {
+  "vibrance-100": {
+   "Vibrance": "-100"
+  },
+  "vibrance-50": {
+   "Vibrance": "-50"
+  },
+  "vibrance+50": {
+   "Vibrance": "+50"
+  },
+  "vibrance+100": {
+   "Vibrance": "+100"
+  },
+  "saturation-50": {
+   "Saturation": "-50"
+  },
+  "saturation+50": {
+   "Saturation": "+50"
+  }
+ }
+}

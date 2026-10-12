@@ -1,0 +1,5109 @@
+{
+ "schema": 1,
+ "camera_raw": "18.7",
+ "photos": [
+  {
+   "raw": "raws/signature-edits/  tag @ryanbreitkreutz - signature edits free raw photos.ARW",
+   "sha256": "18c509459808b235d5e3894d3116d3094e124945875a37276760d87fc49aceda",
+   "p90_L": 47.68243569421208,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/ CREDIT @Larson_Ryan_Photography LAR04752.ARW",
+   "sha256": "a61b936ec9924dd9d35c43b0a6523de11d5b86447ab68565b0c74167f23d65d3",
+   "p90_L": 80.13931052583716,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/ Capture One Catalog3916.arw",
+   "sha256": "3d71c99f9f28db7c074b480ae37a0c54c8d5aaa7f804f4c903ec7ada5b7607a7",
+   "p90_L": 77.15819801999837,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/ Free raws by @signatureeditsco DSC03068.arw",
+   "sha256": "3701336af8a8a028d432bb831945fc98d9165aa6854e7af1e718eecd43ee6c26",
+   "p90_L": 19.586510814460794,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/ HassanWasimz  4800.CR2",
+   "sha256": "e99024834b9ed45aa52320972a7c651272be92ce91f66a43de4e4cd3a91a8a11",
+   "p90_L": 58.68992236175013,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/ IMG_2280.cr2",
+   "sha256": "31a6b28f34d963c600bed02516e395e213f4f637295d48c502382e04e143b24e",
+   "p90_L": 65.242238248423,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/ IMG_3546.cr2",
+   "sha256": "9bf3ad4bc6b5ade06efb3a4adc4c5a59bc98399b016a144809fb82c0354dd8c8",
+   "p90_L": 81.29327679124579,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/ RonaldOttoniel_523.NEF",
+   "sha256": "b5f6c139522da7371a62f4b0015615391cab0161aee73868110e0adced3aef7c",
+   "p90_L": 85.26943392723811,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/ Signature Edits Free Raw Photos - By Tawny Horton - 5E0C9673.CR2",
+   "sha256": "06d079ce7ac9d38f9898818234a8704bd2f68e429c5253f709b8f087c4b4047b",
+   "p90_L": 83.24698609551098,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/ by_danny (12).ARW",
+   "sha256": "ebd8cefa8fac0efbd8cc73ba580e81010ebb7767c482bbaa448f8cfcd118504d",
+   "p90_L": 32.737199833509926,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/ emrahkaracayir02.NEF",
+   "sha256": "8e09612ae0f3193e5e5d300e77a8591361cc3459b7ca14f0f2dab08e11b2d59e",
+   "p90_L": 95.01476790809176,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/ free raw files - credit signatureedits.com - _MG_2632.CR2",
+   "sha256": "8332f401c29b7a8dd828a61a9c2176e28c9d4c4db219ad3ea8e6f1c404f79784",
+   "p90_L": 68.18775683645805,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/ free raw files from @signatureeditsco_MG_9980.CR2",
+   "sha256": "bedee324fd798a2d01107a3cf2226bee3f3f9a2158981b4948d209fd01be96ef",
+   "p90_L": 68.44424852622083,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/ free raw files from signatureedits.com 1 (72).NEF",
+   "sha256": "0831fd4abfa6b5aae00963b04cc20a75462427c11d11c97e8a4d7ac9fed322cd",
+   "p90_L": 82.08327216391433,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/ free raw files from signatureedits.com M50R1281.dng",
+   "sha256": "b48941d955175537390a6d38d48ceb7f7d46e69e85c5c8e242540538b2a11777",
+   "p90_L": 52.24215852171488,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/ free raws from @signatureeditsco - _MG_1511.CR2",
+   "sha256": "b055f9f2c6e2fd22cf8bdd7244b0f1f949cecc379733bf7a43b3ef133d3b7284",
+   "p90_L": 67.91941005134971,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/ free raws from @signatureeditsco - signatureedits.com - DSC03969.ARW",
+   "sha256": "d9cb882a71381f1a27b13506fe6d4a89bc03e36872774b64306633547b53d367",
+   "p90_L": 70.60493135272552,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/ signature edits free raws DSC04926.ARW",
+   "sha256": "8a7c1a7170a4b163a2cb1333779b676da6f6b336cd5a418c82a458e37910d2c8",
+   "p90_L": 72.09716114339241,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/ sunbeamphoto on instagram.CR2",
+   "sha256": "93eefb548e5e9aa83f9b6aa04e22711a2bbb1c0bb9b16ae59b2139409a8729fb",
+   "p90_L": 67.89778414113844,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/ tag @signatureeditsco DSC06212.ARW",
+   "sha256": "dc3253ce9b059977fcf0f20505d78f53471a446263acc29d14169881ccd75847",
+   "p90_L": 77.96244187963278,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/ tag @signatureeditsco DSC_0290.NEF",
+   "sha256": "a132ffb099168816a0b8d07a52183577b9fec10effb5e0dcc88f97b1dc5ae424",
+   "p90_L": 39.3819542222019,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/- Signature Edits Free Raws _E0A5733.CR2",
+   "sha256": "124aa2ca06b6af5f286d7490d4ae69fa97f1353c64ac9712aeb6b498f9264dff",
+   "p90_L": 82.6170315219649,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/- credit_signatureedits.com - DSC.3003.dng",
+   "sha256": "47a4b56a36a8799ba45dc9f5e967f52f4a34931ac2c18429843d372d1ebe5a6a",
+   "p90_L": 21.124764939028193,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/- credit_signatureedits.com - DSC04191.ARW",
+   "sha256": "6dc2e47848e8e4df957dcad0872b969fe5675bc23302fc51e23a97ed0078ee8a",
+   "p90_L": 80.40800412820384,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/- credit_signatureedits.com - DSC08348.ARW",
+   "sha256": "e0ffa85860f757af98d24b29125082cc0b00657ad19ebb2342afb63e670142c3",
+   "p90_L": 90.6295357728053,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/- credit_signatureedits.com - Kooskoos.CR2",
+   "sha256": "03764ebe1938c0705f65bf06060b494dc12f4b02075ff2a5bc75f2d14c900d30",
+   "p90_L": 59.57375526536253,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/- credit_signatureedits.com - _E2A6308.CR2",
+   "sha256": "e0b047eace635de3acb0a520dfe17403ac6a634c386fa4745ad4f68ab2bdf4bb",
+   "p90_L": 75.80880454283168,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/- credit_signatureedits.com - _Kooskoos_.CR2",
+   "sha256": "541c3689d133c30bb871955da3440cfa174e770573f21f48b48b1a5adcfae1e1",
+   "p90_L": 48.844144027015226,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/- credit_signatureedits.com - tag @wutkaicheung_DSC01108.ARW",
+   "sha256": "c7feeb95ccd4da03e55eac88503b5fe073f94a85abcddaf1444f57396fd41e51",
+   "p90_L": 70.84573747319571,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/- credit_signatureedits.com - tag @wutkaicheung_DSC02729.ARW",
+   "sha256": "cc7f57cf541a60a13ad6d3fe89e6213c7fc62a716f62b2e279a010bb5efefbf8",
+   "p90_L": 66.25071710985364,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/- credit_signatureedits.com - tag @wutkaicheung_DSC03358.ARW",
+   "sha256": "c38d39e55750d888cfb325a192a2899df4870eb385ddb3270cea4c60dd5d827e",
+   "p90_L": 49.004943780579346,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/- credit_signatureedits.com - tag @wutkaicheung_DSC03768.ARW",
+   "sha256": "f974d978ad9c07df64b119c02e7baae57dd896004371738f67b1e85a051836aa",
+   "p90_L": 90.83412457093596,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/0J9A8916.CR2",
+   "sha256": "c8f8aa79086d1c6134f335461dca7825b1ae37a52d1a1880c028024e33311948",
+   "p90_L": 75.72399710310971,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/1 signature edits free raws PANA5230.RW2",
+   "sha256": "c1298325f3cbfdea40e95b4e7c41207f0d4ab185c542353aafc10adc1d031eda",
+   "p90_L": 96.54776032203188,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/1 signatureedits89u3.dng",
+   "sha256": "d902c99e38955560858b3c6a9f835a034a8b5e8981330454a18a082a699248b0",
+   "p90_L": 87.50743618686961,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/1 signatureedits9823u.dng",
+   "sha256": "c7684fe33a13602b26f0bf8ae2a9fe4a3a5eb1bbd59a79a5642c63b41888732a",
+   "p90_L": 55.46650659558534,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/122A0310.CR2",
+   "sha256": "bd0fe4ebf8066143aabefcdff3ef02d1bea57b0e2beac2bfe90f9577249b8a13",
+   "p90_L": 59.39055989528023,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/122A1666 (2020-06-25T17_45_13.819).CR2",
+   "sha256": "76584c59e47b99301513790ede76833bbc9b912442464c41871e6713aaac5c32",
+   "p90_L": 89.62092626300601,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/122A4177.CR2",
+   "sha256": "8a3b964afd6c0fdafcf496f2a3783ce8c0b59f4b8cb4e05e5c4fa5312151081f",
+   "p90_L": 91.98713551476754,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/122A4182.CR2",
+   "sha256": "61b00647c0338aaba404ca05046d9bfe2dd05fcfce849874a6ca08d4d8a6eda0",
+   "p90_L": 83.38831322904187,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/122A7338.CR2",
+   "sha256": "9e5847b86e62e50cce997e604d492ae77c1febada2ca333ecb44fad2f6a8b58c",
+   "p90_L": 52.98724196839287,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/122A8716.CR2",
+   "sha256": "93ca299e6ca1f9811a027553ece05506b86ca5f239f59e10046495752944af25",
+   "p90_L": 60.859058523593106,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/1O6A3619.CR2",
+   "sha256": "f0dd61145fe0cc585c75e7ebf3ca8d6b501a21f60dc072974d5b6ab905de3446",
+   "p90_L": 56.26413002267644,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/26.CR2",
+   "sha256": "c7cc85f1ceb3d8a581b1c13208501bc81ac37490041e3d434c68aed45d317d0e",
+   "p90_L": 47.3790021460562,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/2C8A1166.CR2",
+   "sha256": "92396f93aa77e06496ee0c5b6305d513d3323d93cdb844f43e9e59ebf134cf50",
+   "p90_L": 88.66793109868276,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/2C8A1244.CR2",
+   "sha256": "983b6ae518537599d27a40098d88af02d840f02b2d08c87da80ddccda65f7493",
+   "p90_L": 53.036015158252354,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/2C8A1462.CR2",
+   "sha256": "d3916f418045d46f84075be0c30936935e192aed87cb14a06279437612861a2c",
+   "p90_L": 84.1048280988603,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/2C8A9753.CR2",
+   "sha256": "fbebe1826c849095b42df90c04674658fde168680d3b1192f357129f583ac534",
+   "p90_L": 78.43263122691754,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/2C8A9768.CR2",
+   "sha256": "41e9bf7c902bced0acce083d4ca5b2fb692e0eea3a7941d24e4a51e692bf2564",
+   "p90_L": 93.0381631592785,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/2G3A2473.CR2",
+   "sha256": "64f640307603f1e0a716bdb2372a3c6120382c30d28b6fb70102d2ff8bdd8954",
+   "p90_L": 50.45629075019177,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/2G3A2723.CR2",
+   "sha256": "1e719499f7cf5af642cde256abbd1b136e5b537b7676ec66ee976fff181c61b8",
+   "p90_L": 89.40647532383248,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/2G3A2899.CR2",
+   "sha256": "de863c1c1a508dc2b837ca86f6179cce9009676fd63067acb38ff8669c84ffef",
+   "p90_L": 69.38013784698482,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/2G3A8152.CR2",
+   "sha256": "ad0b0834c8004b64054d78a6afd31a9a94afccc67fe8100fae4bf26060399b4c",
+   "p90_L": 74.98505196222791,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/2G3A9939.CR2",
+   "sha256": "dc5cda0075f152f5864cdc89bfe64dbcfbc20332ce58097c6fd1491c7c1dfc29",
+   "p90_L": 43.44411930715919,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/2G3A9942.CR2",
+   "sha256": "34e2aea0dc7d40465eb722f99439bf61a936e8e99d08589d1c403eb2e77a886d",
+   "p90_L": 41.805407439590795,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/2Q1A2335.CR2",
+   "sha256": "468497c8160a378b8f506dbb0c9f4e5d43ac8e2a6827997ab9df2856c63e273a",
+   "p90_L": 71.88949131196756,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/3M0A4793.CR2",
+   "sha256": "4aa15c3bdadad9cc0dc133183cc91c5b1a35dcb248c6b14d7ed9310e89b2437e",
+   "p90_L": 93.71115664360313,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/5DSR2210.cr2",
+   "sha256": "88e568249b49b280b578a843d284b2d73e39f487cd030b73efe2544a4d3f1def",
+   "p90_L": 74.43513626307096,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/5I1A3230.CR2",
+   "sha256": "2c31531964dc53002c822f85aef581a841878045155d08f0dff2a2f126d9f08d",
+   "p90_L": 72.34251597375763,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/5M3_8791.CR2",
+   "sha256": "0270771723f7505226325f85f537bf5072c6da9344b761fba698c9218cb8974c",
+   "p90_L": 86.31636254112368,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/619A0205.CR2",
+   "sha256": "c3d9cae152184371a067a3ed40d0b7c877efe6d18428a0fec8903512cf63ab0c",
+   "p90_L": 53.410857351069275,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/7K1A8651.CR2",
+   "sha256": "3fe0b9edd99edba4f2f3661b268544b30f583fb7f6a541688cbcdeb630e42028",
+   "p90_L": 42.44427315201913,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/7K1A8951.CR2",
+   "sha256": "8aad76eaf296fdbdb692a0e83ee896b7d18e15553c3972fd9a3623ba6b91cfd8",
+   "p90_L": 77.28440173595605,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/@KianMousazadeh.ARW",
+   "sha256": "c8626fc4f848922c11069d6ebd40e9e425ee1aaddad4fbbd7e4ce06fa0ba347b",
+   "p90_L": 84.61274666208249,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/@drethesilva-1.NEF",
+   "sha256": "acf69c6b47243f0fd84181bc90d57191c6359acc8d3fcc25e2cb42e3525e3980",
+   "p90_L": 64.40777373813538,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/@drethesilva-2.NEF",
+   "sha256": "dc66785e654986b51fdb3533ec1e8c8e811558278ebd5a5b3ecf5fff7c163067",
+   "p90_L": 56.29188929380521,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/@drethesilva-3.NEF",
+   "sha256": "1736178dd8052af79734c6d6e6adf9eef333e9dca6385ded70a0d9760788e9de",
+   "p90_L": 69.81819043599761,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/@filipeoliveiraph.dng",
+   "sha256": "84268031476062b29e4f189748169cccfeb6488959a31ee03d017e13d77cd485",
+   "p90_L": 46.68719055476837,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/@olyjuniorfotografia  - from signatureedits.com.CR2",
+   "sha256": "44df58cae3c9a28d829615744fe3535d38e1033f9447bb1d5fd4401f7dcdd48a",
+   "p90_L": 70.11890183690957,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/@olyjuniorfotografia - from signatureedits.com.CR2",
+   "sha256": "1938870fa2b84380299f5d3cad255e9070656e54d991f9855e9f2e1104e11c5a",
+   "p90_L": 75.09703483093989,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/@pekhenko_work (3).NEF",
+   "sha256": "1dc0931ef3691f5186b31a7ace6df60ed03853ded2d4a35c0e3b21a3a5701165",
+   "p90_L": 76.57789857727931,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/@signatureeditsco DSC01754.ARW",
+   "sha256": "874e41b73390269895f08f67dcf96a2a1648813180009f3048215354f7f76c01",
+   "p90_L": 95.69354606535605,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/@signatureeditsco _DSC0026.NEF",
+   "sha256": "b4e4de29767f19bb59b0a8e089c91479d7da3554dd54926d4c770152cc1aab11",
+   "p90_L": 73.3368223541133,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/@signatureeditsco free raw file.NEF",
+   "sha256": "d94b1da544b6ae8f8c59c75d1fbaf4a010aa400c1996795176e2ab8653323f05",
+   "p90_L": 74.3312422152367,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/@signatureeditsco(1).dng",
+   "sha256": "b990c178ae67d7d5e7b0b39ce2e9e1923ca793d46934044efe72c0032c8efb5e",
+   "p90_L": 79.45262058960593,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/@signatureeditsco.dng",
+   "sha256": "dbcb59884012c54d58c518ce82a0632b0be9e348e47c95fe6c8ec5a9ae25ef15",
+   "p90_L": 59.870214697448795,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/@valeqvisuals-1 - signature edits free raw photos.ARW",
+   "sha256": "275983ca403ad5d282cf5de4c29a2a0393b5bf7a48e53cd848a4e1198d1026ce",
+   "p90_L": 59.43839186487432,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/@valeqvisuals-4 - signature edits free raw photos.ARW",
+   "sha256": "ed971bd645fb522a314e0bce49dd3102b4698afbe5170f6f8dc71898d7a542a9",
+   "p90_L": 42.23752876769743,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/@valeqvisuals-5 - signature edits free raw photos.ARW",
+   "sha256": "e54c37b5ebe8c4585879386ce4cd6fd141625ea44d0d0413fabff4b63f90b88c",
+   "p90_L": 85.18351283253382,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/APC_0031.DNG",
+   "sha256": "35aa4ca2f978f733aa784d68352453af7e61ee1b98b84a1a041c75294cdca962",
+   "p90_L": 16.775749126442584,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/APC_0083.DNG",
+   "sha256": "14f87f9539c34f1e54e02248d8aed84404d2908f3bcf22ef16edbe4710cc95e1",
+   "p90_L": 81.62720095577437,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/APC_0140.DNG",
+   "sha256": "5f03f39456cf5c5e31f1194246e0eca8e083638c394f5c19868e112655ce3bf3",
+   "p90_L": 92.65907051946526,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/APC_0144-2.DNG",
+   "sha256": "53a31861ada23c63234d51b4a6552f347cb18114b1300738530ae3c8c27100f6",
+   "p90_L": 52.54881108458819,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/APC_0183.DNG",
+   "sha256": "24b352f71321a58ce74d61b02004c5b03d9769c730f309faffc8b7096fb4c7df",
+   "p90_L": 76.25619986918346,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/APC_0225-2.DNG",
+   "sha256": "fa3756f402f299f54975c073b10ab7c56a2715844ca3b807da81b695769931d2",
+   "p90_L": 82.29802521616882,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/APC_0239.DNG",
+   "sha256": "88771d3a95f080d62eadd2b3f3c0ec99a1644d608b96ed2f8e3dbae0fc25c815",
+   "p90_L": 69.58791440202016,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/APC_0245-2.DNG",
+   "sha256": "a877e28229d29eb4b8c1c634eaa7bd9a6ee885067bf24bd95d8c02e01e69607b",
+   "p90_L": 69.02332224544276,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/APC_0347.DNG",
+   "sha256": "7507eb6b0937f1c8f040b5b20fc71b9c92e3aea2e8b6e5ba1541be756a68e515",
+   "p90_L": 82.25251946639189,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/APC_1211.dng",
+   "sha256": "4989360a54d77ecb83c54f6a625153834530203e4ba72b95b1361f7e02847200",
+   "p90_L": 85.16915002098368,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Al Shariar Apon (2).NEF",
+   "sha256": "737d84f7c8c5fd3bf83658634bd4a3a2cce013ef12a2fe877c4e9b9aecf49891",
+   "p90_L": 95.55603896075604,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Alex Thomas Yunnan Photo.dng",
+   "sha256": "cde784358d6b5c8b8537273e917f7fc3ae3354f1d4a92cfff50c0b9c08f84f93",
+   "p90_L": 59.77870390936054,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Barn Owl (1).NEF",
+   "sha256": "a0d5efe7e7c526577e65e33937a7995805a6239580d4f3da81c0144381565498",
+   "p90_L": 54.664865083198485,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Barn Owl (2).NEF",
+   "sha256": "3c9d58365d4f80d69672b985518e4fee9671221516dfece54f966d4cbece2871",
+   "p90_L": 40.33875179098851,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Baya Weaver (3).NEF",
+   "sha256": "cdec86b049113ab24694e26193bfcf70c19f48ec48277b8f7094b640bc1ad043",
+   "p90_L": 62.27805216461097,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/BeSureToTag@christianbmeza - free raws from signatureedits.com.CR2",
+   "sha256": "2d9c40f6f49f2dc6d2ef9c8dd85603a4a0a0959fc85b6f39fc28a87a092c49d2",
+   "p90_L": 25.44516689184476,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Betto De\u0301vora..CR2",
+   "sha256": "213e13030e5882cb874de84261fa26073addcdb0f43b1a2753bf6c5a53a622fa",
+   "p90_L": 71.10983291790659,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Black Winged Stilt (1).NEF",
+   "sha256": "cbd343ca0f5e2c27ed9dcbe0f4d6736b2796775ab465105f4ae7482ca9897a5f",
+   "p90_L": 86.18478760191388,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Black Winged Stilt (2).NEF",
+   "sha256": "e37e80aaa11b12cf32f02fcddf076ea95d038f0c675b1d6ec6b70eea6c40cb0f",
+   "p90_L": 57.64911849930552,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Black headed Ibis.NEF",
+   "sha256": "834ce8dc27f682726bee473eeb7eeebc85a96c6ac47cae747f558022f57b0eef",
+   "p90_L": 49.77347655118955,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/CHUN4234.dng",
+   "sha256": "f68eeae42d09200c30784678d4d0dc4a608852da1f2c1b01cd681d879d894baa",
+   "p90_L": 42.62817532836073,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/CREDIT @RYANBREITKREUTZ - P1073455.RW2",
+   "sha256": "5d2ef0c4dbfb679eaa634f5910630eb5f2c47b7173cb61a16ddd36e602fcc1a8",
+   "p90_L": 77.54686258052725,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/CREDIT TO tscreationz__MG_209604.CR2",
+   "sha256": "d272bec87f5fd15495c1c03252a6014d3960f39961a69dacf6c7eb90d6940a6a",
+   "p90_L": 86.68488683115439,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Canon-6D-Shotkit-11.CR2",
+   "sha256": "0b4e66f1c648268544ae2506f2e0b9cdee085093666e47b16ce74ad97e61a744",
+   "p90_L": 65.59872991024392,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of  photo cred @ryanbreitkreutz - signature edits free raws - IMG_1654.CR2",
+   "sha256": "24b01c4ebac3377ad7002625a812a0fba5b8a184810cdf87b40dc6fab13bda5e",
+   "p90_L": 79.24794250138619,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of  tag @signatureeditsco - signature edits free raw photos.dng",
+   "sha256": "fcd8052c22605723e955740112f4ada569b235fddda37c84c5d6992866c1bc56",
+   "p90_L": 77.08571021555741,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of DSC02944 - from signatureedits.com.arw",
+   "sha256": "dd933604b6313e2d045402fd114b7fccb1232bcc63409c6d0ec7ea3780dff5af",
+   "p90_L": 89.33540349522481,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of DSC_0144 Svetlana Smitchkovskaia - signature edits free raw photos.nef",
+   "sha256": "f6e291c5a65d7f8ab41fb7f59337a0d454a84086c0a0f03f3cf1c791644a3ddd",
+   "p90_L": 45.41799648928302,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of DSC_2070 - from signatureedits.com.nef",
+   "sha256": "a53924edce2982ee4852240fdcc2397f5335f4a6ea6d4558887df46bc5fde9c7",
+   "p90_L": 87.59836511284686,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of DSC_9430 - from signatureedits.com.NEF",
+   "sha256": "fedbc22efb800846c3dc2321f058c6c9fee7b8bcc2eff69a58475f55a34ded8b",
+   "p90_L": 89.07151656909348,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of IMGL9909.cr2",
+   "sha256": "663b06555fc4a9b2f79e0a1212fc81144ea679fc111887327acd9bd87caa15ac",
+   "p90_L": 80.85918617215414,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of IMG_1121_33 - from signatureedits.com.nef",
+   "sha256": "acc2a2c928a908984caa5269996f2468d00cd93579ae22bfe60bc342126d6941",
+   "p90_L": 71.58001940492838,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of IMG_1177.cr2",
+   "sha256": "370f486d682c42f26e15ab6ae4636d6954a877d801c35e341f9498efb7255119",
+   "p90_L": 62.203612619219676,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of Kayla-383 - tag @signatureeditsco.dng",
+   "sha256": "34bafa236ba264bfb1a0ed58bfd0e979d42f0450e4800e1739e21f9683d402ce",
+   "p90_L": 72.35537874679653,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of MonumentValley-tag@christianbmeza - from signatureedits.com.CR2",
+   "sha256": "73c831831e4734b919ce72bdc84325f6a3a83fb4f2a62db492e80586fac37d07",
+   "p90_L": 81.11340847629104,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of Signature Edits Free Raw Photos - By Tawny Horton - 5E0C0068.CR2",
+   "sha256": "e8fd75b601204fa1be5b6e4a76360d0576053ced08137ff4d2fb1f2e315a33f3",
+   "p90_L": 92.92881196778227,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of Signature Edits Free Raw Photos - By Tawny Horton - 5E0C0175.CR2",
+   "sha256": "d4594a80ee49680e0c78efd2b3dbcd1c4f0fc9260ea40a06fdbe37e46f5f9a49",
+   "p90_L": 81.61082073672337,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of Signature Edits Free Raw Photos - By Tawny Horton - 5E0C9424.CR2",
+   "sha256": "ae2e24b335426a2c96396ab0ecdcbf49a9c06d736476f1a790ddb49926f7b87a",
+   "p90_L": 49.15439217985409,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of Signature Edits Free Raw Photos - By Tawny Horton - 5E0C9728.CR2",
+   "sha256": "47e71320cbc2768e6cd79653ec0794a942935ff8b2cdc00c56e657d883f20961",
+   "p90_L": 82.53774535352422,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of Signature Edits Free Raw Photos - IMG_7172.cr2",
+   "sha256": "7fa7231284ab8e1e9c1a16e46e0dba5b6c3f20b0166ed9a8181c31e0c60d1565",
+   "p90_L": 88.04347643879241,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of Signature Edits Free Raw Photos - _DSC4471.dng",
+   "sha256": "9dd12be319733bd9ad1d17031d18f66018870a131adf31efc2e759a1aa8b25ee",
+   "p90_L": 29.629408066891475,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of _MG_6328.CR2",
+   "sha256": "777a6a90d0574ce48847a9887c6ed18af6cfdb99aaede8de77da143c3e9ec59b",
+   "p90_L": 83.69415616793235,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of credit @imsogabriel_studios--3.nef",
+   "sha256": "7d32f68ae936b4a766fd640973ed54401b656e1e5c70d5b9b2fcbf7c974fb625",
+   "p90_L": 61.91391117344235,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of credit link signatureedits.com - signature edits free raw photos DSC_3136.dng",
+   "sha256": "8437ad7453355797ee4208c0a8d31922ef25716c6205f3f2ddb7a57ea312849b",
+   "p90_L": 73.68285116071367,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of cvl5p6_adventurekid - from signatureedits.com.arw",
+   "sha256": "012aa6db443231a8b976a3489691298c7451514a5d17be5ace2ddbb55b825efc",
+   "p90_L": 37.775968556816046,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of free raws from signatureedits.com - tag @signatureeditsco - .CR2",
+   "sha256": "9c252f5fe808c21bde07fc7d5115c81d5902af7acef61f04381f4bef96a35ded",
+   "p90_L": 92.05145022814456,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of free raws from signatureedits.com - tag @signatureeditsco - 122A0419.CR2",
+   "sha256": "9f0e51d01dedae3a0bd284257a124b31a94d39506a959ecd928ef7f0a5c35da9",
+   "p90_L": 76.14539996693162,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of free raws from signatureedits.com - tag @signatureeditsco - DSC02977.ARW",
+   "sha256": "1b584346e5f4e2fe283d18a55fb08fb5092365da46162fb5e7ff146efeaecd03",
+   "p90_L": 72.06900814923029,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of free raws from signatureedits.com - tag @signatureeditsco - DSC_1473.nef",
+   "sha256": "0efcd4831ef02309c210836a7ee57c041080d57ccf31214acd9321d220cdf7b3",
+   "p90_L": 76.63414867644407,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of free raws from signatureedits.com - tag @signatureeditsco - IMG_2428.CR2",
+   "sha256": "a8c6d5537858bc549a6393f4ca88aa3b007146025403ad7be0e7179b5af80c1e",
+   "p90_L": 90.35037080020359,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of free raws from signatureedits.com - tag @signatureeditsco - IMG_5058.cr2",
+   "sha256": "909ae9e4886b28b70ba07da34caa55d5edcfdfc9084c3aa8f4a3ddb26aa8e77d",
+   "p90_L": 64.21092681758428,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of free raws from signatureedits.com - tag @signatureeditsco - IMG_9564.dng",
+   "sha256": "0a60d24d6d39fa83c74273d1fa9c6f4a9de27c943b322fb0624f1c021e99b06d",
+   "p90_L": 32.42382197496292,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of free raws from signatureedits.com - tag @signatureeditsco - IMG_9969.dng",
+   "sha256": "204c33744836d8b0509e7167eb81207446d629a718e3aedc82467e989605d82e",
+   "p90_L": 58.422690166791114,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of free raws from signatureedits.com - tag @signatureeditsco - June 4th shoot 937.CR2",
+   "sha256": "9ea6753042a70c61b5db502d56ede607178b75e67eaf4a2fcf67b3e3b04a38ff",
+   "p90_L": 82.65176898279542,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of free raws from signatureedits.com - tag @signatureeditsco - M50R1093.dng",
+   "sha256": "ef171fc0b020efd4a6e7b75c0bf0ca526dfbf3fc830dcac3c2a465f115c88b50",
+   "p90_L": 65.02311048445378,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of free raws from signatureedits.com - tag @signatureeditsco - SNY06949.ARW - Iceland Wedding.ARW",
+   "sha256": "cd06e3d88a5235c3484e5b648c4f2eca2fa618dd270954cd4dbb2ff6a9ba2242",
+   "p90_L": 84.68572780595797,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of httpswww.instagram.comnandodefilippofotografo.ARW",
+   "sha256": "bf307d9423aee280fa11dae67073c7657d0d9e7efccb8a408d999f17c0b3f858",
+   "p90_L": 83.0148651784894,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of photo cred @ryanbreitkreutz - signature edits free raws - 122A3668.CR2",
+   "sha256": "7c1fb141a7048d725ea30494d0dbf5eb0dd9c94d784571768e44e52e493ff6ad",
+   "p90_L": 87.52040835431077,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of signature edits free raw files - tag @signatureeditsco - DSC_0836.nef",
+   "sha256": "0dfa0ef8b7bde61fa61215512559e3d2dbe359827fc1db03a2983ae52fd5ff7b",
+   "p90_L": 94.16831109535144,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of signature edits free raw files - tag @signatureeditsco - IMG_4311.CR2",
+   "sha256": "efd83f0bacf563c77663146375bd4079e5f61f64674aa3fb1c9abf1ccb12cc12",
+   "p90_L": 53.11892069615549,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of signature edits free raw files - tag @signatureeditsco - IMG_9943.dng",
+   "sha256": "6104683eb32a0ec607956a3cc75617a980b52608101eb62a8bb37c632aeb330a",
+   "p90_L": 85.7216412984474,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of signature edits free raw files - tag @signatureeditsco - IMG_9953.dng",
+   "sha256": "dfd43305727876b2d66a87bae64021947a446d42129b7d33d7314a11304ccaae",
+   "p90_L": 88.27105808016731,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of signature edits free raw files - tag @signatureeditsco - IMG_9958.dng",
+   "sha256": "fed14fe62be0c75044e10ae51744fcb55c5f26d405f5b9d282a23ed45c6612f6",
+   "p90_L": 90.19863076076405,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of signature edits free raws - 3my6ai_alfann24.nef",
+   "sha256": "bde5e3b21023edcbfd5dc62c4866008d3fe1637a063260425c09d6ff0fd60c0b",
+   "p90_L": 47.31096774362034,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of signature edits free raws - IMG_7059.CR2",
+   "sha256": "60c0d41410067534a82be3a8868f6804390c0e6f62bbd5aec88770c73c64c419",
+   "p90_L": 87.00928278894935,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of signature edits free raws - _DSC5581.dng",
+   "sha256": "4850b83cfdcdb34dc06715d3c2cf00a0728c0f4b1dac7f9abbb2349daf27ba6e",
+   "p90_L": 72.3724657164351,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of signature edits free raws - signatureedits.com DK_02233.ARW",
+   "sha256": "ec55c9526fd556e4f69e1624a2ac51a3bc2574a06be80eeae1365466132affce",
+   "p90_L": 55.382620826154124,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of signature edits free raws - signatureedits.com DSC_5819.dng",
+   "sha256": "cc459a4882098b62919c48b150fa8c99848538603d838584c4541193e7e465c7",
+   "p90_L": 68.07353435565754,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Copy of signature edits free raws - signatureedits.com IMG_4997.CR2",
+   "sha256": "69215285a0bc3d9196667cb6101bcc5e4f34baf47f0b91dc46dac7078d6650bd",
+   "p90_L": 59.83811929237602,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Credit @ Anna Matulis.cr2",
+   "sha256": "edd413b0135379c6d08b2b80b5d94e53e592a7544ad77fd05a88b773d736a9f7",
+   "p90_L": 69.78004642033889,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Credit OliverBruendler 01_Silouette.CR2",
+   "sha256": "c656c335fbde1cc2c771189686fad1c9525cf7144714f415c90df887aa7e5441",
+   "p90_L": 91.18296548375982,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DAVE_DESIGN_PHOTOGRAPHER33.CR2",
+   "sha256": "ea179f124ec0d2605d2e454bbb1bb4b8e7ffcd6475c5d8c4c1f6c87a2bc767d6",
+   "p90_L": 93.29544745187094,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC00004.ARW",
+   "sha256": "7311b5c3ccdae154d2b7587194be04933782d9a2e05a5925595942dcc462f386",
+   "p90_L": 67.1013516766573,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC00056.ARW",
+   "sha256": "20b0f6a36700f360e1decaa446bb4b4cbbc2d497f5ef540d1f5387d5e6f9a980",
+   "p90_L": 40.23741825952833,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC00080.ARW",
+   "sha256": "df470b4d7d3ff57c79efeaffab2892771236bbf119fb460b3348a64f731395ff",
+   "p90_L": 25.906973617539446,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC00086.ARW",
+   "sha256": "196c168ab39369c031638ecf1705d85a55af43bfe370e6a8006719c6344db936",
+   "p90_L": 15.994231273907769,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC00092.ARW",
+   "sha256": "d647f15f3993715724c22e84358ea16ed8750923862d1094268bca309f0f19de",
+   "p90_L": 31.508068302460586,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC00116.ARW",
+   "sha256": "fae00d586a14e7fb534cf6ffb3d90d2729d0269628ed750cc7473611dab0af29",
+   "p90_L": 74.7211944763817,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC00117.ARW",
+   "sha256": "f94e408a28d652ac52d73c16f4908e4ddba27b5297e8e55423059ecea17c950b",
+   "p90_L": 68.97070645588794,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC00127(1).ARW",
+   "sha256": "fcbe5e0b54eb36b6b25279e62fab9b7f77d352d489f6c201fca674e3af0b96a5",
+   "p90_L": 69.03780799078912,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC00127.ARW",
+   "sha256": "afe4c3e80d96c55e966eefae9381c44d781ba1c943acb7be4842d069e5bd83ac",
+   "p90_L": 79.88162942729743,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC00191.ARW",
+   "sha256": "7872e796f73d39cb6e7803cc7f19b3b1603aa00fa333bce0057038cbb0a03760",
+   "p90_L": 93.44315449136204,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC00326.dng",
+   "sha256": "8fb11e446f80c7d6613d7acf4ea8f163ab46cd138243dfd66d0732dd8599b40f",
+   "p90_L": 26.19897160161675,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC00936.dng",
+   "sha256": "489c820fa0abcb4028e9ca1207ea6acaeb5bdc92bae29e1d09cc185b77546c1f",
+   "p90_L": 71.04507075455794,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC00944.ARW",
+   "sha256": "773bb001db2977e3c402ccf748839e70faa175604cac7c17a7d85389da9e5135",
+   "p90_L": 83.88080398428767,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC01300.ARW",
+   "sha256": "44d9c685ed3c0d96e690aabe5d29bcf6983d166323dff095d46511d6f211f8bc",
+   "p90_L": 36.96556958617,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC01340.ARW",
+   "sha256": "4f002cfe9520d18e0eade97b8baea5b0935c6abc2deea360ec3d87b5d42feb4a",
+   "p90_L": 67.95324049166447,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC02085.ARW",
+   "sha256": "f0e515a342d8021a190d41d0a2d53dc50ec1192bef65e5b412c1322383e1fbce",
+   "p90_L": 76.5178584740312,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC02135.ARW",
+   "sha256": "771dd9019803ad85997c3e9dbccecad8516b5826eb44bb18e253463d2df7111e",
+   "p90_L": 88.04049721935908,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC02765.dng",
+   "sha256": "f42011b074aceae4c3d8fee9a9d4b77cc845af2783169ff0896aa99fc6067c87",
+   "p90_L": 83.46796036628535,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC02810.ARW",
+   "sha256": "aaeb4c918b8ea98dc9c0e95491ccb2a9f1579fa5d2b2c194f3c526da55e9fe01",
+   "p90_L": 61.74175521980948,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC04502.ARW",
+   "sha256": "962d5c701ed26b8c9f0a50c9525bcb12ca55f6ee84056e870d6c8f7d2d81fd5c",
+   "p90_L": 75.31549050606597,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC06616.ARW",
+   "sha256": "b25e3a5df610c73aacf50cd11b150dff0c9b7698c55f80bd956cc6ced7c2d2ac",
+   "p90_L": 67.842453922411,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC08098.ARW",
+   "sha256": "82937f8cea944ff6c97b9b98a7e32a31d94248bd4a0863ce0048997c70a8c312",
+   "p90_L": 82.05230904732211,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC08632.ARW",
+   "sha256": "19ceac7d0bdb927ec7e8fb65a5a090e4924ea79bdeefc3a91e0e9c5cfd5ad2d9",
+   "p90_L": 57.67651120495344,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC08984.ARW",
+   "sha256": "5923fa498838e623e3a488dc1df4a84340306ad7650143fa524649bdc94f0489",
+   "p90_L": 65.99334461303265,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC09245.ARW",
+   "sha256": "75c4ffc8b50a6cedb8457287d1dbb3656908b9ce1d156aca6c6954236d49460e",
+   "p90_L": 75.57701438705871,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC09303.ARW",
+   "sha256": "ba506412f2970e1bcc85b360cd6d60c132e84ef3dc276f7d154a20d964b2f24d",
+   "p90_L": 83.10304126425466,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC09588.ARW",
+   "sha256": "5a366437de1a002b73d178096ef6fcbd2efeb2d1201a12e122afc68a8eae31ae",
+   "p90_L": 91.95765735686696,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC3182.arw",
+   "sha256": "2b9c7b33a8deb9ef7f3828380bf04c5631b0e231f858fe1d1c21b1dd7ec751ec",
+   "p90_L": 66.2421908543802,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC_0011.NEF",
+   "sha256": "e8f0d1af99f095aecdf4e587641b5cb59db9b1240a8fd079ec3e8097a850394a",
+   "p90_L": 28.684937092538842,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC_0039.NEF",
+   "sha256": "56292a49eded6fc7a8ba5da3f477ed46249219692b2207d60f0c695307b3e33b",
+   "p90_L": 44.40303262752737,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC_0069.NEF",
+   "sha256": "63bbdf17b13fa38ef26a51a67e8a09be9c3754fb16ea07a2e410eee334900c76",
+   "p90_L": 70.24262931680335,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC_0096.NEF",
+   "sha256": "f1bdd268a32534734be33c5a401e954524725fd8bf5584fbb66c208028d97be2",
+   "p90_L": 37.23036278628152,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC_0097.NEF",
+   "sha256": "e004211a1f14c71844aa875b7cabdd0510b3bc65c2dfe24d0bcfe57494232792",
+   "p90_L": 39.81911294077833,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC_0106.NEF",
+   "sha256": "299947d3b82ade7a3fe1efbe702768e65634bb00ed91ca8ed5f9f77446022426",
+   "p90_L": 44.739110196322756,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC_0118.nef",
+   "sha256": "cece3230e171dbcfa1252e55b04f2e4b784732476a4e8cb53ce47bbb1afeccfe",
+   "p90_L": 60.06023219766367,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC_0144.NEF",
+   "sha256": "fa0270c4481dc6eb21d78c077b3ed867541f8b94b18a5d89067aef71109f379f",
+   "p90_L": 92.5525698376363,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC_0146.nef",
+   "sha256": "7a80f9ed132c94bde812231278145ecb731b154456a539e75137e9ce793f5df9",
+   "p90_L": 68.73320144622436,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC_0217.nef",
+   "sha256": "feff96cbea17c1cf36f11f59cd9b9b30a07768cee655db68292b947f4ad39fbb",
+   "p90_L": 43.663603683666274,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC_0312.NEF",
+   "sha256": "c3036682f40f8634a2a9985a4c57bd9191f83f87902e6ba8b1c933616806e1ad",
+   "p90_L": 65.88637855878625,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC_0424.NEF",
+   "sha256": "3e3ff76a83c9268faf1190fa99a250bf261c593c32f27b42b79eee8340898c05",
+   "p90_L": 51.98486384134794,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC_0820.NEF",
+   "sha256": "f2043cc1489f366acba30a2843c048b87a412d9fd9e9482b9217175f967ce5b6",
+   "p90_L": 82.98123371107937,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC_2336.NEF",
+   "sha256": "2c34f294efa6d4e8c2dc71aa048046823d20d7a7686793266450c1a95cb243eb",
+   "p90_L": 69.26824200202661,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC_2497.NEF",
+   "sha256": "253c29c271e1d52e29fbbd3287cdbb51a6ca8ce9b15b8fdcf9b3d4ddf05184b2",
+   "p90_L": 58.447148498190394,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC_4230.DNG",
+   "sha256": "e8903c615fba43f70e0cdd3c6649eced4219abb7681b42181aa3855da2c87b7c",
+   "p90_L": 74.88071424009851,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC_5793.NEF",
+   "sha256": "d5133ef1eb8ff4a2bd435c3e235a329836e97b4afa267eeb8476f6ef80c4f107",
+   "p90_L": 87.12037985627646,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC_8373.NEF",
+   "sha256": "2d788cb1f864a0615ebe3bf42dc3b17ae917afd8ef8bf21963ed3f1cf6097cd4",
+   "p90_L": 64.5925736221015,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC_8639.nef",
+   "sha256": "e0f96104e0a7441b9dabc508042c3470c4e17e97c959aa5998532aa052acfb9d",
+   "p90_L": 60.22435363166507,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/DSC_8805.NEF",
+   "sha256": "74890fb23d56093f4746b95f6373b130a7154a01af26ac17d1c51eca438f759f",
+   "p90_L": 95.30209711882922,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Egret (2).NEF",
+   "sha256": "a15db1e25b29970a5d6f0ba27b16cff15cf6682c61a6d0a0ab912608c117d10d",
+   "p90_L": 58.818986408416826,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Free Raw Files - Tag @signatureeditsco - DSC_4837.NEF",
+   "sha256": "1b9cd4347bdbf5196a383997a5c46d528cb3067eef2d360cb7c182ff474b358c",
+   "p90_L": 84.55254750793668,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Free Raw Files - Tag @signatureeditsco - IMG_0098.cr2",
+   "sha256": "2510d6a438fc9fd6df1f6a5042f059e23c2797dd5697dd369c0195282ff0eeb5",
+   "p90_L": 83.2429298984285,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Free Raw Files - Tag @signatureeditsco - IMG_0196.cr2",
+   "sha256": "dd70929aa853f096bf0eaa43b872ffa13ac61fc326f7db55183962e01862cf08",
+   "p90_L": 58.939839363877795,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Free Raw Files - Tag @signatureeditsco - IMG_0874.cr2",
+   "sha256": "74d55f30dcb3ab0d64ea5f7743f3310166ec67b234f69b9c58065721eb4a3c45",
+   "p90_L": 84.89841943546436,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Free Raw Files - Tag @signatureeditsco - IMG_20220608_030235.dng",
+   "sha256": "dc1cddc4e20b485c2f3af95fd1b764f3122101b4cc64591f1dba79d577242f29",
+   "p90_L": 17.24868183013634,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Free Raw Files - Tag @signatureeditsco - _MG_2862.CR2",
+   "sha256": "5e17add748acd96a4e2f6a5f630f16e4263e80a97caa4fbbb2c441a8012ac9cd",
+   "p90_L": 92.20293098372902,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Free Raw Files - Tag @signatureeditsco 0J5A9961.cr2",
+   "sha256": "cdcc6098261a745be1647f5b51ca4575796627e95105b4f358ec5790061481e7",
+   "p90_L": 80.33121592111561,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Free Raw Files - Tag @signatureeditsco APG_0323.CR2",
+   "sha256": "9bbcf0632bdd5a5e0ae3a16e385598e4b0be5cd862d7a89335f3ed6f312c16d2",
+   "p90_L": 78.30152090104727,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Free Raw Files - Tag @signatureeditsco DSC0317.nef",
+   "sha256": "6159aafdbf1b2b33dacc23adb261335082e43363552fc5368f3d765c42f1fc35",
+   "p90_L": 53.885301988883555,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Free Raw Files - Tag @signatureeditsco DSC05972-1aGqJf_s.ARW",
+   "sha256": "96f9ee3a7357553610719c7c62d094775514a302f41eb43bf5ce8e7f4c3fd16f",
+   "p90_L": 55.30677625379496,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Free Raw Files - Tag @signatureeditsco DSC_3500.nef",
+   "sha256": "133c5741e60bd6cfa12550a74f4a801a76376b5ff6795fd1a912025d16083a29",
+   "p90_L": 32.34933854561544,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Free Raw Files - Tag @signatureeditsco I71.NEF",
+   "sha256": "414f8eeb52d457cef2b5f61113a305c58131c39e106ba49f96184614ffd5de2a",
+   "p90_L": 77.95390180449373,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Free Raw Files - Tag @signatureeditsco IMG_0170.cr2",
+   "sha256": "6c130349a2d5a77d1cfdb8182983de2e709cfcefa95c70f0f60e7c5daae10e0f",
+   "p90_L": 35.50261215038755,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Free Raw Files - Tag @signatureeditsco IMG_7775.CR2",
+   "sha256": "fd301ff82107954f3a09e01ae36716744b698a7ccd7147a7ecb19731c877490a",
+   "p90_L": 57.56718067847751,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Free Raw Files - Tag @signatureeditsco IMG_9034.CR2",
+   "sha256": "84f96a48f4493ef0cb51d074400b24d5776fd1acbf91edb6bd73e0b25ab0496b",
+   "p90_L": 36.891220843849574,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Free Raw Files - Tag @signatureeditsco VIS_0381.NEF",
+   "sha256": "03584a6df87519590f332a18ddcd06025c3b57bef47f8d657003230c1427bcac",
+   "p90_L": 52.43631303944195,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Free Raw Files From @signatureeditsco DSC07997.ARW",
+   "sha256": "979411e8a81dace2566f8a89d0deb328b1709f33d6c06ac42b9cac8bf59dbcd3",
+   "p90_L": 87.35616847734234,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Free Raws From @signatureeditsco FIL_2407.dng",
+   "sha256": "336a6fdcbbe6a0b66cb5b439f45ddc46136954795101f11465f0a359f50c95bb",
+   "p90_L": 17.139774553816036,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Free Raws From Signature EditsDSC04840.ARW",
+   "sha256": "10c512e16507c94f5f28faec34c399ac26d1be64f79ceaa9e22ca83020b9131e",
+   "p90_L": 54.48309190193323,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/GN9A4866.CR2",
+   "sha256": "32a495121c7638db9249dea0b9429b61311f03bd3a1b301c9019cc8fb70b2f5f",
+   "p90_L": 87.60520817966133,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Gabemartinez.photography.ARW",
+   "sha256": "995f854539826296c323088bfd036d7a003f5059f22378be57d5c485f772b897",
+   "p90_L": 54.93793188157145,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Greek Sunset.CR2",
+   "sha256": "fac65926fb896076e858671ef7c46b288e136512c7e6ead63ff89e50294930d9",
+   "p90_L": 60.397250427738214,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IG_MuzeTheFuze_DuckPicture.NEF",
+   "sha256": "e1601cf98c4bd3d1eaf815573ab7c9f01b46d3341d5edf1437b773066fc7f83e",
+   "p90_L": 29.798595064459647,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG.cr2",
+   "sha256": "b922c1279d3bc26526395efd7b5b8ff5ffd4efe5819a28ec7602c7a33cf8a165",
+   "p90_L": 86.6389705528562,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_0063.CR2",
+   "sha256": "38e85371662116c6c3bd443cd1218ea32bba78eb309e5d2d638b38708c7d5b3b",
+   "p90_L": 61.01959382224187,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_0069.CR2",
+   "sha256": "5daffb31ab0aca5e2b7394dc58f52afa2b4839c364c71af8b8c5f2e7f6cdc0ef",
+   "p90_L": 38.773057707797804,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_0088.cr2",
+   "sha256": "6041253695dc7a479c0ec1c2056d9be6fec9135eb69224f7476c8fd8a7d4fa37",
+   "p90_L": 52.49179643603279,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_0188.cr2",
+   "sha256": "0a735f621fc93b2c8582a1646cbd17e48d14091b535b3d1c5c291ee713638694",
+   "p90_L": 64.51651769554148,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_0222.CR2",
+   "sha256": "c6b584de38e7151726a11d20bff1ef20d5229819f61305602aedbe908fc1f708",
+   "p90_L": 47.236827607874176,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_0401.CR2",
+   "sha256": "5cf3a0269bd7c48f92438228a4b2362043ebeb32dd1f59a78aa266e8adaaee47",
+   "p90_L": 62.511842571640976,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_0605.CR2",
+   "sha256": "a0e3b0c3f368d8c11e7d39b2f4d364de1f4cfa9110b43b2a527a56e99326e670",
+   "p90_L": 71.83775130018044,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_0613.CR2",
+   "sha256": "864e1a80deb4a79d266269d450d38d86d7a4b06e4487cd61fd1eb48f885ecf5a",
+   "p90_L": 43.303658492928335,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_0893_Max_Ottoto.cr2",
+   "sha256": "3d1688ddc9a8bfe56fd504e4c12b7de9de617c09aeff7f0d74e562b943e374d9",
+   "p90_L": 90.48031291656784,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_0958.CR2",
+   "sha256": "aa48561f960219536d19e6dc1e447b6428c0cf17342df6ace828e40a152b4617",
+   "p90_L": 52.43060513011354,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_1238.CR2",
+   "sha256": "96a9d3fc49a66f4b50d214f3a34d8a0ced2d5a3546baf970941f7f77fb3cb4cc",
+   "p90_L": 89.78915177001431,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_1969.CR2",
+   "sha256": "5bbf31d2f2db762cb8c4ca935b6fef410b10b8cead04e0aea8d703445677151b",
+   "p90_L": 78.12699169786929,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_20201121_104443.dng",
+   "sha256": "f753def64ff2b4ec62a8a593c5c55e2f804edf0ca8af5914ddf9b23192a49d25",
+   "p90_L": 58.195621234744394,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_20201121_140644.dng",
+   "sha256": "aef2e9371feb28c30e814b0aafc7735bdfd9150adf911327cc83c5aa00d37b81",
+   "p90_L": 86.22926133001785,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_20201121_143443.dng",
+   "sha256": "86f68c976b994aa2d618a6a8f44e388ec1c44a83407524e0b961a8606fdf09e8",
+   "p90_L": 76.97950512516323,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_2331.cr2",
+   "sha256": "d67f4dab4ace8a6f5733b0858a43984a659bbf50e36f407c0918438c630687fe",
+   "p90_L": 57.77441822506305,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_2334.cr2",
+   "sha256": "8d55cab6e02fa49ab3e69d6ba87636bec816259cf0236c6da1275c7268d71c24",
+   "p90_L": 63.14450132479174,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_2400.CR2",
+   "sha256": "dd5c6924a0c613091ead29ca88e7ce5553edaca3182deb261439ef0982005a4d",
+   "p90_L": 91.45427945489942,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_2876.CR2",
+   "sha256": "5daa188c548bcdd644cca6714d696881f0e5649f98157eca0e2a8f89e3bab462",
+   "p90_L": 94.58518628245932,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_2884.CR2",
+   "sha256": "06b4c6cc40925e024faaf4c5e5cf70b6e00eaf58d3dd9fec8cde9149de97a0aa",
+   "p90_L": 90.56112321399881,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_3013.CR2",
+   "sha256": "fc53fc4e7423b7659d7dbecccf0a9573aea7bd8c1015ac992f07b2bd30a30819",
+   "p90_L": 85.97920661715536,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_3017.CR2",
+   "sha256": "7f278b38bccb64aa0ea92886cae590856ba9e666409047d267d9cd24a44c1407",
+   "p90_L": 74.55598514150508,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_3278.cr2",
+   "sha256": "28f6718f6b09d18291323b9aca373251caf3104eca666d1a5ae12284a27636ac",
+   "p90_L": 77.7109270796981,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_3968.CR2",
+   "sha256": "1fe2af6db11389422874ec40e21f18f67851a88bf3df0914e716e85b5c711c2b",
+   "p90_L": 73.15782600883081,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_4302.cr2",
+   "sha256": "37bcfa0515912aec382e051f3e456929e89cfddb586fe404b7dee8365c4f438e",
+   "p90_L": 78.37988230321614,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_4370.cr2",
+   "sha256": "60aa991c546514837d4b7aa66c34c2a463a8af04d3ba8d9b322319700b2edb6b",
+   "p90_L": 90.44802036350858,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_4375.cr2",
+   "sha256": "630bfd147a3a69a8c01bb9046dcadc15b458e1aa751c644dfd34ad9fddb4f3c8",
+   "p90_L": 65.15195488837686,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_4442.cr2",
+   "sha256": "97b39519103897f7bfb8fc9965492bd9f72de1bfce381b3aaa86d54bcc18cbd6",
+   "p90_L": 75.89156660852481,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_4525.cr2",
+   "sha256": "0fe2aa8ce3db9196aab1bbbda5f996eb9833e32ba048d7f31487f4dacef25305",
+   "p90_L": 57.80783548880318,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_4566.cr2",
+   "sha256": "abea272297f7ee9c8cb6db0189a0ff2604859248b269a978eba758b10ce7b1d0",
+   "p90_L": 75.5980827832061,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_5342.CR2",
+   "sha256": "19ed10a9f223d5deaf9309cfb807b84105053fc107bc523baec5cdf352d5e36f",
+   "p90_L": 78.7128651938057,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_5610.CR2",
+   "sha256": "16cba59d7f4f4e2086b64d25b1899ad2c6ad0609ac3575a724629515d0ad0af5",
+   "p90_L": 51.00221388357396,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_5687.cr2",
+   "sha256": "b517e89563d1b4a368e6d4e04771dc85b1e2bbaf51cf412191a332767418df15",
+   "p90_L": 96.45578707858452,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_5823.CR2",
+   "sha256": "b7990e26cf25e8de1e370aa4fa62f0a0f1f3f7c53ace71f572089c24ee81f1d7",
+   "p90_L": 53.088142291209785,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_6484.CR2",
+   "sha256": "2853254b1fba42ab37ce3a319814e7ed0cb5038a796df2b56d5c3882db8f50c0",
+   "p90_L": 58.380958363335566,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_7388.CR2",
+   "sha256": "44dd21a9b705bb920dede12c8f5b0087d41678b84dde00c50fb0a3c457fb9424",
+   "p90_L": 75.1247159276257,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_7495.CR2",
+   "sha256": "0ed65f1923b881cd09b07d73732ee9bf3b996a6302f6490ccd288cc89d4f7957",
+   "p90_L": 83.12550180892967,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_7822.CR2",
+   "sha256": "fded7b1f0515163b853a13a79705f5ba3b4ec10923b73bf9f643220e94190d56",
+   "p90_L": 48.1984507165902,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_7827.CR2",
+   "sha256": "aa66c6a2be4eaf76b84f6391a4570b088f8030a64921a2e08d03d5457b3cf9e4",
+   "p90_L": 89.66182186868227,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_7837-1kok_KMB.cr2",
+   "sha256": "02717156f67fdc7007758286e66d5ebd8f5af75ad2a748ab2365d61f1320fb02",
+   "p90_L": 74.3427873479507,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_8016.CR2",
+   "sha256": "0a008a2700cdade305ee7103526f4f2c7fcb4cba90c5c89a4a4ed39cf5b15e3c",
+   "p90_L": 89.9380332626911,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_8684.cr2",
+   "sha256": "b0100125839135407228c808ac591fd1e6b0ac2af7ed882a837e7ca4e9abe468",
+   "p90_L": 82.40426160407505,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_9087.CR2",
+   "sha256": "1ce800437163d6cb3e0b3bc46a4316ab932768402ba2a0cf82af27e9e4ecd39c",
+   "p90_L": 73.42840519982477,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_9940.CR2",
+   "sha256": "56ab58ce4bcecb90a7172f9508e7ca6148efaca9997ae0c1ee9f70bf00855764",
+   "p90_L": 72.8695972059486,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/IMG_9982.CR2",
+   "sha256": "2eade757c76fa41d3b01bccfe9e1d765859a69877c1501eb9ff1eee56a14769d",
+   "p90_L": 69.5392788464623,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Instagram----dave_design_official (3).RW2",
+   "sha256": "abec576d99ffedda5664a48966b223ec29c2a8d958cd0e5e2dfd7710017ef737",
+   "p90_L": 75.11630470058523,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Instagram----dave_design_official (5).RW2",
+   "sha256": "fecdb5a298542e41c297577094b824a50f7d752599467d6dd00d757e588f1e60",
+   "p90_L": 80.29225951919223,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/JaroslavKriz33_IMG_3475.CR2",
+   "sha256": "932111174e3db1fff96cb72c65ddbefbd1dd8635eadf68744f303bd45ebeb8d6",
+   "p90_L": 86.16448888687685,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/JaroslavKriz33_IMG_3530.CR2",
+   "sha256": "5995503b78f4e661fe529594128db17b60696a250903c7451d2ccded0d974d57",
+   "p90_L": 55.9521989798563,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/JaroslavKriz33_IMG_3597.CR2",
+   "sha256": "744eea8d965162849bf57b13f9f79da44453aae6d19c431ea2ce17ed06144fc7",
+   "p90_L": 84.80521515754904,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/JonasLeiner_1241.CR2",
+   "sha256": "3d10d3d5648612fc3973c7d4bfeba673a2dc7be7c37fee1414cc3fb286cec903",
+   "p90_L": 76.0052353893005,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/July_mReKo.DNG",
+   "sha256": "8d36e49e61e1bc70e9cf1e324f8b51cdf13d43bfb71a3cafa3bccdc4dc9a8e15",
+   "p90_L": 89.1083781886157,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/July_mReKo_002.DNG",
+   "sha256": "e5d9b5ba519f8abc0126d03fabe72508d4c3d8c5d45b22c1007ec0dce26160a4",
+   "p90_L": 88.35092438025104,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/KaimanPhoto_img3.NEF",
+   "sha256": "ccc11928582893c3f516461b96f8b6571d64f8f2d8f9e205a3077421d0581055",
+   "p90_L": 66.62113675534741,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/LAR04672 - credit @Larson_Ryan_Photography.ARW",
+   "sha256": "fb232ecc20e88a9309d4044326fb6ba5407579e46c2807d159d4f09df45601a5",
+   "p90_L": 63.203678425780154,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/M4_24117.CR2",
+   "sha256": "170aa36db600207d4d37b7c14b835cb876cc414968a504160b3e9b5bb6bf5460",
+   "p90_L": 90.78639714403866,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/M50R3197.dng",
+   "sha256": "ae83bb3ad7d71c3b80a247f514ffe316510dbc8fbbc0c1ec18bd429f743f4515",
+   "p90_L": 57.20962863505874,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Mthembeni Mavundla (2).CR2",
+   "sha256": "ddc0a86b9ee24872dcdd67ba689dad2b6a2aee8c13e3a761e255d39427ac872e",
+   "p90_L": 5.354358717575379,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/NEF_8282.NEF",
+   "sha256": "6e5dca6c1910c2d1eb27280fd2dc9bd5ece0a2a42251a27d03b6a77c6bd94856",
+   "p90_L": 49.38187487457355,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/NightPhotosMadeEasy-32.ARW",
+   "sha256": "6f64785e8a638035dec2777207b3cec83eaf3ba2ce65aa98c081c7a802fcbf27",
+   "p90_L": 29.646409051377674,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/NightPhotosMadeEasy-4.ARW",
+   "sha256": "dcb2a83c4180aebee7730b831fc4024843f0f4b67472591f128331d814a7a9ab",
+   "p90_L": 14.546297676705468,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Nikon-D750-Shotkit-7.NEF",
+   "sha256": "72cd7126ef0af434bba8aced97bdc3c6fbc1d5343d0c4711cab2af3b9ccc151b",
+   "p90_L": 79.92706956805426,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/P1000904.dng",
+   "sha256": "2fb3caf8d351fb617ab4bca4a2f128cde72c062db14a5b65d751f4bd7d5de1bd",
+   "p90_L": 93.20645695770929,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/P1011433.dng",
+   "sha256": "a12a60073f4394782742daa5b30298b22a931e2995c34087bf392d055fb9d491",
+   "p90_L": 86.18686294003138,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/P1011574.dng",
+   "sha256": "04d1d01573ea14986601c5fb61c20cb894e28064b5c2194d2752d88cb34dc6a5",
+   "p90_L": 77.81709404466207,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/P1011585.dng",
+   "sha256": "554faf17c23686094543b8f9b4b5ad5f40e3e427675443ea264929650e0ed6ac",
+   "p90_L": 93.9696970475658,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/P1011659.RW2",
+   "sha256": "1c4b50fcc9060778c3ca83623a48049c9d9ecbb5e77dd5f744a4fc12e8deafee",
+   "p90_L": 75.8635815521896,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/P1011740.RW2",
+   "sha256": "31aab1055a0a8830a07e05c0e23a4d4629dbce4d2beb72e6e89a746ebd466c10",
+   "p90_L": 87.15925623337368,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/P1012360.dng",
+   "sha256": "19c008740c0bc52aa7bd3f10a14ae2256edadd4ca6edd9a916b94aa5b00271b9",
+   "p90_L": 64.74035949295303,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/P1012619.dng",
+   "sha256": "3bf6498793eb75a3d7713ac98df682bae0ce58f283a519abdd7c5647d67c378d",
+   "p90_L": 71.64344103480659,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/P1012775.dng",
+   "sha256": "0573c6c1a817239db6b0028bb83291be5cd250143ee9f9e9faa870c0e513d0ec",
+   "p90_L": 53.79426637890456,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/P1014581.dng",
+   "sha256": "98a978249b69fbeea36e93e8f224cf2f7900edcadde7280732cc04c0f199b8ea",
+   "p90_L": 84.63103563951617,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/P1014819.dng",
+   "sha256": "9f63ccbd14d3afd8fd82ceefde448bec5a8262a9d492f504455e818faca3ab3f",
+   "p90_L": 84.38322154573899,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/P1015288.dng",
+   "sha256": "1860202e66858d1087fe2049d420ac2068f21ea72fd46724a7ad5085deb50eec",
+   "p90_L": 62.25797321173595,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/P1015318.dng",
+   "sha256": "3c28b5b3e4aea5e7fd737fab96c55e0a3620f7f02b77a1bce5423e699c921b22",
+   "p90_L": 69.47422184155393,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/P1015961.dng",
+   "sha256": "c5b426eb4d1fcf8532487ad7d69e6242ba188de1fa7ea5310c28d10808c08bb5",
+   "p90_L": 79.45186746604972,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/P1017210.dng",
+   "sha256": "6fe7c0d49259cc5748ecca795db6e2aec9b207f4a114473071e502e01d6656e8",
+   "p90_L": 72.61836357095027,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/P1060804.dng",
+   "sha256": "3e4c98e040fb150c6ea4723b53d46a5c7fc9e74930dc8194d37d8c686c73f8c3",
+   "p90_L": 67.17267458754951,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/P1061136.dng",
+   "sha256": "1c0383f0966a73d2600b371a58427516e26cfb094276f90cd246042e6ce0a7fd",
+   "p90_L": 84.32988665867738,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/PANA1405.RW2",
+   "sha256": "8c43060167323767a70420e1dd36b2209caaad055d0a37e47c6296d35d6be01a",
+   "p90_L": 65.65096641383931,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/PANA1695.RW2",
+   "sha256": "a2bc1b01f65f0de784a3f7086d6f03754496a2ba285a67654ddbac42d97f4ca0",
+   "p90_L": 88.20991526213254,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/PANA1810.RW2",
+   "sha256": "6d343613e9c2838b3b0274244d6055ef7f471002251fc370bcafe2d1560436e0",
+   "p90_L": 89.35152346172652,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/PANA2569.RW2",
+   "sha256": "6d459497962df5f508413c61001af11a2fa6e517bc5d945961b12834686f3e8a",
+   "p90_L": 80.03743326851615,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/PANA2592.RW2",
+   "sha256": "072fabc7dd56f40cffb3a6dcc3ff18cf0c1c6b4d8eccb86e1b2659237b93ef8b",
+   "p90_L": 93.80401397125098,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/PANA5062.RW2",
+   "sha256": "246b4648f1009a62fea7a6b1359496d42d51497e6590253ca0906d66402ec8d1",
+   "p90_L": 67.21096162971061,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/PANA8450.RW2",
+   "sha256": "1ffd9df19312694651a6f11916b765b25f07e63686bf7aae7f03559be3a7c60c",
+   "p90_L": 87.42401551903025,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/PANA8507.RW2",
+   "sha256": "4da6d41e2df122e1048599248fdb37ce37f2a7b501aba48f026bc8a9503f4cd2",
+   "p90_L": 74.99937054560932,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/PANA8679.RW2",
+   "sha256": "dc5361099bd205a7bcc82868766098fdcd37774d4f754f3c298edcf06b78f6c4",
+   "p90_L": 36.938062562568895,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/PIG00203.ARW",
+   "sha256": "315fd95b437399f9e706c93282e70c11bcc8cb0ac65248982f3ae6b31a81e0b0",
+   "p90_L": 69.53697009925946,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Paradise Beach LarryO photo.DNG",
+   "sha256": "c386e187c646dca2f4c2f97467e7d9c138760c6b819061977f4eb05f08dd83cb",
+   "p90_L": 78.54877156136152,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Paradise Flycatcher (1).NEF",
+   "sha256": "3cacaad5b94143b7a4be02aabd09e596bedb1728b43069b6471ddd689836e686",
+   "p90_L": 74.7826251868039,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Paradise Flycatcher (6).NEF",
+   "sha256": "68d6d70897925299c08a349b5c8f040570ec7243f207b4c4f10465a3df3ba876",
+   "p90_L": 63.71255463970696,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Photo Credit: @ryanbreitkreutz - signatureedits free raw files_DSC0026.ARW",
+   "sha256": "767d0587f8eb34907bfaca3a7293633a966c84bed6bedb4c0a078c51e79a66a7",
+   "p90_L": 95.36118236297546,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Photodesk 15.NEF",
+   "sha256": "57ca28e95419885fae9cea13275441affc36f546752094ade1dbcca026102ed6",
+   "p90_L": 78.87130906356143,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Photodesk 20.NEF",
+   "sha256": "14f951cc72325fbe6143436cf13630e4a8eeff0557e0a2150046f249d8853ea3",
+   "p90_L": 13.20468236320793,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Photodesk 39.NEF",
+   "sha256": "f9309c1c6542f7a0f422f558b8b0f0bb11e4922e6534fa1e648a0523e7491723",
+   "p90_L": 44.94255787684897,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Photodesk 7.NEF",
+   "sha256": "55a3dd628c9fada06686a84334bd87b7bcc41f2627bb34854d956fc451f5bb40",
+   "p90_L": 38.63941901234627,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Pied Kingfisher (1).NEF",
+   "sha256": "a1c554926e76c3265a887d9866c0d151975371681e86972a64a3b027e6d4038c",
+   "p90_L": 49.810171254903416,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/REDX.NEF.NEF",
+   "sha256": "7eccf39167e2dfd3363696d809e070d062ec27b54754087ca4d05105e1eabd1d",
+   "p90_L": 53.751833926362636,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/RYN03000.dng",
+   "sha256": "22a9f37478c7061207d83ed8a96ce8c56471393c8d0f38c445bb69bafea2f9ab",
+   "p90_L": 83.22840197683769,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/SDP09605.ARW",
+   "sha256": "a6ecc3afc9993c1ea5b32542edf7e94b7056014cdf69d4daa24224b8cf4ca130",
+   "p90_L": 62.551449488891095,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/SE Free Raws - Credit_ Olga Brianskaia I53B7878.cr2",
+   "sha256": "778c8e902130a11eeb6611fda1f5512add09e75eb5cfb12a21aa7738a6b2dc73",
+   "p90_L": 77.16330015656688,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits Free Raw Files - Tag @signatureeditsco C66A5959.CR2",
+   "sha256": "6c93882fdb9c9f6dfabc2716449b9d1917d4df73e12a492b8d1e5d752c2835c7",
+   "p90_L": 87.95564751349133,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits Free Raw Files - Tag @signatureeditsco IMG_0913.CR2",
+   "sha256": "e818472b34fa4f9b710780ee2ffec732d3613b795aabce0d085144ec0aa90514",
+   "p90_L": 38.23754753183514,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits Free Raw Files - Tag @signatureeditsco IMG_9517_CR2.cr2",
+   "sha256": "3b3761d26e42173d78cdf500ce103848c539c2901b84c14de58e00ca6885fa48",
+   "p90_L": 65.33987408518017,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits Free Raw Files - Tag @signatureeditsco _DSC8336.ARW",
+   "sha256": "2d4958c32c3a45e205b68ed15e081bfaba120d25f3c3ddd7eab1489b0d1fadf4",
+   "p90_L": 61.46723835543713,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits Free Raw Files BNL_1333.NEF",
+   "sha256": "be864962047ec78fbf354a23b942336c9aff47da4a3128c88d9f9ebe5500f296",
+   "p90_L": 67.33504788800087,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits Free Raw Files _MG_0212.CR2",
+   "sha256": "9e591718530bf381017616cbd8cf9a33be3bb4d1af68c956342698b25c035c70",
+   "p90_L": 89.26406296894419,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits Free Raw Photos - By Tawny Horton - 5E0C9510.CR2",
+   "sha256": "d23af8b6a69b9ac6d76b3615151f438ff65684f772b7b0342e1ce4e9f8001246",
+   "p90_L": 54.86943917854254,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits Free Raw Photos - DSC09127.ARW",
+   "sha256": "0c4cc1aff1bca9674fb665dfebe4120e00afda8b9a52bd8092559cb42084e2fd",
+   "p90_L": 78.05212168171349,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits Free Raw Photos - DSC_0904.NEF",
+   "sha256": "8f66a2fbf5d846cd65856354fa86e9ef3a8afc5c8a4ff6036baf3d75a20c17af",
+   "p90_L": 81.2321653126825,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits Free Raw Photos - DSC_2470.dng",
+   "sha256": "3fbc4422aa9523d7e1fc234996460ecc5a6a2458162f70bd91c0117d0d0b68a0",
+   "p90_L": 37.46964332892568,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits Free Raw Photos - DSC_3147.dng",
+   "sha256": "ab1d9db4e88e7cbac180436e472644432751430090b121bf2db9d057daf8994a",
+   "p90_L": 81.81145613541291,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits Free Raw Photos - IMG_3159.CR2",
+   "sha256": "81e4336a7744cc0f725a8f174109fdab5dd8fb471808d98a416beb77748cc881",
+   "p90_L": 70.0770317242501,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits Free Raw Photos - IMG_3635.CR2",
+   "sha256": "ae7b6d31aafb0ab6f08838b19a441210de6bbf106f7d2ca0e88667dd4e4e49c5",
+   "p90_L": 20.683156887383735,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits Free Raw Photos - IMG_4649.CR2",
+   "sha256": "0fb620f8a2c36ce7e3cee32ae7fce467e9cffb4c6f1b5016c0f8dbd2879bc17b",
+   "p90_L": 61.17938843396729,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits Free Raw Photos - UPI_7357.NEF",
+   "sha256": "53413de5a735ba4b9546c54e4058e839811790ca28ac75497e68de07e16b2404",
+   "p90_L": 86.73309411599332,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits Free Raw Photos - credit @flaviosantts.CR2",
+   "sha256": "8e6a199d24b4b5b1c9cd33a67dcc9bf153e270d18d01ff330cc6784719586c9c",
+   "p90_L": 55.83152134284411,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits Free Raw Photos - credit Naranja2150.ARW",
+   "sha256": "02a88a0c7e466598d3b4e04f8c480a72845703a4a4ddee08393d9ff671122f8b",
+   "p90_L": 59.89475116296802,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits Free Raws - 1 (103).NEF",
+   "sha256": "3ee510044371f45dffaf78d77d76fbb59393fb01bc10ec5519e359bebddbcad0",
+   "p90_L": 61.98264216960476,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits Free Raws - DSC_0234.NEF",
+   "sha256": "6e3c1801577133d8bcfe135d7899ba5733dcee7eeeb42ff0d445e147878eed3e",
+   "p90_L": 23.341335179583158,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits Free Raws - DSC_2146.nef",
+   "sha256": "3aff8259979dae33292571a44df56c3c3f50c248a21c314f4ad89d01676c3431",
+   "p90_L": 88.50093703638136,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits Free Raws - GN9A4683.CR2",
+   "sha256": "1181bb2ba945c187a1df97ffcbd9667c72fd6b76bc01048d138ba47c16f2af9c",
+   "p90_L": 81.68241296868159,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits Free Raws - IMG_5360.cr2",
+   "sha256": "c8d79585b4a85c6d314a1ebd6db39772ce29d20b92beee37a8dfb0c253ebc8da",
+   "p90_L": 72.9066602598969,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits Free Raws - tag @signatureeditsco - DSC_0032.NEF",
+   "sha256": "993deffa1d0d16f75a46810f1b93950fb795cbc43bedaf3fad655d69240b81b0",
+   "p90_L": 63.0127764021813,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits Free Raws - tag @signatureeditsco - Kayla 357.dng",
+   "sha256": "54941a2caeb964fb1eb6e2350a9d375e0a9339dcc4855b2f084f38ab983f351b",
+   "p90_L": 75.44951023943656,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits Free Raws DSC03851.ARW",
+   "sha256": "efb3e7251f7f75b2aa03d80761fd80fa8b97a456aca9a0901ef41d806008ae4e",
+   "p90_L": 63.13149342725108,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits Free Raws IMG_0027.CR2",
+   "sha256": "ce5ce87937750c958eddf4b5bc702bd85363f9bb8d7c2ee026b4112be67cd30b",
+   "p90_L": 56.36279531362729,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits Free RawsIMG_5824.CR2",
+   "sha256": "971b96b3284087cb3e07a99af3af1e6e664a29249436ca139277cd8fbdc2e1b2",
+   "p90_L": 45.124042921114274,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits Free Raws_FSZ4703.NEF",
+   "sha256": "c88d5133f231da069f4a52c2eb395a0feebb8f95cff9c34bfb60070218ba4cc8",
+   "p90_L": 66.61091541248757,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits free raw files tag @signatureeditsco IDSC_7774.NEF",
+   "sha256": "511b33d11f51b0055eb6d46de63ac3418b4738e1f9bd7baf326d7391eac5750d",
+   "p90_L": 66.75355066224495,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits free raw files tag @signatureeditsco IMG_1566.CR2",
+   "sha256": "d50b15f247f97600c23d2f7092d4731a477dfdcf7d29b870e86a50e1bf720106",
+   "p90_L": 51.566940484037836,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits free raw files tag @signatureeditsco IMG_4563.cr2",
+   "sha256": "50461de49480a6d98133de58538fa70d32aa4deefb6dec4ff0436352c897c9a6",
+   "p90_L": 58.54460851439617,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits free raw files tag @signatureeditsco IMG_6226.cr2",
+   "sha256": "1bf2123066d157af55d46b7c94bbdf0317c5f47620c81395acb8c60e87e35633",
+   "p90_L": 48.690012117230864,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits free raw files tag @signatureeditsco I_DSC1721.ARW",
+   "sha256": "29a2d5513406fcf166f6fdef632b90a831aa7557a710517f04cbcfd5a0e742cd",
+   "p90_L": 80.90497831287227,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits free raw files tag @signatureeditsco RAW_0833.NEF",
+   "sha256": "01fca435809587d48fde50d724144c28333317c086a0f4a1306768f3c0746ed0",
+   "p90_L": 74.47450978473184,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Small Pratincole (2).NEF",
+   "sha256": "a566e5fb6a44a013c683763f942a3e83706e405cded0f5ef0a5ea0be808257e2",
+   "p90_L": 66.51971937953923,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Soobatan-6.CR2",
+   "sha256": "e9b3280a23e7ece1a7dbd5711bf5b8ca64522b8a13e96f5e5fc27b605b5818ae",
+   "p90_L": 58.48474151819279,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Spotted Owlet.NEF",
+   "sha256": "468c130f31c6e02d76e8a1afd3a6285310b7b281b8e542d9d564d70cea47f8a0",
+   "p90_L": 48.0118587978962,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Tag @ryanbreitkreutz - Free files from @signatureeditsco DSC00784.ARW",
+   "sha256": "4a45c294534940b9a9ffcb812b7196592e96ad1cb6f1d9cf45b7dbd1588887c0",
+   "p90_L": 59.9639449429161,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Tag @ryanbreitkreutz - Free files from @signatureeditsco DSC00841.ARW",
+   "sha256": "5f882caf3dd79e432571dd84a7f7a5bbd58108e9b8cb6fe6b51391d2cdaacf17",
+   "p90_L": 1.770271627178426,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Tag @ryanbreitkreutz - Free files from @signatureeditsco DSC01446.ARW",
+   "sha256": "6cb00c498827522b04b6ff340dad533883b1089d5fe76ef503056b50f69a648b",
+   "p90_L": 45.548518778992936,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Tag @ryanbreitkreutz - Free files from @signatureeditsco DSC01943.ARW",
+   "sha256": "6f445d7d847ae6d7e8dd2ec92def1804fb187cde2d92c763b2c83e9af3b1d577",
+   "p90_L": 81.57945612713307,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Tag @ryanbreitkreutz - Free files from @signatureeditsco DSC02200.ARW",
+   "sha256": "2973a3e89e9b367981d1c547f88f949eac85a16b1eac441b41c735f8f1429503",
+   "p90_L": 84.59460203436315,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Tag @ryanbreitkreutz - Free files from @signatureeditsco DSC04325.ARW",
+   "sha256": "accdef4ab3ca7571f61fc4336d03eb286e49ec65c3f3db19b7bee77f53dfd1b2",
+   "p90_L": 57.435123691295566,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Tag @ryanbreitkreutz - Free files from @signatureeditsco DSC04870.ARW",
+   "sha256": "e2e1f0ea3c7f8b75da63cfedebf01f80df674959989f99d22bbe3caff44af8ac",
+   "p90_L": 16.399625658110114,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Tag @ryanbreitkreutz - Free files from @signatureeditsco DSC05627.ARW",
+   "sha256": "e5d3ffae3eb0596b44d945858322fce9a6efe8b03cf687e74fd8ed7fd3972756",
+   "p90_L": 68.52666939972742,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Tag @ryanbreitkreutz - Free files from @signatureeditsco DSC07126.ARW",
+   "sha256": "142d6b48607724aea500ac64929e9df1ac7de0178065f0e09d6030155ff60eb8",
+   "p90_L": 80.6799965641431,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Tag @ryanbreitkreutz - Free files from @signatureeditsco.ARW",
+   "sha256": "3225df3fb590bc3509d49bd64ea29666cde471d23f0af31842b1a856682e9355",
+   "p90_L": 55.34192603270733,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Tag @ryanbreitkreutz - Free files from @signatureeditscoDSC00830.ARW",
+   "sha256": "4b195fdcab09a189ada85b5a4c4172e62f1155944c56c91d954672a7929bec4a",
+   "p90_L": 29.239594822254933,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Tag @ryanbreitkreutz.ARW",
+   "sha256": "c60e1f88075bee4a0bd59754f586eabc7f78af1d3734b98dc1bad7991d308970",
+   "p90_L": 83.62250339745074,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Tag @signatureeditsco IMG_2766.CR2",
+   "sha256": "6d0ee2c03efc1696a09c2cf2d4122106ef37a3dd894b44f4af3fccb81b41fcd1",
+   "p90_L": 82.75108807369607,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Tag @signatureeditsco IMG_6206.CR2",
+   "sha256": "ed0bcdf70da1e676d013c2cb8f9f99b3832f5ea7cb25d4fba4fc9e9e22f2974e",
+   "p90_L": 56.89048484218191,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Tag @signatureeditsco IMG_6230.CR2",
+   "sha256": "9c2b123612a690ac64badc5c012973af0ca739caf45e2020e34d3e32b3f5e077",
+   "p90_L": 94.58949592484565,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Tag @signatureeditsco IMG_9170.cr2",
+   "sha256": "09a4b34045a54dfcdd73f2f4cfb3cae8f3d105f95ccbddd7f631af177c59d2e6",
+   "p90_L": 89.9633234427903,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Tag @signatureeditsco LAR08174.ARW",
+   "sha256": "e96a018b06d8d9ff65d13b40d58e24467e49c186de001a672b51a2b7c8f4ee39",
+   "p90_L": 77.59661500603828,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Tag @signatureeditsco LAR08325.ARW",
+   "sha256": "046f4b47d8152a73e9f791c46e9e9481128a2317e427122e24ab9ca2f4a8b9b7",
+   "p90_L": 81.33712252027524,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Tag @signatureeditsco LAR08417.ARW",
+   "sha256": "dfad3f15fbf2c93add0f2f36ad0481e558281a05cd40c8b1cf2cc580360761e9",
+   "p90_L": 71.0130069414449,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Tag @signatureeditsco _DSC7400.dng",
+   "sha256": "b989c3528e5d03615a5884e39fe26cf1b37849588aca1f70bf2d578e6149ec1d",
+   "p90_L": 91.58624856640596,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/Tag @signatureeditsco _MG_1152.CR2",
+   "sha256": "dc15c382798f72dd814b84ca114123380ab7fe3031654cc220423d45ef158f64",
+   "p90_L": 69.67116143795496,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/WilliamMitchellPhoto - Signature Edits Free Raws.CR2",
+   "sha256": "2724ab0f165c9f8b8771ba8aa1b5fe5f8a44573dfe8393391d5d62b86f56035d",
+   "p90_L": 82.15218330937071,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/_DSC0486.NEF",
+   "sha256": "5b48c09f204542f9d699f14c3f0a3816545f856c04df485b90808ab7daaa9c28",
+   "p90_L": 80.39225753795503,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/_DSC0580.NEF",
+   "sha256": "31aa708a3b55499fcca40a04336567c235cebef646abc93e344764b0e9dd1d31",
+   "p90_L": 12.946647063881416,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/_DSC0709.NEF",
+   "sha256": "f223e7702568166eeb7a2ab63d16530abfbf960df79c4dd4119c50642fd495e2",
+   "p90_L": 91.26335255865708,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/_DSC2331.NEF",
+   "sha256": "0ca572433311e8bda4ef5f013873eb122e59c1fc664c2a6e9391e064849fb7f0",
+   "p90_L": 43.7375088817188,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/_DSC2714.NEF",
+   "sha256": "674bece60c1a6611b908401769a28ab6d80904c6d5280faaa486fe56e5f9a7b2",
+   "p90_L": 86.41416636207033,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/_DSC6075.NEF",
+   "sha256": "a7480345996a3451b98c0c480cb7bfa8a859e64536d0c9c9f66ef308f3762c87",
+   "p90_L": 56.88282449527889,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/_DSC6411.NEF",
+   "sha256": "39edc415c4000ca7daee5f1a33d4fb59cd65ce5473956e2c579cedc2d28777ea",
+   "p90_L": 54.559640943663105,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/_DSC7300.ARW",
+   "sha256": "0f40581b8a3fda6ae522b2b79c4c90ef9d529187b06ca487d66da7d01e8f76a4",
+   "p90_L": 39.70552264907422,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/_DSC7315.NEF",
+   "sha256": "5842bc6349227498f2d98fcef16e4c9f9b2c64c5ac346bcfc9bf0a1fcfc7d4d6",
+   "p90_L": 66.81565001728048,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/_DSC8160.ARW",
+   "sha256": "70aa6490d913cb2fbe97c5f90bc38e861693174e4607be93c64a2424f72b3cba",
+   "p90_L": 70.01566414227877,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/_DSF0538.NEF",
+   "sha256": "70f5e7c6f23557da19ba030d6c2ed2f25357c2188a70b5e87bb35afd53d3f761",
+   "p90_L": 55.42270746545223,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/_MGL0190.CR2",
+   "sha256": "96bc8535d074f9711ab38424ea30eb27aa92f6442140d28366492826396dcaf8",
+   "p90_L": 29.363501239883057,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/_MGL0192.CR2",
+   "sha256": "0201e5a2ce31e3d61af5db8fbaf97cc2e09a83e26942e4cf2c907cbf907c03db",
+   "p90_L": 13.525838321925468,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/_MGL3114.CR2",
+   "sha256": "060609c6084d9040689c8550c7c1f31f3ac3469675c6bcf2b950fb798ee58f7f",
+   "p90_L": 59.68124837128452,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/_MGL4739.CR2",
+   "sha256": "2cbb0a908d830992b5d5c4ac4137a6c4be6a7cb382f6b0ef3d3c15df51464417",
+   "p90_L": 55.98124594420303,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/_MGL4794.CR2",
+   "sha256": "0bc83450d4babf34cfdaeebfcb79fc6368031691b6d23e8ca3c4c42f0f7bc104",
+   "p90_L": 95.21930335226106,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/_MG_0530.CR2",
+   "sha256": "df7b1088ad6b092a81e808975820210ddcb447ef14d4908bbc874048fb5eb955",
+   "p90_L": 91.05086525696761,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/_MG_4128.CR2",
+   "sha256": "36ff97fb9c9b51478a2b1bec69429944f410c81e51a4e9f773e598961598409b",
+   "p90_L": 72.86962747922384,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/_MG_4332.CR2",
+   "sha256": "8813edc18cbfcae14b3550bc6866ef3cb2139f4bf509d9bce92fde35503bd610",
+   "p90_L": 89.61994006709,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/_MG_7267.CR2",
+   "sha256": "a5f3ef8b58b87d13127178f846c639b62bf3800808337615a07d1ec710464f07",
+   "p90_L": 75.40572234084888,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/_abberto_._ on ig.CR2",
+   "sha256": "c96279b979f722fc101467299c6430649f3cc0af6ddb1438b3ea297014582d20",
+   "p90_L": 45.85038255737236,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/ag @signatureeditsco - free raw photos from signatureedits.com _MG_9942.CR2",
+   "sha256": "ece448b6540f3a4612dfae0578fd80f875c66b447b134261ab6c1a71374dcc4b",
+   "p90_L": 64.08149520164325,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/alex.pekhenko.NEF",
+   "sha256": "0219ecf6c45d0e1193f81cf33e893e8e94c96346e0f600bdd21e1029a1eb8b13",
+   "p90_L": 95.3054504798071,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/credit @arielsan_m1 - signature edits free raw files.CR2",
+   "sha256": "4746b0cef348ed91011da60ffc4553a91542f73736c2888276f11cba7ab7ce65",
+   "p90_L": 38.32170964993904,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/credit @ryanbreitkreutz _DSC0089.ARW",
+   "sha256": "edb01121d79ff7dc3be80b02f7e4bcd2bc63a85ff5bac543bac74a164593d86d",
+   "p90_L": 44.931805306896464,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/credit @ryanbreitkreutz signature edits free raw photos DSC00051.ARW",
+   "sha256": "554e14520d37bb4ddc697251955fb8f0d086a0f099db115343bfc4c323e3101e",
+   "p90_L": 83.83866119386265,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/credit @ryanbreitkreutz signature edits free raw photos DSC00715.ARW",
+   "sha256": "441cd2803189c7e6f412028fac52072ff87e45ce2523a8ccec5fc98b477e77d8",
+   "p90_L": 48.120271817718226,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/credit @ryanbreitkreutz signature edits free raw photos DSC01021.ARW",
+   "sha256": "91f67cb9ffed5be171f73c234cdc14e7d515dcfbc0a0cb0431a1f3be8a82828e",
+   "p90_L": 88.11513192722279,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/credit @ryanbreitkreutz signature edits free raw photos DSC01153.ARW",
+   "sha256": "5dee4eb2351133d6947bcd1a7c66d349172fd40c0baaf07f2212ee15627cb350",
+   "p90_L": 16.251516174879033,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/credit @ryanbreitkreutz signature edits free raw photos DSC01175.ARW",
+   "sha256": "ff08f456d026f01481f313d5c514a35487b741cf5acf862edf1974cedcd86cdc",
+   "p90_L": 65.73264557645356,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/credit @ryanbreitkreutz signature edits free raw photos_DSC0166.ARW",
+   "sha256": "7703804c1cb7b2a68efc2d78080392ec9f2a80f403ec6b5ef0927832061ac270",
+   "p90_L": 90.23070453710258,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/credit @signatureeditsco - signatureedits.com - 01020304-3.dng",
+   "sha256": "e2537b006746e7ab539307a117a40398a6b97cb11f0792d8fe01911311e22ddc",
+   "p90_L": 76.05301177834006,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/credit @signatureeditsco - signatureedits.com - 01020304.dng",
+   "sha256": "96e82feb5d790e4ae3706e8fed75c5bc73d1a7b514d640a739a2715587fc7a32",
+   "p90_L": 83.26046687718737,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/credit @signatureeditsco - signatureedits.com - FB2A0416.cr2",
+   "sha256": "260a6ff1d0d2a30196686bdf1edbecfba2bc3ccf1ffa957bc19715fd16ebd597",
+   "p90_L": 74.55111046703516,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/credit @signatureeditsco - signatureedits.com - FB2A2273.cr2",
+   "sha256": "e4fdd792c9eb1ee7a70c12a43bf68f9df2c61b0e40085b85e9682ba6554e0cb5",
+   "p90_L": 80.3856399962235,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/credit @signatureeditsco - signatureedits.com - IMG_6208.CR2",
+   "sha256": "ae2d9979ede77138dc88dde88b2e9def6682f60588a4880e5945a1d0ab3d08e3",
+   "p90_L": 51.547943393124754,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/credit @signatureeditsco - signatureedits.com 2C8A1446.CR2",
+   "sha256": "62b6b7f4ae975f3346c91feaec8a33ca554bdeb1fb1ac6ef7c88ccf54e811bf4",
+   "p90_L": 62.98358820122173,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/credit @signatureeditsco - signatureedits.com DSC_0055.NEF",
+   "sha256": "04f48748ae522779995cc342c0e992067bdd181757a2260a4cbfa9c2875c4193",
+   "p90_L": 68.58721689002772,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/credit @signatureeditsco - signatureedits.com DSC_4150 Liusia Moiseenkova.nef",
+   "sha256": "fa1f8f9ee5993c0cb6680f891a2e8df76747493b753416cfad26cb7576b1fa25",
+   "p90_L": 49.52348103680241,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/credit @signatureeditsco - signatureedits.com DSC_9457.NEF",
+   "sha256": "ba6e58124455079bedffd9755a0125e93cd67b6619735fffec90f122ced9f34f",
+   "p90_L": 77.61207844778492,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/credit @signatureeditsco - signatureedits.com IMG_4430.cr2",
+   "sha256": "3b77d362a6fc3a4b27b8d7e2eaa3950e16025cd6b25d9af5f4ba57779fa666bb",
+   "p90_L": 55.78000613378482,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/credit @signatureeditsco - signatureedits.com IMG_8773.CR2",
+   "sha256": "5b3dbdf3af19df4b232e92e4ff967bd79ca35bc142a3e6d2636a15d0aa299c9b",
+   "p90_L": 97.5456170739382,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/credit @signatureeditsco - signatureedits.com L7D_7503.dng",
+   "sha256": "ceb62c45d9809379ab5e41a243dbeee3087e802da6f875e934dd1f07a5acd82e",
+   "p90_L": 33.91053480314589,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/credit @signatureeditsco - signatureedits.com _MG_3186.CR2",
+   "sha256": "c864b0807ce5ac3535de8c4e41206876a451f2166c498a4b9419739f3bfbac6d",
+   "p90_L": 76.70959649908534,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/credit @signatureeditsco DSC06663.arw",
+   "sha256": "2a03643040dbba7e97f48a0d3a0512e10b8c63097761a5e63387a2121f4a2063",
+   "p90_L": 83.94345615080417,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/credit @signatureeditsco DSC09826.arw",
+   "sha256": "da160088a1d4b2bf905510871e24d57f0ef2a1130c4bd3d90f910d53682c547d",
+   "p90_L": 72.46078558670096,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/credit @signatureeditsco IMG_8828.cr2",
+   "sha256": "f671b7419b96999d537c5abb3f62d421fe977f57c32456fec681a2ae855d2fd3",
+   "p90_L": 77.76737840035024,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/credit @signatureeditsco MAJ08378.ARW",
+   "sha256": "9bdc5176f96792573d6101923752adc6902e7098dacfb1d482ded969d8410c6b",
+   "p90_L": 81.06477362626057,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/credit @signatureeditsco RAW_8228.NEF",
+   "sha256": "40d4e3f20420e1d57d0b60756233299e15ce2919fe1865da4cf49419efa1f5a3",
+   "p90_L": 56.09599762030681,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/credit @wongg.z.NEF",
+   "sha256": "481eb3772d92238fcbf4fa8c198f8788b875a7ea18084e1c58d240be17a1e581",
+   "p90_L": 50.85700869866181,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/credit free raws from signatureedits.com - B5A8047.cr2",
+   "sha256": "5d490e3a321eec767316bb754018e7dd63a6e2ae16814802623e05b95f83b54a",
+   "p90_L": 46.40825370267403,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/credit free raws from signatureedits.com - IS2_3049.nef",
+   "sha256": "d497c0a796c415fc8e8189d18d3bb0464c788f13a811c58cbd2e965c4a1747f4",
+   "p90_L": 58.38867451334178,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/credit free raws from signatureedits.com - MG_0941.cr2",
+   "sha256": "985a206bf6ef6cb36189caadeffae9101ee399af40b7d7fbc5baf949f6e6a0d5",
+   "p90_L": 71.22049709586202,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/credit free raws from signatureedits.com - MG_7535_2.cr2",
+   "sha256": "f7bd6c09b8d335cdb174b7bd384d9c5364af8dd6a50154c853ec9e21565da917",
+   "p90_L": 48.68072901423979,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/dragomir_photography2.CR2",
+   "sha256": "3a15348dc7570103d2489fc078ca2eeea9c08d73ffd257c641b411378cbe33ef",
+   "p90_L": 83.40173352637918,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/file000551.cr2",
+   "sha256": "0aafbf611c9af42c1a31c482d36f42bc16d40fe996bba3146bab9ee9e80d53da",
+   "p90_L": 75.85698694385442,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/filiperiksson72(1).ARW",
+   "sha256": "a5083763e16b9b2b0b6c518b3cdc28d6221cafd6200bb11797b180d43127848a",
+   "p90_L": 64.40991974858775,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/filiperiksson72(2).ARW",
+   "sha256": "3e2c8ecdd82a6325c0d2ad696b09a55d7ad3819aea13db2988e78bb18467e49c",
+   "p90_L": 87.61761826606885,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/filiperiksson72.ARW",
+   "sha256": "afc4c0f6a6d1c5b366a6bef51ff170e6bc5ae77dcb89e9731673f66b15c34cca",
+   "p90_L": 97.83493179343021,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raw file - signature edits.dng",
+   "sha256": "143c5e441eb55f4fcdd0e083b5f36d0fc441a7bd1f31a63b32e8c5afc6cf96a7",
+   "p90_L": 32.45838338638244,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raw files - credit signatureedits.com - CF000981.dng",
+   "sha256": "bc5e8af06334e715ba9524069fac4c09e1292da99f75d6b2dccbb7f7c87f296b",
+   "p90_L": 25.913585099804564,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raw files - credit signatureedits.com - Capture00674.dng",
+   "sha256": "78ee2c9a12cc77332cf791aa98f25981f4bac290315b3552699c7f07a3e82dac",
+   "p90_L": 82.47859694966556,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raw files - credit signatureedits.com - DSC_0178.nef",
+   "sha256": "6b70637e12d52f0da1dc922901ff43c32b1e9bebc687ec13c82f366efba82b35",
+   "p90_L": 43.9912525083981,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raw files - credit signatureedits.com - DSC_5656.dng",
+   "sha256": "6ffd2ee81b8a6eeb5fd697037b0bc6a40c1bdc34f93cc1ab67677e45ff7b968b",
+   "p90_L": 66.86145023900302,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raw files - credit signatureedits.com - DSC_9464.NEF",
+   "sha256": "5020461dc37c2dcacb002a3185245aa1686726abade4fda01947c42b7ccbc9df",
+   "p90_L": 85.31562216374088,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raw files - credit signatureedits.com - DSC_9474.NEF",
+   "sha256": "23d72dabc451a71632d8dcb4c4ed826c35fe25404901543a4db5d1be7441e3ec",
+   "p90_L": 76.90423116374595,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raw files - credit signatureedits.com - EVG_3144.CR2",
+   "sha256": "34e7f49090d9e60aa399348f297380bdbad7397763b02fab61a9832a068ff301",
+   "p90_L": 75.18924530559804,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raw files - credit signatureedits.com - IMG_3555.CR2",
+   "sha256": "322e54028f790d88a430278b5c2ec0d294d3fdf9c3d8b1470ed976a8148160de",
+   "p90_L": 52.53574135590477,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raw files - credit signatureedits.com - Naranja2160.ARW",
+   "sha256": "3ef408595b0acc5e0fc465ff28fe0f75eea3c5ed02b1ca8aa1e797200036d8cf",
+   "p90_L": 66.63214006601602,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raw files - credit signatureedits.com - UPI_7233.NEF",
+   "sha256": "92bf37450bc9f07c4f070274375c2ab13debdd87a3a02a7a453d00dc9528cd43",
+   "p90_L": 51.1493850552067,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raw files - please credit signatureedits.com IDSC01044.arw",
+   "sha256": "415fc9bfbc8a1d77f9ea1ac1213f60da80d175a1bc9f734d3460c1b45725ef19",
+   "p90_L": 90.03677980129818,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raw files - please credit signatureedits.com IDSC_0108.nef",
+   "sha256": "3d5c8cba5f26387e94ced41da25971c4a1d1133b7a3cbe693fa7c1b3c23fcf2c",
+   "p90_L": 64.56613910035088,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raw files - please credit signatureedits.com IMG_0764.cr2",
+   "sha256": "93225a48afec49c0d9da3a78b2aa6dea23b9eb8858616ad1f8303259d3022499",
+   "p90_L": 71.15875032554064,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raw files - please credit signatureedits.com I_DSC3540.dng",
+   "sha256": "a76d14a3d6758f09df2023b007272a2f61b08408b7eb6dea75d4cc1e0e2161da",
+   "p90_L": 42.41885592885196,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raw files from @signatureeditscoDSC01710.ARW",
+   "sha256": "3cd08e678979c4976f5bf7ee14ad2391cccd0df2bd7b833fe569ee34a694733c",
+   "p90_L": 83.12145115795994,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raw files from @signatureeditscoDSC04546.ARW",
+   "sha256": "d3bb79cda7fb9d6255a92cc2214d1dd05d7ddc42da59932fe4cf9747e9bd435f",
+   "p90_L": 52.10998910645117,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raw files from signatureedits.com CX4A4491.CR2",
+   "sha256": "dc150da73b123c79cd88eee4f580933d3d024b429177e423fb87146c1c9dcda6",
+   "p90_L": 81.7748982055001,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raw files from signatureedits.com _DSC1760.ARW",
+   "sha256": "31a518e839c5376cb281433ff96cdb3e84b3549b85a1714b306c053dd2f81328",
+   "p90_L": 72.94771868441309,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raw files from signatureedits.com _MG_1369.CR2",
+   "sha256": "1af6877ada90ae9c74279c3e830039697ef04ad698148c999f0cbbb5da82d0c2",
+   "p90_L": 90.44718996218823,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raw files from signatureedits.com _MG_5222.CR2",
+   "sha256": "188d4c474331d0bfe157aa0a8952d54d9063b91a32dcf31aadd4e2e1ceb8d57f",
+   "p90_L": 54.27518948348101,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raw from @signatureeditsco - DSC04571.ARW",
+   "sha256": "c4880f4cd3467198d2bdbbb28996dca56362e8e4a0659dc30a2d213e82d12843",
+   "p90_L": 84.6534101504899,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raw from @signatureeditsco - DSC_0161.NEF",
+   "sha256": "f787e03f1b10e1a0827e0467e4915eb149ef54f17216b3b0c811e70206d7eb02",
+   "p90_L": 62.68506540683176,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raw from @signatureeditsco - DSC_0189.NEF",
+   "sha256": "681e7027532e18edd049d909a13a5a3f03b387494c0bb12d8783cf17b45f9dfc",
+   "p90_L": 85.08938527275603,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raw from @signatureeditsco - DSC_0258.NEF",
+   "sha256": "652e1d8493bc11ca1f118f85341786a602d4d85728c051c88a9759be206168c8",
+   "p90_L": 72.5420730985859,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raw from @signatureeditsco - DSC_0541.nef",
+   "sha256": "3af8f9eb437fda6f5d861387219aee0d98c5c3342c0f9488a62bf43fa19ffcae",
+   "p90_L": 92.69319978597481,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raw from @signatureeditsco - Photodesk 21.NEF",
+   "sha256": "dd2e6a59fdd1e33a0cf3bece5d92b701a74fdef0cae3e9e9494bd654a75d10e5",
+   "p90_L": 9.366298741949878,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raw from signature edits (1).dng",
+   "sha256": "4d3f035b458cefb126f69959f9f0c71df1b65739090668ebc4268bbaea9529d5",
+   "p90_L": 87.02880039866841,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raw from signature edits 2.dng",
+   "sha256": "07e8cfe35a42ce287e60027633436862845a9c76d5327e2576981bc759daf690",
+   "p90_L": 38.41550309106501,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raw from signature edits.ARW",
+   "sha256": "975b8b6fe1ef00ed3618e5b2463ac92f0561b71286495aa74fb13633edee5db7",
+   "p90_L": 83.66503926450461,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raw from signature edits.DNG",
+   "sha256": "a567f3b81430c4da2ae16e7b7582e6bbecb5da7c798ebfc3f8bece83e30c5428",
+   "p90_L": 91.75789571558926,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raw photo from sig edits.CR2",
+   "sha256": "9579025e19014685d82fca95758c460f6841c1845a181d4153802de65c1c0850",
+   "p90_L": 91.78385571155216,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raw photo from signature edits aP1028347.dng",
+   "sha256": "b8700164afce3fd2951385e1805120781072e05152856b2b0af467dc0d7653de",
+   "p90_L": 90.02072469803873,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raws -  credit signatureedits.com - IMG_4416.CR2",
+   "sha256": "4b39bc42d0d677df9b46ee638ec71a86b212e859e107e08b29a67ea8f4ce0419",
+   "p90_L": 53.78057116354648,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raws from @signatureeditsco - signatureedits.com - Capture00776.dng",
+   "sha256": "d98a1a45f447d4ccf2fbbcf84c0ecec5fafe01a784fcf8bc8d87e6e7d0f633d5",
+   "p90_L": 45.283786355102976,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raws from @signatureeditsco - signatureedits.com - IMG_1714.cr2",
+   "sha256": "7ccea1dac8584cfbb1d6ab2ba536e637011c860927ef3cc3afd94783a269f994",
+   "p90_L": 64.05349663086619,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raws from signature edits - credit @ Detty Studio (1).NEF",
+   "sha256": "e1566576c90be294c30e951482fa726de1a938268c119400b004e39f89dd2085",
+   "p90_L": 35.598942271312126,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raws from signatureedits D4Z2287.nef",
+   "sha256": "ba931ec8e84fdd8d477c63e06dce4ff786da12aca948ce5c9809c9827cdc6202",
+   "p90_L": 81.17424605609736,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raws from signatureedits.com - tag @wutkaicheung_DSC00965.ARW",
+   "sha256": "3c0d6458624a3d924a40742c491d19dada5e60a3992a078bf464e27264a52c16",
+   "p90_L": 87.07298170493999,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raws from signatureedits.com - tag @wutkaicheung_DSC01658.ARW",
+   "sha256": "42909465d934d55545f224f6490a27d63f6ef65a7c2ded38434abe096b1556cb",
+   "p90_L": 91.74927218841412,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raws from www.signatureedits.com - tag @signatureeditsco DAO_5332.nef",
+   "sha256": "d01f4e29ca3720a356a3294e92061843aa2f0a1b8a155f18f766f0800ba57e8b",
+   "p90_L": 80.4694060755286,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raws from www.signatureedits.com - tag @signatureeditsco DSC09267.ARW",
+   "sha256": "b28942870073c8113f2b315de72e83320520c38635d77db43ea16154d09752f5",
+   "p90_L": 87.58461344983336,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raws from www.signatureedits.com - tag @signatureeditsco DSC_5488.NEF",
+   "sha256": "3f70439aee1e598dbb418b6032266c0a6ceb99f15d8117b26856e9f3fd02e2b5",
+   "p90_L": 74.20223636799032,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raws from www.signatureedits.com - tag @signatureeditsco IMG_160s0.cr2",
+   "sha256": "e90b907786b27eee0945cd868a20841a3da8975ff2dd3228692de6306cfeab6f",
+   "p90_L": 59.21680491316022,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raws from www.signatureedits.com - tag @signatureeditsco IMG_4924.cr2",
+   "sha256": "77c10c131210ac0bf53b6b5f40fcc106b9dd671a0f1df3b675b75f6e7157f30b",
+   "p90_L": 36.67824060434794,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/free raws from www.signatureedits.com - tag @signatureeditsco _DSC3989.dng",
+   "sha256": "fa5429d8b5e0b175f7572366518afd421fe1e73291fd9b9237a311dd6bc3d2f8",
+   "p90_L": 41.740927766845424,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/freeraws@signatureeditsco.dng",
+   "sha256": "d8b61a3e27a7ebce28da478ccb4bbb8626504e3026809a6b049e3cdf031920a1",
+   "p90_L": 48.43415626081117,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/ig _snipeer.ARW",
+   "sha256": "039b4219fef7d4bba392b896ee77144cd3cd3c18c46a0cefe4195af1133bb829",
+   "p90_L": 51.84244299727681,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/inst = m.n_photo.graphy.NEF",
+   "sha256": "1134c087495d6891326d6883ef5a17e10520175de914410e78fb1b3b4f81eec9",
+   "p90_L": 60.08158875681859,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/instagramnoelmonzon25(1).NEF",
+   "sha256": "6ff9a9cd8da1cc8213eae418bbcd080e51d64a6de2d2613a292341530719c2fa",
+   "p90_L": 55.655163554966755,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/instagramnoelmonzon25.NEF",
+   "sha256": "010fe3340e02c9d91e6770acc6a619bc2dd131a2f3ae3c92ba7cceda0f212aa2",
+   "p90_L": 61.64774477573932,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/johansalazarphoto.ARW",
+   "sha256": "6e866616ca2fe55447be229dbd142647d8e85e7411e032130ee74dbce1806627",
+   "p90_L": 68.84255617979173,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/martinmasperoph.CR2",
+   "sha256": "478bb3062468ca455ef02fc6f9dd579813e4c1bdaaffce79f8ccdae4f3b40a36",
+   "p90_L": 87.11128129912774,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/photo by @Dupe.png--@Emily.rosegold.arw",
+   "sha256": "3c6a87dfdb28ccb4b9fb4a6155b6a4d1b7bb73e986c86f277956e4e3ce66899d",
+   "p90_L": 64.10030884272133,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/photo cred @ryanbreitkreutz - signature edits free raw photos_DSC0146.ARW",
+   "sha256": "bd9f083221556313ca05bfcaf1b237def483591e64f03dd96ef440f1c268cbf4",
+   "p90_L": 85.67384875292665,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/photo credit tag @ryanbreitkreutz - signature edits free raws.dng",
+   "sha256": "be5bd9baae4a5709d22d1fed3475356fc8e7752eb78d09872a217b442183ea52",
+   "p90_L": 89.27913036209917,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/photo credit tag @ryanbreitkreutz - signature edits free raws_DSC0540.ARW",
+   "sha256": "7f86ccf66fe1a56b78d46b24162ab9354005926122a1d88f1a619f2addd34173",
+   "p90_L": 77.42261374193686,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/photo@LiedsonFotografias.dng",
+   "sha256": "9daa6de5e06f4ff39d7ebe70b09e4d2e5284d73fa7d4bff92b3c62795c4aeca8",
+   "p90_L": 83.53313565953474,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/photoby@Dupe.png--@VirginiastickleyRaw.arw",
+   "sha256": "5ff5ff8c9a8171b13a374b1228108dc896e706c66a29dabce5b474018912101f",
+   "p90_L": 68.29716233385234,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/pls tag @ryanbreitkreutz signature edits free raw photos DJI_0239.DNG",
+   "sha256": "b81eab585cf2fa8a7b56c6f9f617a0af2f3d40450bb1c05e655034bff3fa54b1",
+   "p90_L": 66.81749428424304,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/pls tag @shaeeelizabeth signature edits free raw photosDSC00132.ARW",
+   "sha256": "7d32422c1f92fe85f0e29333091c18820094989791e11058d01f96ae774f3df2",
+   "p90_L": 88.39775064982199,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/pls tag @signatureeditsco signature edits free raw photos DSC00800.ARW",
+   "sha256": "a018b1040b21f9edbbccd2dc598926b34e6a21954a81ff2b605358740f5dfdec",
+   "p90_L": 70.00167029612881,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/s signature edits free raw.dng",
+   "sha256": "d59c3ae84ecd6cd0d6a402afd289b3beb1924d3067e91a71d217bf58c37a74f7",
+   "p90_L": 83.73142976624074,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/s signature edits free raws.dng",
+   "sha256": "aee439d5c10cab4fd2a3d939a8778a9355f73bf2c82f90c59cecdfcbb3f5fd01",
+   "p90_L": 65.24676427099813,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/s signature edits raws free.dng",
+   "sha256": "2baf5c2ac6202028a50ddc1eded1feff02b859f14d20bd111e6877ab935a7f13",
+   "p90_L": 89.36353286095797,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/s signatureedits.dng",
+   "sha256": "e4693c23f45e1a8889d151ac0df2b094c47aa62145e00f7eda31248bc0889b9f",
+   "p90_L": 95.23806754115274,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/sDSC_0557.NEF",
+   "sha256": "c52a3d73a703d45757a970dfeac0f7c116ed48d595b48bcb83713a873e75f223",
+   "p90_L": 42.4635425041394,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws -  PekhenkoAlex.NEF",
+   "sha256": "42a979447f576f6e9d6093bb58c66e81653a400eba4c3a1bf271475c71f38110",
+   "p90_L": 93.6072311820438,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws -  robertb.NEF",
+   "sha256": "d22434382246134522f4843e983fa71bb8d2035ff8c6f5665cf9d6a09e2468c9",
+   "p90_L": 79.56826263360388,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - DSC00012.ARW",
+   "sha256": "80b5cce709b0f762ae680150cda3eecbe1d043911630ea32243fe2d2b27c910c",
+   "p90_L": 24.36505243451131,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - DSC00024.ARW",
+   "sha256": "300d5af58c91e6a43513559ee97d29bf161cfcb54e12bac0d8a96a1e83bf7a7d",
+   "p90_L": 48.99510620202475,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - DSC00090.ARW",
+   "sha256": "691e79e87373cc521e03a32f514c3df688c67e5f6e8805d4e97cff7a36e55e11",
+   "p90_L": 56.725962832698485,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - DSC00212.ARW",
+   "sha256": "c319b109c8f6bd821bfe18d14821c40c029291c5ed0300a8b23e37657140f6b8",
+   "p90_L": 39.22477093038488,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - DSC00226.ARW",
+   "sha256": "b045ab30990dc2ceca03466caf4c0a0a91b81437575d678536a4d7fd3c3410e7",
+   "p90_L": 59.74223949040431,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - DSC00472.ARW",
+   "sha256": "c4de78c2c82cdb43b0285b23f5aa4e9bf36f25c75832b2c0a74e921e0b50f489",
+   "p90_L": 83.83919034481785,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - DSC00686.ARW",
+   "sha256": "d0738a6c6fe416d5507e7f073fd8a191c7b4bc38a21cfc26452b0db989a322c2",
+   "p90_L": 77.26835511867127,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - DSC00829.ARW",
+   "sha256": "e9d6e5ea18c047fab612ef7f691aadbb013d34cac70ba252cd26c4c9b3f0a152",
+   "p90_L": 93.00130860993046,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - DSC00968.ARW",
+   "sha256": "09250d6c8153bb0233073d778d013106b8b241f33ebb36ebf892f5c25147c3a5",
+   "p90_L": 49.80567823960275,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - DSC01158.ARW",
+   "sha256": "80367d293602248afd5339cfe5221dd30e9947652a02b40186f4f5c4fbb63b60",
+   "p90_L": 38.985158086942754,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - DSC01630.ARW",
+   "sha256": "dd9d820e8f5bf8b4be6b56abf11248b72926f2c3cff7d0d767c8636d88301907",
+   "p90_L": 69.86903547602036,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - DSC01660.ARW",
+   "sha256": "3eb8eadc5246736fa368dfac4551dd29f28a1f9574cdf7d562c9993924e0f950",
+   "p90_L": 78.53641778680657,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - DSC01818.ARW",
+   "sha256": "a3dab4493d56db2d13fcc7f475e3009ecd8c052ce093877727ee6d032bd50023",
+   "p90_L": 71.36211390554024,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - DSC02783.ARW",
+   "sha256": "76267f8083bbcdddce609660125060c157309e210f66128e15ffcc8236fe34ba",
+   "p90_L": 90.77976982536485,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - DSC02830.ARW",
+   "sha256": "ee5233838992d286f8c410c26ef2ab4e2196a86479f8781c91ae51fa468882df",
+   "p90_L": 96.65111493506214,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - DSC06094.ARW",
+   "sha256": "43a878f07bfb06cac3252e05242b749b93e6e913f2c5b0e47441b8aa3d0fc8de",
+   "p90_L": 56.88781815152515,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - DSC06299.ARW",
+   "sha256": "6f5a351d88c577f65b408524446e988dda3fc32afce5068641393e28c3226acc",
+   "p90_L": 33.277014496608324,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - DSC09970.ARW",
+   "sha256": "3bb61254da9a33abc40c39c543209703c5095ea177ddab695c50d15a45c73b3d",
+   "p90_L": 47.05135547192373,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - DSC09997.ARW",
+   "sha256": "88d997622e95b54f82ce0b1df7b125ded662e9c06d6fe64c48f6ba7968c88844",
+   "p90_L": 40.77313567905917,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - IMG_2014.CR2",
+   "sha256": "d0c915b33e2529d4eca9f07555affebdc78086e129af5ed07d711dba4d8301ee",
+   "p90_L": 87.88992493579268,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - IMG_2019.CR2",
+   "sha256": "6eb01398d8690509d0b515bd7d125cbf51f0e7f71ce04d0e095cbb7db34c6c0d",
+   "p90_L": 91.61391747599545,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - IMG_2031.CR2",
+   "sha256": "660485046224b0cad01d3645eb783c8e0ec5c7cc4228358055a293fa02f8489a",
+   "p90_L": 92.66737512093731,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - IMG_2191.CR2",
+   "sha256": "be2a3c23698ef89ae811e6432b2d6e25365a9737ae4e274f7d444049cf059b4c",
+   "p90_L": 96.71878413257402,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - IMG_2494.CR2",
+   "sha256": "6ea9e6497d71b304a38f126fe92651efd519d25f911c17da13e4508a7d3733f6",
+   "p90_L": 83.88808869633473,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - IMG_2579.CR2",
+   "sha256": "5b39b14cd88dfa688c6fb641a3d333aa64c65208b0cd0062a6189a3b3339672e",
+   "p90_L": 78.83038173190992,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - IMG_2599.CR2",
+   "sha256": "9e692ff7aba69b94ac0b58ba132a131a92d41f8d15f77ecf0fb0133ce62a7205",
+   "p90_L": 68.08032859801327,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - IMG_3530.CR2",
+   "sha256": "5ef91ddac017d432faabf713f43fed4341eca18963a06b51484d25b0870313ae",
+   "p90_L": 80.78676272971,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - IMG_3653.CR2",
+   "sha256": "86e303a8116a4867a0b503c560bc1f433cd153a7b31465d59a431dc9cae7efe4",
+   "p90_L": 59.8498493414172,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - IMG_4077.CR2",
+   "sha256": "bef7d17f0cff6281fbeb791dadf006f19a17fcefe4b995c300b819b519c59c10",
+   "p90_L": 31.239589360837495,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - IMG_4723.CR2",
+   "sha256": "a29ae0921c7a23b3722a51fe3d9ebf97ff5a2d1adbdd7f2774690f72dba3c368",
+   "p90_L": 80.01114018973523,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - IMG_4750.CR2",
+   "sha256": "75e6612c9e9ac8290551136cbdd81f791e9ad593e3e018234e9a7f3a83071a6e",
+   "p90_L": 80.70076340630852,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - IMG_4838.CR2",
+   "sha256": "9a66eac019aba9a698f7f7da0aedeb715a5051974540d89a310f4ee4f420db98",
+   "p90_L": 93.1152886198975,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - IMG_4927.CR2",
+   "sha256": "6688e19d10c5389bd82d291f4dcf9b395baea213acb823727dd55ce5a3856994",
+   "p90_L": 76.89835095911882,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - IMG_4949.CR2",
+   "sha256": "236e6ae91afae7587a964f2713d15b7ab4f462836008a9ecff99dff75ec5ce8c",
+   "p90_L": 77.58617943161168,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - IMG_9305.CR2",
+   "sha256": "b9b9467c7efdef8de377287d3d36d4d050ed6cf48c76dbd9f56b88331f2f21a9",
+   "p90_L": 59.75727520716199,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - IMG_9463.CR2",
+   "sha256": "3486de5c33be709678944a9ce968d4130181a9657ce257a7c10a09c4109a95cf",
+   "p90_L": 80.16094420132282,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - IMG_9624.CR2",
+   "sha256": "1d6ba5563bb32d0765b621e7747d15c827c70defb7acb5c8cd92caaa1d6d9148",
+   "p90_L": 95.19211152528716,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - IMG_9688.CR2",
+   "sha256": "21e064b60f7d5020b4895510516b6c0ac7582ee7c138663c3a47627c0f48c516",
+   "p90_L": 90.32142760526422,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - IMG_9732.CR2",
+   "sha256": "b326a742e4f41585ac7a38a2dd38243699aac8ca3175a3d7b22ab113db2d8fdc",
+   "p90_L": 92.93706922883628,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - IMG_9737.CR2",
+   "sha256": "b370d82a57405f750bf51ce7782ae3a057e8ddf485896e5b56d2fae4d348a8e3",
+   "p90_L": 87.83280939548267,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - IMG_9759.CR2",
+   "sha256": "77873e9d9c7086257d4e858d6331f1541abb11674e054e13107f54b76b3f2a61",
+   "p90_L": 91.52661954508429,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - IMG_9801.CR2",
+   "sha256": "dc1521c88e7bc3c77630f5fe701d84ab6395514a29a75c54c36744bcdf29751f",
+   "p90_L": 93.80621936087147,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - IMG_9908.CR2",
+   "sha256": "f4cf08e8930f978877a08ec08048d06824379fa881dfb9474a268dd8d0f9146e",
+   "p90_L": 91.18789569082193,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - Joydeep_De7766.NEF",
+   "sha256": "90fbdd50cdbd53a75c677a3cf2d1a2e3ad2fc1666a78f12f58ffacf41aa90d21",
+   "p90_L": 74.91661536877595,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - M4_24739.CR2",
+   "sha256": "b3fc1f428c1dab27c79da287a7485273a403891713ebf1205f84a782ac5c3dca",
+   "p90_L": 91.30919446206633,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - P1011649.RW2",
+   "sha256": "613bd2977d7564fff0291c77e6cabb944b6e9685b33b69598ca934f92fce02c5",
+   "p90_L": 96.40301127632,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - P1011675.RW2",
+   "sha256": "33f5f1d27587a96b4a142deaf5872fadb0b573aa5bf7212f05be1c4b44bed032",
+   "p90_L": 94.95256477284076,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - P1011747.RW2",
+   "sha256": "2333d3a6a43df0b8da5fab48f97da673155a881ac8ddf95eacf39231f1e1bb7e",
+   "p90_L": 92.68819010680461,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - P1011768.RW2",
+   "sha256": "70fd1166fb6a279bc4a8777670bb679dab26e7a19b77b756a729ac941c3cf9f0",
+   "p90_L": 81.47576656282054,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - P1011794.RW2",
+   "sha256": "638172c134a7e694a6005814276b0c875ee9856f049abd0f1cfefe655ba2d544",
+   "p90_L": 94.94193326292664,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - P1022011.RW2",
+   "sha256": "de0a78a8351898a91a542f7e6c5b61f05a5cd509155a7a0c955c40c89498c49b",
+   "p90_L": 82.66219843111443,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - P1022161.RW2",
+   "sha256": "da6cc22d644fccd0cb8c1abac60b44e5cdc930cd59a066029caa386d9eabd24d",
+   "p90_L": 84.2915546096886,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - P1060536.RW2",
+   "sha256": "bec6b3b33310f8dd4ba9f50c053ed0da2b7f28677a04ec672abec42d8ccde552",
+   "p90_L": 58.75073062567383,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - PANA1156.RW2",
+   "sha256": "f495eb25e82a87b41e789ee93e2532de8e675fb492d24d81c840953e73005bdb",
+   "p90_L": 43.644330034732356,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - PANA1176.RW2",
+   "sha256": "15dca5746677bd53fcd7bf70651834852c1e7211a062162ba2ab64fc3b7d8ca3",
+   "p90_L": 68.88005044102061,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - PANA1313.RW2",
+   "sha256": "b5b8254c9660d568adf8976e4c61b0a2875fd20325bc56bb02b9ee7d4230fb78",
+   "p90_L": 55.01322216372827,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edits APC_00171.dng",
+   "sha256": "233f64f11514e7fca0420d459c12fe54976eaf2be858deea4c9275d41d8b8b5a",
+   "p90_L": 93.68810490106559,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edits P1028726.dng",
+   "sha256": "18e637a91f7ddea46fca848c4b80b83543b3e6e4fad1389df5a23c03b0deb5f5",
+   "p90_L": 49.66627362558632,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edits aP1028088.dng",
+   "sha256": "0f66a2a3822e8cc871ff8765eb10f88af909c0cb5bfe8a8526220cc9361728e6",
+   "p90_L": 63.21184620653883,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edits aP1028585.dng",
+   "sha256": "53088b0f402b85945b7984a16c0301d2fbba0b16aeca34dc8298bc850e54825b",
+   "p90_L": 85.97365508306065,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edits free raw feature.NEF",
+   "sha256": "a5f971cde183fe94e10026ebd6845d0e36758449b661859f535e2c9b1beb3151",
+   "p90_L": 73.7031913243052,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edits free raw files (1).dng",
+   "sha256": "a9cab14a4819030c14f1b71d386f90b1bc0260db5f1291645b032531140d92e9",
+   "p90_L": 57.30737557708695,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edits free raw files DSC_0415.NEF",
+   "sha256": "53a96d11e21ef3f4e86d360f0fe59b16d6ac8b4f20452454205e5269aa5d175b",
+   "p90_L": 64.19838559127882,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edits free raw files tag @signatureeditsco IMG_5673 (2)(1).CR2",
+   "sha256": "a205f9d2e555daa0683fe7d8772bd52505591453a24e9bcb3e024089de642c0c",
+   "p90_L": 36.407117006272436,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edits free raw files tag @signatureeditsco MADISON_03461.cr2",
+   "sha256": "85824bf62491ef3c5338b1564de4bd8986798cd1cf40469f79503287e6dacdc6",
+   "p90_L": 81.48593386241723,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edits free raw files.CR2",
+   "sha256": "a24a3002e8d36fcaed049e90611662f0fa569234965c0867ab06425ea4810845",
+   "p90_L": 15.776486891592779,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edits free raw files.DNG",
+   "sha256": "166031ccd9df847bbacd6b453d254260455f00febd3daeb3aad59ee4bf704b13",
+   "p90_L": 93.40033625496162,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edits free raw.ARW",
+   "sha256": "dc82419f2e9ccac5ec2d92a24723c3cac304d9b21c9fd6a29c18a6a7d44909d0",
+   "p90_L": 35.18055049655631,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edits free raw.CR2",
+   "sha256": "7826d0ae5c007ff6ed894e9a813145ac891bd9985136933280f17af0755a603c",
+   "p90_L": 69.91664764211411,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edits free raws - tarevir.CR2",
+   "sha256": "a5408baf8eb06da6991783b3094f693271fd6b201ca936ccee3fffec6df5166a",
+   "p90_L": 83.39405294542082,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edits free raws AIR_6366.NEF",
+   "sha256": "a1c25dca119c5f014e9451044c14c1e13c06706ec9127e6198befc4ec76fd36c",
+   "p90_L": 86.346753528676,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edits free raws DSC08455.arw",
+   "sha256": "0d8075966a38ef4798eea7d52916e7d6c1bf0dd151de1607784d8fdf0bf32fec",
+   "p90_L": 29.757108088076194,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edits free raws IMG_0042.CR2",
+   "sha256": "d9353aca86e4a740437f342d7ac8d136a48feed4df1d0d3bbd538af89f415cc5",
+   "p90_L": 72.65612027215487,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edits free raws IMG_2334.CR2",
+   "sha256": "c5206ec44f5b724db1a98ade034d702ad8ca302992fe41398b43f4486e01acee",
+   "p90_L": 69.48874447841567,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edits free raws P1015444.dng",
+   "sha256": "d95291e5822aa97b9259fe1d95d928dbbb0d379d9a7c93ef5d44d5eab9c53b48",
+   "p90_L": 81.98946569479384,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edits free raws P1015462.dng",
+   "sha256": "85bac2d765a660c608587098dc8db5e4edc9be3836a02fc003b4d44b0d798a59",
+   "p90_L": 73.74684346378174,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edits free raws P1015526.dng",
+   "sha256": "9c0cd2543dc49f5ad02586dfc8a2316a1c78e343a1c17c386cb2d10be1bb3887",
+   "p90_L": 82.2925881522763,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edits free raws _E0A3171.CR2",
+   "sha256": "a6fb88d1e2b7670e62f88784c2e6b081e0c16a9f9fda5f1635dba1ae1cc3d356",
+   "p90_L": 40.41344185400596,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edits free raws r9uh3r.CR2",
+   "sha256": "dcbb2c8f142ae53f05cb61a602f41b28c3dc706fd5f20a3b626265e3eef655fa",
+   "p90_L": 94.34619944591651,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edits free raws tarevir .CR2",
+   "sha256": "39440d899a2527d4cc5574da601034e97b21c30c7710025e5e929f1c0e864a47",
+   "p90_L": 94.61672977852697,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edits free raws tarevir 23f.CR2",
+   "sha256": "e40cd8c7af0be0d186fb66092518d003c9adfa233f4f3dd77de10ffb3933be01",
+   "p90_L": 48.8623905530864,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edits free raws tarevir IMG_1648.CR2",
+   "sha256": "c4aadca74c1f0366ae57d397923e16858ac39016ffc8b45e2f1eaee491932408",
+   "p90_L": 43.91495544081824,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edits free raws.CR2",
+   "sha256": "f442436ed073e9b7cdfeb97bb375d98e0c55a514c80aea279bf5dc4c820972a7",
+   "p90_L": 69.97300104328193,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edits photo tutorials.dng",
+   "sha256": "653419253264dc2bc4a28bc7cbc437bafad7f6e1d0a0e6b4ca7d4f7d53b85f56",
+   "p90_L": 42.45939300984448,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edits raw file.dng",
+   "sha256": "2c53a9c3fa929c3760cb4111c7120efa2f88d7aaf0e218d6dbe3819e3957d43d",
+   "p90_L": 68.07129994953533,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signature edits raws.dng",
+   "sha256": "987207f2d0be4e01b33922d554137f5b040f8038a57e4be097d59292012568f0",
+   "p90_L": 50.059204174199444,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signatureditsfreerawsANA_2900.NEF",
+   "sha256": "9e4dff2afce998b8100a7e257558ef8a7563479b5ffcaf758d79c4ef7b1cacad",
+   "p90_L": 86.4827917876333,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signatureditsfreerawsDSC_0343.nef",
+   "sha256": "c04d056a48269e188174a7436df0f4f819b57add96924c0376dc627e125f9fe6",
+   "p90_L": 96.68081631075192,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signatureditsfreerawsDSC_0463.nef",
+   "sha256": "8e69ce3eee4d620be692dfb3891aeb96f3d59e894f7fe29f1eb1461f2334b087",
+   "p90_L": 62.65666983282329,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signatureditsfreerawsDSC_9560.NEF",
+   "sha256": "4e9fd8a04b0d4373cfbc1e18d809213616d5ef9a356b7ffa52c9ab945aeb4358",
+   "p90_L": 96.87783875448638,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signatureedits free raw files.ARW",
+   "sha256": "721eae3559ab5cd2cf89c37ddaa05c744282378e572fc6538a0478c93b5dd6a4",
+   "p90_L": 93.14259490094383,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signatureedits free raws.dng",
+   "sha256": "52c979d40ec2d5deb4d4871cc489a67c7f07efd40c1db79b1691c9ca7991f1b3",
+   "p90_L": 86.24929663558017,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signatureedits raws.CR2",
+   "sha256": "c70010563e845a92050745ec6902fd5d5f3434285705a0a047d828356f7a5282",
+   "p90_L": 46.72444966708959,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signatureedits.com free raw files DSC_5809.nef",
+   "sha256": "a2c1ae81dc553241d9f0bf605c9784d3f23a358f094bd3cf0f4fe8da1d2833db",
+   "p90_L": 57.32829806972027,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signatureedits.com free raw files IMG_2641.cr2",
+   "sha256": "528edcff5cc59ddca986ef3b52886d97deb4baf54e6d9eb2b10905ad245f3554",
+   "p90_L": 91.21838670424033,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signatureedits.com free raw files IMG_7090.CR2",
+   "sha256": "2b27bf98b5d564b8e82681d614b89e890e60252576af4598ed22f9fa66d49c83",
+   "p90_L": 48.801181946298236,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signatureedits3jnfiufn.dng",
+   "sha256": "1fc414dcd42ef44d298db14c580c633a606c7e3e0cb4a80bc46c2ba776d15960",
+   "p90_L": 87.33053539960903,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signatureedits8u42.dng",
+   "sha256": "d3b503a1530bfea401eb3a0f175e61da4e9a925d378eac712829e3f45fd1be52",
+   "p90_L": 79.76040000918728,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/signatureeditsfreerawphoto.NEF",
+   "sha256": "f348ee389cbd862d42758881039fb59a2abe8dcd2c67838a9bdc8d61b27ea886",
+   "p90_L": 87.52439518082666,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag - @Larson_Ryan_Photography - tag @signatureeditsco - free raws from signatureedits.com -.ARW",
+   "sha256": "dbdee32b4f9bec09aeea8ee72923cb0bdc5e2ac64b5c7550dc70c076ae061c1f",
+   "p90_L": 18.334215398076346,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @Arwcoe free raws from @signatureeditsco - signatureedits.com  (6).NEF",
+   "sha256": "cb670730bc48a65cf2d691f08cbe7a689bc41ae246978844608fb249a8ea136c",
+   "p90_L": 88.88615481077451,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @Larson_Ryan_Photography  - from signatureedits.com.ARW",
+   "sha256": "3f52927df85168150a387f64a2c09c5870ce6325a025be500099f8185a808bdd",
+   "p90_L": 46.731072306753056,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @RodriguezKevin.NEF",
+   "sha256": "ace1ee446b1dbbddfd60a7bd9fe1923e2404af3890e90b775d7e5cf68e1e5cae",
+   "p90_L": 85.74366289252039,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @TwoSouls.ph - free raws from Signature Edits.ARW",
+   "sha256": "acd5a8ccaa292548af64c05e31628c442aa84e8692ad2bd4ef58c64b129e1f36",
+   "p90_L": 89.86251094297629,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @alisalahphotographie - free raw photos from signatureedits.com.NEF",
+   "sha256": "0d5d71d87e6ec85e1a9f71340970f6598f0768584249edabc9df1c61a960a87d",
+   "p90_L": 52.42877499119663,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @arwco  tag @signatureeditsco - free raws from signatureedits.com _m1.NEF",
+   "sha256": "146fa50ed0e5ff47282e0e2c2580a61fdbafbc8f28b1c8d0b539049953969129",
+   "p90_L": 76.63131751137603,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @arwcoe  _am1 tag @signatureeditsco - free raws from signatureedits.com.NEF",
+   "sha256": "18c5f9ff1e13bee096b8f46636a9ce1ae149209c21c3e877c50a2075fdeaeaa1",
+   "p90_L": 53.801586156845524,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @arwcoe  _s1 tag @signatureeditsco - free raws from signatureedits.com .NEF",
+   "sha256": "6f12c1bd8e902a361bf0a177ef9767fc4d1d3894f13d9327a21eee4e9c4f45cd",
+   "p90_L": 94.61759624047583,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @arwcoe - free raw files from signatureedits.com @arwcoe(3).NEF",
+   "sha256": "164f99961ef8df2e7ec3dc61503fb7a9ea05e2f821b4cc8057ab50a7bd4b8ba6",
+   "p90_L": 29.688070960576177,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @exztagram - @natasyanact - free raws from @signatureeditsco.ARW",
+   "sha256": "ff372c8d58655a90d45693cd63e6da31eb938f9c525f3c8b432961543e87932d",
+   "p90_L": 77.65280720957556,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @federicopoli.DNG",
+   "sha256": "9b2cdc4040667416d35dacc0c235913463e3eab8b35276bce2e452d44858b595",
+   "p90_L": 89.12080715147978,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @juditesouzafotografias - free raws from @signatureeditsco .NEF",
+   "sha256": "2934f76a90d7df6036edcf5ca44370e26fe4d0e6d36dbea09f6a4a71d7c1bf72",
+   "p90_L": 70.44875171424695,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @ritamartinsfotografia.CR2",
+   "sha256": "941ee28ed2d42e499b89b6e6a7923de62ce81a1338ab59f9b063585e49c4e665",
+   "p90_L": 69.85694747755936,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @ryanbreitkreutz - free raws from @signatureeditsco - AM403348.ARW",
+   "sha256": "294f8e178ca5c8f2a78e5e359a97fae3e60818600e56c9b3fee6ea06096c9146",
+   "p90_L": 45.14845468787231,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @ryanbreitkreutz - free raws from @signatureeditsco - AM403769.ARW",
+   "sha256": "b1031139c46f547487e58165e3c3fb9e9907dde21cf19e842f8cee5cce6ea988",
+   "p90_L": 67.8098642550511,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @ryanbreitkreutz - free raws from @signatureeditsco - DSC00005.ARW",
+   "sha256": "b4a52c696dc90066cf996f889420ae5c0ecf7165e9d08f4c5cd4b94df7a9bd08",
+   "p90_L": 59.97778309332828,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @ryanbreitkreutz - free raws from @signatureeditsco - DSC01135.ARW",
+   "sha256": "f50220c601f03a46a8dc6068728d5280755b400fc985badf273f39cca42fd07a",
+   "p90_L": 32.70482573030886,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @ryanbreitkreutz - free raws from @signatureeditsco - DSC06683.dng",
+   "sha256": "409cd1d44c7455b3b3ad144eaf33404c6d89ee9c86e5d616cc8bc774a835a2e7",
+   "p90_L": 44.182434353416525,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @ryanbreitkreutz - free raws from @signatureeditsco - DSC06780.dng",
+   "sha256": "374116578a158ea12ea050437a34676326d7c00a04e8c499890ac7f0b889b9c9",
+   "p90_L": 88.22697838718351,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @ryanbreitkreutz - free raws from @signatureeditsco - DSC07073.dng",
+   "sha256": "4570b325eeffc0244abf7f72d8b4f7b0fea6ead76c13a27e370301fd3bf01f63",
+   "p90_L": 54.662427511152785,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @ryanbreitkreutz - free raws from @signatureeditsco - signatureedits.com - DSC02363.ARW",
+   "sha256": "76c3c81371ce771a002de7d4a5b31ad7422b01413859720c1ea5707be25ca777",
+   "p90_L": 45.030886420331235,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @ryanbreitkreutz - free raws from @signatureeditsco - signatureedits.com - DSC02405.ARW",
+   "sha256": "89ada84ecafcd8cb5dcac0c3529c32d7fe982787bece93146368bd6089b5dfc2",
+   "p90_L": 35.06868499146488,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @ryanbreitkreutz - free raws from @signatureeditsco - signatureedits.com - DSC02863.ARW",
+   "sha256": "ee1924746ba740bd1fce772c5c3b861acb1314fa2b6fec79fd71982d5198f30f",
+   "p90_L": 91.3059533309829,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @ryanbreitkreutz - free raws from @signatureeditsco -_DSC0135.ARW",
+   "sha256": "c767cfde575818feafb80f754688edaf0200f3c15e2e52d34470b235a2c8462b",
+   "p90_L": 77.33165979923719,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @ryanbreitkreutz - free raws from @signatureeditsco DSC00866.ARW",
+   "sha256": "74fbbe74c3895b99c304d1261f56645a58ec127bc231f700026659c4be4a35a7",
+   "p90_L": 70.16054037498442,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @ryanbreitkreutz - free raws from @signatureeditsco DSC00948.ARW",
+   "sha256": "17c83a8cbb7c4d7908fef60eb7c0586f9636c63bc0d7398b5fe832f65189abe2",
+   "p90_L": 42.6227976086949,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @ryanbreitkreutz - free raws from @signatureeditsco DSC01139.ARW",
+   "sha256": "160717d00fe688a8caf10f8d3284781c58d2b0c4945bc45765e50739a0fcdcb9",
+   "p90_L": 14.225469298849097,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @ryanbreitkreutz - free raws from @signatureeditsco DSC01179.ARW",
+   "sha256": "3256a3fbf1899e584837f74b5ea961dea5ceb92e0b5bddc0a40590798be8676c",
+   "p90_L": 59.82749668904724,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @ryanbreitkreutz - free raws from @signatureeditsco DSC01513.ARW",
+   "sha256": "f1a2f83a9955111c806348f9e4ecf5d278403e43bbfa49e1e419a4e4964e66d2",
+   "p90_L": 39.85062380854993,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @ryanbreitkreutz - free raws from @signatureeditsco DSC01805.ARW",
+   "sha256": "22546be18c891e18a934a9ed0773c4a56e7763989a713ad54d73e4eb324648c5",
+   "p90_L": 75.95540768071402,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @ryanbreitkreutz - free raws from signatureedits.com DSC00381.ARW.ARW",
+   "sha256": "089fdc0e5389e94c5c443713f4850be4f2afdb70ea40d39cb2743d22774e0baf",
+   "p90_L": 65.66760190989022,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @ryanbreitkreutz - signature edits free raw photos P1073031.RW2",
+   "sha256": "fdea00c07e41e617cd84810ec22af0b79b1107d4e588100c928dc9bad2d70d17",
+   "p90_L": 81.78654007456866,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @ryanbreitkreutz - signature edits free raw photos.RW2",
+   "sha256": "5bba493767f175b72a36d09eb79ffade5e15e4da8676bc83b560ce47bcdca36d",
+   "p90_L": 84.5016831952245,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @ryanbreitkreutz - tag @signatureeditsco - free raws from signatureedits.com DSC00240.ARW",
+   "sha256": "170cbac8eb9a24ae57ef2c4da536220201f536cd795a98bae0e805e1f31bdbf1",
+   "p90_L": 80.6604409541761,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @salmanhaider47_DSC0042.NEF",
+   "sha256": "3b79541da473f90a3c748463b54eb588bf83dea90bb3a1ebcb5a3a9d49bb9bf7",
+   "p90_L": 79.04775404208519,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureditsco DSC06452.ARW",
+   "sha256": "8f066880b30afcb4ffe288e90af9a35f4de9d2ebfbd7eb7cae63e2b4393dda6c",
+   "p90_L": 33.001135965681804,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco  - free raw photos from signatureedits.com DSC_9479.NEF",
+   "sha256": "fba03a33f06ffdabb8389a7aa533d93b5bc81dd42f572b819b02e64f1cb159c6",
+   "p90_L": 85.25260391923075,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco  IMG_1473.cr2",
+   "sha256": "3e42014286ab7e02d6de430273b490e10518fdfc536e3143f410010f80ee5710",
+   "p90_L": 75.0511458168041,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco  IMG_2350.cr2",
+   "sha256": "f34c17de534b800b472c82bbd8d3810811782a81e91d7afd503ef7cfb05c962e",
+   "p90_L": 58.6458845231816,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco  IMG_4457.cr2",
+   "sha256": "60b2582588dda83098c821ccf97969011555c040db233b83f31f08cde365a517",
+   "p90_L": 60.81258172907478,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco - DSC_9436.NEF",
+   "sha256": "e5799fc81efcfce110a26ac983c237517a5190f691a31ab258e671b71143a870",
+   "p90_L": 88.68900516013106,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco - IMG_7426.CR2",
+   "sha256": "59e92ce7d97c22638b31391ddd93362896be9f953c61bf243e25d85e9a8f47be",
+   "p90_L": 47.65234495345868,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco - IMG_7499_2.cr2",
+   "sha256": "d6b3b61190820c5cfd80cfdfb7da0181c40f2eefd2fc023c62ff48dae48b43b5",
+   "p90_L": 24.52655808566429,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco - free raw files from signatureedits.com DSC01956.ARW",
+   "sha256": "fa21322f5d46c16054c6e89c5fff086fd55162272e7d371cac4afd9dc8bd42d0",
+   "p90_L": 39.145669216847054,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco - free raw files from signatureedits.com DSC06876.ARW",
+   "sha256": "b631bf7024ae90b1680bdfd31e63ec54dce848095b17739e7cc2e3caafeba75d",
+   "p90_L": 79.8962008812985,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco - free raw files from signatureedits.com IMGL9951.cr2",
+   "sha256": "e79eff4c3aa08f9fa965e9394df9df33b2eb5ce3dd93905f9586351d6921e48b",
+   "p90_L": 72.09713751237838,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco - free raw files from signatureedits.com IMG_0749.cr2",
+   "sha256": "ac38ace6a16a2041fcf7abd1831f72268e86ac622d19a8e336537cdaefd41188",
+   "p90_L": 82.19698318730947,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco - free raw files from signatureedits.com Kayla-422.dng",
+   "sha256": "eee7759e6ca7eff888f0e9b4ad7caf66da91b27ad4ac0d4b5b56e3dcce0cba47",
+   "p90_L": 75.4079805230013,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco - free raw files from signatureedits.com PHL_1433.NEF",
+   "sha256": "60b62c5603b8d624743530065eee516364d2d5ef35bafb034c00678e94557eff",
+   "p90_L": 64.38873028075975,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco - free raw files from signatureedits.com YNM_3165.NEF",
+   "sha256": "813e836ed6a9512c699769947437ca0e3a7445ea7640a0bea0641f1e24585250",
+   "p90_L": 62.206244226480386,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco - free raw files from signatureedits.com _DSC8917.NEF",
+   "sha256": "473b0ce96e2d58c1e6c8572d9239a560018ae42269cecc850313454c2cfa20a3",
+   "p90_L": 83.0301502910488,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco - free raw files from signatureedits.com _MG_0747.CR2",
+   "sha256": "aa51e64a9be1b9ff30a6fb2607178d5aa888d1b7b86ad8b2fea4dedb36f19425",
+   "p90_L": 52.73539336729026,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco - free raw files from signatureedits.com _MG_3145.CR2",
+   "sha256": "377e69faf7c29e735a3f411000a39229903963e1788f422b2e3413c6ab61904d",
+   "p90_L": 81.85082161794159,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco - free raw photos from signatureedits.com DSC_3035.dng",
+   "sha256": "241878a8d3b458445e6a37b15cd0f51768f54e9e58629662df707b58870c6321",
+   "p90_L": 43.24220221201696,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco - free raws from signatureedits.com - 2C8A1257.CR2",
+   "sha256": "c563f7a3434007c68189d1089e3bdc03fa14f093484db2392615f6e7cfb193ec",
+   "p90_L": 85.06444586449396,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco - free raws from signatureedits.com - 2C8A1408.CR2",
+   "sha256": "741b5b15e2c091d28590b389e5ddc6ffa020b822aed68d1546593502260b2b22",
+   "p90_L": 88.73013972688713,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco - free raws from signatureedits.com - IMG_8192.cr2",
+   "sha256": "8dfe1eee6500f3448356e5d2f79b69382e508e083c4a089ba5fed08ccfce496b",
+   "p90_L": 86.92048548307598,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco - free raws from signatureedits.com -DSC_2498.dng",
+   "sha256": "f2ed6ac63a9969025ba0a9d9d7780f198215108d9b429eba3a8af09e89045555",
+   "p90_L": 64.21057196955329,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco - free raws from signatureedits.com -IMG_0316.CR2",
+   "sha256": "0980eb3ab6dea41b335d3b44af305ae2020dc716a0a48f1ed22c69213ce31cfd",
+   "p90_L": 25.905168676757434,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco - free raws from signatureedits.com -IMG_0650.cr2",
+   "sha256": "baa9953ab973c11fd7880cc391ee09f9dc4dd28ea518bf4dd76e7af0f7fa89fd",
+   "p90_L": 88.25002086210299,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco - free raws from signatureedits.com -_MG_3010.CR2",
+   "sha256": "21042bae181ca3dc69d7d622ee5d72d02019ea441085d5d9135e66f08945bf92",
+   "p90_L": 75.62002290379714,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco - free raws from signatureedits.com DSC_0083.nef",
+   "sha256": "4246e7c640935cb95e3e53aa1be3735d21312729b9f9c2c28dc84e1192d2bb8f",
+   "p90_L": 43.27195087318264,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco - free raws from signatureedits.com DSC_0332.nef",
+   "sha256": "5b88048a888f76bf85fe44e160bf5165e5d34359a94f415afd6336ba477029da",
+   "p90_L": 63.21709250017209,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco - free raws from signatureedits.com DSC_9514.NEF",
+   "sha256": "9e44d4481e3c39dafe1aa2850981deabbef622814162098440f6807b50f95b0c",
+   "p90_L": 70.50838097765678,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco - free raws from signatureedits.comDSC_3024.dng",
+   "sha256": "0518804d22d90b73ea237e01db03f151db6575520c5436edb9a80896f62b6917",
+   "p90_L": 92.42545819104068,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco - signature edits free raw photos DSC03710.ARW",
+   "sha256": "74a07d12909d69a4039ecb0a3e00795a6ac1eec2eefedea650f82b5646559e02",
+   "p90_L": 87.58569896426226,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco - signature edits free raw photos IMG_6690.CR2",
+   "sha256": "74b601cbd5ae344b4f392c04c404f9410d3917c1298c96184ba14852455f8815",
+   "p90_L": 83.51592067707145,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco 12.cr2",
+   "sha256": "4fb5ba6eb95a36c04b94e5d3e8624a31f686e1b43be77ea7efd8e5360154b3b1",
+   "p90_L": 40.66794870213646,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco AE8A0060.cr2",
+   "sha256": "6c3014c7b52daa44336be372240c74e1c6071dbfe21b31ed3566e5acec9cfc7e",
+   "p90_L": 73.76764683180996,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco BNL_0146.NEF",
+   "sha256": "4b27618b45f813317ca5150d75cb02a1ce4b3359cfc4205070d69682650d762e",
+   "p90_L": 93.8595363457081,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco DSC00030_1.ARW",
+   "sha256": "4b1f071c0bd1bd04cb79ae930132dc711d1d444b3712adf41a27896b605f2ab8",
+   "p90_L": 58.831250274829465,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco DSC00121.ARW",
+   "sha256": "0a673d1908b1d03986ddeeb4a764a9656be927a3659a89879b5c8bccca131fb6",
+   "p90_L": 74.4706006515353,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco DSC00231 .ARW",
+   "sha256": "4b51e672f57cef33144306379480d975cb23824138bf42f1031c2490e764f584",
+   "p90_L": 65.97113942298884,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco DSC01525.arw",
+   "sha256": "c6c6b1109624481e8bb7cacc0cedd4e47a1cfc3588dd37cd1d4fc2a10ab41860",
+   "p90_L": 78.26182320593202,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco DSC02439.ARW",
+   "sha256": "37ebfa80ff6981a25861db0e2e00a6138c1a067966ef70e0ed8899bf4b849099",
+   "p90_L": 94.73281007983987,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco DSC04841.ARW",
+   "sha256": "57c82f748b6b9de3ddf14c94631c3342555437cdd2647ec3d88dda0aefeb3718",
+   "p90_L": 80.93428310685019,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco DSC_0032.NEF",
+   "sha256": "75c52694084c9a63bc6b4dc9327730bc61f13c9eed42496ca65ee78db8844aa3",
+   "p90_L": 64.04272906268105,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco DSC_0166.NEF",
+   "sha256": "70cf107d6074afb5622c783e70aeaa321aa4d021b4fe818d5f68258abc8e1f2a",
+   "p90_L": 87.578707331888,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco DSC_3262.NEF",
+   "sha256": "0cefd8214fff366518864dcfc8a0da81cf7c797af4a8f90f000871e33f679dc1",
+   "p90_L": 76.29755905092256,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco DSC_9245.NEF",
+   "sha256": "909fcb0b713ac3d2ab0a442af01c8a04391b832951c89b47e6444b0bd8389310",
+   "p90_L": 75.99831475162189,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco IMG_0102.cr2",
+   "sha256": "9fb69d5dbc5524108a26ee799e8cec1dc0a621831fc015e3daeb0dd3c8ba3e93",
+   "p90_L": 58.45900566203127,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco IMG_1101.CR2",
+   "sha256": "a85a21c629247cfe061a5086260a3be557bbf754657b3be23c2ca353a74fbd31",
+   "p90_L": 63.14747436439842,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco IMG_1382.CR2",
+   "sha256": "5ae95fe6cc81f9825d7b68c589b253e579d0a0d6c8182d0a1d8a7c45f3abeb73",
+   "p90_L": 67.38651853514887,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco IMG_2380.rw2",
+   "sha256": "848655ef9411c70f6e9043a586c3894be9dc15ccf2b494e9956c4007caf8c0d6",
+   "p90_L": 66.62059544147512,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco IMG_2407.rw2",
+   "sha256": "8bd12000582a82ff9f5f05128b417b00481906e45676d8193497086af17a6ef2",
+   "p90_L": 65.98293575567843,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco IMG_6753.cr2",
+   "sha256": "bbc1acbd56187b0cdded5f9861a1819fd5802765afd76d308362d08edb26746e",
+   "p90_L": 77.01889593902841,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco IMG_6824.cr2",
+   "sha256": "b630243de632c80d865be18db760097634af0bf10f29138ee181d0444ced160d",
+   "p90_L": 93.55867698376784,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco IMG_6867.cr2",
+   "sha256": "3afc2fc5b752da943e5c043147f5b29c926911eae09ee884ba5e5b0d45b27926",
+   "p90_L": 71.27492776980333,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco IMG_7063.cr2",
+   "sha256": "15fc574e38fb73a25e125d6d7a513d99ea1b90c10d239e4812c0a8e75d572b08",
+   "p90_L": 77.16925729179381,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco IMG_7110.cr2",
+   "sha256": "9c6d7503d546883a26bc315af0af9ff1eaa2f9c944dcca9938de3732c6642668",
+   "p90_L": 86.54095411176772,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco IMG_7552.cr2",
+   "sha256": "a99e0019218435bdb6a5c551401c4e46d7b27a705b13093ae7f352811ecf6110",
+   "p90_L": 50.56810663353619,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco IMG_8892.CR2",
+   "sha256": "1078475c0c5cbff4482693bf73cf76609dd345bf54ce95bebcedc86ea1221644",
+   "p90_L": 39.248023056862564,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco L7D_3458.dng",
+   "sha256": "8d31189cc8ae8deb366bb52545d76c6d85c753f2eaceadfe5703e162fd4e4dab",
+   "p90_L": 35.257719247869595,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco NIK_6263.NEF",
+   "sha256": "3b05d118de261f4f7b953586200c628666912252f9e912aabc7d7149b4d7189b",
+   "p90_L": 60.72119152578959,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco RAW4 .cr2",
+   "sha256": "e5375b5077c42f1c0b3251fd3b2824f5dfd98f6470734faffb3c8d0acf4c5e61",
+   "p90_L": 77.16037427997459,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco _ASP4949.NEF",
+   "sha256": "51f579be0ac82ba2986a3470c954e93deec6e2f2e8f8b38ee02a40232b95fa88",
+   "p90_L": 56.470480672745346,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco _DSC2455.ARW",
+   "sha256": "d3b4a744ca4c7cbb4e9ddbe9b5e04aa21f59802230226cf2e261af160338ae01",
+   "p90_L": 89.52112287858235,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco _DSC5952.ARW",
+   "sha256": "05a0e4a1dabf2d98dde04f8d4703dd6f0575bf78d9bde788caf3db59db87f788",
+   "p90_L": 21.9364878582095,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco _DSC7505.ARW",
+   "sha256": "3f0d3e07b19975e1f7730e69e368e7ac35beb6b6910cc2c7a59042af0489eb87",
+   "p90_L": 67.76671500626138,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco _DSF4583.NEF",
+   "sha256": "406c6a891c5f2f360e792f3de74c5ad3fdb972708791ab75111824a133597ecf",
+   "p90_L": 75.36530006843253,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco free raws from signatureedits.com - _MG_0750.CR2",
+   "sha256": "51d5dfe1619085b526608a80085c1173b5e3fd90d20587dd66c018ad50b98344",
+   "p90_L": 77.57288309020099,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @valeqvisuals  - from signatureedits.com.ARW",
+   "sha256": "76fa4083647dfae6f2e9b361c40712f51655855a5622bb543fd54894f6db5404",
+   "p90_L": 94.45594849296835,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @valeqvisuals - from signatureedits.com.ARW",
+   "sha256": "78cffe376508621bbfee78fa54de3e1eef182c2d026932319ada6cec70b99cdb",
+   "p90_L": 64.30961288809279,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @valeqvisuals-2 - signature edits free raw photos.ARW",
+   "sha256": "cb952db982b050d78ecc2188633489837f9db7a699aedb62f254775945e16789",
+   "p90_L": 39.21606453671801,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @valeqvisuals-3 signature edits free raw photos .ARW",
+   "sha256": "5d6f0a21173b448206e241708378d5538f55247f9f65e1022c270b9afef18f95",
+   "p90_L": 67.12956886728537,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @wutkaicheung tag @signatureeditsco - free raws from signatureedits.com_DSC00107(2).ARW",
+   "sha256": "3171106a5479e22fe7b3a0792c9f5c8d5063ad8dbc54c5296a1a112414d22c5c",
+   "p90_L": 42.16005226098926,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @wutkaicheung_ and @signatureeditsco - free raws from signatureedits.com DSC00827.ARW",
+   "sha256": "1549c62eba08bb41ffe8572a805ce5e95792e46b2869ea831b18182b4f298afd",
+   "p90_L": 85.40259307952881,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag @wutkaicheung_ and @signatureeditsco - free raws from signatureedits.com DSC00935.ARW",
+   "sha256": "def4e07f8a20c4cdb604b2227b1f23d0f0b0a9218d36d854e6905859a1ce30b6",
+   "p90_L": 85.90048169976488,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag THE JEREMIAH XO - free raw files from signatureedits.com .CR2",
+   "sha256": "e0a225d2494e7dfcca9abd9b9b4b855d1b7d9b61319e46534a4c7b9561c204a6",
+   "p90_L": 71.93196699832993,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag and folow @hisfotografia on insta1.CR2",
+   "sha256": "1021ab7d46a2e643260f44ca3f6e90d2064e249f2f3dfa56de65293333db7502",
+   "p90_L": 61.848415450250165,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag richard_newey_sossusvlei - from signatureedits.com.CR2",
+   "sha256": "de8504fa3fe65c653e3a7bd3a79f74ddc1ae158f0b33c10caa36ac6e1e7ed3d1",
+   "p90_L": 73.16160922195347,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tag tscreationz__MG_196002.CR2",
+   "sha256": "2bf3cd892ff44f8b30e2374d392bac8de41b4e5bc0f60c66c3f1fbb6f7df5850",
+   "p90_L": 93.93699262786967,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tommytusberg(1).ARW",
+   "sha256": "f840055ea643d7cfd9ed956a2dc08e445e68c58e4cc27c783d3a81ea815fafeb",
+   "p90_L": 32.819356842309034,
+   "stratum": "low",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tommytusberg1.ARW",
+   "sha256": "dd7de37e504927bbcfe09c251d9389a31c061aa576719a519be2bd76b4fd8863",
+   "p90_L": 53.57471392222904,
+   "stratum": "mid",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tommytusberg2.ARW",
+   "sha256": "f95b1105081cf8d33f2d6a654f5d3598f66421912724ca71caef836d13a79883",
+   "p90_L": 85.47022689677442,
+   "stratum": "high",
+   "make": "raws"
+  },
+  {
+   "raw": "raws/signature-edits/tommytusberg4.ARW",
+   "sha256": "c7adadd893cf192217d4a786ce38160393bf8f322b953fffa52b21cbab3ca3b8",
+   "p90_L": 83.7708134557079,
+   "stratum": "high",
+   "make": "raws"
+  }
+ ]
+}

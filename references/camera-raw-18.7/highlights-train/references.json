@@ -1,0 +1,933 @@
+{
+ "schema": 1,
+ "camera_raw": "18.7",
+ "set": "highlights-train",
+ "photos": [
+  {
+   "raw": "raws/pixls/Canon/PowerShot G1 X Mark III/20180719T101829IMG_0246.CR2",
+   "sha256": "ca052ed025432fdacfba7347cb4374fa3b727155912a91c42ed9a275d13bedf5",
+   "p90_L": 70.62433843630569,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "PowerShot G1 X Mark III",
+   "subject": "arched window with brickwork and red metal bars",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-T30/DSCF0065.RAF",
+   "sha256": "f0353544bc62a6816385de0850e1d37e2f3383892a7eb3928c73e4517fe47ff5",
+   "p90_L": 63.822609842198716,
+   "stratum": "mid",
+   "make": "Fujifilm",
+   "model": "X-T30",
+   "subject": "cityscape with buildings and distant hills under a clear sky",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Leica Camera AG/LEICA M10-R/M10R0324.DNG",
+   "sha256": "ba35d25d521c7ddbc4feca69c8cdbe071ac65dcd6cf2c93374391bf6f3662b8d",
+   "p90_L": 70.80539015308348,
+   "stratum": "mid",
+   "make": "Leica",
+   "model": "M10-R",
+   "subject": "overgrown garden with fencing and plant supports",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Nikon/D5600/2018-01-20_01-14_0792.NEF",
+   "sha256": "4d9b49e6eb8a9e055b10be67f580a9c42538132e3a6e808d2fd08826c644827e",
+   "p90_L": 55.45377077092965,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "D5600",
+   "subject": "night street scene viewed through tree branches",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-G9/P1000951.RW2",
+   "sha256": "16282357ce0143ff7d36737f82074662db7aa0790ecd309196f406baf0f586a7",
+   "p90_L": 63.74690559469991,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DC-G9",
+   "subject": "black motorcycle jacket with red and white accents displayed on a shelf",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Pentax/K-1 Mark II/_K1I9779.DNG",
+   "sha256": "05b0ecfeddfdf404b5a5831763c3aa77bbf9f5b7b9ad502bb93ff5d68887b9e7",
+   "p90_L": 71.68180638205727,
+   "stratum": "mid",
+   "make": "Pentax",
+   "model": "K-1 Mark II",
+   "subject": "bare tree in a grassy field with evergreens in background",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Sigma/fp L/SDIM0915.DNG",
+   "sha256": "8e7229f28be30bfa45289940eac04194af2b3474f6db286e4fa4070c145a0a70",
+   "p90_L": 71.6964533044757,
+   "stratum": "mid",
+   "make": "Sigma",
+   "model": "fp L",
+   "subject": "artificial flower made of layered petals",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Apple/iPhone 7 Plus/IMG_0739.DNG",
+   "sha256": "e8c7ebd8f22f7281d165496b91c8fea8a8e79c8113172fb499e1d66d6045332e",
+   "p90_L": 78.32542395205516,
+   "stratum": "high",
+   "make": "Apple",
+   "model": "iPhone 7 Plus",
+   "subject": "aerial view of a green valley with scattered houses and clouds",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Canon/PowerShot G5 X Mark II/Canon_-_PowerShot_G5_X_Mark_II_-_RAW_(1:1).CR3",
+   "sha256": "13bc9926954dd62f2b84c1539428554754c078953c7af9baa5650cb85237aec8",
+   "p90_L": 92.76644753643757,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "PowerShot G5 X Mark II",
+   "subject": "a lakeside village seen through autumn trees",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/XF10/DSCF6466.RAF",
+   "sha256": "0486676fdbbdc7f3f4c63cd45aa76581cbc1316f4c9baef8781bced0fbc137db",
+   "p90_L": 79.05712297626046,
+   "stratum": "high",
+   "make": "Fujifilm",
+   "model": "XF10",
+   "subject": "castle on a hill overlooking a waterfront",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Google/Pixel 4 XL/IMG_20191023_125156.dng",
+   "sha256": "0c03a6c93b4b8593cd0e4426166e6389710007238b82eb23861ef191322f0c54",
+   "p90_L": 85.23252275405812,
+   "stratum": "high",
+   "make": "Google",
+   "model": "Pixel 4 XL",
+   "subject": "roadside view with houses and autumn trees",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Hasselblad/L2D-20c/DJI_0023.DNG",
+   "sha256": "dbe98cb202f884ff11e0144899613b26d33cf9cddd9f1a62226f4352397f18e4",
+   "p90_L": 89.73176092937037,
+   "stratum": "high",
+   "make": "Hasselblad",
+   "model": "L2D-20c",
+   "subject": "beach scene with swimmers and coastal houses",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Leica/CL/L1080510_2018_CL-35-135-Chateau_Thy__Chateau_Ham.DNG",
+   "sha256": "1f4cfa565d176d85838d96bd3eb598bbeed719cac8acb9999d5823c527635950",
+   "p90_L": 87.85820882036465,
+   "stratum": "high",
+   "make": "Leica",
+   "model": "CL",
+   "subject": "stone castle in a green field under a partly cloudy sky",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/NIKON CORPORATION/NIKON Z fc/Nikon_Z_fc_14bit.NEF",
+   "sha256": "038995c5108899cfa3f54d99364752fe761bb0accb8b26a21ac274d107a85d05",
+   "p90_L": 75.8937142607546,
+   "stratum": "high",
+   "make": "Nikon",
+   "model": "Z fc",
+   "subject": "garden tools and containers against a wooden fence",
+   "score": 2
+  }
+ ],
+ "cases": [
+  {
+   "photo": 0,
+   "name": "default",
+   "reference": "references/0-default.tif",
+   "reference_sha256": "f9d8ad312181c4fd22a0d79af0221ec8d4233bbc08979f569271cd4bcde65f97",
+   "xmp": "references/0-default.xmp",
+   "xmp_sha256": "9151e5d33eff5d89e6b9fca974248757c3dc9e4afee6ef34335c8d32beac4107"
+  },
+  {
+   "photo": 0,
+   "name": "highlights-100",
+   "reference": "references/0-highlights-100.tif",
+   "reference_sha256": "0c3e82af9c7417467ec11c6f135991117114e365986412abd8cb08241f74b46d",
+   "xmp": "references/0-highlights-100.xmp",
+   "xmp_sha256": "82785779d0f2ff865ebce11f7b7c146c214c2c429556928fdb129edda5e6551c"
+  },
+  {
+   "photo": 0,
+   "name": "highlights-50",
+   "reference": "references/0-highlights-50.tif",
+   "reference_sha256": "6703f8bd96c7d1c19828a7ac8ab34cc0fcc41e92485f840eaded383cc50e6087",
+   "xmp": "references/0-highlights-50.xmp",
+   "xmp_sha256": "249a8755b9117377cb79b2267acaa5eac11663ac7c8607215f13433e5bc9d8b8"
+  },
+  {
+   "photo": 0,
+   "name": "highlights-25",
+   "reference": "references/0-highlights-25.tif",
+   "reference_sha256": "8b94803ce8f724ce19d2455b96969b1132739cec0152bcfd8b187fd2b3a1e64f",
+   "xmp": "references/0-highlights-25.xmp",
+   "xmp_sha256": "d7e24cccb1d3bcadbfbb8b5bf66b1ac33b17ef32b9992719dcdb96528db7afbe"
+  },
+  {
+   "photo": 0,
+   "name": "highlights+25",
+   "reference": "references/0-highlights+25.tif",
+   "reference_sha256": "926869e07605ef027a39d3cee44f859247dcb19104bcdb336eb47e531899d1b2",
+   "xmp": "references/0-highlights+25.xmp",
+   "xmp_sha256": "c0a041b3494220a43abb6784e280dd511a1e8f94e9585950ac6e6936834a865d"
+  },
+  {
+   "photo": 0,
+   "name": "highlights+50",
+   "reference": "references/0-highlights+50.tif",
+   "reference_sha256": "7cd0159cfea5bbbe8434c5a07592e1607e320cadab7aa397ff1f19d4662b452c",
+   "xmp": "references/0-highlights+50.xmp",
+   "xmp_sha256": "1f790331f7551a2966ed7275ae8348ccf333f570763c6d163ad0bcc1dcc14cba"
+  },
+  {
+   "photo": 0,
+   "name": "highlights+100",
+   "reference": "references/0-highlights+100.tif",
+   "reference_sha256": "4644eb95dbe6a74b764da4d403e93ea45c9af3fa1f6a2c035cb6aa6e5570225b",
+   "xmp": "references/0-highlights+100.xmp",
+   "xmp_sha256": "b2d9c6e96545e2cbc26f361c40aaf76f30ce9ab03888a2bf90bb3bd69d8b023d"
+  },
+  {
+   "photo": 1,
+   "name": "default",
+   "reference": "references/1-default.tif",
+   "reference_sha256": "c719ece21b2e725c4df5b27515358a253576251b50a921a37dae6ab5a4074a64",
+   "xmp": "references/1-default.xmp",
+   "xmp_sha256": "e2a09f082fa69de1b28a814addad8bdc1ab4e51e0aada0d81574a9d8ac0fab85"
+  },
+  {
+   "photo": 1,
+   "name": "highlights-100",
+   "reference": "references/1-highlights-100.tif",
+   "reference_sha256": "f4ad02df25215f116e0059ac5d2f0045b1576b10fbf9ee2f340c3e030f53e394",
+   "xmp": "references/1-highlights-100.xmp",
+   "xmp_sha256": "10503f9f0cde33d4f5a056a67f2b181c963c9e5d10ab4169b5371446c3cda075"
+  },
+  {
+   "photo": 1,
+   "name": "highlights-50",
+   "reference": "references/1-highlights-50.tif",
+   "reference_sha256": "f8d716577713cc0bbd51144f49879dfc9483d3b570f387f1f100d79afd77fd1f",
+   "xmp": "references/1-highlights-50.xmp",
+   "xmp_sha256": "c25041227260c3cdae8967ac17b631f725e716263fbd0fd9ba7acf4739201ef5"
+  },
+  {
+   "photo": 1,
+   "name": "highlights-25",
+   "reference": "references/1-highlights-25.tif",
+   "reference_sha256": "f061d5ddc7390200b523ee7a6df9f1d8d86aa62499a535039ee8d763f898a1a2",
+   "xmp": "references/1-highlights-25.xmp",
+   "xmp_sha256": "b6d15ca4246e849049ea18068d47513c04e0fe2eebec47320afab4ec248dbeca"
+  },
+  {
+   "photo": 1,
+   "name": "highlights+25",
+   "reference": "references/1-highlights+25.tif",
+   "reference_sha256": "cf54784c9e52ecf3fe460ef4fe78b4ac9afa1ec57ed11414cebc90beea11fb93",
+   "xmp": "references/1-highlights+25.xmp",
+   "xmp_sha256": "041a5be33f80fc067d19fcd62f5b9a044c8c880d416c4640b3ca99d23c0efacb"
+  },
+  {
+   "photo": 1,
+   "name": "highlights+50",
+   "reference": "references/1-highlights+50.tif",
+   "reference_sha256": "74e6a752466f313bf06a49a1d6681577c7951afb193c699c85aba79c8cdfb5c3",
+   "xmp": "references/1-highlights+50.xmp",
+   "xmp_sha256": "6b8ee4fb95301f72b397a232f657794f2aa63cf8c72bedc5f1f5584238e67ccb"
+  },
+  {
+   "photo": 1,
+   "name": "highlights+100",
+   "reference": "references/1-highlights+100.tif",
+   "reference_sha256": "e5e8ba4a1337b4c28b8987801e1ed0a37b404c33ddda6ce6f8bc65c15ee45522",
+   "xmp": "references/1-highlights+100.xmp",
+   "xmp_sha256": "ddccc364f811046db90aa45b9a35074ee4f46ffea016df6edc44a19d1f8cfdb2"
+  },
+  {
+   "photo": 2,
+   "name": "default",
+   "reference": "references/2-default.tif",
+   "reference_sha256": "dcf0645a0efa744261125b0f82443c1a1e52012a55fcaf32eaa18ab5c8cfb3af",
+   "xmp": "references/2-default.xmp",
+   "xmp_sha256": "4d4e9c31bfc83a7985c765b5e43ed1eaecbae30a9e1c0543e15b8be751d45b6b"
+  },
+  {
+   "photo": 2,
+   "name": "highlights-100",
+   "reference": "references/2-highlights-100.tif",
+   "reference_sha256": "39d1d9431aeb5cdbe572fe32bd79a28e145e90ab94438d2093d5fcf1fae31ba9",
+   "xmp": "references/2-highlights-100.xmp",
+   "xmp_sha256": "a2de08e2ff05165ad2fb077c3077079ec7e1b5eeaf29e3526a6d7543e4f1e641"
+  },
+  {
+   "photo": 2,
+   "name": "highlights-50",
+   "reference": "references/2-highlights-50.tif",
+   "reference_sha256": "3e5bfea04610e67f63002b9e9d7c55d2d9a964b3bbba8623a8684314b232479f",
+   "xmp": "references/2-highlights-50.xmp",
+   "xmp_sha256": "366e4f348dddb3036334aa7b1075df825fa5815709ec744e8940a98f88f88f20"
+  },
+  {
+   "photo": 2,
+   "name": "highlights-25",
+   "reference": "references/2-highlights-25.tif",
+   "reference_sha256": "fcb76ba5c6c5342a0f228dbeff6f150ff2e94ff15484076b0804a07a852d7466",
+   "xmp": "references/2-highlights-25.xmp",
+   "xmp_sha256": "293a0a5580dc76b890de51151fc1600ec543fb5523b466c9bafe23272acd3654"
+  },
+  {
+   "photo": 2,
+   "name": "highlights+25",
+   "reference": "references/2-highlights+25.tif",
+   "reference_sha256": "3dd466c7b841d2a9cf0b54613473fc241655533e6bf1860308ac0f2b8c98931a",
+   "xmp": "references/2-highlights+25.xmp",
+   "xmp_sha256": "769a6a2b2d7bd25ce20aaeb2801be8623d3e50b92eb36d5bf1b947f69bb42e64"
+  },
+  {
+   "photo": 2,
+   "name": "highlights+50",
+   "reference": "references/2-highlights+50.tif",
+   "reference_sha256": "dd17ed7c24e92370580cfa4f8ab11d8bd1c8c47d9602366953de7ae403f1fe21",
+   "xmp": "references/2-highlights+50.xmp",
+   "xmp_sha256": "9b559c459b9c982c523b363be562f7c58c1691fe12b999331e2afb194763db76"
+  },
+  {
+   "photo": 2,
+   "name": "highlights+100",
+   "reference": "references/2-highlights+100.tif",
+   "reference_sha256": "f9197fd991193e51d7e2a4ae0ee8cfed24c30bdc1b73854113c357dddfc2a691",
+   "xmp": "references/2-highlights+100.xmp",
+   "xmp_sha256": "3e318ffa7c78571b2b2f0cdd25ae1eb15e23bac35b1476275dd6045a8e68862b"
+  },
+  {
+   "photo": 3,
+   "name": "default",
+   "reference": "references/3-default.tif",
+   "reference_sha256": "1af26fcd8e5a37707abd28d9c2f98c37d25c6b3eda4ba8720ab225960b3f19c0",
+   "xmp": "references/3-default.xmp",
+   "xmp_sha256": "576a92ff0b98bdc8aa8f750f5ef47f3ccb3b6253ce8a5a59c35962d0bd0dcd94"
+  },
+  {
+   "photo": 3,
+   "name": "highlights-100",
+   "reference": "references/3-highlights-100.tif",
+   "reference_sha256": "34995570bf56497a03dcbfddda4dbef2071f99c746feeee09cb52a3eb0d195a4",
+   "xmp": "references/3-highlights-100.xmp",
+   "xmp_sha256": "2dc8d91ad11d9b907121c2c97ecda3f6db964bb02002aa1016beed623714f513"
+  },
+  {
+   "photo": 3,
+   "name": "highlights-50",
+   "reference": "references/3-highlights-50.tif",
+   "reference_sha256": "7023d500786f7f2da4772c62c1de19c3ae9b8c265647da887c11198aac66bb41",
+   "xmp": "references/3-highlights-50.xmp",
+   "xmp_sha256": "c7ce6c9fe18367a76fa95dc556f21ac731393a3a7f3603930f1e70060dd928ff"
+  },
+  {
+   "photo": 3,
+   "name": "highlights-25",
+   "reference": "references/3-highlights-25.tif",
+   "reference_sha256": "23c53871d7403a5b1a8cf8bac4bf7aab9f9fe1e3736fabfafa8f6d525b2b9e83",
+   "xmp": "references/3-highlights-25.xmp",
+   "xmp_sha256": "213eb4ae9dfb9df158a1ad7c09164dd5c6744780a4f0b435a2075bdd09952d6b"
+  },
+  {
+   "photo": 3,
+   "name": "highlights+25",
+   "reference": "references/3-highlights+25.tif",
+   "reference_sha256": "0aacafbd1a031e92f93d73be14a0e39debac08be82a04874f7a530c5b8233123",
+   "xmp": "references/3-highlights+25.xmp",
+   "xmp_sha256": "093c85c30a9f69f9e521db9970b22e06310a4bf5a887dfcef755922afe8a8ecc"
+  },
+  {
+   "photo": 3,
+   "name": "highlights+50",
+   "reference": "references/3-highlights+50.tif",
+   "reference_sha256": "8d66245e577ff4e04401f9cb09400703a3577e531f33ec6fb2ec5612fe219368",
+   "xmp": "references/3-highlights+50.xmp",
+   "xmp_sha256": "4866423855ad38ca24cac08c23f1acf8a8e964ee4b3a9cd5541ba29f2e8520f0"
+  },
+  {
+   "photo": 3,
+   "name": "highlights+100",
+   "reference": "references/3-highlights+100.tif",
+   "reference_sha256": "93f674672a0c02705636c6088c113b66a0bbb080e03995863350247eae3b3ba2",
+   "xmp": "references/3-highlights+100.xmp",
+   "xmp_sha256": "33a20275b140b5006496fe981184d60f3df494ba8ce8039c14d1e021c82584e3"
+  },
+  {
+   "photo": 4,
+   "name": "default",
+   "reference": "references/4-default.tif",
+   "reference_sha256": "84b9859adfc4b3becbf68b299da2061559eb53020dde2ef5a998709380320dfc",
+   "xmp": "references/4-default.xmp",
+   "xmp_sha256": "9296c4a5939cf47f0bbce5a32c55132d6371c15c910b9cb9e39577226065837f"
+  },
+  {
+   "photo": 4,
+   "name": "highlights-100",
+   "reference": "references/4-highlights-100.tif",
+   "reference_sha256": "a8c06ba558078ff52a13b0553d377db0603b71ff8c201643ca68f208309df2a5",
+   "xmp": "references/4-highlights-100.xmp",
+   "xmp_sha256": "db9bda31a57a3540ccd17bfec9cc464195b31ef6de23edc9d2894329f574284c"
+  },
+  {
+   "photo": 4,
+   "name": "highlights-50",
+   "reference": "references/4-highlights-50.tif",
+   "reference_sha256": "627fde5af3781e8ca918d85c42a6b095de9b45fcb1f46dbe098d59ff1e3e16ae",
+   "xmp": "references/4-highlights-50.xmp",
+   "xmp_sha256": "368de3b54e7e6d72d8127de83a81cab715f9dc2415e28c025ba4a9009fe9c634"
+  },
+  {
+   "photo": 4,
+   "name": "highlights-25",
+   "reference": "references/4-highlights-25.tif",
+   "reference_sha256": "aa6f1d3876227f1e44c3cac553bcc144245d68aa9e39c91b0f11ef021e25a976",
+   "xmp": "references/4-highlights-25.xmp",
+   "xmp_sha256": "58ea05b5b9c2dc052edacc7702eb52448eeb2a2913eb55371cd93f525bf90f5e"
+  },
+  {
+   "photo": 4,
+   "name": "highlights+25",
+   "reference": "references/4-highlights+25.tif",
+   "reference_sha256": "61a22df6ea351c6d061ce6d18a57b5cbb10e713290096879e79631f8b809bf1e",
+   "xmp": "references/4-highlights+25.xmp",
+   "xmp_sha256": "8e990f7f17d2cbebf075fce7b468943072fc39384b02a14c183aecf694ded5e4"
+  },
+  {
+   "photo": 4,
+   "name": "highlights+50",
+   "reference": "references/4-highlights+50.tif",
+   "reference_sha256": "ecb9f9526ce118eab31a626c773f3332ea9965ccdec3deed039c186d38caa595",
+   "xmp": "references/4-highlights+50.xmp",
+   "xmp_sha256": "5ef42a9c88bf075e2fff53c0a463ad3905693127fd4588f26f1487b9358b1a5c"
+  },
+  {
+   "photo": 4,
+   "name": "highlights+100",
+   "reference": "references/4-highlights+100.tif",
+   "reference_sha256": "abe03ffb7553789e0dbc198b2c42a139685ff4145de32fa7d8f33cdec7212bbf",
+   "xmp": "references/4-highlights+100.xmp",
+   "xmp_sha256": "231d2776e676d424de53f909f51641604aad162f52efc14b5d65f4fdc6102602"
+  },
+  {
+   "photo": 5,
+   "name": "default",
+   "reference": "references/5-default.tif",
+   "reference_sha256": "7bbc508250ae261314b7e828a47c2741a95e9a3ca4cb487b92da5bfe7a633eb7",
+   "xmp": "references/5-default.xmp",
+   "xmp_sha256": "6fd388263370f26e4321206b826d5b06cca554ac7ba12d59c166cbbf38184e9f"
+  },
+  {
+   "photo": 5,
+   "name": "highlights-100",
+   "reference": "references/5-highlights-100.tif",
+   "reference_sha256": "c5dbbd54fc6b63665747a6116f6115496cd07dcf55d1f150217c5cadc2c3e60a",
+   "xmp": "references/5-highlights-100.xmp",
+   "xmp_sha256": "60c9ced7718aa127e536f87c8804ba08af337a37212a56342ad094b599a776a7"
+  },
+  {
+   "photo": 5,
+   "name": "highlights-50",
+   "reference": "references/5-highlights-50.tif",
+   "reference_sha256": "049680ba81ab4380083d543ccabeb679172631e518cc1bd807025f39d86beff3",
+   "xmp": "references/5-highlights-50.xmp",
+   "xmp_sha256": "ae742b9987258ee26474eb2af18b69fcd1984178095e1af85540a7339614a9cb"
+  },
+  {
+   "photo": 5,
+   "name": "highlights-25",
+   "reference": "references/5-highlights-25.tif",
+   "reference_sha256": "eafffa405187c5dfd29098271ed1bab65c030a6ef73279e44a299ecdd2282581",
+   "xmp": "references/5-highlights-25.xmp",
+   "xmp_sha256": "d7afdd8cba9d944c9161f5cb8249179e9be1eec3140d4b1e3a3d23ab37f60197"
+  },
+  {
+   "photo": 5,
+   "name": "highlights+25",
+   "reference": "references/5-highlights+25.tif",
+   "reference_sha256": "92818ac5d358c2c845345f06ea10583e7597c9a3f13a2fb429caf2bb0e5fda18",
+   "xmp": "references/5-highlights+25.xmp",
+   "xmp_sha256": "f98bb9da15cbb2dc681d8c57943d8060e3646b2f79ce15322cd83273f005b03d"
+  },
+  {
+   "photo": 5,
+   "name": "highlights+50",
+   "reference": "references/5-highlights+50.tif",
+   "reference_sha256": "999e18579fa8287538ec190442fe3119a82923cba4c2232b14f6618742a1630d",
+   "xmp": "references/5-highlights+50.xmp",
+   "xmp_sha256": "22454a00fd605fdfb48523c80cb8621cca3b2320aeb92a682ee00986ab4de9e4"
+  },
+  {
+   "photo": 5,
+   "name": "highlights+100",
+   "reference": "references/5-highlights+100.tif",
+   "reference_sha256": "ad2efa0446a471adaf62350a5d61269a9235fd364156d137a7df265fd18e8c13",
+   "xmp": "references/5-highlights+100.xmp",
+   "xmp_sha256": "5f3733357bc77d804254b95a8d238d3b78cb77743bc8e8e0d60abd04833c4f9f"
+  },
+  {
+   "photo": 6,
+   "name": "default",
+   "reference": "references/6-default.tif",
+   "reference_sha256": "2eb0d5f944d4650227f2ede5cbbc32b1d9d2b4815b2c2e6c189a04885318703b",
+   "xmp": "references/6-default.xmp",
+   "xmp_sha256": "752c0a79690f1bf7faa3e0870369ae55cae1df24074f200710c6897cc7bb5e8b"
+  },
+  {
+   "photo": 6,
+   "name": "highlights-100",
+   "reference": "references/6-highlights-100.tif",
+   "reference_sha256": "00ffd4271f4bc1e8624fae7574c1416d443b188f032a2d1d35415206efc59aaf",
+   "xmp": "references/6-highlights-100.xmp",
+   "xmp_sha256": "3456b78035e248b33507c5603a1a9392fca61a0950818b52f65e2675335f2e48"
+  },
+  {
+   "photo": 6,
+   "name": "highlights-50",
+   "reference": "references/6-highlights-50.tif",
+   "reference_sha256": "67ca0020271285b445ac72b0e9d86bf857e23870fd541043634560bd7dcb7c47",
+   "xmp": "references/6-highlights-50.xmp",
+   "xmp_sha256": "7ee60bc75a5dbf2fdf4ad03e23fd92de3fcd33734b5fdab857a2e6ed2068072d"
+  },
+  {
+   "photo": 6,
+   "name": "highlights-25",
+   "reference": "references/6-highlights-25.tif",
+   "reference_sha256": "9ff23868c40432392e23acdbaa8541d84088eae15d4e3d5ecbf8841b41616bfa",
+   "xmp": "references/6-highlights-25.xmp",
+   "xmp_sha256": "33444e77e8d5e684838a6e156b0aed3d67da72b4d5b9c3f1ced81f2ac61e1b8a"
+  },
+  {
+   "photo": 6,
+   "name": "highlights+25",
+   "reference": "references/6-highlights+25.tif",
+   "reference_sha256": "2ebc84cef6cc9b5f21de130afc2d8e4db5c7bc4dbc3ffe0a56b25be80cf0a136",
+   "xmp": "references/6-highlights+25.xmp",
+   "xmp_sha256": "a9142d3c9de60252b3d40885e5ea37a55f78ec8194cabfb8c5a1b91cbb085aa9"
+  },
+  {
+   "photo": 6,
+   "name": "highlights+50",
+   "reference": "references/6-highlights+50.tif",
+   "reference_sha256": "ac0892413ddd7b2e838fef1baab6cc1b2b2120e5a02b69545e5398477e5d51c2",
+   "xmp": "references/6-highlights+50.xmp",
+   "xmp_sha256": "4b719b835bc61e0ef2c0332aaf55df4d7fb698f818d723ea3d1f55aec65763e2"
+  },
+  {
+   "photo": 6,
+   "name": "highlights+100",
+   "reference": "references/6-highlights+100.tif",
+   "reference_sha256": "8b8bceff45f9d010be8a171975a7a368cd61b4644c3ff5b5e28ff615b024a8ae",
+   "xmp": "references/6-highlights+100.xmp",
+   "xmp_sha256": "dac7bac7256f732df9940874335b03aec372335538559fbcfb537ddc5577252e"
+  },
+  {
+   "photo": 7,
+   "name": "default",
+   "reference": "references/7-default.tif",
+   "reference_sha256": "407595ec2d8cbb07897471a3a043dc055149ccf5cc9c447f3b6ff93390873433",
+   "xmp": "references/7-default.xmp",
+   "xmp_sha256": "b2a19560238efddaf19e4cdb0be20fa3cbe005f9967d08881f4c01f1d93ab35b"
+  },
+  {
+   "photo": 7,
+   "name": "highlights-100",
+   "reference": "references/7-highlights-100.tif",
+   "reference_sha256": "a4ff9f4cf64c47966b1cdbf2a477c09faf76a3eb297a49095db8cd380d07f9d7",
+   "xmp": "references/7-highlights-100.xmp",
+   "xmp_sha256": "8585ac7c5da7b9a24705a6d38b8c72d2c9dc3d114dacb5ff5f87cbfa6ffd8d6f"
+  },
+  {
+   "photo": 7,
+   "name": "highlights-50",
+   "reference": "references/7-highlights-50.tif",
+   "reference_sha256": "9228731b2d7937aa4e3779e8134c07a3d0d4a185873566f12b675ab7c4fcc722",
+   "xmp": "references/7-highlights-50.xmp",
+   "xmp_sha256": "7b331cfc34088e3b865817e56cf62aa168b3321af9c646ef88bd57e6d57fb562"
+  },
+  {
+   "photo": 7,
+   "name": "highlights-25",
+   "reference": "references/7-highlights-25.tif",
+   "reference_sha256": "6d4b9a27d84277bab4eae67ee3cb3b050b51f27d026467bf60ee7179f89ca25b",
+   "xmp": "references/7-highlights-25.xmp",
+   "xmp_sha256": "a183de1087338f558c333c1af58857802c3a6915bb216b1112dfba334ec57137"
+  },
+  {
+   "photo": 7,
+   "name": "highlights+25",
+   "reference": "references/7-highlights+25.tif",
+   "reference_sha256": "b1b8736bae338eecb69bcdd742240368aa9812c31dc7f4fb53b4b75eda7cac7a",
+   "xmp": "references/7-highlights+25.xmp",
+   "xmp_sha256": "97eda205fdf0f7cb53b3bc5447cc3f8f57b4d9cdeb238999dfd653cceb614171"
+  },
+  {
+   "photo": 7,
+   "name": "highlights+50",
+   "reference": "references/7-highlights+50.tif",
+   "reference_sha256": "412f508e799f58ff467b8e740d5b287be46aaee146b06b59b1bd34f9f98b8acd",
+   "xmp": "references/7-highlights+50.xmp",
+   "xmp_sha256": "9ef6422e977a12722f1307434b680f4e525f934b3e60ca9182ed5e32e8cb9bc2"
+  },
+  {
+   "photo": 7,
+   "name": "highlights+100",
+   "reference": "references/7-highlights+100.tif",
+   "reference_sha256": "eeb90f10db1f591865db6cfda6a17f6472328325d15f475a212b722f252315ee",
+   "xmp": "references/7-highlights+100.xmp",
+   "xmp_sha256": "9b5516d015ae8eb057282c036a12f30f5fcc1e1fdc45399e6114367038b78f1c"
+  },
+  {
+   "photo": 8,
+   "name": "default",
+   "reference": "references/8-default.tif",
+   "reference_sha256": "40794f01980da7f98efa6dd36f0838d9293adfbae9065b9d0c6019e9adb81082",
+   "xmp": "references/8-default.xmp",
+   "xmp_sha256": "9fb003ad75bdaffc649a5c9125179e62aa7456c3fb1f64856a505f44589561f8"
+  },
+  {
+   "photo": 8,
+   "name": "highlights-100",
+   "reference": "references/8-highlights-100.tif",
+   "reference_sha256": "12e9399b91e442f91722688ec9df9f2eb36489013d1501499c86510ae970f67a",
+   "xmp": "references/8-highlights-100.xmp",
+   "xmp_sha256": "e73a62b49877efec25d58647f2a9e985072cc03cb741cabf4430cd17e03eca74"
+  },
+  {
+   "photo": 8,
+   "name": "highlights-50",
+   "reference": "references/8-highlights-50.tif",
+   "reference_sha256": "abf8a901ac3025c8a92751a6fe485353070a80a3288d39a66f5ed9bf9ebbd204",
+   "xmp": "references/8-highlights-50.xmp",
+   "xmp_sha256": "0ddd044bb3db3c7cbc1f0add1f7c1399be98d5659ba20a3edd1aa3fd0763fc53"
+  },
+  {
+   "photo": 8,
+   "name": "highlights-25",
+   "reference": "references/8-highlights-25.tif",
+   "reference_sha256": "2bfab978b9c50b1da01037684ccca4bbeab7cd5d66794a4aba2e6f602ef8d591",
+   "xmp": "references/8-highlights-25.xmp",
+   "xmp_sha256": "516e3bbcb029bdb52adbf951d26b7183b43aeedc69a197224c5f23449dc43b21"
+  },
+  {
+   "photo": 8,
+   "name": "highlights+25",
+   "reference": "references/8-highlights+25.tif",
+   "reference_sha256": "0a37d5a9d572477a9976227f64daff943df8f04bc537030892af9a59d5a864ab",
+   "xmp": "references/8-highlights+25.xmp",
+   "xmp_sha256": "c0adb19c1a113147ea41cb1ffc45764a58868bceb6c3c1a061088205a8b73341"
+  },
+  {
+   "photo": 8,
+   "name": "highlights+50",
+   "reference": "references/8-highlights+50.tif",
+   "reference_sha256": "6e83b14b735c6a42ebb4883defe260c33cc6aa095d0461880c10e7f2e5bb1d64",
+   "xmp": "references/8-highlights+50.xmp",
+   "xmp_sha256": "63c0328523c84dc00aa8a6a6a8befa9f8dc5460bd2cce016ad32ece7e481f9e2"
+  },
+  {
+   "photo": 8,
+   "name": "highlights+100",
+   "reference": "references/8-highlights+100.tif",
+   "reference_sha256": "600f22d1335c8e217beb29fd9cdb2b68e3929173d0debd80cd38b009ddeb1296",
+   "xmp": "references/8-highlights+100.xmp",
+   "xmp_sha256": "4a495bea432fe5ca3fae7d3436ed4e5a30a5088dbc4517352401ddf27dbb4e71"
+  },
+  {
+   "photo": 9,
+   "name": "default",
+   "reference": "references/9-default.tif",
+   "reference_sha256": "7966a14ec95e994bc9e58d83f779dc48d22dc11225ec66030e5197d959ef541d",
+   "xmp": "references/9-default.xmp",
+   "xmp_sha256": "6c26b8c935a94ef34e9d0e0a1d4abba425a0fa08d7ebdb139e11772e09253ed2"
+  },
+  {
+   "photo": 9,
+   "name": "highlights-100",
+   "reference": "references/9-highlights-100.tif",
+   "reference_sha256": "953a7099b511135c5d0479882373b5cf6fee49f92abd82e72dd3fb2b24d5503b",
+   "xmp": "references/9-highlights-100.xmp",
+   "xmp_sha256": "53306948a247ccbc995617c6d91915d51ae6c01935c6082827f0d42de2221d92"
+  },
+  {
+   "photo": 9,
+   "name": "highlights-50",
+   "reference": "references/9-highlights-50.tif",
+   "reference_sha256": "178ceeed0430837ecc6a415b19b2c000dc13ac47e349907632fb161ac897abf1",
+   "xmp": "references/9-highlights-50.xmp",
+   "xmp_sha256": "358aff772355c9afd7d1393e7ee2c8dc18c4f69d1a6b9833908f8219ad92f27d"
+  },
+  {
+   "photo": 9,
+   "name": "highlights-25",
+   "reference": "references/9-highlights-25.tif",
+   "reference_sha256": "9f332696e8b97e8f57b7fd7fee602342255b5814f4ce001856c9b2e8e43990d4",
+   "xmp": "references/9-highlights-25.xmp",
+   "xmp_sha256": "ac1582ad99606fe4d2b9eb1bef3feca00f019539c3008ce34f9da5287d1b8d4e"
+  },
+  {
+   "photo": 9,
+   "name": "highlights+25",
+   "reference": "references/9-highlights+25.tif",
+   "reference_sha256": "30a8189253d4049ea260d0cdafa86de426fc752f698b2b0477056bc5da1a0514",
+   "xmp": "references/9-highlights+25.xmp",
+   "xmp_sha256": "ccda0db93413f2a5c18ab5b18ed40d25157696cb3735b4866a0132a9105738a5"
+  },
+  {
+   "photo": 9,
+   "name": "highlights+50",
+   "reference": "references/9-highlights+50.tif",
+   "reference_sha256": "ee012b8455b3a4cd31705dd581fca54dcf560bb78029abc547fb9e20158ec195",
+   "xmp": "references/9-highlights+50.xmp",
+   "xmp_sha256": "70b0f2e10863126099b94c4fe227616c73d923bcf326338805cf93f854f4dc25"
+  },
+  {
+   "photo": 9,
+   "name": "highlights+100",
+   "reference": "references/9-highlights+100.tif",
+   "reference_sha256": "2fe1e2df154fa2c949ac35381ebd655d67134c14a7919c90f770e5827e1f9ac6",
+   "xmp": "references/9-highlights+100.xmp",
+   "xmp_sha256": "0ef37de3c6d5b2452961227294e5049096b1e2df274ec1eb0bd7aa944082fa3f"
+  },
+  {
+   "photo": 10,
+   "name": "default",
+   "reference": "references/10-default.tif",
+   "reference_sha256": "984e18a3fc8c21967530047d09a0145acec743c028907389cfa20eacd06fa904",
+   "xmp": "references/10-default.xmp",
+   "xmp_sha256": "883fe91ce26ae31f2e50e2f3d3755e5757790ec15b7db38e2add3375ccf81d01"
+  },
+  {
+   "photo": 10,
+   "name": "highlights-100",
+   "reference": "references/10-highlights-100.tif",
+   "reference_sha256": "c1f0f2a821ce503fce7fbc77e6e8114ba6a2eb86a87657a129a8988c899022d7",
+   "xmp": "references/10-highlights-100.xmp",
+   "xmp_sha256": "4d54120c634de83bfb452f10a5ee39d3ea3c46bbee3203c7bbb866897050dd0c"
+  },
+  {
+   "photo": 10,
+   "name": "highlights-50",
+   "reference": "references/10-highlights-50.tif",
+   "reference_sha256": "4923fa95d50bb5b1f0da2df7cfe423081025a5192de174b5ab120814a98101d3",
+   "xmp": "references/10-highlights-50.xmp",
+   "xmp_sha256": "93b53904069c3845aedde3f2e53a7fd19a399d04a7269eb9026c7b62fd1021a2"
+  },
+  {
+   "photo": 10,
+   "name": "highlights-25",
+   "reference": "references/10-highlights-25.tif",
+   "reference_sha256": "aa7cfac5dce8482f5943873c8a6db54de88680539291258971180ced2e196fbb",
+   "xmp": "references/10-highlights-25.xmp",
+   "xmp_sha256": "2e877afcd7c987de754fc3faf5bc34bcd4936f5b4cdc26f16b1fa078b1cd2e8d"
+  },
+  {
+   "photo": 10,
+   "name": "highlights+25",
+   "reference": "references/10-highlights+25.tif",
+   "reference_sha256": "cb405d46f3e5b8eccdd7329815e899bbdd28726a1dda9e4558040594a924dc1c",
+   "xmp": "references/10-highlights+25.xmp",
+   "xmp_sha256": "0685a10504f2c2cc5c0f54bc41312b5137d89be9ce81b9a11405c9225cc64c15"
+  },
+  {
+   "photo": 10,
+   "name": "highlights+50",
+   "reference": "references/10-highlights+50.tif",
+   "reference_sha256": "0d7dabb3252a4c1e2ca31c01af7d5b49fee81e3fbaf3e033a1a462b06a218939",
+   "xmp": "references/10-highlights+50.xmp",
+   "xmp_sha256": "3a89568af5d7e7cbfa3db7bc99c2c085aa59fccc2a0dd7c0a2891b56623948cb"
+  },
+  {
+   "photo": 10,
+   "name": "highlights+100",
+   "reference": "references/10-highlights+100.tif",
+   "reference_sha256": "0a894858746aa467bf54efe91359d9697c19b66dd14edade35856f6a3025e376",
+   "xmp": "references/10-highlights+100.xmp",
+   "xmp_sha256": "fad6421e483bcf798fbbda279610e2fbbf9d0c3a269dcfc3dcc12a6cbbdb5760"
+  },
+  {
+   "photo": 11,
+   "name": "default",
+   "reference": "references/11-default.tif",
+   "reference_sha256": "fddf827223771b2e6f42aa15161cb0fdc7af537a5db4df43815b4e55dbce2cf3",
+   "xmp": "references/11-default.xmp",
+   "xmp_sha256": "30c24d3231137415863f7a6674c29666965d2a4adf2390d8e0ce5bc1945b396e"
+  },
+  {
+   "photo": 11,
+   "name": "highlights-100",
+   "reference": "references/11-highlights-100.tif",
+   "reference_sha256": "dbe0621238f9a725e04a4a23a063b30b9f02d0d3c6549766c927a571c245f96b",
+   "xmp": "references/11-highlights-100.xmp",
+   "xmp_sha256": "2b15954152833080091eaef24dddd5565b236a81d141563858feb857518855b7"
+  },
+  {
+   "photo": 11,
+   "name": "highlights-50",
+   "reference": "references/11-highlights-50.tif",
+   "reference_sha256": "e7c57ab3a69e56456f213710c2b78d69e6bb10504bd15cb2f22f780373b91ed4",
+   "xmp": "references/11-highlights-50.xmp",
+   "xmp_sha256": "a345b7b563ef84c26a6c611bc4b02c1d1da3dd534840bd790b413200743f5e18"
+  },
+  {
+   "photo": 11,
+   "name": "highlights-25",
+   "reference": "references/11-highlights-25.tif",
+   "reference_sha256": "4a403ee1d9affc7b6dbad06e28b7a189e02c4847af39f0738d712b1688476e74",
+   "xmp": "references/11-highlights-25.xmp",
+   "xmp_sha256": "6437c7e692cb061e2aca5b337d27d9245ef74698abe859ea59b3f62751b1cf55"
+  },
+  {
+   "photo": 11,
+   "name": "highlights+25",
+   "reference": "references/11-highlights+25.tif",
+   "reference_sha256": "112836e13dd9e09bee5219be65fc14bbcb077b42be0f751816a1109c445d904a",
+   "xmp": "references/11-highlights+25.xmp",
+   "xmp_sha256": "46d55e562e8bb80d28bd916fadec8c10ac3ffe4c1d7556a55e8e8a8c92435fd1"
+  },
+  {
+   "photo": 11,
+   "name": "highlights+50",
+   "reference": "references/11-highlights+50.tif",
+   "reference_sha256": "124bc4de5f30ace938521da3cdfecd74ca110ef2606dc7d8a1211ed030259faa",
+   "xmp": "references/11-highlights+50.xmp",
+   "xmp_sha256": "a6c616a2f9697481568f7e36b7d5fdec885783b83e97f8c254745d388e87517e"
+  },
+  {
+   "photo": 11,
+   "name": "highlights+100",
+   "reference": "references/11-highlights+100.tif",
+   "reference_sha256": "8aa83e1f898ae7e6d353c7a109480a45692bf05272e82d3a723336cfd756aa1e",
+   "xmp": "references/11-highlights+100.xmp",
+   "xmp_sha256": "cca8a895a5754f68f983b0de94c80019cc2f20158ca4f6770d364afedb612dde"
+  },
+  {
+   "photo": 12,
+   "name": "default",
+   "reference": "references/12-default.tif",
+   "reference_sha256": "1ed12405cd86a8ad2d8ea27d32b1f7af118877ba48d0a21524e351c8cf7faf89",
+   "xmp": "references/12-default.xmp",
+   "xmp_sha256": "363a07c0f9c16a0b0f2addd678e5fd07b55da9d73bc6ea92640b781a0b0b209d"
+  },
+  {
+   "photo": 12,
+   "name": "highlights-100",
+   "reference": "references/12-highlights-100.tif",
+   "reference_sha256": "baf23622d0cc7aadf334cddce6ea1bba417d022283fc7cde36b43f965d93f43b",
+   "xmp": "references/12-highlights-100.xmp",
+   "xmp_sha256": "604f6a1cd237a3d4ba1e4982fe4d5b5af20e10270bd69cfed7e90f70e09750c3"
+  },
+  {
+   "photo": 12,
+   "name": "highlights-50",
+   "reference": "references/12-highlights-50.tif",
+   "reference_sha256": "492c940fd26bcab943e86073a7c7b07506a720ce180a9c4063a6ef0c7dab4448",
+   "xmp": "references/12-highlights-50.xmp",
+   "xmp_sha256": "7451867be9f66a9b824a78c41bc6a6add7d967498dbda395fd004f3279817cad"
+  },
+  {
+   "photo": 12,
+   "name": "highlights-25",
+   "reference": "references/12-highlights-25.tif",
+   "reference_sha256": "f4be6dfc3cf2842b47dc2b2a49bad4e4e879a5ef22a40a86ef39ca4f7c123c1a",
+   "xmp": "references/12-highlights-25.xmp",
+   "xmp_sha256": "c001a531a0d3cb0932999a1f7e0bdce88476b5b2ed9c8aa45e618f69574477c9"
+  },
+  {
+   "photo": 12,
+   "name": "highlights+25",
+   "reference": "references/12-highlights+25.tif",
+   "reference_sha256": "d51d5ba638335439351d0a3083f441b62b30fc69ecea6776f0457b659e3974ed",
+   "xmp": "references/12-highlights+25.xmp",
+   "xmp_sha256": "ebf01ab4cd3001158e5c36a808c74cdd5d56bc91c4b16bfcad4e252d287fd11d"
+  },
+  {
+   "photo": 12,
+   "name": "highlights+50",
+   "reference": "references/12-highlights+50.tif",
+   "reference_sha256": "fcff6b411f2c18212d78e53c23ffe17488074215948a1b6e865ad9b605d015b5",
+   "xmp": "references/12-highlights+50.xmp",
+   "xmp_sha256": "8dc6bfc7ed84f118ed3f7f78a67b36765504ed540f2268b4a5073ede5278261d"
+  },
+  {
+   "photo": 12,
+   "name": "highlights+100",
+   "reference": "references/12-highlights+100.tif",
+   "reference_sha256": "b1001b52c10c77a3055944ff55c97b6ec2a3321d6b11927500ee905bb10eb622",
+   "xmp": "references/12-highlights+100.xmp",
+   "xmp_sha256": "4af9977ceb6872c06c1a00ae18158d9628a4535a24aa0c7cb2558826124fafbc"
+  },
+  {
+   "photo": 13,
+   "name": "default",
+   "reference": "references/13-default.tif",
+   "reference_sha256": "d51987f3be44ee4e36b5003156e2ddba2d5fd7575c5b113648a1e0e3b82ef6d3",
+   "xmp": "references/13-default.xmp",
+   "xmp_sha256": "d3241f6745b1303b3e1561489a1cb3196f61f67c0290b4179807ceb8001b926a"
+  },
+  {
+   "photo": 13,
+   "name": "highlights-100",
+   "reference": "references/13-highlights-100.tif",
+   "reference_sha256": "95baa45b1bbd6530c108468e69d28a42409f06ee3a5d9f4b9ce9d8996bb69eb5",
+   "xmp": "references/13-highlights-100.xmp",
+   "xmp_sha256": "3658e4410de6f43c5782c6a2f331e5f7f33b0c6a44ece82f3940d306647acca8"
+  },
+  {
+   "photo": 13,
+   "name": "highlights-50",
+   "reference": "references/13-highlights-50.tif",
+   "reference_sha256": "f0a9cdc2f4832abf5de241c922fa5dfcc58b92df41dd5679730fcd4166aa1d0e",
+   "xmp": "references/13-highlights-50.xmp",
+   "xmp_sha256": "ed00b33a219fd3dbfc2fb52e25b2fff25de54abd2bbc9c9cf66fc48c10cfe154"
+  },
+  {
+   "photo": 13,
+   "name": "highlights-25",
+   "reference": "references/13-highlights-25.tif",
+   "reference_sha256": "07734a08645a348109b4725b81ef8cdf796d963f7ad964a75ed04e9cfc1f0594",
+   "xmp": "references/13-highlights-25.xmp",
+   "xmp_sha256": "7ea740db6f4eb5e84f177e4979363a181b0891f56d24e8573ced1f9e56062b5d"
+  },
+  {
+   "photo": 13,
+   "name": "highlights+25",
+   "reference": "references/13-highlights+25.tif",
+   "reference_sha256": "2d7fedd6e705e764c4d47ce0a9abbe7c7763c923d69e2a24486770de1bc023b3",
+   "xmp": "references/13-highlights+25.xmp",
+   "xmp_sha256": "bb0f518cba84a639c24f8ee1943ed53595bce417b1c2ec0052ed471d6a18d61d"
+  },
+  {
+   "photo": 13,
+   "name": "highlights+50",
+   "reference": "references/13-highlights+50.tif",
+   "reference_sha256": "bcef6bee50e081c17a2ada5e9277ef6af4076f3c88da3252427eb213ab5b5eb9",
+   "xmp": "references/13-highlights+50.xmp",
+   "xmp_sha256": "de939ffab08f6bef96f7b090aa3978189f070c627f93a78d41961ce905390442"
+  },
+  {
+   "photo": 13,
+   "name": "highlights+100",
+   "reference": "references/13-highlights+100.tif",
+   "reference_sha256": "0b0a2e680a189a470c99e966b324b3deabf25baeb6399dd0ced8b5947711f17c",
+   "xmp": "references/13-highlights+100.xmp",
+   "xmp_sha256": "a65ea356f4c83ad29ecf6ad53605533f635ed25803b2c3364a3d4c9e019ba7c6"
+  }
+ ]
+}

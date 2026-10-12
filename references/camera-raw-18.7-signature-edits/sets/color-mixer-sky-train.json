@@ -1,0 +1,244 @@
+{
+ "schema": 1,
+ "set": "color-mixer-sky-train",
+ "settings": [
+  "blue-hue-50",
+  "blue-hue+50",
+  "blue-sat-50",
+  "blue-sat+50",
+  "blue-lum-50",
+  "blue-lum+50"
+ ],
+ "photos": [
+  {
+   "raw": "raws/signature-edits/IMG_0069.CR2",
+   "sha256": "5daffb31ab0aca5e2b7394dc58f52afa2b4839c364c71af8b8c5f2e7f6cdc0ef",
+   "p90_L": 38.773057707797804,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS 5D Mark III",
+   "subject": "mountain under a starry night sky",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/signature edits free raw.ARW",
+   "sha256": "dc82419f2e9ccac5ec2d92a24723c3cac304d9b21c9fd6a29c18a6a7d44909d0",
+   "p90_L": 35.18055049655631,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "ILCE-7M3",
+   "subject": "dramatic red clouds at sunset",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/Free Raw Files - Tag @signatureeditsco IMG_9034.CR2",
+   "sha256": "84f96a48f4493ef0cb51d074400b24d5776fd1acbf91edb6bd73e0b25ab0496b",
+   "p90_L": 36.891220843849574,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS 6D",
+   "subject": "Milky Way galaxy in night sky",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/ by_danny (12).ARW",
+   "sha256": "ebd8cefa8fac0efbd8cc73ba580e81010ebb7767c482bbaa448f8cfcd118504d",
+   "p90_L": 32.737199833509926,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "ILCE-7M3",
+   "subject": "historic church tower viewed through a narrow street",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits Free Raw Files - Tag @signatureeditsco IMG_0913.CR2",
+   "sha256": "e818472b34fa4f9b710780ee2ffec732d3613b795aabce0d085144ec0aa90514",
+   "p90_L": 38.23754753183514,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS 6D",
+   "subject": "woman peeking through large green leaves",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/Tag @ryanbreitkreutz - Free files from @signatureeditscoDSC00830.ARW",
+   "sha256": "4b195fdcab09a189ada85b5a4c4172e62f1155944c56c91d954672a7929bec4a",
+   "p90_L": 29.239594822254933,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "ILCE-7M4",
+   "subject": "ornate wooden window frame with carved decoration, viewed from inside a dark room",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/DSC00326.dng",
+   "sha256": "8fb11e446f80c7d6613d7acf4ea8f163ab46cd138243dfd66d0732dd8599b40f",
+   "p90_L": 26.19897160161675,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "ILCE-7M3",
+   "subject": "person in yellow jacket standing before a waterfall",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/APC_0245-2.DNG",
+   "sha256": "a877e28229d29eb4b8c1c634eaa7bd9a6ee885067bf24bd95d8c02e01e69607b",
+   "p90_L": 69.02332224544276,
+   "stratum": "mid",
+   "make": "Apple",
+   "model": "iPhone XS Max",
+   "subject": "person walking down a sunlit urban street",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/_MGL3114.CR2",
+   "sha256": "060609c6084d9040689c8550c7c1f31f3ac3469675c6bcf2b950fb798ee58f7f",
+   "p90_L": 59.68124837128452,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 5D Mark III",
+   "subject": "yellow flowering shrubs on a cliff overlooking a lake",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/@drethesilva-3.NEF",
+   "sha256": "1736178dd8052af79734c6d6e6adf9eef333e9dca6385ded70a0d9760788e9de",
+   "p90_L": 69.81819043599761,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "D3400",
+   "subject": "sunset over ocean with beach in foreground",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - P1060536.RW2",
+   "sha256": "bec6b3b33310f8dd4ba9f50c053ed0da2b7f28677a04ec672abec42d8ccde552",
+   "p90_L": 58.75073062567383,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DMC-GX80",
+   "subject": "a turquoise lake surrounded by rolling hills and forests",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/ig _snipeer.ARW",
+   "sha256": "039b4219fef7d4bba392b896ee77144cd3cd3c18c46a0cefe4195af1133bb829",
+   "p90_L": 51.84244299727681,
+   "stratum": "mid",
+   "make": "Sony",
+   "model": "ILCE-7M2",
+   "subject": "silhouette of a person walking past a reflected building at dusk",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/1 signatureedits9823u.dng",
+   "sha256": "c7684fe33a13602b26f0bf8ae2a9fe4a3a5eb1bbd59a79a5642c63b41888732a",
+   "p90_L": 55.46650659558534,
+   "stratum": "mid",
+   "make": "Apple",
+   "model": "iPhone X",
+   "subject": "white SUV parked on a sandy beach near rocky coastline",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/IMG_0063.CR2",
+   "sha256": "38e85371662116c6c3bd443cd1218ea32bba78eb309e5d2d638b38708c7d5b3b",
+   "p90_L": 61.01959382224187,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 5D Mark III",
+   "subject": "mountain viewed from a road",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/APC_1211.dng",
+   "sha256": "4989360a54d77ecb83c54f6a625153834530203e4ba72b95b1361f7e02847200",
+   "p90_L": 85.16915002098368,
+   "stratum": "high",
+   "make": "Apple",
+   "model": "iPhone XR",
+   "subject": "urban street at sunset with wet pavement and parked cars",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/_MGL4794.CR2",
+   "sha256": "0bc83450d4babf34cfdaeebfcb79fc6368031691b6d23e8ca3c4c42f0f7bc104",
+   "p90_L": 95.21930335226106,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS 5D Mark III",
+   "subject": "couple in wedding attire overlooking a lake at dusk",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/tag @arwco  tag @signatureeditsco - free raws from signatureedits.com _m1.NEF",
+   "sha256": "146fa50ed0e5ff47282e0e2c2580a61fdbafbc8f28b1c8d0b539049953969129",
+   "p90_L": 76.63131751137603,
+   "stratum": "high",
+   "make": "Nikon",
+   "model": "D810",
+   "subject": "man in goggles and helmet standing on train tracks",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/Tag @signatureeditsco LAR08325.ARW",
+   "sha256": "046f4b47d8152a73e9f791c46e9e9481128a2317e427122e24ab9ca2f4a8b9b7",
+   "p90_L": 81.33712252027524,
+   "stratum": "high",
+   "make": "Sony",
+   "model": "ILCE-7M3",
+   "subject": "giraffe head and neck against a bright blue sky",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/APC_0347.DNG",
+   "sha256": "7507eb6b0937f1c8f040b5b20fc71b9c92e3aea2e8b6e5ba1541be756a68e515",
+   "p90_L": 82.25251946639189,
+   "stratum": "high",
+   "make": "Apple",
+   "model": "iPhone XS Max",
+   "subject": "bookstore window reflection showing trees and buildings",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/signature edits free raw files.DNG",
+   "sha256": "166031ccd9df847bbacd6b453d254260455f00febd3daeb3aad59ee4bf704b13",
+   "p90_L": 93.40033625496162,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS 5D Mark II",
+   "subject": "rolling green hills under a cloudy sky",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/tag @arwcoe  _s1 tag @signatureeditsco - free raws from signatureedits.com .NEF",
+   "sha256": "6f12c1bd8e902a361bf0a177ef9767fc4d1d3894f13d9327a21eee4e9c4f45cd",
+   "p90_L": 94.61759624047583,
+   "stratum": "high",
+   "make": "Nikon",
+   "model": "D810",
+   "subject": "man in fur hat standing by train tracks",
+   "score": null
+  }
+ ],
+ "crs": {
+  "blue-hue-50": {
+   "HueAdjustmentBlue": "-50"
+  },
+  "blue-hue+50": {
+   "HueAdjustmentBlue": "+50"
+  },
+  "blue-sat-50": {
+   "SaturationAdjustmentBlue": "-50"
+  },
+  "blue-sat+50": {
+   "SaturationAdjustmentBlue": "+50"
+  },
+  "blue-lum-50": {
+   "LuminanceAdjustmentBlue": "-50"
+  },
+  "blue-lum+50": {
+   "LuminanceAdjustmentBlue": "+50"
+  }
+ }
+}

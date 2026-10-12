@@ -1,0 +1,144 @@
+{
+ "schema": 1,
+ "set": "color-mixer-sky-validation",
+ "settings": [
+  "blue-hue-50",
+  "blue-hue+50",
+  "blue-sat-50",
+  "blue-sat+50",
+  "blue-lum-50",
+  "blue-lum+50"
+ ],
+ "photos": [
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco - free raw files from signatureedits.com DSC01956.ARW",
+   "sha256": "fa21322f5d46c16054c6e89c5fff086fd55162272e7d371cac4afd9dc8bd42d0",
+   "p90_L": 39.145669216847054,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "DSC-RX10M4",
+   "subject": "silhouetted trees and posts against a twilight sky reflected in water",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/_DSC0580.NEF",
+   "sha256": "31aa708a3b55499fcca40a04336567c235cebef646abc93e344764b0e9dd1d31",
+   "p90_L": 12.946647063881416,
+   "stratum": "low",
+   "make": "Nikon",
+   "model": "D7000",
+   "subject": "Tokyo Tower illuminated at night against a city skyline",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/Photodesk 7.NEF",
+   "sha256": "55a3dd628c9fada06686a84334bd87b7bcc41f2627bb34854d956fc451f5bb40",
+   "p90_L": 38.63941901234627,
+   "stratum": "low",
+   "make": "Nikon",
+   "model": "D7000",
+   "subject": "silhouette of a person sitting in a shadowed archway",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco - IMG_7426.CR2",
+   "sha256": "59e92ce7d97c22638b31391ddd93362896be9f953c61bf243e25d85e9a8f47be",
+   "p90_L": 47.65234495345868,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS Rebel T7i",
+   "subject": "woman in black blazer and orange crop top standing outdoors",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/_DSC6075.NEF",
+   "sha256": "a7480345996a3451b98c0c480cb7bfa8a859e64536d0c9c9f66ef308f3762c87",
+   "p90_L": 56.88282449527889,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "D7000",
+   "subject": "train on bridge at sunset",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/P1012775.dng",
+   "sha256": "0573c6c1a817239db6b0028bb83291be5cd250143ee9f9e9faa870c0e513d0ec",
+   "p90_L": 53.79426637890456,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DC-S1",
+   "subject": "silhouette of a man standing on a rocky beach at dusk",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco IMG_1382.CR2",
+   "sha256": "5ae95fe6cc81f9825d7b68c589b253e579d0a0d6c8182d0a1d8a7c45f3abeb73",
+   "p90_L": 67.38651853514887,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 80D",
+   "subject": "straight road through green hills leading to ocean",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/WilliamMitchellPhoto - Signature Edits Free Raws.CR2",
+   "sha256": "2724ab0f165c9f8b8771ba8aa1b5fe5f8a44573dfe8393391d5d62b86f56035d",
+   "p90_L": 82.15218330937071,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS 6D Mark II",
+   "subject": "young woman with red hair sitting in tall grass at sunset",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/July_mReKo_002.DNG",
+   "sha256": "e5d9b5ba519f8abc0126d03fabe72508d4c3d8c5d45b22c1007ec0dce26160a4",
+   "p90_L": 88.35092438025104,
+   "stratum": "high",
+   "make": "Hasselblad",
+   "model": "L1D-20c",
+   "subject": "snow-capped mountain under a partly cloudy sky",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/Photodesk 15.NEF",
+   "sha256": "57ca28e95419885fae9cea13275441affc36f546752094ade1dbcca026102ed6",
+   "p90_L": 78.87130906356143,
+   "stratum": "high",
+   "make": "Nikon",
+   "model": "D7000",
+   "subject": "ornate stone tower with visitors at its base",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/s signature edits raws free.dng",
+   "sha256": "2baf5c2ac6202028a50ddc1eded1feff02b859f14d20bd111e6877ab935a7f13",
+   "p90_L": 89.36353286095797,
+   "stratum": "high",
+   "make": "Panasonic",
+   "model": "DC-S1",
+   "subject": "desert landscape with red rock formations and sparse vegetation",
+   "score": null
+  }
+ ],
+ "crs": {
+  "blue-hue-50": {
+   "HueAdjustmentBlue": "-50"
+  },
+  "blue-hue+50": {
+   "HueAdjustmentBlue": "+50"
+  },
+  "blue-sat-50": {
+   "SaturationAdjustmentBlue": "-50"
+  },
+  "blue-sat+50": {
+   "SaturationAdjustmentBlue": "+50"
+  },
+  "blue-lum-50": {
+   "LuminanceAdjustmentBlue": "-50"
+  },
+  "blue-lum+50": {
+   "LuminanceAdjustmentBlue": "+50"
+  }
+ }
+}

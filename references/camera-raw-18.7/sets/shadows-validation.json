@@ -1,0 +1,94 @@
+{
+ "schema": 1,
+ "set": "shadows-validation",
+ "settings": [
+  "shadows-100",
+  "shadows-50",
+  "shadows-25",
+  "shadows+25",
+  "shadows+50",
+  "shadows+100"
+ ],
+ "photos": [
+  {
+   "raw": "raws/pixls/Canon/EOS 80D/IMG_0097.CR2",
+   "sha256": "181cf35881cf967d025948694bc06d5e3e194ec371df3263ed26ec34909ffedb",
+   "p90_L": 73.56452698146948,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 80D",
+   "subject": "large tree with new leaves in front of brick buildings",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/GFX 50R/2019-01-24-14-02-50_DSCF1316_e819634e46ecdb8ea241012ee70ae11e5c220c48.raf",
+   "sha256": "9d0570010a36fda60823de10837c47b39d7693ad8a87e531c859cfe411e41172",
+   "p90_L": 71.69172849416752,
+   "stratum": "mid",
+   "make": "Fujifilm",
+   "model": "GFX 50R",
+   "subject": "San Francisco Ferry Building with Bay Bridge in background",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-FZ10002/P1015595.RW2",
+   "sha256": "2af14516a1fb0a519af7f71bdfec9b40c8a16882b0277b4141d712d6a5a7e8a5",
+   "p90_L": 67.54393803335046,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DC-FZ10002",
+   "subject": "cartoonish cow statue with soccer ball",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Canon/Canon EOS M200/_MG_2231.CR3",
+   "sha256": "9b900c04ae37ba827b7894e66907657a0b174a74855c40039a8ca0c95583f141",
+   "p90_L": 72.17529542892358,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS M200",
+   "subject": "city skyline viewed from a residential waterfront",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS R10/IMG_4276.CR3",
+   "sha256": "5d2e076d38e7835d4c4f13dc2030a913cc573a31d7199b60777d23a25ccc3ef9",
+   "p90_L": 82.47373728695337,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS R10",
+   "subject": "close-up of a wine bottle label",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X100V/DSCF0733.RAF",
+   "sha256": "c0011a458e2de30a8fb37b2284f525c2b986177acff56424f9d47b59a5ea6791",
+   "p90_L": 83.63796063438862,
+   "stratum": "high",
+   "make": "Fujifilm",
+   "model": "X100V",
+   "subject": "urban view through bushes with hills in background",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-ZS200D/P1000631.RW2",
+   "sha256": "035bcc3456196bdf4628c451b00887cfd5e88c5ab98dc45aa79b48ce63d41b2c",
+   "p90_L": 83.79792444461859,
+   "stratum": "high",
+   "make": "Panasonic",
+   "model": "DC-ZS200D",
+   "subject": "green backyard with trees and bushes",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-6600/_DSC0268.ARW",
+   "sha256": "041d71d70148ca77164f19d061e3582adb34399ea5a4baba32960f2956fb0362",
+   "p90_L": 83.76371188632665,
+   "stratum": "high",
+   "make": "Sony",
+   "model": "ILCE-6600",
+   "subject": "residential street with parked cars and houses",
+   "score": 2
+  }
+ ]
+}

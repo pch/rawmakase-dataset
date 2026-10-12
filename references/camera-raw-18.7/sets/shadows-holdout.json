@@ -1,0 +1,94 @@
+{
+ "schema": 1,
+ "set": "shadows-holdout",
+ "settings": [
+  "shadows-100",
+  "shadows-50",
+  "shadows-25",
+  "shadows+25",
+  "shadows+50",
+  "shadows+100"
+ ],
+ "photos": [
+  {
+   "raw": "raws/pixls/Fujifilm/X-H2/Fuji-X-H2-Lossless-Compressed-Raw.RAF",
+   "sha256": "109be38f59963c9b8ff289ebe1f5ec9168c52f609e5b601432bd194520b4605b",
+   "p90_L": 52.693754240415714,
+   "stratum": "mid",
+   "make": "Fujifilm",
+   "model": "X-H2",
+   "subject": "garden with wilting and blooming flowers",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Nikon/Z 9/Nikon_-_NIKON_Z_9_-_14bit_compressed_(Lossless).NEF",
+   "sha256": "99d0fe24a38f0f7623aeab21440d266a5ac09f9665cf5283f590337e84323c38",
+   "p90_L": 66.10664106345558,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "Z 9",
+   "subject": "golden abstract sculpture in a city plaza",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-GF10/P1010140.RW2",
+   "sha256": "cb1710b43202ee900c0c47aed6de50c536fc817d745c3bb6d445abef0588adf0",
+   "p90_L": 51.454377971869214,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DC-GF10",
+   "subject": "a purple hibiscus flower in sunlight",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-7SM3/DSC01568.ARW",
+   "sha256": "876c7b74c957b6d8c7f9a1c285806d4a3f62269c1a3af070965bcc02fcf903f1",
+   "p90_L": 74.92366654351932,
+   "stratum": "mid",
+   "make": "Sony",
+   "model": "ILCE-7SM3",
+   "subject": "silhouetted trees against a hazy sky",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Canon/Canon EOS R100/_MG_2195[1].CR3",
+   "sha256": "0b66842b2fe00329ebc05fe8ab9357ddbbe1a0a2d2e69a2893102de7fdf5c942",
+   "p90_L": 93.05444482485849,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS R100",
+   "subject": "orange flowers in front of a window",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-T3/AFXT2720.RAF",
+   "sha256": "24abd27b4a200f3170ea1579672944b807d0eb35bf21422a3937bb644f27f2eb",
+   "p90_L": 91.46723874000647,
+   "stratum": "high",
+   "make": "Fujifilm",
+   "model": "X-T3",
+   "subject": "a bag of yerba mate tea next to plush toys",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Google/Pixel 8 Pro/PXL_20240415_103400204.RAW-02.ORIGINAL.dng",
+   "sha256": "45420c595401547cca950ae58d552bc82b32d31ce1d58c082df33004016197f5",
+   "p90_L": 84.64685911785156,
+   "stratum": "high",
+   "make": "Google",
+   "model": "Pixel 8 Pro",
+   "subject": "trees silhouetted against a sunset reflected in water",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DMC-FZ2500/P1030343.RW2",
+   "sha256": "1499043ffc9dbf108914ca347e6e9ddc36c144134c53d01346beadbc4164e5ae",
+   "p90_L": 85.8005225329673,
+   "stratum": "high",
+   "make": "Panasonic",
+   "model": "DMC-FZ2500",
+   "subject": "suburban street with houses and manicured lawns",
+   "score": 2
+  }
+ ]
+}

@@ -1,0 +1,603 @@
+{
+ "schema": 1,
+ "camera_raw": "18.7",
+ "set": "texture-holdout",
+ "photos": [
+  {
+   "raw": "raws/pixls/Fujifilm/X70/DSCF8848.RAF",
+   "sha256": "4f9c33fde578addebda991c37d26551b46fab8f592c74f7192560a05ec08d577",
+   "p90_L": 34.48887992945352,
+   "stratum": "low",
+   "make": "Fujifilm",
+   "model": "X70",
+   "subject": "night view of a stone clock tower",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS M6 Mark II/IMG_CRAW_1_1.CR3",
+   "sha256": "0ccbb6c447d0fab996291be9a5c2728cd7367bcc2f640e2a30eae112e13e6c0e",
+   "p90_L": 68.32334860208525,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS M6 Mark II",
+   "subject": "grass with scattered oak leaves",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-H2/Fuji-X-H2-Lossless-Compressed-Raw.RAF",
+   "sha256": "109be38f59963c9b8ff289ebe1f5ec9168c52f609e5b601432bd194520b4605b",
+   "p90_L": 52.693754240415714,
+   "stratum": "mid",
+   "make": "Fujifilm",
+   "model": "X-H2",
+   "subject": "garden with wilting and blooming flowers",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Nikon/Z 6_2/CZP_0299.NEF",
+   "sha256": "1b67d15817dbd4143a1f1089e2f09e319a2a2327c124e2643284509dd7621030",
+   "p90_L": 70.31117584678184,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "Z 6_2",
+   "subject": "forest view from a wooden deck",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/OM System/OM-5/C1291096.ORF",
+   "sha256": "ee0213ee4899d677d9bd538d8cfa4d0f69bdbacd462c1cf3ca3901036cf2fce7",
+   "p90_L": 73.9633237475305,
+   "stratum": "mid",
+   "make": "OM System",
+   "model": "OM-5",
+   "subject": "green plants and dry twigs in a garden",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS Rebel SL3/Sedona2020_SL3__MG_1061.CR3",
+   "sha256": "6f26a2e4ea5a3e3b859662c9b01da6b24731413835aa601065bff1d7f30c6092",
+   "p90_L": 80.9821724484744,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS Rebel SL3",
+   "subject": "red rock canyon with sparse vegetation",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/OM System/TG-7/UWAG0002.ORF",
+   "sha256": "4f7344c67bfcfcfec45f754195ba612fc2ad6312f5fab87812bf04b9e9e7d46a",
+   "p90_L": 78.48814803792281,
+   "stratum": "high",
+   "make": "OM System",
+   "model": "TG-7",
+   "subject": "dense green shrubbery in a garden",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Olympus/E-M10 Mark IIIs/ilhabela_202110_0082.ORF",
+   "sha256": "8bc0009eaacdbeacc72606581665702a1242bc6d4b405d1f0b3f149fe6c85e55",
+   "p90_L": 78.87515892390901,
+   "stratum": "high",
+   "make": "Olympus",
+   "model": "E-M10 Mark IIIs",
+   "subject": "lush green coastline with rocky shore and ocean",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-GX880/Panasonic_-_DC-GX880_-_4_3.RW2",
+   "sha256": "22a51b95dd6e74d748d86c1750cf4178262c4ba25e5b6208c88d01e05befe04b",
+   "p90_L": 88.87277811553813,
+   "stratum": "high",
+   "make": "Panasonic",
+   "model": "DC-GX880",
+   "subject": "plush moose toy sitting on a couch",
+   "score": 2
+  }
+ ],
+ "cases": [
+  {
+   "photo": 0,
+   "name": "default",
+   "reference": "references/0-default.tif",
+   "reference_sha256": "6ae1346c1a6c66ac479ba9172f6dfa6bdcd43b25199dfea7841014ad8e716f36",
+   "xmp": "references/0-default.xmp",
+   "xmp_sha256": "717401d453fbea5903bcb35d4fc037673ed2537b0f3b2a7c88a5f2de06129af4"
+  },
+  {
+   "photo": 0,
+   "name": "texture-100",
+   "reference": "references/0-texture-100.tif",
+   "reference_sha256": "e99adcdb43e15d2c5842db6e59146c05ecd0b1a5b04a343557b1ec4dbe96129e",
+   "xmp": "references/0-texture-100.xmp",
+   "xmp_sha256": "9c140ab5d8619b9a2cc1fe42b400eeffd47cf56a48869a8f164dbec0ae86857b"
+  },
+  {
+   "photo": 0,
+   "name": "texture-50",
+   "reference": "references/0-texture-50.tif",
+   "reference_sha256": "21f2d3089e98e4d9cee0c74e4db497fadd254c2a3af3e76d792c2042ec7598aa",
+   "xmp": "references/0-texture-50.xmp",
+   "xmp_sha256": "2f90a193758c5bcef4c015221cfcb69398d2a7739a6700299a51426cfdbbadd2"
+  },
+  {
+   "photo": 0,
+   "name": "texture-25",
+   "reference": "references/0-texture-25.tif",
+   "reference_sha256": "0cbb9e1086b199a121254aec2eedf6b492eedd3d58803329555678eac4d801d4",
+   "xmp": "references/0-texture-25.xmp",
+   "xmp_sha256": "d987db4ee983afc6cabdaaa35c72651160d28d5fa9183af4a601e1ebc8f4fa27"
+  },
+  {
+   "photo": 0,
+   "name": "texture+25",
+   "reference": "references/0-texture+25.tif",
+   "reference_sha256": "3b7d27f020a32d112aab7f1687182b3cf07e9d823204172cc294222f0fb6087d",
+   "xmp": "references/0-texture+25.xmp",
+   "xmp_sha256": "22bd02fb715717657d727b61384c1240b8fdd436063033b6b328ef83c71be625"
+  },
+  {
+   "photo": 0,
+   "name": "texture+50",
+   "reference": "references/0-texture+50.tif",
+   "reference_sha256": "7e351112e8cb0eba84154598ba35574929ecad85e103810e3f194b614dff8c09",
+   "xmp": "references/0-texture+50.xmp",
+   "xmp_sha256": "5e4377c1be4938697958d10eb5afc6aa4f06ff7c9d202fe8749850b74ff2e167"
+  },
+  {
+   "photo": 0,
+   "name": "texture+100",
+   "reference": "references/0-texture+100.tif",
+   "reference_sha256": "1042c45c314dbee41cd48e4873753d3e1cde1740fa37fac8df576b31c5b68a01",
+   "xmp": "references/0-texture+100.xmp",
+   "xmp_sha256": "bb1f40d57cc14c93e46b20bc3603a9f24e0e2d20c1cdb4e32331e9ebf59d9649"
+  },
+  {
+   "photo": 1,
+   "name": "default",
+   "reference": "references/1-default.tif",
+   "reference_sha256": "70472b66661196e58054e9d55523a2915fe947d0165ea3f6728fe724a4ffa01d",
+   "xmp": "references/1-default.xmp",
+   "xmp_sha256": "bd72625d8e2e58cf359977d074df88526e6ed502e901417fc0ba33820e562824"
+  },
+  {
+   "photo": 1,
+   "name": "texture-100",
+   "reference": "references/1-texture-100.tif",
+   "reference_sha256": "2989d2eda675cfb4b5ea88d00ce0e1373e762232abd8234fbfcdddf08e87f813",
+   "xmp": "references/1-texture-100.xmp",
+   "xmp_sha256": "750b3385bdf712175de044565b72c0a68d6054cebf753cadfb1fc11998cb87d1"
+  },
+  {
+   "photo": 1,
+   "name": "texture-50",
+   "reference": "references/1-texture-50.tif",
+   "reference_sha256": "125163bdf4f4db839fd378281b4306e26ebbd96a7d21a7eb9e27c172d99bb529",
+   "xmp": "references/1-texture-50.xmp",
+   "xmp_sha256": "d78960406fbcd13f3c1f37c9aa14b51e5204888970edd9ae36977d178d117085"
+  },
+  {
+   "photo": 1,
+   "name": "texture-25",
+   "reference": "references/1-texture-25.tif",
+   "reference_sha256": "cccdb5cf9d83ac910a856f33c3823c5841c9d605b5374989448d107c1cc89a19",
+   "xmp": "references/1-texture-25.xmp",
+   "xmp_sha256": "1ee9104e9218fdf2b97d5ec9b5016ccf2d77f662a81e355c88f9d51aaf9d14c3"
+  },
+  {
+   "photo": 1,
+   "name": "texture+25",
+   "reference": "references/1-texture+25.tif",
+   "reference_sha256": "1eb7b2f3fb56b5c8e8b83b048b48a7b3446604e0342657ae8875569e6a5a6606",
+   "xmp": "references/1-texture+25.xmp",
+   "xmp_sha256": "4c5d6fefe66d6e5a471efc5ce6d365d2454977b8a0d253fa31f514cd703f9628"
+  },
+  {
+   "photo": 1,
+   "name": "texture+50",
+   "reference": "references/1-texture+50.tif",
+   "reference_sha256": "1b26f66f80d08c9827d67aac9925be3ea4d2244af7bf13d5938efea948a7fd80",
+   "xmp": "references/1-texture+50.xmp",
+   "xmp_sha256": "0638470b32bff58d1cd9236540f58592c8ae344522d1a980e30df7a8a3fdf3e7"
+  },
+  {
+   "photo": 1,
+   "name": "texture+100",
+   "reference": "references/1-texture+100.tif",
+   "reference_sha256": "613e59074c1c99c98049dd6901c5727e7b0d39e7b0e4aa796dc790347f4cc8b2",
+   "xmp": "references/1-texture+100.xmp",
+   "xmp_sha256": "bd587c2e7db94127c34b73902ac0f07b5f219ac523e3c4da75e9a669d58146d7"
+  },
+  {
+   "photo": 2,
+   "name": "default",
+   "reference": "references/2-default.tif",
+   "reference_sha256": "3429a8687aadac3881339e768757cf573ac5db78fb1055e238e449602abc8e7d",
+   "xmp": "references/2-default.xmp",
+   "xmp_sha256": "403a999362d1f00c6befa0e35cc28da91f3a838fe2d00af8601549a2a2eb5e81"
+  },
+  {
+   "photo": 2,
+   "name": "texture-100",
+   "reference": "references/2-texture-100.tif",
+   "reference_sha256": "06df6d423cd8d09faafa389a4eff06988b86e187ae110d59ef4e0a561ec25c24",
+   "xmp": "references/2-texture-100.xmp",
+   "xmp_sha256": "8b53ba43a8e2710aec50dd9544cfa9f242e81c92733a1491666c9f17e35d9baa"
+  },
+  {
+   "photo": 2,
+   "name": "texture-50",
+   "reference": "references/2-texture-50.tif",
+   "reference_sha256": "e60c2089d702d46fb82e65a202ec734d65a5be7347d6184d807e624bbec9c61e",
+   "xmp": "references/2-texture-50.xmp",
+   "xmp_sha256": "82f559b61b388765e8b13fd3a8434c3068a6dfa3792098b51464a9aac9e3bd91"
+  },
+  {
+   "photo": 2,
+   "name": "texture-25",
+   "reference": "references/2-texture-25.tif",
+   "reference_sha256": "acd5115274a8e0a094207c8d79ea987b263a13c8b7dd84219381fa9c1a87152d",
+   "xmp": "references/2-texture-25.xmp",
+   "xmp_sha256": "159a472233b5fec2e349eb1245eaadaa438ed019e8db26743f1cc830e68c8e66"
+  },
+  {
+   "photo": 2,
+   "name": "texture+25",
+   "reference": "references/2-texture+25.tif",
+   "reference_sha256": "4fab3372c5556b81b88e9ca689f47a595c52d8c47485fa5221594d74f3b8eae5",
+   "xmp": "references/2-texture+25.xmp",
+   "xmp_sha256": "7e30c97d3575d84ecacb2df75b28f233261efec812f6f9791e9b9f44be5332cb"
+  },
+  {
+   "photo": 2,
+   "name": "texture+50",
+   "reference": "references/2-texture+50.tif",
+   "reference_sha256": "cb40fc2ac56d467eee4f5de9c40715ac9d0449e7f86e9790f6c6c342f3ab493f",
+   "xmp": "references/2-texture+50.xmp",
+   "xmp_sha256": "dfc6bac8a50a05492cada04a1b4c71874a32faf3983e747d8a1dff27c4cf2804"
+  },
+  {
+   "photo": 2,
+   "name": "texture+100",
+   "reference": "references/2-texture+100.tif",
+   "reference_sha256": "1cc93e50b054f907f53e3566b75ba0d9f3fd53f37b1e7a887cc769f45e34df4d",
+   "xmp": "references/2-texture+100.xmp",
+   "xmp_sha256": "8a4876e3293fd5d9cbb1561df0e74e730b118f73c94d21f7af9bb2b2119548e8"
+  },
+  {
+   "photo": 3,
+   "name": "default",
+   "reference": "references/3-default.tif",
+   "reference_sha256": "1ca16159b28aab4df501fff1c182880159d60a5f619a827bd0a602629c6e2d49",
+   "xmp": "references/3-default.xmp",
+   "xmp_sha256": "3cf645985f705e4fe6fb9b21a8d6eb82f79f0b446d443e1f41e1a310a2051723"
+  },
+  {
+   "photo": 3,
+   "name": "texture-100",
+   "reference": "references/3-texture-100.tif",
+   "reference_sha256": "18f4341209c554717e22273688eec72d796a448e6f2ed9064070c75eab45d2f2",
+   "xmp": "references/3-texture-100.xmp",
+   "xmp_sha256": "429f6bd0e1c65e832f88cfc0ca556c8fb8e25d63883a2e588de31cf051100dbd"
+  },
+  {
+   "photo": 3,
+   "name": "texture-50",
+   "reference": "references/3-texture-50.tif",
+   "reference_sha256": "fc0f77f9a2c1964dc5b6cd362ac41a4f77dde4b1f5b498f966c0ffeef0a0cbb9",
+   "xmp": "references/3-texture-50.xmp",
+   "xmp_sha256": "99fd018ba16d319adc00b25240d312465b325bd3cca4c3cbfe9828b68ab19388"
+  },
+  {
+   "photo": 3,
+   "name": "texture-25",
+   "reference": "references/3-texture-25.tif",
+   "reference_sha256": "930571554dd56fbe124d12bc9c507a7ac1f61b70ee96e557d51506fc35c358b7",
+   "xmp": "references/3-texture-25.xmp",
+   "xmp_sha256": "0558324306bdbc402271c16eecca51e293e5d1f8d3e19b703f363793f5277009"
+  },
+  {
+   "photo": 3,
+   "name": "texture+25",
+   "reference": "references/3-texture+25.tif",
+   "reference_sha256": "88c139e98d22c2d698c7cd5661226968e49125460d358dd4af6643d094e7e086",
+   "xmp": "references/3-texture+25.xmp",
+   "xmp_sha256": "9dc66c60e82a4102e8d2844a8b9b93f1505c5520d3a6d62c4424be13d30a3a88"
+  },
+  {
+   "photo": 3,
+   "name": "texture+50",
+   "reference": "references/3-texture+50.tif",
+   "reference_sha256": "f00069fc6c2b9088e2428d2c57ee8685770336d49574852e6dc53f8e51f4df24",
+   "xmp": "references/3-texture+50.xmp",
+   "xmp_sha256": "0fa71025367dfcf00d14ac72fac9f7f08346a67d09aa9aecab4c3137d2767cea"
+  },
+  {
+   "photo": 3,
+   "name": "texture+100",
+   "reference": "references/3-texture+100.tif",
+   "reference_sha256": "2c31d3f8a5c40ceff4f1f332ecada68de42a837dfec04c85bff7436ba66047d5",
+   "xmp": "references/3-texture+100.xmp",
+   "xmp_sha256": "7c8eafce5a13ff61b29f9086a9d4ce072546739cfbbfd9affec9e577a541d367"
+  },
+  {
+   "photo": 4,
+   "name": "default",
+   "reference": "references/4-default.tif",
+   "reference_sha256": "961343a08f3fe0f3de277bc2fe8675787668b89ced47bd404ab1ff5a7fa346ad",
+   "xmp": "references/4-default.xmp",
+   "xmp_sha256": "ba763d1cd9a76bd2f0d3192372fda7f8210210c5ac0fdca00ef483096c13137e"
+  },
+  {
+   "photo": 4,
+   "name": "texture-100",
+   "reference": "references/4-texture-100.tif",
+   "reference_sha256": "8c7616994eb59227e1fc73821f8b99899d22f762b754fdec77e0a8e0f6a9e228",
+   "xmp": "references/4-texture-100.xmp",
+   "xmp_sha256": "4496f90e7a0dbf879be9c46b37a607c1dc010fc863c422edc5d79a786704ca9a"
+  },
+  {
+   "photo": 4,
+   "name": "texture-50",
+   "reference": "references/4-texture-50.tif",
+   "reference_sha256": "96b86a63f291ab556bc7185e0cd40e0efc1cd85bd0823999f89e4bd617861f72",
+   "xmp": "references/4-texture-50.xmp",
+   "xmp_sha256": "81ebd0a38a48d1189f339eee3e19c6fb72751c58107558d9d1c40043449d2ee3"
+  },
+  {
+   "photo": 4,
+   "name": "texture-25",
+   "reference": "references/4-texture-25.tif",
+   "reference_sha256": "a0da8ed22c6cd6a39f1fff52e6f67bacef1c0c44d27adf8cddac15d6ff3cd587",
+   "xmp": "references/4-texture-25.xmp",
+   "xmp_sha256": "97bf779c79433bff0da371e1b401968b2d2c4f416c6e98c7a3e4cd61bcaad35c"
+  },
+  {
+   "photo": 4,
+   "name": "texture+25",
+   "reference": "references/4-texture+25.tif",
+   "reference_sha256": "a9cd1ad300e0451090abfbccf9bc1b26b70938385c6637d77111b4fe59362205",
+   "xmp": "references/4-texture+25.xmp",
+   "xmp_sha256": "025aff1ea98f3ea88c532d854352d8263be26677542ae53dc077b7d7098aabee"
+  },
+  {
+   "photo": 4,
+   "name": "texture+50",
+   "reference": "references/4-texture+50.tif",
+   "reference_sha256": "31c76b1a03b715e8ed154ad0f5f7252cb0c943092d88a52cb41ce1a49fc77f07",
+   "xmp": "references/4-texture+50.xmp",
+   "xmp_sha256": "6fde1ee9620a2ff0d02da727ba4f8aa336084748d1f1040d7ea7e473c277f251"
+  },
+  {
+   "photo": 4,
+   "name": "texture+100",
+   "reference": "references/4-texture+100.tif",
+   "reference_sha256": "ef85d140aaa6c8060604a4c2fd9c06e285c001aac9f9a4924f51063ea1c2aefe",
+   "xmp": "references/4-texture+100.xmp",
+   "xmp_sha256": "98b136ad2177606c853a10093dda55f2469a0453df303934f685c48af8fa3416"
+  },
+  {
+   "photo": 5,
+   "name": "default",
+   "reference": "references/5-default.tif",
+   "reference_sha256": "80c8541789fe06f48146bd64d2a89af539701cb01ad88cc017e5a49695ff75d5",
+   "xmp": "references/5-default.xmp",
+   "xmp_sha256": "ddf41347e7c67d44fbcac09c4c9c6d90a035c1b13a95fa4e1bf79b9ff9cd5587"
+  },
+  {
+   "photo": 5,
+   "name": "texture-100",
+   "reference": "references/5-texture-100.tif",
+   "reference_sha256": "e4bc874aafda3f7c31ce590297e5537afe96d9c6bb580297dd2c377c559b6d4f",
+   "xmp": "references/5-texture-100.xmp",
+   "xmp_sha256": "82ba3f542bc8eea78e1790c3c0f6bfb466885927902642b64a17e493d6408eab"
+  },
+  {
+   "photo": 5,
+   "name": "texture-50",
+   "reference": "references/5-texture-50.tif",
+   "reference_sha256": "275725b27379eee9db6dcd152ff0e564f8ab6145f93953b9450c96da324190cb",
+   "xmp": "references/5-texture-50.xmp",
+   "xmp_sha256": "ef05938f3cfa5fe7464c58a31fb0b1107391236448887d446baa878f9aa354a1"
+  },
+  {
+   "photo": 5,
+   "name": "texture-25",
+   "reference": "references/5-texture-25.tif",
+   "reference_sha256": "6fc7a1044ea55c61b7587b081cb1f4e344c666c93b93740e7471af25d97af705",
+   "xmp": "references/5-texture-25.xmp",
+   "xmp_sha256": "448654e92027bee2c8f0cb6073f236d52b4120e50cb15b4f373da855608eb800"
+  },
+  {
+   "photo": 5,
+   "name": "texture+25",
+   "reference": "references/5-texture+25.tif",
+   "reference_sha256": "640f484227e5ab9e3d1a4aa03ddbf2352efba2a96df0c4d8bb4235f9ecc95de5",
+   "xmp": "references/5-texture+25.xmp",
+   "xmp_sha256": "2dab7267e747efddd9c873fc5e6a266d4ca7b97ba13a593f8a6313495312d861"
+  },
+  {
+   "photo": 5,
+   "name": "texture+50",
+   "reference": "references/5-texture+50.tif",
+   "reference_sha256": "73889e0b30537a97c2ce3243c8ee40d521b41db4f5384bab1c2cb0e06b59cf3a",
+   "xmp": "references/5-texture+50.xmp",
+   "xmp_sha256": "8e38d976cb0ca8b45be286c18bb3a23eb8f09a23807b1d43d45703eef68997a3"
+  },
+  {
+   "photo": 5,
+   "name": "texture+100",
+   "reference": "references/5-texture+100.tif",
+   "reference_sha256": "a3812aa585f4a51de73df58997b30f8c309ca13649211367e59f6dea43e29341",
+   "xmp": "references/5-texture+100.xmp",
+   "xmp_sha256": "52a9db2efaede35130ca6c07f369a6610759663b706e7e980614ee1eba5262d3"
+  },
+  {
+   "photo": 6,
+   "name": "default",
+   "reference": "references/6-default.tif",
+   "reference_sha256": "d3fe519da259b7eb0c791235a27d71ffda9182dfa60e7cab383c0fc1109b3044",
+   "xmp": "references/6-default.xmp",
+   "xmp_sha256": "a215b4548ab1f75fe701cd73581cdc0f6a32dd5d3bee712a5a38c7e39bd14e0f"
+  },
+  {
+   "photo": 6,
+   "name": "texture-100",
+   "reference": "references/6-texture-100.tif",
+   "reference_sha256": "362be7ff7c243b315923cc872d28ae4a058b346010b1dbef255fbf27c7d1bcc3",
+   "xmp": "references/6-texture-100.xmp",
+   "xmp_sha256": "1aad3456547503f6418e13fe0296f58df69459e3a59f30f9e6bdcb8d7a957a04"
+  },
+  {
+   "photo": 6,
+   "name": "texture-50",
+   "reference": "references/6-texture-50.tif",
+   "reference_sha256": "a62ebf538eb66964c644bbc645648446e884d263d4dff74b80a20ff9190ffaee",
+   "xmp": "references/6-texture-50.xmp",
+   "xmp_sha256": "d01d8d9556c43fe880e143f5056e242dde42ce20705078d416859faf2dac3e6b"
+  },
+  {
+   "photo": 6,
+   "name": "texture-25",
+   "reference": "references/6-texture-25.tif",
+   "reference_sha256": "398daf872e371b60142e25d47b05bb9799f7969344cb937f145aee5770b3fbfe",
+   "xmp": "references/6-texture-25.xmp",
+   "xmp_sha256": "9d00a3ce3328128c336b3ad86967b2947ee35323deeb39f76c12d82fd2e93dab"
+  },
+  {
+   "photo": 6,
+   "name": "texture+25",
+   "reference": "references/6-texture+25.tif",
+   "reference_sha256": "32c099f9b20135b839694292fb3cb16568b1a793609a28e5606bc2358cb78048",
+   "xmp": "references/6-texture+25.xmp",
+   "xmp_sha256": "a9812b556f448b138072d75e951a8c12cdb3320f1949cef436aa5c3dacac9e23"
+  },
+  {
+   "photo": 6,
+   "name": "texture+50",
+   "reference": "references/6-texture+50.tif",
+   "reference_sha256": "92d4231b5abd3ec531cddb33ae3926bb0e5c6f2d6e24ab7b7b3485634200082c",
+   "xmp": "references/6-texture+50.xmp",
+   "xmp_sha256": "9ce2e0bd3365077e3bfa58d93876d29b544e5cffe2179a49c175b43660808dda"
+  },
+  {
+   "photo": 6,
+   "name": "texture+100",
+   "reference": "references/6-texture+100.tif",
+   "reference_sha256": "b66f244322ed0f574635b50d3e0981a2e0c0e9dd9e7cfd9ea407b740542d9dc6",
+   "xmp": "references/6-texture+100.xmp",
+   "xmp_sha256": "e1ab7d41b9257a9d54d50467c51478c67c502555aee5bbc6d2585c437c68291a"
+  },
+  {
+   "photo": 7,
+   "name": "default",
+   "reference": "references/7-default.tif",
+   "reference_sha256": "145c06539d34a5d51c2a342e1df61e2e02b40ce8d144abfddf7ae269d4c9f19f",
+   "xmp": "references/7-default.xmp",
+   "xmp_sha256": "ce9899382c193ebed71c792ab1a27bcbdc2851935825651df7ac41f613e7b305"
+  },
+  {
+   "photo": 7,
+   "name": "texture-100",
+   "reference": "references/7-texture-100.tif",
+   "reference_sha256": "caded88563d4cad995acbfa57ac1219fe4ad313ab5fc7931c43abc38451643c3",
+   "xmp": "references/7-texture-100.xmp",
+   "xmp_sha256": "fcc955adba3cdb756074ddba6be0357e5e66a8c247fc125369c960caf169d8b0"
+  },
+  {
+   "photo": 7,
+   "name": "texture-50",
+   "reference": "references/7-texture-50.tif",
+   "reference_sha256": "1e758998553a70c7ed76a595ca1b2b50e540b854fc063b4c0b5c798756dc39a7",
+   "xmp": "references/7-texture-50.xmp",
+   "xmp_sha256": "553d10565e579f18f8ad498b0cdd3ca08530cf89a0730d3105c7b275e62c0cdb"
+  },
+  {
+   "photo": 7,
+   "name": "texture-25",
+   "reference": "references/7-texture-25.tif",
+   "reference_sha256": "446987d9bead124db9f62798faeb74a72d4813ff5e2dde0eab43a8144b6c4ddf",
+   "xmp": "references/7-texture-25.xmp",
+   "xmp_sha256": "e015fe566d6ef437f6ecde0925f143f22ffb8384c490eb5cb020f721a4f527a5"
+  },
+  {
+   "photo": 7,
+   "name": "texture+25",
+   "reference": "references/7-texture+25.tif",
+   "reference_sha256": "99dbd8b3bf7f6caef7f8c3f18eed795f44e7efab02bade1dfe379f4be1a286ac",
+   "xmp": "references/7-texture+25.xmp",
+   "xmp_sha256": "95c6057735c1790facbe3403aa09f6bebd38cedc10f354933fed266695d4272c"
+  },
+  {
+   "photo": 7,
+   "name": "texture+50",
+   "reference": "references/7-texture+50.tif",
+   "reference_sha256": "6726118c626a10f7cdfa686dfeb92dd357548acc1fa353ac054a45253ad00429",
+   "xmp": "references/7-texture+50.xmp",
+   "xmp_sha256": "4ef93257e7a6baabdb4b711913adbe6dcc32fb3ce6a97b267323b012acd70c12"
+  },
+  {
+   "photo": 7,
+   "name": "texture+100",
+   "reference": "references/7-texture+100.tif",
+   "reference_sha256": "7c1b7221e23e06c7b9ce40698025092226377d05c8b275bf8fcf3c0e197ccabb",
+   "xmp": "references/7-texture+100.xmp",
+   "xmp_sha256": "9f516ed3e4b60344db26778dbfc32f38cdbe378b0c9d2355d522629fd929ed7a"
+  },
+  {
+   "photo": 8,
+   "name": "default",
+   "reference": "references/8-default.tif",
+   "reference_sha256": "6cc70b3f3e3eb82965172dc03e086dafd17ed68fe8245b49534d21007cb40c25",
+   "xmp": "references/8-default.xmp",
+   "xmp_sha256": "bd8604f84e77f6239d0d308ae133839669bad09d9876e652211989ab5f9f3b10"
+  },
+  {
+   "photo": 8,
+   "name": "texture-100",
+   "reference": "references/8-texture-100.tif",
+   "reference_sha256": "2df7c3ed9ca393cb68bfbd8d08f6558afddfc45c51906c7df944ed07c74218a2",
+   "xmp": "references/8-texture-100.xmp",
+   "xmp_sha256": "4cef51146abe5456a98d7c356d4bf79f7d07147f8b07985d94299588cec8376e"
+  },
+  {
+   "photo": 8,
+   "name": "texture-50",
+   "reference": "references/8-texture-50.tif",
+   "reference_sha256": "e1c7024414faf0f9adddb1376d704278b4f89a4e54e52739f57dc34cc344023e",
+   "xmp": "references/8-texture-50.xmp",
+   "xmp_sha256": "8d75d591cb6be7771d4c16980fe7843f26a9141bab736114bad95cba361966ec"
+  },
+  {
+   "photo": 8,
+   "name": "texture-25",
+   "reference": "references/8-texture-25.tif",
+   "reference_sha256": "a9b63fed982c5adfe50f7470f105f386ecd5465158b4ce0726f0a964bda381f2",
+   "xmp": "references/8-texture-25.xmp",
+   "xmp_sha256": "795a3d7c5136a5908b991e11d0db5d825ef0d04fbaf766fedd70e7dfe512b24e"
+  },
+  {
+   "photo": 8,
+   "name": "texture+25",
+   "reference": "references/8-texture+25.tif",
+   "reference_sha256": "0f40df6ba47cf50d019773d1aea6c3088c4fd9bc1a903cf29c7014e51936505b",
+   "xmp": "references/8-texture+25.xmp",
+   "xmp_sha256": "dfa1f4caabff8c1c11a4390ef0c114b5993879bd9017f40fd7cf146b0782a95d"
+  },
+  {
+   "photo": 8,
+   "name": "texture+50",
+   "reference": "references/8-texture+50.tif",
+   "reference_sha256": "5c6660b0fa7d8824baa548e7f4120a9b7cbbaa90b2f096226e16ceb32526d59c",
+   "xmp": "references/8-texture+50.xmp",
+   "xmp_sha256": "de7492b40382151aa878f910d62cb7a1a6143e3d299daf250d655fc6c7f27792"
+  },
+  {
+   "photo": 8,
+   "name": "texture+100",
+   "reference": "references/8-texture+100.tif",
+   "reference_sha256": "6dcc221c1ac03e610f4dc1579b27e759a44a7265e60c63cb1c0db54fe6b756ee",
+   "xmp": "references/8-texture+100.xmp",
+   "xmp_sha256": "07b803726e7eebd552dcf6a73c94bfb85efe5636432c4ccfa6cabac22c5d2fb7"
+  }
+ ]
+}

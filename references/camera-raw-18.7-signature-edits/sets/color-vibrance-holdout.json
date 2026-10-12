@@ -1,0 +1,154 @@
+{
+ "schema": 1,
+ "set": "color-vibrance-holdout",
+ "settings": [
+  "vibrance-100",
+  "vibrance-50",
+  "vibrance+50",
+  "vibrance+100",
+  "saturation-50",
+  "saturation+50"
+ ],
+ "photos": [
+  {
+   "raw": "raws/signature-edits/Free Raw Files - Tag @signatureeditsco DSC_3500.nef",
+   "sha256": "133c5741e60bd6cfa12550a74f4a801a76376b5ff6795fd1a912025d16083a29",
+   "p90_L": 32.34933854561544,
+   "stratum": "low",
+   "make": "Nikon",
+   "model": "D3100",
+   "subject": "woman in black dress lying on stone steps",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/ Free raws by @signatureeditsco DSC03068.arw",
+   "sha256": "3701336af8a8a028d432bb831945fc98d9165aa6854e7af1e718eecd43ee6c26",
+   "p90_L": 19.586510814460794,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "ILCE-6300",
+   "subject": "woman in traditional Japanese attire holding a blue umbrella",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits Free Raws - DSC_0234.NEF",
+   "sha256": "6e3c1801577133d8bcfe135d7899ba5733dcee7eeeb42ff0d445e147878eed3e",
+   "p90_L": 23.341335179583158,
+   "stratum": "low",
+   "make": "Nikon",
+   "model": "D3200",
+   "subject": "woman with round glasses peeking from behind a poinsettia plant",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/ tag @signatureeditsco DSC_0290.NEF",
+   "sha256": "a132ffb099168816a0b8d07a52183577b9fec10effb5e0dcc88f97b1dc5ae424",
+   "p90_L": 39.3819542222019,
+   "stratum": "low",
+   "make": "Nikon",
+   "model": "D3100",
+   "subject": "young man in streetwear posing at night",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/- credit_signatureedits.com - Kooskoos.CR2",
+   "sha256": "03764ebe1938c0705f65bf06060b494dc12f4b02075ff2a5bc75f2d14c900d30",
+   "p90_L": 59.57375526536253,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 5D Mark IV",
+   "subject": "woman with glitter on her face and shoulders",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/pls tag @ryanbreitkreutz signature edits free raw photos DJI_0239.DNG",
+   "sha256": "b81eab585cf2fa8a7b56c6f9f617a0af2f3d40450bb1c05e655034bff3fa54b1",
+   "p90_L": 66.81749428424304,
+   "stratum": "mid",
+   "make": "DJI",
+   "model": "FC7303",
+   "subject": "person floating in a swimming pool surrounded by tropical foliage",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/credit @signatureeditsco - signatureedits.com DSC_0055.NEF",
+   "sha256": "04f48748ae522779995cc342c0e992067bdd181757a2260a4cbfa9c2875c4193",
+   "p90_L": 68.58721689002772,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "D3200",
+   "subject": "two women in wedding attire holding bouquets",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/PANA8507.RW2",
+   "sha256": "4da6d41e2df122e1048599248fdb37ce37f2a7b501aba48f026bc8a9503f4cd2",
+   "p90_L": 74.99937054560932,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DC-GH5",
+   "subject": "couple running on beach with palm trees in background",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco - signature edits free raw photos IMG_6690.CR2",
+   "sha256": "74b601cbd5ae344b4f392c04c404f9410d3917c1298c96184ba14852455f8815",
+   "p90_L": 83.51592067707145,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS 700D",
+   "subject": "woman in yellow sweater leaning on stair railing",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco DSC_3262.NEF",
+   "sha256": "0cefd8214fff366518864dcfc8a0da81cf7c797af4a8f90f000871e33f679dc1",
+   "p90_L": 76.29755905092256,
+   "stratum": "high",
+   "make": "Nikon",
+   "model": "D5100",
+   "subject": "woman in a sleeveless mint dress with a white collar",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - P1011675.RW2",
+   "sha256": "33f5f1d27587a96b4a142deaf5872fadb0b573aa5bf7212f05be1c4b44bed032",
+   "p90_L": 94.95256477284076,
+   "stratum": "high",
+   "make": "Panasonic",
+   "model": "DC-GH5",
+   "subject": "man in profile beside green foliage",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco DSC02439.ARW",
+   "sha256": "37ebfa80ff6981a25861db0e2e00a6138c1a067966ef70e0ed8899bf4b849099",
+   "p90_L": 94.73281007983987,
+   "stratum": "high",
+   "make": "Sony",
+   "model": "ILCE-7SM3",
+   "subject": "couple wrapped in a colorful blanket in a grassy field",
+   "score": null
+  }
+ ],
+ "crs": {
+  "vibrance-100": {
+   "Vibrance": "-100"
+  },
+  "vibrance-50": {
+   "Vibrance": "-50"
+  },
+  "vibrance+50": {
+   "Vibrance": "+50"
+  },
+  "vibrance+100": {
+   "Vibrance": "+100"
+  },
+  "saturation-50": {
+   "Saturation": "-50"
+  },
+  "saturation+50": {
+   "Saturation": "+50"
+  }
+ }
+}

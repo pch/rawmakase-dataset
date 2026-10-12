@@ -1,0 +1,33 @@
+{
+ "schema": 1,
+ "set": "color-mixer-skin-holdout",
+ "settings": [
+  "orange-hue-50",
+  "orange-hue+50",
+  "orange-sat-50",
+  "orange-sat+50",
+  "orange-lum-50",
+  "orange-lum+50"
+ ],
+ "photos": [],
+ "crs": {
+  "orange-hue-50": {
+   "HueAdjustmentOrange": "-50"
+  },
+  "orange-hue+50": {
+   "HueAdjustmentOrange": "+50"
+  },
+  "orange-sat-50": {
+   "SaturationAdjustmentOrange": "-50"
+  },
+  "orange-sat+50": {
+   "SaturationAdjustmentOrange": "+50"
+  },
+  "orange-lum-50": {
+   "LuminanceAdjustmentOrange": "-50"
+  },
+  "orange-lum+50": {
+   "LuminanceAdjustmentOrange": "+50"
+  }
+ }
+}

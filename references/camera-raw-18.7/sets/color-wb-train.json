@@ -1,0 +1,212 @@
+{
+ "schema": 1,
+ "set": "color-wb-train",
+ "settings": [
+  "wb-daylight",
+  "wb-tungsten",
+  "wb-fluorescent",
+  "temperature-3200",
+  "temperature-5000",
+  "temperature-8000",
+  "tint-30",
+  "tint+30"
+ ],
+ "photos": [
+  {
+   "raw": "raws/pixls/Leica/V-Lux 5/_1000200.RWL",
+   "sha256": "6540d067665a842d903d2c44ec101e6f95f65759d4754a94f38817d7a2fd72f4",
+   "p90_L": 0.003529896599236082,
+   "stratum": "low",
+   "make": "Leica",
+   "model": "V-Lux 5",
+   "subject": "full moon against a dark sky",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS 850D/IMG_1837.CR3",
+   "sha256": "47f7747b74073515bdbd65015738bc31947504d68255c5377baa21f179df2486",
+   "p90_L": 34.86673123208111,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS 850D",
+   "subject": "fairytale scene with magical creatures and horses",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS 250D/Canon250D_RAW-2:3.CR3",
+   "sha256": "ed1bd1bb8dbcf31735fbe52eeabdbd3a32236eda9cb20b132e8847cb0d89517f",
+   "p90_L": 65.7745927063023,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 250D",
+   "subject": "messy bed with clothes in a tiled room",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Nikon/D5600/2018-01-20_01-14_0792.NEF",
+   "sha256": "4d9b49e6eb8a9e055b10be67f580a9c42538132e3a6e808d2fd08826c644827e",
+   "p90_L": 55.45377077092965,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "D5600",
+   "subject": "night street scene viewed through tree branches",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-G9/P1000951.RW2",
+   "sha256": "16282357ce0143ff7d36737f82074662db7aa0790ecd309196f406baf0f586a7",
+   "p90_L": 63.74690559469991,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DC-G9",
+   "subject": "black motorcycle jacket with red and white accents displayed on a shelf",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/SONY/ILME-FX2/Image_3_-_Lossless_Compression_(L)_-_Shade.ARW",
+   "sha256": "fc7cf5cc9ab91fe1d45b5469e532c17507312091f6664f09dd7988a00744d2a2",
+   "p90_L": 71.85540209908862,
+   "stratum": "mid",
+   "make": "Sony",
+   "model": "ILME-FX2",
+   "subject": "fern in hanging basket",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DMC-LX10/pana_DMC-LX10_16x19.RW2",
+   "sha256": "7c63ca645b22ce5914b3c223e44c6b18e293e0c3c052a1206636dfbfb6c9a65e",
+   "p90_L": 63.3339069987322,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DMC-LX10",
+   "subject": "two keyboards on a desk in a dimly lit room",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DMC-LX10/pana_DMC-LX10_3x2.RW2",
+   "sha256": "927b2ba91c241b3999086327694d1dfd2872d1c75b524d39831e7ec687c7c663",
+   "p90_L": 60.71290736048647,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DMC-LX10",
+   "subject": "two keyboards on a desk",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DMC-TX1/P1000635.RW2",
+   "sha256": "dc4e0c6d901a1e826498549144c9fb45390a0c19520d0e1eb68d3888dcc7a173",
+   "p90_L": 69.69622523933629,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DMC-TX1",
+   "subject": "decorative pillow on a sofa",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS M50/Canon_EOS_M50_RAW_ISO_100_nocrop_nodual.CR3",
+   "sha256": "1ba9ad6b51b315b88820eb0fe5fd7f52bc136ba37b1a5ca76825ebfe25b18058",
+   "p90_L": 92.3652605118366,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS M50",
+   "subject": "stone Buddha head planter with succulent",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Nikon/Z 6/DSC_0750.NEF",
+   "sha256": "b4cdb8ecf8a971ec023dd242251c6cbfb19966914e37c2311dc9813a7ab5e15f",
+   "p90_L": 81.45914730746492,
+   "stratum": "high",
+   "make": "Nikon",
+   "model": "Z 6",
+   "subject": "still life of toys on a wooden surface",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Olympus/PEN-F/PenFNormal.orf",
+   "sha256": "156bf12075c4f69a3e475518f67db9d4010972d8123bdd27ae8c9177b443c374",
+   "p90_L": 92.5680676854153,
+   "stratum": "high",
+   "make": "Olympus",
+   "model": "PEN-F",
+   "subject": "ornate metal lid of a vintage stove",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DMC-TZ80/P1010762.RW2",
+   "sha256": "48b458f53bfc634bef11da59f38a69934bd636787f015ef756397412eb9a33a7",
+   "p90_L": 84.79473581704872,
+   "stratum": "high",
+   "make": "Panasonic",
+   "model": "DMC-TZ80",
+   "subject": "decorative shelf with books, a teddy bear, and a Buddha statue",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Sony/ZV-E10/DSC00002.ARW",
+   "sha256": "a8633fae9749ca8d2cf2212bda4c352553c24e7140660c1cd324b982e57ab42e",
+   "p90_L": 86.9700025618901,
+   "stratum": "high",
+   "make": "Sony",
+   "model": "ZV-E10",
+   "subject": "knitted cactus plush wearing glasses and a chain",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS M50/Canon_EOS_M50_CRAW_ISO_100_nocrop_nodual.CR3",
+   "sha256": "27a88fdae82516ba136e12c2cc9b934f25dbaaac24d64ab4e5517f8524463594",
+   "p90_L": 88.11816117234935,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS M50",
+   "subject": "Buddha-head planter with succulent",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-TZ202/P1000584.RW2",
+   "sha256": "9223d73006115365c8aa64bc51f183842f2992cf1797c3e3dafcabdf8866ddfb",
+   "p90_L": 82.21295591424578,
+   "stratum": "high",
+   "make": "Panasonic",
+   "model": "DC-TZ202",
+   "subject": "pink geraniums in a terracotta pot",
+   "score": null
+  }
+ ],
+ "crs": {
+  "wb-daylight": {
+   "WhiteBalance": "Daylight"
+  },
+  "wb-tungsten": {
+   "WhiteBalance": "Tungsten"
+  },
+  "wb-fluorescent": {
+   "WhiteBalance": "Fluorescent"
+  },
+  "temperature-3200": {
+   "WhiteBalance": "Custom",
+   "Temperature": "3200",
+   "Tint": "+0"
+  },
+  "temperature-5000": {
+   "WhiteBalance": "Custom",
+   "Temperature": "5000",
+   "Tint": "+0"
+  },
+  "temperature-8000": {
+   "WhiteBalance": "Custom",
+   "Temperature": "8000",
+   "Tint": "+0"
+  },
+  "tint-30": {
+   "WhiteBalance": "Custom",
+   "Temperature": "6500",
+   "Tint": "-30"
+  },
+  "tint+30": {
+   "WhiteBalance": "Custom",
+   "Temperature": "6500",
+   "Tint": "+30"
+  }
+ }
+}

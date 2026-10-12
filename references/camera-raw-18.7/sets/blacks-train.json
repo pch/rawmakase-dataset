@@ -1,0 +1,154 @@
+{
+ "schema": 1,
+ "set": "blacks-train",
+ "settings": [
+  "blacks-100",
+  "blacks-50",
+  "blacks-25",
+  "blacks+25",
+  "blacks+50",
+  "blacks+100"
+ ],
+ "photos": [
+  {
+   "raw": "raws/pixls/Nikon/D5600/2018-01-20_01-14_0792.NEF",
+   "sha256": "4d9b49e6eb8a9e055b10be67f580a9c42538132e3a6e808d2fd08826c644827e",
+   "p90_L": 55.45377077092965,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "D5600",
+   "subject": "night street scene viewed through tree branches",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Apple/iPhone XS/IMG_1105.dng",
+   "sha256": "50bc64ee8cfbbfb6c0531e29ab428ff985506a16fe2d1d2e74656f21b54505f6",
+   "p90_L": 66.23743602838603,
+   "stratum": "mid",
+   "make": "Apple",
+   "model": "iPhone XS",
+   "subject": "modern building facade with ivy and reflections",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS R50/Canon_R50_ISO100_RAW_mechanicShutter.CR3",
+   "sha256": "cbc0666f27d37007203df53f3668c30d3980aab93c3e33e7bff41c72b77414e9",
+   "p90_L": 73.02801345811011,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS R50",
+   "subject": "gardening beds with plants and wildflowers in front of a hedge",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Leica/C-Lux/_1001076.RWL",
+   "sha256": "286106ec2df65539912709c64e84a9b94686443fe5ea05b8ebada76daa1feb2d",
+   "p90_L": 71.05190198204406,
+   "stratum": "mid",
+   "make": "Leica",
+   "model": "C-Lux",
+   "subject": "city skyline reflected in a river on a clear day",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Olympus/E-M1X/P3240916.ORF",
+   "sha256": "ab171cedfe3a65438dd47c2df704a7d3001f45f5ab43e67b7f96cfe30b6ebbcf",
+   "p90_L": 73.71540726376253,
+   "stratum": "mid",
+   "make": "Olympus",
+   "model": "E-M1X",
+   "subject": "frozen lake at dusk with wooden pier",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-G90/PMAT0201.RW2",
+   "sha256": "41de770701618b7276871fd1566da08782bf1009977c5bea91c0cc300bb8ed65",
+   "p90_L": 62.67492132811666,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DC-G90",
+   "subject": "forested hills under a partly cloudy sky",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-6100/DSC00033.ARW",
+   "sha256": "0205f5086cc20a0e4aaf0f5468da26bdf0adba5c0b3a63d2c1930777d90b85fd",
+   "p90_L": 71.06967303197345,
+   "stratum": "mid",
+   "make": "Sony",
+   "model": "ILCE-6100",
+   "subject": "railway tracks through a grassy field under a clear blue sky",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Leica/D-Lux 7/L1023208.RWL",
+   "sha256": "4f6db6492da83f7f2a5012591e370557249d1ed44d4c948784016605b799327c",
+   "p90_L": 81.52160493887374,
+   "stratum": "high",
+   "make": "Leica",
+   "model": "D-Lux 7",
+   "subject": "large rust-colored metal ring sculpture in front of classical building",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-TZ202/P1000584.RW2",
+   "sha256": "9223d73006115365c8aa64bc51f183842f2992cf1797c3e3dafcabdf8866ddfb",
+   "p90_L": 82.21295591424578,
+   "stratum": "high",
+   "make": "Panasonic",
+   "model": "DC-TZ202",
+   "subject": "pink geraniums in a terracotta pot",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Pentax/K-3 Mark III/IMGP9863.PEF",
+   "sha256": "f90d749cb1a8aa02aad3645a2aa97ac548e240a00d2d4ce2b0674c5a407f581b",
+   "p90_L": 77.84182800930002,
+   "stratum": "high",
+   "make": "Pentax",
+   "model": "K-3 Mark III",
+   "subject": "bell tower against a cloudy sky with a crescent moon",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-TZ200D/TZ200D_16_9_1000230.RW2",
+   "sha256": "a7275f6566de74557be5af00f64e65fba881a55c5dfbd8aec68dfe6d09091677",
+   "p90_L": 86.36200143910482,
+   "stratum": "high",
+   "make": "Panasonic",
+   "model": "DC-TZ200D",
+   "subject": "swimming pool with sea view",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS R6 Mark II/canon-r6m2-img_0346-raw-normal-full.cr3",
+   "sha256": "1a93f96556aabbc4a7260750ab0a191ec7926bb978fe8428bf3465121da730d6",
+   "p90_L": 84.50878550073159,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS R6 Mark II",
+   "subject": "street with parked van and small houses",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-T100/DSCF0627.RAF",
+   "sha256": "0af086b9569b59317da42b8e136013245486073b6b8d409fc997a71788538c4d",
+   "p90_L": 77.49236513874357,
+   "stratum": "high",
+   "make": "Fujifilm",
+   "model": "X-T100",
+   "subject": "paved path through grassy field with trees under clear sky",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Nikon/Coolpix A1000/DSCN0417.NRW",
+   "sha256": "9b4edd03bbb17d66eacc2a72b30f044969e67666446f3f1ed25e88bb947d4f8a",
+   "p90_L": 76.52957964870771,
+   "stratum": "high",
+   "make": "Nikon",
+   "model": "Coolpix A1000",
+   "subject": "forest stream flowing over rocks",
+   "score": 1
+  }
+ ]
+}

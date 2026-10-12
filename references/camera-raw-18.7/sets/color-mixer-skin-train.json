@@ -1,0 +1,94 @@
+{
+ "schema": 1,
+ "set": "color-mixer-skin-train",
+ "settings": [
+  "orange-hue-50",
+  "orange-hue+50",
+  "orange-sat-50",
+  "orange-sat+50",
+  "orange-lum-50",
+  "orange-lum+50"
+ ],
+ "photos": [
+  {
+   "raw": "raws/pixls/Canon/EOS 850D/IMG_1837.CR3",
+   "sha256": "47f7747b74073515bdbd65015738bc31947504d68255c5377baa21f179df2486",
+   "p90_L": 34.86673123208111,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS 850D",
+   "subject": "fairytale scene with magical creatures and horses",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-Pro2/_DSF3050.RAF",
+   "sha256": "8cc12566e5c0fc676b713bb1612ce0510d47b1dc691e9a5a0bcf3799ad9b8af1",
+   "p90_L": 64.45453106923775,
+   "stratum": "mid",
+   "make": "Fujifilm",
+   "model": "X-Pro2",
+   "subject": "stylized mural of warriors on horseback",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Hasselblad/L2D-20c/DJI_0023.DNG",
+   "sha256": "dbe98cb202f884ff11e0144899613b26d33cf9cddd9f1a62226f4352397f18e4",
+   "p90_L": 89.73176092937037,
+   "stratum": "high",
+   "make": "Hasselblad",
+   "model": "L2D-20c",
+   "subject": "beach scene with swimmers and coastal houses",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-GH5S/P1022090.RW2",
+   "sha256": "7553e219a0dfc8edfcef58bf209ed9e3c37a5de395fb02999e17c979ed6817cd",
+   "p90_L": 89.48102030252824,
+   "stratum": "high",
+   "make": "Panasonic",
+   "model": "DC-GH5S",
+   "subject": "two statues of men in bowler hats sitting on a bench in a grassy area",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-GH5S/P1022084.RW2",
+   "sha256": "953e602e21974a3eb894e3ec0abd6e6fa31d991e579fe013fd9d2e0f414c47ac",
+   "p90_L": 88.32788171443346,
+   "stratum": "high",
+   "make": "Panasonic",
+   "model": "DC-GH5S",
+   "subject": "two statues of men sitting on a bench in a grassy area",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-GH5S/P1022081.RW2",
+   "sha256": "b617151876e62b492641cef14b8c98ee3797e5014d24c6af1c780715a501fa53",
+   "p90_L": 90.05846062768568,
+   "stratum": "high",
+   "make": "Panasonic",
+   "model": "DC-GH5S",
+   "subject": "two statues of men in bowler hats sitting on a bench in a grassy area",
+   "score": null
+  }
+ ],
+ "crs": {
+  "orange-hue-50": {
+   "HueAdjustmentOrange": "-50"
+  },
+  "orange-hue+50": {
+   "HueAdjustmentOrange": "+50"
+  },
+  "orange-sat-50": {
+   "SaturationAdjustmentOrange": "-50"
+  },
+  "orange-sat+50": {
+   "SaturationAdjustmentOrange": "+50"
+  },
+  "orange-lum-50": {
+   "LuminanceAdjustmentOrange": "-50"
+  },
+  "orange-lum+50": {
+   "LuminanceAdjustmentOrange": "+50"
+  }
+ }
+}

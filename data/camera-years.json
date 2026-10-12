@@ -1,0 +1,8365 @@
+{
+ "about": "Announcement month (YYYY-MM, or YYYY) and category of every camera model in the dataset, by its make and model as the dataset names them (raw.pixls.us names, and EXIF names normalized for other sources), for scripts/dataset.py. From general knowledge, some checked against press releases (2026-10-11); confidence says how sure. Where a body was shown in development before its launch, the note gives both dates.",
+ "cameras": [
+  {
+   "make": "Adobe DNG Converter",
+   "model": "Canon EOS 5D Mark III",
+   "announced": "2012-03",
+   "category": "converter",
+   "confidence": "high",
+   "note": "DNG-converted Canon EOS 5D Mark III"
+  },
+  {
+   "make": "Apple",
+   "model": "iPhone 12 Pro",
+   "announced": "2020-10",
+   "category": "phone",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Apple",
+   "model": "iPhone 6s Plus",
+   "announced": "2015-09",
+   "category": "phone",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Apple",
+   "model": "iPhone 7 Plus",
+   "announced": "2016-09",
+   "category": "phone",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Apple",
+   "model": "iPhone 8",
+   "announced": "2017-09",
+   "category": "phone",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Apple",
+   "model": "iPhone 8 Plus",
+   "announced": "2017-09",
+   "category": "phone",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Apple",
+   "model": "iPhone SE",
+   "announced": "2016-03",
+   "category": "phone",
+   "confidence": "medium",
+   "note": "assumed first-generation iPhone SE"
+  },
+  {
+   "make": "Apple",
+   "model": "iPhone X",
+   "announced": "2017-09",
+   "category": "phone",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Apple",
+   "model": "iPhone XR",
+   "announced": "2018-09",
+   "category": "phone",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Apple",
+   "model": "iPhone XS",
+   "announced": "2018-09",
+   "category": "phone",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Apple",
+   "model": "iPhone XS Max",
+   "announced": "2018-09",
+   "category": "phone",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Arashi Vision",
+   "model": "Insta360 One X",
+   "announced": "2018-10",
+   "category": "action",
+   "confidence": "high",
+   "note": "360 camera"
+  },
+  {
+   "make": "Arri",
+   "model": "Alexa Mini",
+   "announced": "2015",
+   "category": "cinema",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "asus",
+   "model": "ASUS_I01WD",
+   "announced": "2019-05",
+   "category": "phone",
+   "confidence": "high",
+   "note": "ZenFone 6"
+  },
+  {
+   "make": "asus",
+   "model": "ASUS_Z01KD",
+   "announced": "2017-08",
+   "category": "phone",
+   "confidence": "medium",
+   "note": "ZenFone 4"
+  },
+  {
+   "make": "Autel",
+   "model": "Model 323",
+   "announced": null,
+   "category": "drone",
+   "confidence": "low",
+   "note": "unidentified Autel camera code"
+  },
+  {
+   "make": "Autel Robotics",
+   "model": "XB015",
+   "announced": "2018",
+   "category": "drone",
+   "confidence": "low",
+   "note": "likely Autel EVO (first gen) camera"
+  },
+  {
+   "make": "Blackmagic",
+   "model": "Blackmagic Pocket Cinema Camera 4k",
+   "announced": "2018-04",
+   "category": "cinema",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Blackmagic",
+   "model": "Micro Cinema Camera",
+   "announced": "2015-04",
+   "category": "cinema",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Blackmagic",
+   "model": "Pocket Cinema Camera",
+   "announced": "2013-04",
+   "category": "cinema",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Blackmagic",
+   "model": "URSA 4K",
+   "announced": "2014-04",
+   "category": "cinema",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Blackmagic Design",
+   "model": "Pocket Cinema Camera 6k Pro",
+   "announced": "2021-02",
+   "category": "cinema",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "bq",
+   "model": "Aquaris U Plus",
+   "announced": "2016-09",
+   "category": "phone",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "A570 IS",
+   "announced": "2007-02",
+   "category": "compact",
+   "confidence": "high",
+   "note": "PowerShot A570 IS"
+  },
+  {
+   "make": "Canon",
+   "model": "Canon DIGITAL IXUS 60",
+   "announced": "2006-02",
+   "category": "compact",
+   "confidence": "high",
+   "note": "= PowerShot SD600"
+  },
+  {
+   "make": "Canon",
+   "model": "Canon DIGITAL IXUS 95 IS",
+   "announced": "2009-08",
+   "category": "compact",
+   "confidence": "high",
+   "note": "= PowerShot SD1200 IS"
+  },
+  {
+   "make": "Canon",
+   "model": "Canon IXUS900Ti",
+   "announced": "2006-08",
+   "category": "compact",
+   "confidence": "high",
+   "note": "= PowerShot SD900"
+  },
+  {
+   "make": "Canon",
+   "model": "Canon PowerShot A3100 IS",
+   "announced": "2010-02",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "Canon PowerShot A3300 IS",
+   "announced": "2011-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "Canon PowerShot A410",
+   "announced": "2005-02",
+   "category": "compact",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "Canon PowerShot A480",
+   "announced": "2009-02",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "Canon PowerShot A540",
+   "announced": "2006-02",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "Canon PowerShot A550",
+   "announced": "2007-02",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "Canon PowerShot A560",
+   "announced": "2007-08",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "Canon PowerShot A570 IS",
+   "announced": "2007-02",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "Canon PowerShot A610",
+   "announced": "2005-08",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "Canon PowerShot A620",
+   "announced": "2005-08",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "Canon PowerShot A630",
+   "announced": "2006-08",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "Canon PowerShot A640",
+   "announced": "2006-08",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "Canon Powershot A650",
+   "announced": "2007-08",
+   "category": "compact",
+   "confidence": "high",
+   "note": "PowerShot A650 IS"
+  },
+  {
+   "make": "Canon",
+   "model": "Canon PowerShot A710 IS",
+   "announced": "2006-08",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "Canon PowerShot ELPH 130 IS",
+   "announced": "2013-02",
+   "category": "compact",
+   "confidence": "high",
+   "note": "= IXUS 140"
+  },
+  {
+   "make": "Canon",
+   "model": "Canon PowerShot ELPH 160",
+   "announced": "2015-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": "= IXUS 160"
+  },
+  {
+   "make": "Canon",
+   "model": "Canon PowerShot ELPH 180",
+   "announced": "2016-01",
+   "category": "compact",
+   "confidence": "medium",
+   "note": "= IXUS 175"
+  },
+  {
+   "make": "Canon",
+   "model": "Canon PowerShot ELPH 310 HS",
+   "announced": "2011-08",
+   "category": "compact",
+   "confidence": "medium",
+   "note": "= IXUS 230 HS"
+  },
+  {
+   "make": "Canon",
+   "model": "Canon PowerShot S3IS",
+   "announced": "2006-02",
+   "category": "compact",
+   "confidence": "high",
+   "note": "PowerShot S3 IS"
+  },
+  {
+   "make": "Canon",
+   "model": "Canon PowerShot S5 IS",
+   "announced": "2007-05",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "Canon PowerShot SD750",
+   "announced": "2007-02",
+   "category": "compact",
+   "confidence": "high",
+   "note": "= IXUS 75"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS 1000D",
+   "announced": "2008-06",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= Rebel XS / Kiss F"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS 100D",
+   "announced": "2013-03",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= Rebel SL1 / Kiss X7"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS 10D",
+   "announced": "2003-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS 1100D",
+   "announced": "2011-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= Rebel T3 / Kiss X50"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS 1200D",
+   "announced": "2014-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= Rebel T5 / Kiss X70"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS 1300D",
+   "announced": "2016-03",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= Rebel T6 / Kiss X80"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS 1500D",
+   "announced": "2018-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Rebel T7 / Kiss X90"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS 2000D",
+   "announced": "2018-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= Rebel T7 / Kiss X90"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS 200D",
+   "announced": "2017-06",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= Rebel SL2 / Kiss X9"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS 200D Mark II",
+   "announced": "2019-04",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= EOS 250D / Rebel SL3"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS 20D",
+   "announced": "2004-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS 250D",
+   "announced": "2019-04",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= Rebel SL3 / 200D II / Kiss X10"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS 300D",
+   "announced": "2003-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= Digital Rebel / Kiss Digital"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS 30D",
+   "announced": "2006-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS 350D",
+   "announced": "2005-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= Rebel XT / Kiss Digital N"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS 4000D",
+   "announced": "2018-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= Rebel T100"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS 400D",
+   "announced": "2006-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= Rebel XTi / Kiss Digital X"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS 40D",
+   "announced": "2007-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS 450D",
+   "announced": "2008-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= Rebel XSi / Kiss X2"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS 500D",
+   "announced": "2009-03",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= Rebel T1i / Kiss X3"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS 50D",
+   "announced": "2008-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS 550D",
+   "announced": "2010-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= Rebel T2i / Kiss X4"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS 5D",
+   "announced": "2005-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS 5D Mark II",
+   "announced": "2008-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS 5D Mark III",
+   "announced": "2012-03",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS 5D Mark IV",
+   "announced": "2016-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS 5DS",
+   "announced": "2015-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS 5DS R",
+   "announced": "2015-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS 600D",
+   "announced": "2011-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= Rebel T3i / Kiss X5"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS 60D",
+   "announced": "2010-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS 650D",
+   "announced": "2012-06",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= Rebel T4i / Kiss X6i"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS 6D",
+   "announced": "2012-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS 6D Mark II",
+   "announced": "2017-06",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS 700D",
+   "announced": "2013-03",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= Rebel T5i / Kiss X7i"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS 70D",
+   "announced": "2013-07",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS 750D",
+   "announced": "2015-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= Rebel T6i / Kiss X8i"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS 760D",
+   "announced": "2015-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= Rebel T6s / 8000D"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS 77D",
+   "announced": "2017-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= 9000D"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS 7D",
+   "announced": "2009-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS 7D Mark II",
+   "announced": "2014-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS 800D",
+   "announced": "2017-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= Rebel T7i / Kiss X9i"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS 80D",
+   "announced": "2016-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS 850D",
+   "announced": "2020-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= Rebel T8i / Kiss X10i"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS 90D",
+   "announced": "2019-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS D2000C",
+   "announced": "1998-03",
+   "category": "interchangeable",
+   "confidence": "medium",
+   "note": "Kodak-built EOS D2000 (DCS 520 variant)"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS D30",
+   "announced": "2000-05",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS D60",
+   "announced": "2002-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS Digital Rebel",
+   "announced": "2003-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= EOS 300D"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS Digital Rebel XS",
+   "announced": "2008-06",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= EOS 1000D"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS Digital Rebel XSi",
+   "announced": "2008-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= EOS 450D"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS Digital Rebel XT",
+   "announced": "2005-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= EOS 350D"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS Digital Rebel XTi",
+   "announced": "2006-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= EOS 400D"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS Kiss Digital N",
+   "announced": "2005-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= EOS 350D"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS Kiss F",
+   "announced": "2008-06",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= EOS 1000D"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS Kiss M",
+   "announced": "2018-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= EOS M50"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS Kiss X3",
+   "announced": "2009-03",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= EOS 500D"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS Kiss X4",
+   "announced": "2010-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= EOS 550D"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS Kiss X80",
+   "announced": "2016-03",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= EOS 1300D"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS Kiss X9",
+   "announced": "2017-06",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= EOS 200D"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS M",
+   "announced": "2012-07",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS M10",
+   "announced": "2015-10",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS M100",
+   "announced": "2017-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS M2",
+   "announced": "2013-12",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS M200",
+   "announced": "2019-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS M3",
+   "announced": "2015-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS M5",
+   "announced": "2016-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS M50",
+   "announced": "2018-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= Kiss M"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS M50 Mark II",
+   "announced": "2020-10",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS M6",
+   "announced": "2017-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS M6 Mark II",
+   "announced": "2019-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS R",
+   "announced": "2018-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS R10",
+   "announced": "2022-05",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS R100",
+   "announced": "2023-05",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS R3",
+   "announced": "2021-04",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "development announced 2021-04; full launch 2021-09"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS R5",
+   "announced": "2020-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "development announced 2020-02; full launch 2020-07"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS R5 Mark II",
+   "announced": "2024-07",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS R50",
+   "announced": "2023-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS R50 V",
+   "announced": "2025-03",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS R6",
+   "announced": "2020-07",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS R6 Mark II",
+   "announced": "2022-11",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS R6 Mark III",
+   "announced": "2025-11",
+   "category": "interchangeable",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS R7",
+   "announced": "2022-05",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS R8",
+   "announced": "2023-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS Rebel SL1",
+   "announced": "2013-03",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= EOS 100D"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS Rebel SL2",
+   "announced": "2017-06",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= EOS 200D"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS Rebel SL3",
+   "announced": "2019-04",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= EOS 250D"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS Rebel T100",
+   "announced": "2018-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= EOS 4000D"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS Rebel T1i",
+   "announced": "2009-03",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= EOS 500D"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS Rebel T2i",
+   "announced": "2010-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= EOS 550D"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS REBEL T2i",
+   "announced": "2010-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "EOS 550D"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS Rebel T3",
+   "announced": "2011-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= EOS 1100D"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS REBEL T3",
+   "announced": "2011-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "EOS 1100D"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS Rebel T3i",
+   "announced": "2011-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= EOS 600D"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS REBEL T3i",
+   "announced": "2011-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "EOS 600D"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS Rebel T4i",
+   "announced": "2012-06",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= EOS 650D"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS Rebel T5",
+   "announced": "2014-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= EOS 1200D"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS REBEL T5",
+   "announced": "2014-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "EOS 1200D"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS Rebel T5i",
+   "announced": "2013-03",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= EOS 700D"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS REBEL T5i",
+   "announced": "2013-03",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "EOS 700D"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS Rebel T6",
+   "announced": "2016-03",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= EOS 1300D"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS Rebel T6i",
+   "announced": "2015-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= EOS 750D"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS Rebel T6s",
+   "announced": "2015-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= EOS 760D"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS Rebel T7",
+   "announced": "2018-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= EOS 2000D"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS REBEL T7i",
+   "announced": "2017-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= EOS 800D"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS Rebel T7i",
+   "announced": "2017-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= EOS 800D"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS RP",
+   "announced": "2019-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS-1D",
+   "announced": "2001-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS-1D Mark II",
+   "announced": "2004-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS-1D Mark II N",
+   "announced": "2005-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS-1D Mark III",
+   "announced": "2007-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS-1D Mark IV",
+   "announced": "2009-10",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS-1D X",
+   "announced": "2011-10",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS-1D X Mark II",
+   "announced": "2016-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS-1D X Mark III",
+   "announced": "2019-10",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "development announced 2019-10; full launch 2020-01"
+  },
+  {
+   "make": "Canon",
+   "model": "EOS-1Ds",
+   "announced": "2002-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS-1Ds Mark II",
+   "announced": "2004-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "EOS-1Ds Mark III",
+   "announced": "2007-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "ixus 75",
+   "announced": "2007-02",
+   "category": "compact",
+   "confidence": "high",
+   "note": "= PowerShot SD750"
+  },
+  {
+   "make": "Canon",
+   "model": "IXY 220F",
+   "announced": "2011-02",
+   "category": "compact",
+   "confidence": "medium",
+   "note": "= IXUS 115 HS / ELPH 100 HS"
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot A3200 IS",
+   "announced": "2011-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot A480",
+   "announced": "2009-02",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot A550",
+   "announced": "2007-02",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "Powershot A620",
+   "announced": "2005-08",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "Powershot A640",
+   "announced": "2006-08",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot A720 IS",
+   "announced": "2007-08",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "Powershot A720IS",
+   "announced": "2007-08",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot D10",
+   "announced": "2009-02",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot G1",
+   "announced": "2000-09",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot G1 X",
+   "announced": "2012-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot G1 X Mark II",
+   "announced": "2014-02",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot G1 X Mark III",
+   "announced": "2017-10",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot G10",
+   "announced": "2008-09",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot G11",
+   "announced": "2009-08",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot G12",
+   "announced": "2010-09",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot G15",
+   "announced": "2012-09",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot G16",
+   "announced": "2013-08",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot G2",
+   "announced": "2001-08",
+   "category": "compact",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot G3",
+   "announced": "2002-08",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot G3 X",
+   "announced": "2015-06",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot G5",
+   "announced": "2003-06",
+   "category": "compact",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot G5 X",
+   "announced": "2015-10",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot G5 X Mark II",
+   "announced": "2019-07",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot G6",
+   "announced": "2004-08",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot G7 X",
+   "announced": "2014-09",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot G7 X Mark II",
+   "announced": "2016-02",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot G7 X Mark III",
+   "announced": "2019-07",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot G9",
+   "announced": "2007-08",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot G9 X",
+   "announced": "2015-10",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot G9 X Mark II",
+   "announced": "2017-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot Pro1",
+   "announced": "2004-02",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot Pro70",
+   "announced": "1998",
+   "category": "compact",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot S100",
+   "announced": "2011-09",
+   "category": "compact",
+   "confidence": "high",
+   "note": "2011 S100 (RAW); not the 2000 Digital ELPH S100"
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot S100V",
+   "announced": "2011-09",
+   "category": "compact",
+   "confidence": "medium",
+   "note": "regional name of 2011 PowerShot S100"
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot S110",
+   "announced": "2012-09",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot S120",
+   "announced": "2013-08",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot S2 IS",
+   "announced": "2005-04",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot S30",
+   "announced": "2001-09",
+   "category": "compact",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot S40",
+   "announced": "2001-08",
+   "category": "compact",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot S45",
+   "announced": "2002-08",
+   "category": "compact",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot S50",
+   "announced": "2003-02",
+   "category": "compact",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot S60",
+   "announced": "2004",
+   "category": "compact",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot S70",
+   "announced": "2005-02",
+   "category": "compact",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot S90",
+   "announced": "2009-08",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot S95",
+   "announced": "2010-08",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot SD450",
+   "announced": "2005-08",
+   "category": "compact",
+   "confidence": "high",
+   "note": "= IXUS 55"
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot SX1 IS",
+   "announced": "2008-09",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot SX10 IS",
+   "announced": "2008-09",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot SX100 IS",
+   "announced": "2007-08",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot SX110 IS",
+   "announced": "2008-08",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot SX130 IS",
+   "announced": "2010-08",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot SX160 IS",
+   "announced": "2012-08",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot SX20 IS",
+   "announced": "2009-08",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot SX220 HS",
+   "announced": "2011-02",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot SX230 HS",
+   "announced": "2011-02",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot SX240 HS",
+   "announced": "2012-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot SX260 HS",
+   "announced": "2012-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot SX30 IS",
+   "announced": "2010-09",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot SX40 HS",
+   "announced": "2011-09",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot SX50 HS",
+   "announced": "2012-09",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot SX510 HS",
+   "announced": "2013-08",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot SX530 HS",
+   "announced": "2015-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot SX60 HS",
+   "announced": "2014-09",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot SX70 HS",
+   "announced": "2018-09",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot SX710 HS",
+   "announced": "2015-02",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Canon",
+   "model": "PowerShot V1",
+   "announced": "2025-02",
+   "category": "compact",
+   "confidence": "medium",
+   "note": "Japan announcement 2025-02; global 2025-03"
+  },
+  {
+   "make": "Canon",
+   "model": "Poweshot S3IS",
+   "announced": "2006-02",
+   "category": "compact",
+   "confidence": "high",
+   "note": "PowerShot S3 IS (misspelled)"
+  },
+  {
+   "make": "Canon",
+   "model": "SX150IS",
+   "announced": "2011-08",
+   "category": "compact",
+   "confidence": "high",
+   "note": "PowerShot SX150 IS"
+  },
+  {
+   "make": "Casio",
+   "model": "QV-11",
+   "announced": "1996",
+   "category": "compact",
+   "confidence": "low",
+   "note": ""
+  },
+  {
+   "make": "Casio",
+   "model": "QV-5000SX",
+   "announced": "1998",
+   "category": "compact",
+   "confidence": "low",
+   "note": ""
+  },
+  {
+   "make": "DJI",
+   "model": "DJI Osmo Action",
+   "announced": "2019-05",
+   "category": "action",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "DJI",
+   "model": "FC2103",
+   "announced": "2018-01",
+   "category": "drone",
+   "confidence": "medium",
+   "note": "Mavic Air camera"
+  },
+  {
+   "make": "DJI",
+   "model": "FC220",
+   "announced": "2016-09",
+   "category": "drone",
+   "confidence": "high",
+   "note": "DJI Mavic Pro"
+  },
+  {
+   "make": "DJI",
+   "model": "FC350",
+   "announced": "2014-11",
+   "category": "drone",
+   "confidence": "medium",
+   "note": "Zenmuse X3 (Inspire 1)"
+  },
+  {
+   "make": "DJI",
+   "model": "FC4382",
+   "announced": "2023-04",
+   "category": "drone",
+   "confidence": "medium",
+   "note": "DJI Mavic 3 Pro medium tele camera"
+  },
+  {
+   "make": "DJI",
+   "model": "FC6310",
+   "announced": "2016-11",
+   "category": "drone",
+   "confidence": "high",
+   "note": "DJI Phantom 4 Pro"
+  },
+  {
+   "make": "DJI",
+   "model": "FC7303",
+   "announced": "2020-11",
+   "category": "drone",
+   "confidence": "high",
+   "note": "DJI Mini 2"
+  },
+  {
+   "make": "DJI",
+   "model": "FC9287",
+   "announced": "2025-05",
+   "category": "drone",
+   "confidence": "medium",
+   "note": "DJI Mavic 4 Pro 168 mm tele camera"
+  },
+  {
+   "make": "Epson",
+   "model": "R-D1",
+   "announced": "2004-03",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Epson",
+   "model": "R-D1s",
+   "announced": "2006-03",
+   "category": "interchangeable",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Epson",
+   "model": "R-D1x",
+   "announced": "2009",
+   "category": "interchangeable",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Eyedeas",
+   "model": "E1",
+   "announced": null,
+   "category": "other",
+   "confidence": "low",
+   "note": "unidentified"
+  },
+  {
+   "make": "FIMI",
+   "model": "X8SE",
+   "announced": "2019",
+   "category": "drone",
+   "confidence": "medium",
+   "note": "FIMI X8 SE"
+  },
+  {
+   "make": "Fujifilm",
+   "model": "DBP for GX680",
+   "announced": "2003",
+   "category": "medium-format",
+   "confidence": "medium",
+   "note": "Fujifilm SuperCCD back for GX680; shown PMA 2003, announced late 2003"
+  },
+  {
+   "make": "Fujifilm",
+   "model": "FinePix E550",
+   "announced": "2004-08",
+   "category": "compact",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "FinePix E900",
+   "announced": "2005",
+   "category": "compact",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "FinePix F550EXR",
+   "announced": "2011-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "FinePix F600EXR",
+   "announced": "2011-07",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "FinePix F700",
+   "announced": "2003-02",
+   "category": "compact",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "FinePix F770EXR",
+   "announced": "2012-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "FinePix F900EXR",
+   "announced": "2013-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "FinePix HS10 HS11",
+   "announced": "2010-02",
+   "category": "compact",
+   "confidence": "high",
+   "note": "HS10 = HS11 regional"
+  },
+  {
+   "make": "Fujifilm",
+   "model": "FinePix HS20EXR",
+   "announced": "2011-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "FinePix HS30EXR",
+   "announced": "2012-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "FinePix HS33EXR",
+   "announced": "2012-01",
+   "category": "compact",
+   "confidence": "medium",
+   "note": "HS30EXR variant"
+  },
+  {
+   "make": "Fujifilm",
+   "model": "FinePix HS50EXR",
+   "announced": "2013-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "FinePix S1",
+   "announced": "2014-01",
+   "category": "compact",
+   "confidence": "medium",
+   "note": "2014 weather-sealed bridge, not the 2000 S1 Pro"
+  },
+  {
+   "make": "Fujifilm",
+   "model": "FinePix S100FS",
+   "announced": "2008-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "FinePix S200EXR",
+   "announced": "2009-07",
+   "category": "compact",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "FinePix S2Pro",
+   "announced": "2002-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Nikon F-mount DSLR"
+  },
+  {
+   "make": "Fujifilm",
+   "model": "FinePix S3Pro",
+   "announced": "2004-02",
+   "category": "interchangeable",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "FinePix S5000",
+   "announced": "2003",
+   "category": "compact",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "FinePix S5200",
+   "announced": "2005-07",
+   "category": "compact",
+   "confidence": "medium",
+   "note": "S5200 = S5600"
+  },
+  {
+   "make": "Fujifilm",
+   "model": "FinePix S5500",
+   "announced": "2004",
+   "category": "compact",
+   "confidence": "medium",
+   "note": "S5500 = S5100"
+  },
+  {
+   "make": "Fujifilm",
+   "model": "FinePix S5600",
+   "announced": "2005-07",
+   "category": "compact",
+   "confidence": "medium",
+   "note": "S5600 = S5200"
+  },
+  {
+   "make": "Fujifilm",
+   "model": "FinePix S5Pro",
+   "announced": "2006-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "FinePix S6000fd",
+   "announced": "2006-07",
+   "category": "compact",
+   "confidence": "medium",
+   "note": "S6000fd = S6500fd"
+  },
+  {
+   "make": "Fujifilm",
+   "model": "FinePix S6500fd",
+   "announced": "2006-07",
+   "category": "compact",
+   "confidence": "medium",
+   "note": "S6500fd = S6000fd"
+  },
+  {
+   "make": "Fujifilm",
+   "model": "FinePix S7000",
+   "announced": "2003",
+   "category": "compact",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "FinePix S9500",
+   "announced": "2005-07",
+   "category": "compact",
+   "confidence": "medium",
+   "note": "S9500 = S9000"
+  },
+  {
+   "make": "Fujifilm",
+   "model": "FinePix S9600",
+   "announced": "2006-07",
+   "category": "compact",
+   "confidence": "medium",
+   "note": "S9600 = S9100"
+  },
+  {
+   "make": "Fujifilm",
+   "model": "FinePix SL1000",
+   "announced": "2013-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "FinePix X10",
+   "announced": "2011-09",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "FinePix X100",
+   "announced": "2010-09",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "GFX 100",
+   "announced": "2019-05",
+   "category": "medium-format",
+   "confidence": "high",
+   "note": "development shown 2018-09"
+  },
+  {
+   "make": "Fujifilm",
+   "model": "GFX 50R",
+   "announced": "2018-09",
+   "category": "medium-format",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "GFX 50S",
+   "announced": "2016-09",
+   "category": "medium-format",
+   "confidence": "high",
+   "note": "development announced Photokina 2016-09; full launch 2017-01"
+  },
+  {
+   "make": "Fujifilm",
+   "model": "GFX100 II",
+   "announced": "2023-09",
+   "category": "medium-format",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "GFX100RF",
+   "announced": "2025-03",
+   "category": "medium-format",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "GFX100S",
+   "announced": "2021-01",
+   "category": "medium-format",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "GFX100S II",
+   "announced": "2024-05",
+   "category": "medium-format",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "GFX50S II",
+   "announced": "2021-09",
+   "category": "medium-format",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "X-A1",
+   "announced": "2013-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "X-A10",
+   "announced": "2016-12",
+   "category": "interchangeable",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "X-A2",
+   "announced": "2015-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "X-A3",
+   "announced": "2016-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "X-A5",
+   "announced": "2018-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "X-A7",
+   "announced": "2019-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "X-E1",
+   "announced": "2012-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "X-E2",
+   "announced": "2013-10",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "X-E2S",
+   "announced": "2016-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "X-E3",
+   "announced": "2017-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "X-E4",
+   "announced": "2021-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "X-E5",
+   "announced": "2025-06",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "X-H1",
+   "announced": "2018-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "X-H2",
+   "announced": "2022-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "X-H2S",
+   "announced": "2022-05",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "X-M1",
+   "announced": "2013-06",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "X-M5",
+   "announced": "2024-10",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "X-Pro1",
+   "announced": "2012-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "X-Pro2",
+   "announced": "2016-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "X-Pro3",
+   "announced": "2019-10",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "X-S1",
+   "announced": "2011-11",
+   "category": "compact",
+   "confidence": "high",
+   "note": "fixed-lens superzoom"
+  },
+  {
+   "make": "Fujifilm",
+   "model": "X-S10",
+   "announced": "2020-10",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "X-S20",
+   "announced": "2023-05",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "X-T1",
+   "announced": "2014-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "X-T10",
+   "announced": "2015-05",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "X-T100",
+   "announced": "2018-05",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "X-T2",
+   "announced": "2016-07",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "X-T20",
+   "announced": "2017-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "X-T200",
+   "announced": "2020-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "X-T3",
+   "announced": "2018-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "X-T30",
+   "announced": "2019-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "X-T30 II",
+   "announced": "2021-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "X-T30 III",
+   "announced": "2025-10",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "X-T4",
+   "announced": "2020-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "X-T5",
+   "announced": "2022-11",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "X-T50",
+   "announced": "2024-05",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "X100F",
+   "announced": "2017-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "X100S",
+   "announced": "2013-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "X100T",
+   "announced": "2014-09",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "X100V",
+   "announced": "2020-02",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "X100VI",
+   "announced": "2024-02",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "X20",
+   "announced": "2013-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "X30",
+   "announced": "2014-08",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "X70",
+   "announced": "2016-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "XF1",
+   "announced": "2012-09",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "XF10",
+   "announced": "2018-07",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "XQ1",
+   "announced": "2013-10",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Fujifilm",
+   "model": "XQ2",
+   "announced": "2015-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "GITUP",
+   "model": "G3 Duo 170°",
+   "announced": "2018",
+   "category": "action",
+   "confidence": "low",
+   "note": ""
+  },
+  {
+   "make": "GITUP",
+   "model": "GIT2",
+   "announced": "2016",
+   "category": "action",
+   "confidence": "low",
+   "note": ""
+  },
+  {
+   "make": "GITUP",
+   "model": "GIT2P",
+   "announced": "2017",
+   "category": "action",
+   "confidence": "low",
+   "note": "GIT2 Pro"
+  },
+  {
+   "make": "Google",
+   "model": "Pixel 2 XL",
+   "announced": "2017-10",
+   "category": "phone",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Google",
+   "model": "Pixel 3a",
+   "announced": "2019-05",
+   "category": "phone",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Google",
+   "model": "Pixel 4 XL",
+   "announced": "2019-10",
+   "category": "phone",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Google",
+   "model": "Pixel 4a",
+   "announced": "2020-08",
+   "category": "phone",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Google",
+   "model": "Pixel 6 Pro",
+   "announced": "2021-10",
+   "category": "phone",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Google",
+   "model": "Pixel 7 Pro",
+   "announced": "2022-10",
+   "category": "phone",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Google",
+   "model": "Pixel 8 Pro",
+   "announced": "2023-10",
+   "category": "phone",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "GoPro",
+   "model": "FUSION",
+   "announced": "2017-09",
+   "category": "action",
+   "confidence": "high",
+   "note": "360 camera"
+  },
+  {
+   "make": "GoPro",
+   "model": "HERO10 Black",
+   "announced": "2021-09",
+   "category": "action",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "GoPro",
+   "model": "HERO11 Black",
+   "announced": "2022-09",
+   "category": "action",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "GoPro",
+   "model": "HERO5 Black",
+   "announced": "2016-09",
+   "category": "action",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "GoPro",
+   "model": "HERO6 Black",
+   "announced": "2017-09",
+   "category": "action",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "GoPro",
+   "model": "HERO7 Black",
+   "announced": "2018-09",
+   "category": "action",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "GoPro",
+   "model": "HERO8 Black",
+   "announced": "2019-10",
+   "category": "action",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "GoPro",
+   "model": "HERO9 Black",
+   "announced": "2020-09",
+   "category": "action",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Hasselblad",
+   "model": "CF132",
+   "announced": null,
+   "category": "medium-format",
+   "confidence": "low",
+   "note": "CF-series digital back; exact model unclear"
+  },
+  {
+   "make": "Hasselblad",
+   "model": "CFV",
+   "announced": "2004",
+   "category": "medium-format",
+   "confidence": "low",
+   "note": "original CFV back"
+  },
+  {
+   "make": "Hasselblad",
+   "model": "CFV 100C",
+   "announced": "2024-06",
+   "category": "medium-format",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Hasselblad",
+   "model": "cfv 50C II",
+   "announced": "2019-06",
+   "category": "medium-format",
+   "confidence": "high",
+   "note": "CFV II 50C"
+  },
+  {
+   "make": "Hasselblad",
+   "model": "CFV-50",
+   "announced": "2012",
+   "category": "medium-format",
+   "confidence": "low",
+   "note": ""
+  },
+  {
+   "make": "Hasselblad",
+   "model": "CFV-50c",
+   "announced": "2014",
+   "category": "medium-format",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Hasselblad",
+   "model": "H3D",
+   "announced": "2006",
+   "category": "medium-format",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Hasselblad",
+   "model": "H4D-40",
+   "announced": "2009",
+   "category": "medium-format",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Hasselblad",
+   "model": "H4D-50",
+   "announced": "2009",
+   "category": "medium-format",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Hasselblad",
+   "model": "H5D-40",
+   "announced": "2012-11",
+   "category": "medium-format",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Hasselblad",
+   "model": "H5D-50c",
+   "announced": "2014-01",
+   "category": "medium-format",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Hasselblad",
+   "model": "H6D-100c",
+   "announced": "2016-04",
+   "category": "medium-format",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Hasselblad",
+   "model": "Hasselblad H4D",
+   "announced": "2009",
+   "category": "medium-format",
+   "confidence": "low",
+   "note": "H4D variant unspecified"
+  },
+  {
+   "make": "Hasselblad",
+   "model": "L1D-20c",
+   "announced": "2018-08",
+   "category": "drone",
+   "confidence": "high",
+   "note": "DJI Mavic 2 Pro camera"
+  },
+  {
+   "make": "Hasselblad",
+   "model": "L2D-20c",
+   "announced": "2021-11",
+   "category": "drone",
+   "confidence": "high",
+   "note": "DJI Mavic 3 camera"
+  },
+  {
+   "make": "Hasselblad",
+   "model": "Lunar",
+   "announced": "2012-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "rebadged Sony NEX-7"
+  },
+  {
+   "make": "Hasselblad",
+   "model": "X1D",
+   "announced": "2016-06",
+   "category": "medium-format",
+   "confidence": "high",
+   "note": "X1D-50c"
+  },
+  {
+   "make": "Hasselblad",
+   "model": "X1D II 50C",
+   "announced": "2019-06",
+   "category": "medium-format",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Hasselblad",
+   "model": "X2D 100C",
+   "announced": "2022-09",
+   "category": "medium-format",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "HMD Global",
+   "model": "Nokia 7 plus",
+   "announced": "2018-02",
+   "category": "phone",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "HTC",
+   "model": "HTC 10",
+   "announced": "2016-04",
+   "category": "phone",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "HUAWEI",
+   "model": "ANE-LX1",
+   "announced": "2018-03",
+   "category": "phone",
+   "confidence": "high",
+   "note": "Huawei P20 lite"
+  },
+  {
+   "make": "HUAWEI",
+   "model": "AUM-L29",
+   "announced": "2018",
+   "category": "phone",
+   "confidence": "medium",
+   "note": "Honor 7A / Y6 Prime 2018 family"
+  },
+  {
+   "make": "HUAWEI",
+   "model": "BLA-L29",
+   "announced": "2017-10",
+   "category": "phone",
+   "confidence": "high",
+   "note": "Huawei Mate 10 Pro"
+  },
+  {
+   "make": "HUAWEI",
+   "model": "CLT-L09",
+   "announced": "2018-03",
+   "category": "phone",
+   "confidence": "high",
+   "note": "Huawei P20 Pro"
+  },
+  {
+   "make": "HUAWEI",
+   "model": "CLT-L29",
+   "announced": "2018-03",
+   "category": "phone",
+   "confidence": "high",
+   "note": "P20 Pro"
+  },
+  {
+   "make": "HUAWEI",
+   "model": "DLI-L22",
+   "announced": "2017",
+   "category": "phone",
+   "confidence": "medium",
+   "note": "Honor 6A"
+  },
+  {
+   "make": "HUAWEI",
+   "model": "EML-L09",
+   "announced": "2018-03",
+   "category": "phone",
+   "confidence": "high",
+   "note": "Huawei P20"
+  },
+  {
+   "make": "HUAWEI",
+   "model": "EML-L29",
+   "announced": "2018-03",
+   "category": "phone",
+   "confidence": "high",
+   "note": "Huawei P20"
+  },
+  {
+   "make": "HUAWEI",
+   "model": "EVA-AL00",
+   "announced": "2016-04",
+   "category": "phone",
+   "confidence": "high",
+   "note": "Huawei P9"
+  },
+  {
+   "make": "HUAWEI",
+   "model": "EVA-L09",
+   "announced": "2016-04",
+   "category": "phone",
+   "confidence": "high",
+   "note": "Huawei P9"
+  },
+  {
+   "make": "HUAWEI",
+   "model": "FRD-L09",
+   "announced": "2016-07",
+   "category": "phone",
+   "confidence": "high",
+   "note": "Honor 8"
+  },
+  {
+   "make": "HUAWEI",
+   "model": "HRY-LX1",
+   "announced": "2018-11",
+   "category": "phone",
+   "confidence": "medium",
+   "note": "Honor 10 Lite"
+  },
+  {
+   "make": "HUAWEI",
+   "model": "HUAWEI NXT-L29",
+   "announced": "2015-11",
+   "category": "phone",
+   "confidence": "high",
+   "note": "Huawei Mate 8"
+  },
+  {
+   "make": "HUAWEI",
+   "model": "INE-AL00",
+   "announced": "2018-07",
+   "category": "phone",
+   "confidence": "medium",
+   "note": "nova 3i"
+  },
+  {
+   "make": "HUAWEI",
+   "model": "PRA-LX1",
+   "announced": "2017-01",
+   "category": "phone",
+   "confidence": "medium",
+   "note": "Huawei P8 lite 2017 / Honor 8 Lite"
+  },
+  {
+   "make": "HUAWEI",
+   "model": "SNE-LX1",
+   "announced": "2018-08",
+   "category": "phone",
+   "confidence": "medium",
+   "note": "Huawei Mate 20 lite"
+  },
+  {
+   "make": "HUAWEI",
+   "model": "VKY-L09",
+   "announced": "2017-02",
+   "category": "phone",
+   "confidence": "high",
+   "note": "Huawei P10 Plus"
+  },
+  {
+   "make": "HUAWEI",
+   "model": "VOG-L29",
+   "announced": "2019-03",
+   "category": "phone",
+   "confidence": "high",
+   "note": "Huawei P30 Pro"
+  },
+  {
+   "make": "HUAWEI",
+   "model": "VTR-L09",
+   "announced": "2017-02",
+   "category": "phone",
+   "confidence": "high",
+   "note": "Huawei P10"
+  },
+  {
+   "make": "HUAWEI",
+   "model": "WAS-LX1A",
+   "announced": "2017",
+   "category": "phone",
+   "confidence": "medium",
+   "note": "Huawei P10 lite"
+  },
+  {
+   "make": "ImBack",
+   "model": "ImB35mm",
+   "announced": null,
+   "category": "other",
+   "confidence": "low",
+   "note": "digital insert for 35mm film cameras"
+  },
+  {
+   "make": "KanDao",
+   "model": "QooCam",
+   "announced": "2018",
+   "category": "action",
+   "confidence": "low",
+   "note": "360 camera"
+  },
+  {
+   "make": "KanDao",
+   "model": "QooCam 8K",
+   "announced": "2020-01",
+   "category": "action",
+   "confidence": "medium",
+   "note": "360 camera"
+  },
+  {
+   "make": "Kodak",
+   "model": "DC120",
+   "announced": "1997",
+   "category": "compact",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Kodak",
+   "model": "DC50",
+   "announced": "1996",
+   "category": "compact",
+   "confidence": "low",
+   "note": "DC50 Zoom"
+  },
+  {
+   "make": "Kodak",
+   "model": "DCS Pro 14n",
+   "announced": "2002-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Nikon F-mount"
+  },
+  {
+   "make": "Kodak",
+   "model": "DCS Pro 14nx",
+   "announced": "2004",
+   "category": "interchangeable",
+   "confidence": "medium",
+   "note": "Nikon F-mount"
+  },
+  {
+   "make": "Kodak",
+   "model": "DCS Pro SLR/c",
+   "announced": "2004",
+   "category": "interchangeable",
+   "confidence": "medium",
+   "note": "Canon EF-mount"
+  },
+  {
+   "make": "Kodak",
+   "model": "DCS Pro SLR/n",
+   "announced": "2004",
+   "category": "interchangeable",
+   "confidence": "medium",
+   "note": "Nikon F-mount"
+  },
+  {
+   "make": "Kodak",
+   "model": "DCS460D",
+   "announced": "1995",
+   "category": "interchangeable",
+   "confidence": "low",
+   "note": "Kodak DCS 460 (Nikon-based)"
+  },
+  {
+   "make": "Kodak",
+   "model": "DCS520C",
+   "announced": "1998",
+   "category": "interchangeable",
+   "confidence": "medium",
+   "note": "DCS 520 = Canon EOS D2000"
+  },
+  {
+   "make": "Kodak",
+   "model": "DCS560C",
+   "announced": "1998",
+   "category": "interchangeable",
+   "confidence": "medium",
+   "note": "DCS 560 = Canon EOS D6000"
+  },
+  {
+   "make": "Kodak",
+   "model": "DCS760C",
+   "announced": "2001",
+   "category": "interchangeable",
+   "confidence": "medium",
+   "note": "Nikon F5-based"
+  },
+  {
+   "make": "Kodak",
+   "model": "EasyShare Z981",
+   "announced": "2010-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Kodak",
+   "model": "EasyShare Z990",
+   "announced": "2011-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": "EasyShare Max"
+  },
+  {
+   "make": "Kodak",
+   "model": "EOS DCS 1",
+   "announced": "1995",
+   "category": "interchangeable",
+   "confidence": "medium",
+   "note": "Canon EOS-1N based"
+  },
+  {
+   "make": "Kodak",
+   "model": "EOS DCS 3",
+   "announced": "1995",
+   "category": "interchangeable",
+   "confidence": "medium",
+   "note": "Canon EOS-1N based"
+  },
+  {
+   "make": "Kodak",
+   "model": "Kodak C330",
+   "announced": "2005",
+   "category": "compact",
+   "confidence": "low",
+   "note": ""
+  },
+  {
+   "make": "Kodak",
+   "model": "Kodak C603 / Kodak C643",
+   "announced": "2006",
+   "category": "compact",
+   "confidence": "low",
+   "note": ""
+  },
+  {
+   "make": "Kodak",
+   "model": "KODAK P712 ZOOM DIGITAL CAMERA",
+   "announced": "2006",
+   "category": "compact",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Kodak",
+   "model": "P880",
+   "announced": "2005",
+   "category": "compact",
+   "confidence": "medium",
+   "note": "EasyShare P880"
+  },
+  {
+   "make": "Kodak",
+   "model": "Z1015 IS",
+   "announced": "2008",
+   "category": "compact",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Leaf",
+   "model": "AFi-II 12",
+   "announced": "2011",
+   "category": "medium-format",
+   "confidence": "low",
+   "note": ""
+  },
+  {
+   "make": "Leaf",
+   "model": "Aptus 22",
+   "announced": "2005",
+   "category": "medium-format",
+   "confidence": "low",
+   "note": ""
+  },
+  {
+   "make": "Leaf",
+   "model": "Aptus 75",
+   "announced": "2006",
+   "category": "medium-format",
+   "confidence": "low",
+   "note": ""
+  },
+  {
+   "make": "Leaf",
+   "model": "Credo 40",
+   "announced": "2011",
+   "category": "medium-format",
+   "confidence": "low",
+   "note": ""
+  },
+  {
+   "make": "Leica",
+   "model": "C (Typ 112)",
+   "announced": "2013-09",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Leica C; twin of Panasonic LF1"
+  },
+  {
+   "make": "Leica",
+   "model": "C-Lux",
+   "announced": "2018-07",
+   "category": "compact",
+   "confidence": "high",
+   "note": "twin of Panasonic TZ200/ZS200"
+  },
+  {
+   "make": "Leica",
+   "model": "CL",
+   "announced": "2017-11",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "APS-C L-mount"
+  },
+  {
+   "make": "Leica",
+   "model": "D-LUX (Typ 109)",
+   "announced": "2014-09",
+   "category": "compact",
+   "confidence": "high",
+   "note": "twin of Panasonic LX100"
+  },
+  {
+   "make": "Leica",
+   "model": "D-LUX 4",
+   "announced": "2008-09",
+   "category": "compact",
+   "confidence": "high",
+   "note": "twin of Panasonic LX3"
+  },
+  {
+   "make": "Leica",
+   "model": "D-LUX 5",
+   "announced": "2010-09",
+   "category": "compact",
+   "confidence": "high",
+   "note": "twin of Panasonic LX5"
+  },
+  {
+   "make": "Leica",
+   "model": "D-LUX 6",
+   "announced": "2012-09",
+   "category": "compact",
+   "confidence": "high",
+   "note": "twin of Panasonic LX7"
+  },
+  {
+   "make": "Leica",
+   "model": "D-Lux 7",
+   "announced": "2018-11",
+   "category": "compact",
+   "confidence": "high",
+   "note": "twin of Panasonic LX100 II"
+  },
+  {
+   "make": "Leica",
+   "model": "Digilux 3",
+   "announced": "2006-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Four Thirds DSLR; twin of Panasonic L1"
+  },
+  {
+   "make": "Leica",
+   "model": "Leica D-LUX 3",
+   "announced": "2006",
+   "category": "compact",
+   "confidence": "medium",
+   "note": "twin of Panasonic LX2"
+  },
+  {
+   "make": "Leica",
+   "model": "Leica Digilux 2",
+   "announced": "2003",
+   "category": "compact",
+   "confidence": "medium",
+   "note": "fixed-lens; twin of Panasonic LC1"
+  },
+  {
+   "make": "Leica",
+   "model": "M (Typ 240)",
+   "announced": "2012-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Leica",
+   "model": "M Monochrom",
+   "announced": "2012-05",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "original M Monochrom (CCD)"
+  },
+  {
+   "make": "Leica",
+   "model": "M Monochrom (Typ 246)",
+   "announced": "2015-04",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Leica",
+   "model": "M10",
+   "announced": "2017-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Leica",
+   "model": "M10-R",
+   "announced": "2020-07",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Leica",
+   "model": "M8",
+   "announced": "2006-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Leica",
+   "model": "M9",
+   "announced": "2009-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Leica",
+   "model": "M9 Digital Camera",
+   "announced": "2009-09",
+   "category": "interchangeable",
+   "confidence": "medium",
+   "note": "M9 EXIF name; could also be M9-P (2011-06)"
+  },
+  {
+   "make": "Leica",
+   "model": "Q (Typ 116)",
+   "announced": "2015-06",
+   "category": "compact",
+   "confidence": "high",
+   "note": "full-frame fixed-lens"
+  },
+  {
+   "make": "Leica",
+   "model": "Q2",
+   "announced": "2019-03",
+   "category": "compact",
+   "confidence": "high",
+   "note": "full-frame fixed-lens"
+  },
+  {
+   "make": "Leica",
+   "model": "SL (Typ 601)",
+   "announced": "2015-10",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Leica",
+   "model": "SL2",
+   "announced": "2019-11",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Leica",
+   "model": "SL2-S",
+   "announced": "2020-12",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Leica",
+   "model": "V-LUX (Typ 114)",
+   "announced": "2014-09",
+   "category": "compact",
+   "confidence": "high",
+   "note": "twin of Panasonic FZ1000"
+  },
+  {
+   "make": "Leica",
+   "model": "V-LUX 1",
+   "announced": "2006-09",
+   "category": "compact",
+   "confidence": "medium",
+   "note": "twin of Panasonic FZ50"
+  },
+  {
+   "make": "Leica",
+   "model": "V-Lux 4",
+   "announced": "2012-09",
+   "category": "compact",
+   "confidence": "high",
+   "note": "twin of Panasonic FZ200"
+  },
+  {
+   "make": "Leica",
+   "model": "V-Lux 5",
+   "announced": "2019-07",
+   "category": "compact",
+   "confidence": "high",
+   "note": "twin of Panasonic FZ1000 II"
+  },
+  {
+   "make": "Leica",
+   "model": "X2",
+   "announced": "2012-05",
+   "category": "compact",
+   "confidence": "high",
+   "note": "APS-C fixed-lens"
+  },
+  {
+   "make": "LG",
+   "model": "D855",
+   "announced": "2014-05",
+   "category": "phone",
+   "confidence": "high",
+   "note": "LG G3"
+  },
+  {
+   "make": "LG",
+   "model": "H815",
+   "announced": "2015-04",
+   "category": "phone",
+   "confidence": "high",
+   "note": "LG G4"
+  },
+  {
+   "make": "LG",
+   "model": "LG-F800K",
+   "announced": "2016-09",
+   "category": "phone",
+   "confidence": "high",
+   "note": "LG V20 (Korea)"
+  },
+  {
+   "make": "LG",
+   "model": "LG-H850",
+   "announced": "2016-02",
+   "category": "phone",
+   "confidence": "high",
+   "note": "LG G5"
+  },
+  {
+   "make": "LG",
+   "model": "LG-H870",
+   "announced": "2017-02",
+   "category": "phone",
+   "confidence": "high",
+   "note": "LG G6"
+  },
+  {
+   "make": "LG",
+   "model": "LG-H910",
+   "announced": "2016-09",
+   "category": "phone",
+   "confidence": "high",
+   "note": "LG V20 (AT&T)"
+  },
+  {
+   "make": "LG",
+   "model": "Nexus 5X",
+   "announced": "2015-09",
+   "category": "phone",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "LG",
+   "model": "US996",
+   "announced": "2016-09",
+   "category": "phone",
+   "confidence": "high",
+   "note": "LG V20 (US)"
+  },
+  {
+   "make": "LG",
+   "model": "VS995",
+   "announced": "2016-09",
+   "category": "phone",
+   "confidence": "high",
+   "note": "LG V20 (Verizon)"
+  },
+  {
+   "make": "Light",
+   "model": "L16",
+   "announced": "2015-10",
+   "category": "compact",
+   "confidence": "high",
+   "note": "multi-module computational camera"
+  },
+  {
+   "make": "MADV",
+   "model": "QJXJ01FJ",
+   "announced": "2017-04",
+   "category": "action",
+   "confidence": "medium",
+   "note": "Xiaomi Mi Sphere 360 camera"
+  },
+  {
+   "make": "Mamiya",
+   "model": "ZD",
+   "announced": "2004",
+   "category": "medium-format",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Microsoft",
+   "model": "Lumia 950 XL Dual SIM",
+   "announced": "2015-10",
+   "category": "phone",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Minolta",
+   "model": "Alpha Sweet Digital",
+   "announced": "2005-07",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= Dynax/Maxxum 5D"
+  },
+  {
+   "make": "Minolta",
+   "model": "ALPHA-7 DIGITAL",
+   "announced": "2004-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= Dynax/Maxxum 7D"
+  },
+  {
+   "make": "Minolta",
+   "model": "Alpha-7 Digital",
+   "announced": "2004-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= Dynax/Maxxum 7D"
+  },
+  {
+   "make": "Minolta",
+   "model": "DiMAGE 5",
+   "announced": "2001",
+   "category": "compact",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Minolta",
+   "model": "DiMAGE 7",
+   "announced": "2001-02",
+   "category": "compact",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Minolta",
+   "model": "DiMAGE 7Hi",
+   "announced": "2002-08",
+   "category": "compact",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Minolta",
+   "model": "DiMAGE 7i",
+   "announced": "2002-02",
+   "category": "compact",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Minolta",
+   "model": "DiMAGE A1",
+   "announced": "2003-07",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Minolta",
+   "model": "DiMAGE A2",
+   "announced": "2004-02",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Minolta",
+   "model": "DiMAGE A200",
+   "announced": "2004-08",
+   "category": "compact",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Minolta",
+   "model": "Dimage Z2",
+   "announced": "2004-02",
+   "category": "compact",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Minolta",
+   "model": "DYNAX 5D",
+   "announced": "2005-07",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= Maxxum 5D / Alpha Sweet Digital"
+  },
+  {
+   "make": "Minolta",
+   "model": "Dynax 7D",
+   "announced": "2004-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= Maxxum 7D / Alpha-7 Digital"
+  },
+  {
+   "make": "Minolta",
+   "model": "Maxxum 7D",
+   "announced": "2004-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= Dynax 7D / Alpha-7 Digital"
+  },
+  {
+   "make": "Minolta",
+   "model": "RD 175",
+   "announced": "1995",
+   "category": "interchangeable",
+   "confidence": "medium",
+   "note": "early 3-CCD DSLR on Minolta Maxxum body"
+  },
+  {
+   "make": "moto g8plus",
+   "model": "moto g8plus",
+   "announced": "2019-10",
+   "category": "phone",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "motorola",
+   "model": "Moto G (5S) Plus",
+   "announced": "2017-08",
+   "category": "phone",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "motorola",
+   "model": "moto g(7) play",
+   "announced": "2019-02",
+   "category": "phone",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "motorola",
+   "model": "Nexus 6",
+   "announced": "2014-10",
+   "category": "phone",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "1 AW1",
+   "announced": "2013-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Nikon 1 AW1"
+  },
+  {
+   "make": "Nikon",
+   "model": "1 J1",
+   "announced": "2011-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "1 J2",
+   "announced": "2012-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "1 J3",
+   "announced": "2013-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "1 J4",
+   "announced": "2014-04",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "1 J5",
+   "announced": "2015-04",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "1 S1",
+   "announced": "2013-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "1 S2",
+   "announced": "2014-05",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "1 V1",
+   "announced": "2011-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "1 V2",
+   "announced": "2012-10",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "1 V3",
+   "announced": "2014-03",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "Coolpix A",
+   "announced": "2013-03",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "Coolpix A1000",
+   "announced": "2019-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "COOLPIX B700",
+   "announced": "2016-08",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "Coolpix E8800",
+   "announced": "2004-09",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "COOLPIX P1000",
+   "announced": "2018-07",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "Coolpix P1100",
+   "announced": "2025-02",
+   "category": "compact",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "Coolpix P330",
+   "announced": "2013-03",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "Coolpix P340",
+   "announced": "2014-04",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "Coolpix P6000",
+   "announced": "2008-08",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "Coolpix P7000",
+   "announced": "2010-09",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "Coolpix P7100",
+   "announced": "2011-08",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "Coolpix P7700",
+   "announced": "2012-08",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "Coolpix P7800",
+   "announced": "2013-09",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "COOLPIX P950",
+   "announced": "2020-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D1",
+   "announced": "1999-06",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D100",
+   "announced": "2002-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D1H",
+   "announced": "2001-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D1X",
+   "announced": "2001-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D200",
+   "announced": "2005-11",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D2H",
+   "announced": "2003-07",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D2Hs",
+   "announced": "2005-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D2X",
+   "announced": "2004-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D2Xs",
+   "announced": "2006-06",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D3",
+   "announced": "2007-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D300",
+   "announced": "2007-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D3000",
+   "announced": "2009-07",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D300S",
+   "announced": "2009-07",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D3100",
+   "announced": "2010-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D3200",
+   "announced": "2012-04",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D3300",
+   "announced": "2014-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D3400",
+   "announced": "2016-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D3500",
+   "announced": "2018-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D3S",
+   "announced": "2009-10",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D3X",
+   "announced": "2008-12",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D4",
+   "announced": "2012-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D40",
+   "announced": "2006-11",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D40X",
+   "announced": "2007-03",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D4S",
+   "announced": "2014-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D5",
+   "announced": "2016-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D50",
+   "announced": "2005-04",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D500",
+   "announced": "2016-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D5000",
+   "announced": "2009-04",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D5100",
+   "announced": "2011-04",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D5200",
+   "announced": "2012-11",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D5300",
+   "announced": "2013-10",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D5500",
+   "announced": "2015-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D5600",
+   "announced": "2016-11",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D6",
+   "announced": "2020-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "development announced 2019-09"
+  },
+  {
+   "make": "Nikon",
+   "model": "D60",
+   "announced": "2008-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D600",
+   "announced": "2012-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D610",
+   "announced": "2013-10",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D70",
+   "announced": "2004-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D700",
+   "announced": "2008-07",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D7000",
+   "announced": "2010-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D70s",
+   "announced": "2005-04",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D7100",
+   "announced": "2013-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D7200",
+   "announced": "2015-03",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D750",
+   "announced": "2014-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D7500",
+   "announced": "2017-04",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D780",
+   "announced": "2020-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D80",
+   "announced": "2006-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D800",
+   "announced": "2012-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D800E",
+   "announced": "2012-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D810",
+   "announced": "2014-06",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "D850",
+   "announced": "2017-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "development announced 2017-07"
+  },
+  {
+   "make": "Nikon",
+   "model": "D90",
+   "announced": "2008-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "Df",
+   "announced": "2013-11",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "E5400",
+   "announced": "2003",
+   "category": "compact",
+   "confidence": "medium",
+   "note": "Coolpix 5400"
+  },
+  {
+   "make": "Nikon",
+   "model": "E5700",
+   "announced": "2002-05",
+   "category": "compact",
+   "confidence": "medium",
+   "note": "Coolpix 5700"
+  },
+  {
+   "make": "Nikon",
+   "model": "E8400",
+   "announced": "2004-09",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Coolpix 8400"
+  },
+  {
+   "make": "Nikon",
+   "model": "LS-5000",
+   "announced": "2003",
+   "category": "other",
+   "confidence": "medium",
+   "note": "Super Coolscan 5000 ED film scanner"
+  },
+  {
+   "make": "Nikon",
+   "model": "Nikon COOLSCAN IV ED",
+   "announced": "2001",
+   "category": "other",
+   "confidence": "medium",
+   "note": "film scanner"
+  },
+  {
+   "make": "Nikon",
+   "model": "Nikon COOLSCAN V ED",
+   "announced": "2003",
+   "category": "other",
+   "confidence": "medium",
+   "note": "film scanner"
+  },
+  {
+   "make": "Nikon",
+   "model": "Z 30",
+   "announced": "2022-06",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "Z 5",
+   "announced": "2020-07",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "Z 50",
+   "announced": "2019-10",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "Z 6",
+   "announced": "2018-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "Z 6_2",
+   "announced": "2020-10",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Z6 II"
+  },
+  {
+   "make": "Nikon",
+   "model": "Z 7",
+   "announced": "2018-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "Z 7_2",
+   "announced": "2020-10",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Z7 II"
+  },
+  {
+   "make": "Nikon",
+   "model": "Z 8",
+   "announced": "2023-05",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "Z 9",
+   "announced": "2021-10",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "Z f",
+   "announced": "2023-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "Z fc",
+   "announced": "2021-06",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nikon",
+   "model": "Z50_2",
+   "announced": "2024-11",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Z50 II"
+  },
+  {
+   "make": "Nikon",
+   "model": "Z5_2",
+   "announced": "2025-04",
+   "category": "interchangeable",
+   "confidence": "medium",
+   "note": "Z5 II"
+  },
+  {
+   "make": "Nikon",
+   "model": "Z6_3",
+   "announced": "2024-06",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Z6 III"
+  },
+  {
+   "make": "Nokia",
+   "model": "Lumia 1020",
+   "announced": "2013-07",
+   "category": "phone",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Nokia",
+   "model": "Lumia 930",
+   "announced": "2014-04",
+   "category": "phone",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Olympus",
+   "model": "C5050Z",
+   "announced": "2002",
+   "category": "compact",
+   "confidence": "medium",
+   "note": "Camedia C-5050 Zoom"
+  },
+  {
+   "make": "Olympus",
+   "model": "C5060WZ",
+   "announced": "2003",
+   "category": "compact",
+   "confidence": "low",
+   "note": "Camedia C-5060 Wide Zoom"
+  },
+  {
+   "make": "Olympus",
+   "model": "C7070WZ",
+   "announced": "2005",
+   "category": "compact",
+   "confidence": "medium",
+   "note": "Camedia C-7070 Wide Zoom"
+  },
+  {
+   "make": "Olympus",
+   "model": "C8080WZ",
+   "announced": "2004-02",
+   "category": "compact",
+   "confidence": "medium",
+   "note": "Camedia C-8080 Wide Zoom"
+  },
+  {
+   "make": "Olympus",
+   "model": "E-1",
+   "announced": "2003-06",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Four Thirds DSLR"
+  },
+  {
+   "make": "Olympus",
+   "model": "E-10",
+   "announced": "2000-08",
+   "category": "compact",
+   "confidence": "medium",
+   "note": "fixed-lens SLR"
+  },
+  {
+   "make": "Olympus",
+   "model": "E-20",
+   "announced": "2001-09",
+   "category": "compact",
+   "confidence": "medium",
+   "note": "fixed-lens SLR"
+  },
+  {
+   "make": "Olympus",
+   "model": "E-3",
+   "announced": "2007-10",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Olympus",
+   "model": "E-30",
+   "announced": "2008-11",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Olympus",
+   "model": "E-300",
+   "announced": "2004-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Olympus",
+   "model": "E-330",
+   "announced": "2006-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Olympus",
+   "model": "E-400",
+   "announced": "2006-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Olympus",
+   "model": "E-410",
+   "announced": "2007-03",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Olympus",
+   "model": "E-420",
+   "announced": "2008-03",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Olympus",
+   "model": "E-450",
+   "announced": "2009-03",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Olympus",
+   "model": "E-5",
+   "announced": "2010-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Olympus",
+   "model": "E-500",
+   "announced": "2005-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Olympus",
+   "model": "E-510",
+   "announced": "2007-03",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Olympus",
+   "model": "E-520",
+   "announced": "2008-05",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Olympus",
+   "model": "E-600",
+   "announced": "2009-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Olympus",
+   "model": "E-620",
+   "announced": "2009-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Olympus",
+   "model": "E-M1",
+   "announced": "2013-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "OM-D E-M1"
+  },
+  {
+   "make": "Olympus",
+   "model": "E-M10",
+   "announced": "2014-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "OM-D E-M10"
+  },
+  {
+   "make": "Olympus",
+   "model": "E-M10 Mark II",
+   "announced": "2015-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Olympus",
+   "model": "E-M10 Mark III",
+   "announced": "2017-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Olympus",
+   "model": "E-M10 Mark IIIs",
+   "announced": "2020",
+   "category": "interchangeable",
+   "confidence": "low",
+   "note": "regional E-M10 III variant"
+  },
+  {
+   "make": "Olympus",
+   "model": "E-M10 Mark IV",
+   "announced": "2020-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Olympus",
+   "model": "E-M1MarkII",
+   "announced": "2016-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "OM-D E-M1 Mark II; full launch 2016-11"
+  },
+  {
+   "make": "Olympus",
+   "model": "E-M1MarkIII",
+   "announced": "2020-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "OM-D E-M1 Mark III"
+  },
+  {
+   "make": "Olympus",
+   "model": "E-M1X",
+   "announced": "2019-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "OM-D E-M1X"
+  },
+  {
+   "make": "Olympus",
+   "model": "E-M5",
+   "announced": "2012-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "OM-D E-M5"
+  },
+  {
+   "make": "Olympus",
+   "model": "E-M5 Mark II",
+   "announced": "2015-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Olympus",
+   "model": "E-M5 Mark III",
+   "announced": "2019-10",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Olympus",
+   "model": "E-P1",
+   "announced": "2009-06",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "PEN E-P1"
+  },
+  {
+   "make": "Olympus",
+   "model": "E-P2",
+   "announced": "2009-11",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Olympus",
+   "model": "E-P3",
+   "announced": "2011-06",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Olympus",
+   "model": "E-P5",
+   "announced": "2013-05",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Olympus",
+   "model": "E-P7",
+   "announced": "2021-06",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Olympus",
+   "model": "E-PL1",
+   "announced": "2010-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Olympus",
+   "model": "E-PL10",
+   "announced": "2019-10",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Olympus",
+   "model": "E-PL2",
+   "announced": "2011-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Olympus",
+   "model": "E-PL3",
+   "announced": "2011-06",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Olympus",
+   "model": "E-PL5",
+   "announced": "2012-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Olympus",
+   "model": "E-PL6",
+   "announced": "2013-05",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Olympus",
+   "model": "E-PL7",
+   "announced": "2014-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Olympus",
+   "model": "E-PL8",
+   "announced": "2016-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Olympus",
+   "model": "E-PL9",
+   "announced": "2018-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Olympus",
+   "model": "E-PM1",
+   "announced": "2011-06",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Olympus",
+   "model": "E-PM2",
+   "announced": "2012-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Olympus",
+   "model": "PEN-F",
+   "announced": "2016-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Olympus",
+   "model": "SH-2",
+   "announced": "2015",
+   "category": "compact",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Olympus",
+   "model": "SP350",
+   "announced": "2005-08",
+   "category": "compact",
+   "confidence": "medium",
+   "note": "SP-350"
+  },
+  {
+   "make": "Olympus",
+   "model": "SP500UZ",
+   "announced": "2005-08",
+   "category": "compact",
+   "confidence": "medium",
+   "note": "SP-500 UZ"
+  },
+  {
+   "make": "Olympus",
+   "model": "SP510UZ",
+   "announced": "2006-08",
+   "category": "compact",
+   "confidence": "medium",
+   "note": "SP-510 UZ"
+  },
+  {
+   "make": "Olympus",
+   "model": "SP550UZ",
+   "announced": "2007-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": "SP-550 UZ"
+  },
+  {
+   "make": "Olympus",
+   "model": "SP565UZ",
+   "announced": "2008-08",
+   "category": "compact",
+   "confidence": "medium",
+   "note": "SP-565 UZ"
+  },
+  {
+   "make": "Olympus",
+   "model": "SP570UZ",
+   "announced": "2008-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": "SP-570 UZ"
+  },
+  {
+   "make": "Olympus",
+   "model": "Stylus1",
+   "announced": "2013-10",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Stylus 1"
+  },
+  {
+   "make": "Olympus",
+   "model": "STYLUS1,1s",
+   "announced": "2013-10",
+   "category": "compact",
+   "confidence": "medium",
+   "note": "Stylus 1 / Stylus 1s (1s: 2014-11); date is Stylus 1"
+  },
+  {
+   "make": "Olympus",
+   "model": "TG-4",
+   "announced": "2015-04",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Olympus",
+   "model": "TG-5",
+   "announced": "2017-05",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Olympus",
+   "model": "TG-6",
+   "announced": "2019-05",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Olympus",
+   "model": "XZ-1",
+   "announced": "2011-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Olympus",
+   "model": "XZ-10",
+   "announced": "2013-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Olympus",
+   "model": "XZ-2",
+   "announced": "2012-09",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "OM System",
+   "model": "OM-1",
+   "announced": "2022-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "OM System",
+   "model": "OM-1 Mark II",
+   "announced": "2024-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "OM System",
+   "model": "OM-3",
+   "announced": "2025-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "OM System",
+   "model": "OM-5",
+   "announced": "2022-10",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "OM System",
+   "model": "OM-5 Mark II",
+   "announced": "2025-06",
+   "category": "interchangeable",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "OM System",
+   "model": "TG-7",
+   "announced": "2023-09",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "OnePlus",
+   "model": "One",
+   "announced": "2014-04",
+   "category": "phone",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "OnePlus",
+   "model": "ONEPLUS A3003",
+   "announced": "2016-06",
+   "category": "phone",
+   "confidence": "high",
+   "note": "OnePlus 3"
+  },
+  {
+   "make": "OnePlus",
+   "model": "ONEPLUS A5000",
+   "announced": "2017-06",
+   "category": "phone",
+   "confidence": "high",
+   "note": "OnePlus 5"
+  },
+  {
+   "make": "OnePlus",
+   "model": "ONEPLUS A6003",
+   "announced": "2018-05",
+   "category": "phone",
+   "confidence": "high",
+   "note": "OnePlus 6"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-FZ10002",
+   "announced": "2019-02",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix FZ1000 II"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-FZ45",
+   "announced": null,
+   "category": "compact",
+   "confidence": "low",
+   "note": "unidentified DC- code; no known DC-FZ45 (DMC-FZ45 is 2010)"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-FZ80",
+   "announced": "2017-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix FZ80 = FZ82 = FZ85"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-FZ82",
+   "announced": "2017-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix FZ82 = FZ80"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-G100",
+   "announced": "2020-06",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix G100"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-G100D",
+   "announced": "2024-01",
+   "category": "interchangeable",
+   "confidence": "medium",
+   "note": "Lumix G100D refresh of G100"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-G110",
+   "announced": "2020-06",
+   "category": "interchangeable",
+   "confidence": "medium",
+   "note": "Lumix G110, regional variant of G100"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-G9",
+   "announced": "2017-11",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix G9"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-G90",
+   "announced": "2019-04",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix G90 = G95 = G91"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-G91",
+   "announced": "2019-04",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix G91 = G90/G95"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-G95",
+   "announced": "2019-04",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix G95 = G90"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-G95D",
+   "announced": "2023",
+   "category": "interchangeable",
+   "confidence": "low",
+   "note": "Lumix G95D refresh of G95"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-G97",
+   "announced": "2024-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix G97"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-G9M2",
+   "announced": "2023-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix G9 II"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-GF10",
+   "announced": "2018-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix GF10 = GX880"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-GH5",
+   "announced": "2017-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix GH5; development announced 2016-09"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-GH5M2",
+   "announced": "2021-05",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix GH5 II"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-GH5S",
+   "announced": "2018-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix GH5S"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-GH6",
+   "announced": "2022-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix GH6"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-GH7",
+   "announced": "2024-06",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix GH7"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-GX7MK3",
+   "announced": "2018-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix GX7 III = GX9"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-GX800",
+   "announced": "2017-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix GX800 = GF9 = GX850"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-GX850",
+   "announced": "2017-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix GX850 = GF9 = GX800"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-GX880",
+   "announced": "2018-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix GX880 = GF10"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-GX9",
+   "announced": "2018-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix GX9"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-LX100M2",
+   "announced": "2018-08",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix LX100 II"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-S1",
+   "announced": "2019-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix S1; development announced 2018-09"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-S1H",
+   "announced": "2019-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix S1H"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-S1M2",
+   "announced": "2025-05",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix S1 II"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-S1M2ES",
+   "announced": "2025-05",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix S1 IIE"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-S1R",
+   "announced": "2019-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix S1R; development announced 2018-09"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-S1RM2",
+   "announced": "2025-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix S1R II"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-S5",
+   "announced": "2020-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix S5"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-S5M2",
+   "announced": "2023-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix S5 II"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-S5M2X",
+   "announced": "2023-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix S5 IIX"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-S9",
+   "announced": "2024-05",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix S9"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-TZ200",
+   "announced": "2018-02",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix TZ200 = ZS200"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-TZ200D",
+   "announced": "2023",
+   "category": "compact",
+   "confidence": "low",
+   "note": "Lumix TZ200D refresh of TZ200"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-TZ202",
+   "announced": "2018-02",
+   "category": "compact",
+   "confidence": "medium",
+   "note": "Lumix TZ202, regional TZ200"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-TZ90",
+   "announced": "2017-04",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix TZ90 = ZS70"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-TZ91",
+   "announced": "2017-04",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix TZ91 = TZ90/ZS70"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-TZ95",
+   "announced": "2019-02",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix TZ95 = ZS80"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-TZ95D",
+   "announced": "2023",
+   "category": "compact",
+   "confidence": "low",
+   "note": "Lumix TZ95D refresh of TZ95"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-TZ96",
+   "announced": "2019-02",
+   "category": "compact",
+   "confidence": "medium",
+   "note": "Lumix TZ96, regional TZ95/ZS80"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DC-ZS200D",
+   "announced": "2023",
+   "category": "compact",
+   "confidence": "low",
+   "note": "Lumix ZS200D = TZ200D refresh"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-CM1",
+   "announced": "2014-09",
+   "category": "phone",
+   "confidence": "high",
+   "note": "Lumix CM1 Android smartphone-camera with 1-inch sensor"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-FX150",
+   "announced": "2008-07",
+   "category": "compact",
+   "confidence": "medium",
+   "note": "Lumix FX150"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-FZ100",
+   "announced": "2010-07",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix FZ100"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-FZ1000",
+   "announced": "2014-06",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix FZ1000"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-FZ150",
+   "announced": "2011-08",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix FZ150"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-FZ18",
+   "announced": "2007-06",
+   "category": "compact",
+   "confidence": "medium",
+   "note": "Lumix FZ18"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-FZ200",
+   "announced": "2012-07",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix FZ200"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-FZ2000",
+   "announced": "2016-09",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix FZ2000 = FZ2500"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-FZ2500",
+   "announced": "2016-09",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix FZ2500 = FZ2000"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-FZ28",
+   "announced": "2008-07",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix FZ28"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-FZ30",
+   "announced": "2005-07",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix FZ30"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-FZ300",
+   "announced": "2015-07",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix FZ300 = FZ330"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-FZ330",
+   "announced": "2015-07",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix FZ330 = FZ300"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-FZ35",
+   "announced": "2009-07",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix FZ35 = FZ38"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-FZ38",
+   "announced": "2009-07",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix FZ38 = FZ35"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-FZ45",
+   "announced": "2010-07",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix FZ45 = FZ40"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-FZ50",
+   "announced": "2006-07",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix FZ50"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-FZ70",
+   "announced": "2013-07",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix FZ70 = FZ72"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-FZ72",
+   "announced": "2013-07",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix FZ72 = FZ70"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-FZ8",
+   "announced": "2007-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix FZ8"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-G1",
+   "announced": "2008-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix G1"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-G10",
+   "announced": "2010-03",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix G10"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-G2",
+   "announced": "2010-03",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix G2"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-G3",
+   "announced": "2011-05",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix G3"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-G5",
+   "announced": "2012-07",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix G5"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-G6",
+   "announced": "2013-04",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix G6"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-G7",
+   "announced": "2015-05",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix G7 = G70"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-G70",
+   "announced": "2015-05",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix G70 = G7"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-G80",
+   "announced": "2016-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix G80 = G85 = G81"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-G81",
+   "announced": "2016-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix G81 = G80/G85"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-G85",
+   "announced": "2016-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix G85 = G80"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-GF1",
+   "announced": "2009-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix GF1"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-GF2",
+   "announced": "2010-11",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix GF2"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-GF3",
+   "announced": "2011-06",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix GF3"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-GF5",
+   "announced": "2012-04",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix GF5"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-GF6",
+   "announced": "2013-04",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix GF6"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-GF7",
+   "announced": "2015-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix GF7"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-GF8",
+   "announced": "2016-02",
+   "category": "interchangeable",
+   "confidence": "medium",
+   "note": "Lumix GF8"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-GH1",
+   "announced": "2009-03",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix GH1"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-GH2",
+   "announced": "2010-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix GH2"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-GH3",
+   "announced": "2012-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix GH3"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-GH4",
+   "announced": "2014-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix GH4"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-GM1",
+   "announced": "2013-10",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix GM1"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-GM1S",
+   "announced": "2014",
+   "category": "interchangeable",
+   "confidence": "low",
+   "note": "Lumix GM1S, regional GM1 variant"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-GM5",
+   "announced": "2014-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix GM5"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-GX1",
+   "announced": "2011-11",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix GX1"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-GX7",
+   "announced": "2013-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix GX7"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-GX7MK2",
+   "announced": "2016-04",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix GX7 II = GX80 = GX85"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-GX8",
+   "announced": "2015-07",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix GX8"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-GX80",
+   "announced": "2016-04",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix GX80 = GX85"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-GX85",
+   "announced": "2016-04",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix GX85 = GX80"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-L1",
+   "announced": "2006-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix L1 Four Thirds DSLR"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-L10",
+   "announced": "2007-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Lumix L10 Four Thirds DSLR"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-LF1",
+   "announced": "2013-04",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix LF1"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-LX1",
+   "announced": "2005-07",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix LX1"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-LX10",
+   "announced": "2016-09",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix LX10 = LX15"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-LX100",
+   "announced": "2014-09",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix LX100"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-LX15",
+   "announced": "2016-09",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix LX15 = LX10"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-LX2",
+   "announced": "2006-07",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix LX2"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-LX3",
+   "announced": "2008-07",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix LX3"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-LX5",
+   "announced": "2010-07",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix LX5"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-LX7",
+   "announced": "2012-07",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix LX7"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-TX1",
+   "announced": "2016-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix TX1 = ZS100 = TZ100"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-TZ100",
+   "announced": "2016-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix TZ100 = ZS100"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-TZ101",
+   "announced": "2016-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix TZ101 = TZ100"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-TZ110",
+   "announced": "2016",
+   "category": "compact",
+   "confidence": "medium",
+   "note": "Lumix TZ110 = ZS110, TZ100 variant"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-TZ60",
+   "announced": "2014-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix TZ60 = ZS40"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-TZ61",
+   "announced": "2014-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix TZ61 = TZ60/ZS40"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-TZ70",
+   "announced": "2015-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix TZ70 = ZS50"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-TZ71",
+   "announced": "2015-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix TZ71 = TZ70/ZS50"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-TZ80",
+   "announced": "2016-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix TZ80 = ZS60"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-TZ81",
+   "announced": "2016-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix TZ81 = TZ80/ZS60"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-ZS100",
+   "announced": "2016-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix ZS100 = TZ100"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-ZS40",
+   "announced": "2014-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix ZS40 = TZ60"
+  },
+  {
+   "make": "Panasonic",
+   "model": "DMC-ZS60",
+   "announced": "2016-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": "Lumix ZS60 = TZ80"
+  },
+  {
+   "make": "Paralenz",
+   "model": "+",
+   "announced": "2019",
+   "category": "action",
+   "confidence": "low",
+   "note": "Paralenz Dive Camera+"
+  },
+  {
+   "make": "Paralenz",
+   "model": "Dive Camera",
+   "announced": "2017",
+   "category": "action",
+   "confidence": "low",
+   "note": ""
+  },
+  {
+   "make": "PARROT",
+   "model": "Anafi",
+   "announced": "2018-06",
+   "category": "drone",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "PARROT",
+   "model": "Bebop 2",
+   "announced": "2015-09",
+   "category": "drone",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "PARROT",
+   "model": "Bebop Drone",
+   "announced": "2014-05",
+   "category": "drone",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Pentax",
+   "model": "*ist D",
+   "announced": "2003",
+   "category": "interchangeable",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Pentax",
+   "model": "*ist DL",
+   "announced": "2005-06",
+   "category": "interchangeable",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Pentax",
+   "model": "*ist DL2",
+   "announced": "2006-01",
+   "category": "interchangeable",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Pentax",
+   "model": "*ist DS",
+   "announced": "2004-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Pentax",
+   "model": "645D",
+   "announced": "2010-03",
+   "category": "medium-format",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Pentax",
+   "model": "645Z",
+   "announced": "2014-04",
+   "category": "medium-format",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Pentax",
+   "model": "K-01",
+   "announced": "2012-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Pentax",
+   "model": "K-1",
+   "announced": "2016-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Pentax",
+   "model": "K-1 Mark II",
+   "announced": "2018-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Pentax",
+   "model": "K-3",
+   "announced": "2013-10",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Pentax",
+   "model": "K-3 II",
+   "announced": "2015-04",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Pentax",
+   "model": "K-3 Mark III",
+   "announced": "2021-03",
+   "category": "interchangeable",
+   "confidence": "medium",
+   "note": "formal announcement 2021-03; development teased from 2019"
+  },
+  {
+   "make": "Pentax",
+   "model": "K-3 Mark III Monochrome",
+   "announced": "2023-03",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Pentax",
+   "model": "K-30",
+   "announced": "2012-05",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Pentax",
+   "model": "K-5",
+   "announced": "2010-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Pentax",
+   "model": "K-5 II",
+   "announced": "2012-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Pentax",
+   "model": "K-5 II s",
+   "announced": "2012-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Pentax",
+   "model": "K-50",
+   "announced": "2013-06",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Pentax",
+   "model": "K-500",
+   "announced": "2013-06",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Pentax",
+   "model": "K-7",
+   "announced": "2009-05",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Pentax",
+   "model": "K-70",
+   "announced": "2016-06",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Pentax",
+   "model": "K-m",
+   "announced": "2008-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "K-m = K2000"
+  },
+  {
+   "make": "Pentax",
+   "model": "K-r",
+   "announced": "2010-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Pentax",
+   "model": "K-S1",
+   "announced": "2014-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Pentax",
+   "model": "K-S2",
+   "announced": "2015-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Pentax",
+   "model": "K-x",
+   "announced": "2009-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Pentax",
+   "model": "K100D",
+   "announced": "2006-05",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Pentax",
+   "model": "K100D Super",
+   "announced": "2007-04",
+   "category": "interchangeable",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Pentax",
+   "model": "K10D",
+   "announced": "2006-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Pentax",
+   "model": "K110D",
+   "announced": "2006-05",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Pentax",
+   "model": "K2000",
+   "announced": "2008-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "K2000 = K-m"
+  },
+  {
+   "make": "Pentax",
+   "model": "K200D",
+   "announced": "2008-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Pentax",
+   "model": "K20D",
+   "announced": "2008-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Pentax",
+   "model": "KF",
+   "announced": "2022-10",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Pentax",
+   "model": "KP",
+   "announced": "2017-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Pentax",
+   "model": "MX-1",
+   "announced": "2013-01",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Pentax",
+   "model": "Pentax Optio S4",
+   "announced": "2004",
+   "category": "compact",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Pentax",
+   "model": "Q",
+   "announced": "2011-06",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Pentax",
+   "model": "Q7",
+   "announced": "2013-06",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Phase One",
+   "model": "H 25",
+   "announced": "2002",
+   "category": "medium-format",
+   "confidence": "low",
+   "note": ""
+  },
+  {
+   "make": "Phase One",
+   "model": "IQ140",
+   "announced": "2012",
+   "category": "medium-format",
+   "confidence": "low",
+   "note": ""
+  },
+  {
+   "make": "Phase One",
+   "model": "IQ150",
+   "announced": "2014-01",
+   "category": "medium-format",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Phase One",
+   "model": "IQ180",
+   "announced": "2011-01",
+   "category": "medium-format",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Phase One",
+   "model": "IQ3 100MP",
+   "announced": "2016-01",
+   "category": "medium-format",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Phase One",
+   "model": "IQ3 100MP Trichr",
+   "announced": "2017",
+   "category": "medium-format",
+   "confidence": "medium",
+   "note": "IQ3 100MP Trichromatic"
+  },
+  {
+   "make": "Phase One",
+   "model": "IQ4 150MP",
+   "announced": "2018-08",
+   "category": "medium-format",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Phase One",
+   "model": "iXM-100",
+   "announced": "2017",
+   "category": "medium-format",
+   "confidence": "low",
+   "note": "aerial/industrial camera"
+  },
+  {
+   "make": "Phase One",
+   "model": "iXM-RS150F",
+   "announced": "2018",
+   "category": "medium-format",
+   "confidence": "low",
+   "note": "aerial/industrial camera"
+  },
+  {
+   "make": "Phase One",
+   "model": "iXU-RS1000 NIR",
+   "announced": "2016",
+   "category": "medium-format",
+   "confidence": "low",
+   "note": "aerial/industrial camera"
+  },
+  {
+   "make": "Phase One",
+   "model": "iXU180",
+   "announced": "2014",
+   "category": "medium-format",
+   "confidence": "low",
+   "note": "aerial/industrial camera"
+  },
+  {
+   "make": "Phase One",
+   "model": "P20+",
+   "announced": "2006",
+   "category": "medium-format",
+   "confidence": "low",
+   "note": ""
+  },
+  {
+   "make": "Phase One",
+   "model": "P25",
+   "announced": "2004",
+   "category": "medium-format",
+   "confidence": "low",
+   "note": ""
+  },
+  {
+   "make": "Phase One",
+   "model": "P25+",
+   "announced": "2006",
+   "category": "medium-format",
+   "confidence": "low",
+   "note": ""
+  },
+  {
+   "make": "Phase One",
+   "model": "P30",
+   "announced": "2005",
+   "category": "medium-format",
+   "confidence": "low",
+   "note": ""
+  },
+  {
+   "make": "Phase One",
+   "model": "P40+",
+   "announced": "2009",
+   "category": "medium-format",
+   "confidence": "low",
+   "note": ""
+  },
+  {
+   "make": "Phase One",
+   "model": "P45",
+   "announced": "2006",
+   "category": "medium-format",
+   "confidence": "low",
+   "note": ""
+  },
+  {
+   "make": "Phase One",
+   "model": "P45+",
+   "announced": "2007",
+   "category": "medium-format",
+   "confidence": "low",
+   "note": ""
+  },
+  {
+   "make": "Phase One",
+   "model": "P65+",
+   "announced": "2008",
+   "category": "medium-format",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Phase One A/S",
+   "model": "IQ250",
+   "announced": "2014-05",
+   "category": "medium-format",
+   "confidence": "medium",
+   "note": "digital back"
+  },
+  {
+   "make": "Plustek",
+   "model": "OpticFilm 8100",
+   "announced": "2012",
+   "category": "other",
+   "confidence": "low",
+   "note": "film scanner"
+  },
+  {
+   "make": "Plustek",
+   "model": "OpticFilm 8200i SE",
+   "announced": "2012",
+   "category": "other",
+   "confidence": "low",
+   "note": "film scanner"
+  },
+  {
+   "make": "Polaroid",
+   "model": "Polaroid x530",
+   "announced": "2005",
+   "category": "compact",
+   "confidence": "medium",
+   "note": "Foveon compact"
+  },
+  {
+   "make": "RaspberryPi",
+   "model": "RP_imx219",
+   "announced": "2016-04",
+   "category": "other",
+   "confidence": "high",
+   "note": "Camera Module v2"
+  },
+  {
+   "make": "RaspberryPi",
+   "model": "RP_imx477",
+   "announced": "2020-04",
+   "category": "other",
+   "confidence": "high",
+   "note": "HQ Camera"
+  },
+  {
+   "make": "RaspberryPi",
+   "model": "RP_ov5647",
+   "announced": "2013-05",
+   "category": "other",
+   "confidence": "high",
+   "note": "Camera Module v1"
+  },
+  {
+   "make": "Realme",
+   "model": "RMX1851",
+   "announced": "2019-04",
+   "category": "phone",
+   "confidence": "high",
+   "note": "Realme 3 Pro"
+  },
+  {
+   "make": "Ricoh",
+   "model": "GR",
+   "announced": "2013-04",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Ricoh",
+   "model": "GR DIGITAL 2",
+   "announced": "2007-10",
+   "category": "compact",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Ricoh",
+   "model": "GR II",
+   "announced": "2015-06",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Ricoh",
+   "model": "GR III",
+   "announced": "2018-09",
+   "category": "compact",
+   "confidence": "high",
+   "note": "development shown 2018-09; launched 2019-02"
+  },
+  {
+   "make": "Ricoh",
+   "model": "GR IIIx",
+   "announced": "2021-09",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Ricoh",
+   "model": "GX200",
+   "announced": "2008-05",
+   "category": "compact",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Ricoh",
+   "model": "GXR",
+   "announced": "2009-11",
+   "category": "compact",
+   "confidence": "high",
+   "note": "interchangeable camera-unit system"
+  },
+  {
+   "make": "Samsung",
+   "model": "EK-GN120",
+   "announced": "2013-06",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "EK-GN120 = Galaxy NX"
+  },
+  {
+   "make": "Samsung",
+   "model": "EX1",
+   "announced": "2010-02",
+   "category": "compact",
+   "confidence": "medium",
+   "note": "EX1 = TL500"
+  },
+  {
+   "make": "Samsung",
+   "model": "EX2F",
+   "announced": "2012-07",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Samsung",
+   "model": "G920F",
+   "announced": "2015-03",
+   "category": "phone",
+   "confidence": "high",
+   "note": "SM-G920F = Galaxy S6"
+  },
+  {
+   "make": "Samsung",
+   "model": "G935F",
+   "announced": "2016-02",
+   "category": "phone",
+   "confidence": "high",
+   "note": "SM-G935F = Galaxy S7 edge"
+  },
+  {
+   "make": "Samsung",
+   "model": "Galaxy S21 Ultra",
+   "announced": "2021-01",
+   "category": "phone",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Samsung",
+   "model": "Galaxy S22 Ulra",
+   "announced": "2022-02",
+   "category": "phone",
+   "confidence": "high",
+   "note": "typo of Galaxy S22 Ultra"
+  },
+  {
+   "make": "Samsung",
+   "model": "Galaxy S22 Ultra",
+   "announced": "2022-02",
+   "category": "phone",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Samsung",
+   "model": "Galaxy S23",
+   "announced": "2023-02",
+   "category": "phone",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Samsung",
+   "model": "Galaxy S23 Ultra",
+   "announced": "2023-02",
+   "category": "phone",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Samsung",
+   "model": "Galaxy S23+",
+   "announced": "2023-02",
+   "category": "phone",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Samsung",
+   "model": "GX-1L",
+   "announced": "2005",
+   "category": "interchangeable",
+   "confidence": "medium",
+   "note": "rebadged Pentax *ist DL"
+  },
+  {
+   "make": "Samsung",
+   "model": "GX10",
+   "announced": "2006-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "rebadged Pentax K10D"
+  },
+  {
+   "make": "Samsung",
+   "model": "GX20",
+   "announced": "2008-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "rebadged Pentax K20D"
+  },
+  {
+   "make": "Samsung",
+   "model": "NX mini",
+   "announced": "2014-03",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Samsung",
+   "model": "NX1",
+   "announced": "2014-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Samsung",
+   "model": "NX10",
+   "announced": "2010-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Samsung",
+   "model": "NX100",
+   "announced": "2010-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Samsung",
+   "model": "NX1000",
+   "announced": "2012-04",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Samsung",
+   "model": "NX11",
+   "announced": "2010-12",
+   "category": "interchangeable",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Samsung",
+   "model": "NX1100",
+   "announced": "2013-04",
+   "category": "interchangeable",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Samsung",
+   "model": "NX20",
+   "announced": "2012-04",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Samsung",
+   "model": "NX200",
+   "announced": "2011-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Samsung",
+   "model": "NX2000",
+   "announced": "2013-05",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Samsung",
+   "model": "NX210",
+   "announced": "2012-04",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Samsung",
+   "model": "NX30",
+   "announced": "2014-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Samsung",
+   "model": "NX300",
+   "announced": "2013-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Samsung",
+   "model": "NX3000",
+   "announced": "2014-05",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Samsung",
+   "model": "NX300M",
+   "announced": "2013-09",
+   "category": "interchangeable",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Samsung",
+   "model": "NX3300",
+   "announced": "2015",
+   "category": "interchangeable",
+   "confidence": "low",
+   "note": ""
+  },
+  {
+   "make": "Samsung",
+   "model": "NX5",
+   "announced": "2010-05",
+   "category": "interchangeable",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Samsung",
+   "model": "NX500",
+   "announced": "2015-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Samsung",
+   "model": "SAMSUNG-SM-G930A",
+   "announced": "2016-02",
+   "category": "phone",
+   "confidence": "high",
+   "note": "SM-G930A = Galaxy S7"
+  },
+  {
+   "make": "Samsung",
+   "model": "SM-G930F",
+   "announced": "2016-02",
+   "category": "phone",
+   "confidence": "high",
+   "note": "SM-G930F = Galaxy S7"
+  },
+  {
+   "make": "Samsung",
+   "model": "SM-G930T",
+   "announced": "2016-02",
+   "category": "phone",
+   "confidence": "high",
+   "note": "SM-G930T = Galaxy S7"
+  },
+  {
+   "make": "Samsung",
+   "model": "SM-G950F",
+   "announced": "2017-03",
+   "category": "phone",
+   "confidence": "high",
+   "note": "SM-G950F = Galaxy S8"
+  },
+  {
+   "make": "Samsung",
+   "model": "SM-G950U",
+   "announced": "2017-03",
+   "category": "phone",
+   "confidence": "high",
+   "note": "SM-G950U = Galaxy S8"
+  },
+  {
+   "make": "Samsung",
+   "model": "SM-G955F",
+   "announced": "2017-03",
+   "category": "phone",
+   "confidence": "high",
+   "note": "SM-G955F = Galaxy S8+"
+  },
+  {
+   "make": "Samsung",
+   "model": "SM-G960F",
+   "announced": "2018-02",
+   "category": "phone",
+   "confidence": "high",
+   "note": "SM-G960F = Galaxy S9"
+  },
+  {
+   "make": "Samsung",
+   "model": "SM-G965F",
+   "announced": "2018-02",
+   "category": "phone",
+   "confidence": "high",
+   "note": "SM-G965F = Galaxy S9+"
+  },
+  {
+   "make": "Samsung",
+   "model": "SM-G973F",
+   "announced": "2019-02",
+   "category": "phone",
+   "confidence": "high",
+   "note": "SM-G973F = Galaxy S10"
+  },
+  {
+   "make": "Samsung",
+   "model": "SM-G973U",
+   "announced": "2019-02",
+   "category": "phone",
+   "confidence": "high",
+   "note": "SM-G973U = Galaxy S10"
+  },
+  {
+   "make": "Samsung",
+   "model": "SM-S901E",
+   "announced": "2022-02",
+   "category": "phone",
+   "confidence": "high",
+   "note": "SM-S901E = Galaxy S22"
+  },
+  {
+   "make": "Samsung",
+   "model": "WB2000",
+   "announced": "2010",
+   "category": "compact",
+   "confidence": "medium",
+   "note": "WB2000 = TL350"
+  },
+  {
+   "make": "Sigma",
+   "model": "DP0 Quattro",
+   "announced": "2015-02",
+   "category": "compact",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Sigma",
+   "model": "DP1",
+   "announced": "2006-09",
+   "category": "compact",
+   "confidence": "medium",
+   "note": "shipped 2008"
+  },
+  {
+   "make": "Sigma",
+   "model": "DP1 Merrill",
+   "announced": "2012",
+   "category": "compact",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Sigma",
+   "model": "DP3 Merrill",
+   "announced": "2013-01",
+   "category": "compact",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Sigma",
+   "model": "fp",
+   "announced": "2019-07",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Sigma",
+   "model": "fp L",
+   "announced": "2021-03",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Sigma",
+   "model": "sd Quattro",
+   "announced": "2016-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Sigma",
+   "model": "sd Quattro H",
+   "announced": "2016-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Sigma",
+   "model": "Sigma DP1s",
+   "announced": "2009",
+   "category": "compact",
+   "confidence": "low",
+   "note": ""
+  },
+  {
+   "make": "Sigma",
+   "model": "SIGMA DP2 Merrill",
+   "announced": "2012",
+   "category": "compact",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Sigma",
+   "model": "SIGMA dp2 Quattro",
+   "announced": "2014-02",
+   "category": "compact",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Sigma",
+   "model": "SIGMA SD1 Merrill",
+   "announced": "2012-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Sigma",
+   "model": "Sigma SD10",
+   "announced": "2003-09",
+   "category": "interchangeable",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Sigma",
+   "model": "SIGMA SD14",
+   "announced": "2006-09",
+   "category": "interchangeable",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Sigma",
+   "model": "SIGMA SD15",
+   "announced": "2008-09",
+   "category": "interchangeable",
+   "confidence": "medium",
+   "note": "shipped 2010"
+  },
+  {
+   "make": "Sigma",
+   "model": "Sigma SD9",
+   "announced": "2002-02",
+   "category": "interchangeable",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "Sinarback",
+   "model": "Sinarback eVolution 75, Sinar p3 / f3",
+   "announced": "2005",
+   "category": "medium-format",
+   "confidence": "low",
+   "note": ""
+  },
+  {
+   "make": "SJCAM",
+   "model": "5000X Elite",
+   "announced": "2016",
+   "category": "action",
+   "confidence": "low",
+   "note": ""
+  },
+  {
+   "make": "SJCAM",
+   "model": "M20",
+   "announced": "2016",
+   "category": "action",
+   "confidence": "low",
+   "note": ""
+  },
+  {
+   "make": "SJCAM",
+   "model": "SJ6 LEGEND",
+   "announced": "2017",
+   "category": "action",
+   "confidence": "low",
+   "note": ""
+  },
+  {
+   "make": "Sony",
+   "model": "DSC-F828",
+   "announced": "2003-08",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Sony",
+   "model": "DSC-HX95",
+   "announced": "2018-08",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Sony",
+   "model": "DSC-HX99",
+   "announced": "2018-08",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Sony",
+   "model": "DSC-R1",
+   "announced": "2005-09",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Sony",
+   "model": "DSC-RX0",
+   "announced": "2017-08",
+   "category": "compact",
+   "confidence": "high",
+   "note": "rugged 1-inch mini camera"
+  },
+  {
+   "make": "Sony",
+   "model": "DSC-RX0M2",
+   "announced": "2019-03",
+   "category": "compact",
+   "confidence": "high",
+   "note": "RX0 II"
+  },
+  {
+   "make": "Sony",
+   "model": "DSC-RX1",
+   "announced": "2012-09",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Sony",
+   "model": "DSC-RX10",
+   "announced": "2013-10",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Sony",
+   "model": "DSC-RX100",
+   "announced": "2012-06",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Sony",
+   "model": "DSC-RX100M2",
+   "announced": "2013-06",
+   "category": "compact",
+   "confidence": "high",
+   "note": "RX100 II"
+  },
+  {
+   "make": "Sony",
+   "model": "DSC-RX100M3",
+   "announced": "2014-05",
+   "category": "compact",
+   "confidence": "high",
+   "note": "RX100 III"
+  },
+  {
+   "make": "Sony",
+   "model": "DSC-RX100M4",
+   "announced": "2015-06",
+   "category": "compact",
+   "confidence": "high",
+   "note": "RX100 IV"
+  },
+  {
+   "make": "Sony",
+   "model": "DSC-RX100M5",
+   "announced": "2016-10",
+   "category": "compact",
+   "confidence": "high",
+   "note": "RX100 V"
+  },
+  {
+   "make": "Sony",
+   "model": "DSC-RX100M5A",
+   "announced": "2018-07",
+   "category": "compact",
+   "confidence": "high",
+   "note": "RX100 VA"
+  },
+  {
+   "make": "Sony",
+   "model": "DSC-RX100M6",
+   "announced": "2018-06",
+   "category": "compact",
+   "confidence": "high",
+   "note": "RX100 VI"
+  },
+  {
+   "make": "Sony",
+   "model": "DSC-RX100M7",
+   "announced": "2019-07",
+   "category": "compact",
+   "confidence": "high",
+   "note": "RX100 VII"
+  },
+  {
+   "make": "Sony",
+   "model": "DSC-RX100M7A",
+   "announced": "2025-03",
+   "category": "compact",
+   "confidence": "low",
+   "note": "RX100 VII variant (USB charging change), quietly released ~early 2025"
+  },
+  {
+   "make": "Sony",
+   "model": "DSC-RX10M2",
+   "announced": "2015-06",
+   "category": "compact",
+   "confidence": "high",
+   "note": "RX10 II"
+  },
+  {
+   "make": "Sony",
+   "model": "DSC-RX10M3",
+   "announced": "2016-03",
+   "category": "compact",
+   "confidence": "high",
+   "note": "RX10 III"
+  },
+  {
+   "make": "Sony",
+   "model": "DSC-RX10M4",
+   "announced": "2017-09",
+   "category": "compact",
+   "confidence": "high",
+   "note": "RX10 IV"
+  },
+  {
+   "make": "Sony",
+   "model": "DSC-RX1R",
+   "announced": "2013-06",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Sony",
+   "model": "DSC-RX1RM2",
+   "announced": "2015-10",
+   "category": "compact",
+   "confidence": "high",
+   "note": "RX1R II"
+  },
+  {
+   "make": "Sony",
+   "model": "DSC-RX1RM3",
+   "announced": "2025-07",
+   "category": "compact",
+   "confidence": "medium",
+   "note": "RX1R III"
+  },
+  {
+   "make": "Sony",
+   "model": "DSLR-A100",
+   "announced": "2006-06",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Alpha 100"
+  },
+  {
+   "make": "Sony",
+   "model": "DSLR-A200",
+   "announced": "2008-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Alpha 200"
+  },
+  {
+   "make": "Sony",
+   "model": "DSLR-A230",
+   "announced": "2009-05",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Alpha 230"
+  },
+  {
+   "make": "Sony",
+   "model": "DSLR-A290",
+   "announced": "2010-06",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Alpha 290"
+  },
+  {
+   "make": "Sony",
+   "model": "DSLR-A300",
+   "announced": "2008-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Alpha 300"
+  },
+  {
+   "make": "Sony",
+   "model": "DSLR-A330",
+   "announced": "2009-05",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Alpha 330"
+  },
+  {
+   "make": "Sony",
+   "model": "DSLR-A350",
+   "announced": "2008-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Alpha 350"
+  },
+  {
+   "make": "Sony",
+   "model": "DSLR-A380",
+   "announced": "2009-05",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Alpha 380"
+  },
+  {
+   "make": "Sony",
+   "model": "DSLR-A390",
+   "announced": "2010-06",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Alpha 390"
+  },
+  {
+   "make": "Sony",
+   "model": "DSLR-A450",
+   "announced": "2010-01",
+   "category": "interchangeable",
+   "confidence": "medium",
+   "note": "Alpha 450"
+  },
+  {
+   "make": "Sony",
+   "model": "DSLR-A500",
+   "announced": "2009-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Alpha 500"
+  },
+  {
+   "make": "Sony",
+   "model": "DSLR-A550",
+   "announced": "2009-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Alpha 550"
+  },
+  {
+   "make": "Sony",
+   "model": "DSLR-A560",
+   "announced": "2010-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Alpha 560"
+  },
+  {
+   "make": "Sony",
+   "model": "DSLR-A580",
+   "announced": "2010-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Alpha 580"
+  },
+  {
+   "make": "Sony",
+   "model": "DSLR-A700",
+   "announced": "2007-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Alpha 700"
+  },
+  {
+   "make": "Sony",
+   "model": "DSLR-A850",
+   "announced": "2009-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Alpha 850"
+  },
+  {
+   "make": "Sony",
+   "model": "DSLR-A900",
+   "announced": "2008-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Alpha 900"
+  },
+  {
+   "make": "Sony",
+   "model": "ILCA-68",
+   "announced": "2015-11",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Sony A68"
+  },
+  {
+   "make": "Sony",
+   "model": "ILCA-77M2",
+   "announced": "2014-05",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Sony A77 II"
+  },
+  {
+   "make": "Sony",
+   "model": "ILCA-99M2",
+   "announced": "2016-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Sony A99 II"
+  },
+  {
+   "make": "Sony",
+   "model": "ILCE-1",
+   "announced": "2021-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Sony A1"
+  },
+  {
+   "make": "Sony",
+   "model": "ILCE-1M2",
+   "announced": "2024-11",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Sony A1 II"
+  },
+  {
+   "make": "Sony",
+   "model": "ILCE-3000",
+   "announced": "2013-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Sony A3000"
+  },
+  {
+   "make": "Sony",
+   "model": "ILCE-3500",
+   "announced": "2014",
+   "category": "interchangeable",
+   "confidence": "medium",
+   "note": "Sony A3500"
+  },
+  {
+   "make": "Sony",
+   "model": "ILCE-5000",
+   "announced": "2014-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Sony A5000"
+  },
+  {
+   "make": "Sony",
+   "model": "ILCE-5100",
+   "announced": "2014-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Sony A5100"
+  },
+  {
+   "make": "Sony",
+   "model": "ILCE-6000",
+   "announced": "2014-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Sony A6000"
+  },
+  {
+   "make": "Sony",
+   "model": "ILCE-6001",
+   "announced": "2014",
+   "category": "interchangeable",
+   "confidence": "low",
+   "note": "likely regional variant of A6000"
+  },
+  {
+   "make": "Sony",
+   "model": "ILCE-6100",
+   "announced": "2019-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Sony A6100"
+  },
+  {
+   "make": "Sony",
+   "model": "ILCE-6300",
+   "announced": "2016-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Sony A6300"
+  },
+  {
+   "make": "Sony",
+   "model": "ILCE-6400",
+   "announced": "2019-01",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Sony A6400"
+  },
+  {
+   "make": "Sony",
+   "model": "ILCE-6400A",
+   "announced": "2025",
+   "category": "interchangeable",
+   "confidence": "low",
+   "note": "A6400 variant (charging change), quietly released ~2025"
+  },
+  {
+   "make": "Sony",
+   "model": "ILCE-6500",
+   "announced": "2016-10",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Sony A6500"
+  },
+  {
+   "make": "Sony",
+   "model": "ILCE-6600",
+   "announced": "2019-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Sony A6600"
+  },
+  {
+   "make": "Sony",
+   "model": "ILCE-6700",
+   "announced": "2023-07",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Sony A6700"
+  },
+  {
+   "make": "Sony",
+   "model": "ILCE-7",
+   "announced": "2013-10",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Sony A7"
+  },
+  {
+   "make": "Sony",
+   "model": "ILCE-7C",
+   "announced": "2020-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Sony A7C"
+  },
+  {
+   "make": "Sony",
+   "model": "ILCE-7CM2",
+   "announced": "2023-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Sony A7C II"
+  },
+  {
+   "make": "Sony",
+   "model": "ILCE-7CR",
+   "announced": "2023-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Sony A7CR"
+  },
+  {
+   "make": "Sony",
+   "model": "ILCE-7M2",
+   "announced": "2014-11",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Sony A7 II"
+  },
+  {
+   "make": "Sony",
+   "model": "ILCE-7M3",
+   "announced": "2018-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Sony A7 III"
+  },
+  {
+   "make": "Sony",
+   "model": "ILCE-7M4",
+   "announced": "2021-10",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Sony A7 IV"
+  },
+  {
+   "make": "Sony",
+   "model": "ILCE-7M5",
+   "announced": "2025-12",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Sony A7 V"
+  },
+  {
+   "make": "Sony",
+   "model": "ILCE-7R",
+   "announced": "2013-10",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Sony A7R"
+  },
+  {
+   "make": "Sony",
+   "model": "ILCE-7RM2",
+   "announced": "2015-06",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Sony A7R II"
+  },
+  {
+   "make": "Sony",
+   "model": "ILCE-7RM3",
+   "announced": "2017-10",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Sony A7R III"
+  },
+  {
+   "make": "Sony",
+   "model": "ILCE-7RM3A",
+   "announced": "2021-04",
+   "category": "interchangeable",
+   "confidence": "medium",
+   "note": "Sony A7R IIIA (variant of 2017 A7R III)"
+  },
+  {
+   "make": "Sony",
+   "model": "ILCE-7RM4",
+   "announced": "2019-07",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Sony A7R IV"
+  },
+  {
+   "make": "Sony",
+   "model": "ILCE-7RM4A",
+   "announced": "2021-04",
+   "category": "interchangeable",
+   "confidence": "medium",
+   "note": "Sony A7R IVA (variant of 2019 A7R IV)"
+  },
+  {
+   "make": "Sony",
+   "model": "ILCE-7RM5",
+   "announced": "2022-10",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Sony A7R V"
+  },
+  {
+   "make": "Sony",
+   "model": "ILCE-7S",
+   "announced": "2014-04",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Sony A7S"
+  },
+  {
+   "make": "Sony",
+   "model": "ILCE-7SM2",
+   "announced": "2015-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Sony A7S II"
+  },
+  {
+   "make": "Sony",
+   "model": "ILCE-7SM3",
+   "announced": "2020-07",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Sony A7S III"
+  },
+  {
+   "make": "Sony",
+   "model": "ILCE-9",
+   "announced": "2017-04",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Sony A9"
+  },
+  {
+   "make": "Sony",
+   "model": "ILCE-9M2",
+   "announced": "2019-10",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Sony A9 II"
+  },
+  {
+   "make": "Sony",
+   "model": "ILCE-9M3",
+   "announced": "2023-11",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Sony A9 III"
+  },
+  {
+   "make": "Sony",
+   "model": "ILCE-QX1",
+   "announced": "2014-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "lens-style E-mount camera QX1"
+  },
+  {
+   "make": "Sony",
+   "model": "ILME-FX2",
+   "announced": "2025-05",
+   "category": "interchangeable",
+   "confidence": "medium",
+   "note": "Sony FX2 cinema line, E-mount"
+  },
+  {
+   "make": "Sony",
+   "model": "ILME-FX3",
+   "announced": "2021-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Sony FX3 cinema line, E-mount"
+  },
+  {
+   "make": "Sony",
+   "model": "ILME-FX30",
+   "announced": "2022-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Sony FX30 cinema line, E-mount"
+  },
+  {
+   "make": "Sony",
+   "model": "NEX-3",
+   "announced": "2010-05",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Sony",
+   "model": "NEX-3N",
+   "announced": "2013-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Sony",
+   "model": "NEX-5",
+   "announced": "2010-05",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Sony",
+   "model": "NEX-5N",
+   "announced": "2011-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Sony",
+   "model": "NEX-5R",
+   "announced": "2012-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Sony",
+   "model": "NEX-5T",
+   "announced": "2013-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Sony",
+   "model": "NEX-6",
+   "announced": "2012-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Sony",
+   "model": "NEX-7",
+   "announced": "2011-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Sony",
+   "model": "NEX-C3",
+   "announced": "2011-06",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Sony",
+   "model": "NEX-F3",
+   "announced": "2012-05",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Sony",
+   "model": "SLT-A33",
+   "announced": "2010-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Sony",
+   "model": "SLT-A35",
+   "announced": "2011-06",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Sony",
+   "model": "SLT-A37",
+   "announced": "2012-05",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Sony",
+   "model": "SLT-A55",
+   "announced": "2010-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Sony",
+   "model": "SLT-A57",
+   "announced": "2012-03",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Sony",
+   "model": "SLT-A58",
+   "announced": "2013-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Sony",
+   "model": "SLT-A65",
+   "announced": "2011-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Sony",
+   "model": "SLT-A77",
+   "announced": "2011-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Sony",
+   "model": "SLT-A77V",
+   "announced": "2011-08",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Alpha 77"
+  },
+  {
+   "make": "Sony",
+   "model": "SLT-A99",
+   "announced": "2012-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Sony",
+   "model": "UMC-R10C",
+   "announced": "2015",
+   "category": "other",
+   "confidence": "low",
+   "note": "E-mount APS-C industrial/drone camera module"
+  },
+  {
+   "make": "Sony",
+   "model": "ZV-1",
+   "announced": "2020-05",
+   "category": "compact",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Sony",
+   "model": "ZV-1M2",
+   "announced": "2023-05",
+   "category": "compact",
+   "confidence": "high",
+   "note": "ZV-1 II"
+  },
+  {
+   "make": "Sony",
+   "model": "ZV-E1",
+   "announced": "2023-03",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Sony",
+   "model": "ZV-E10",
+   "announced": "2021-07",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Sony",
+   "model": "ZV-E10M2",
+   "announced": "2024-07",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "ZV-E10 II"
+  },
+  {
+   "make": "Xiaomi",
+   "model": "21081111RG",
+   "announced": "2021-09",
+   "category": "phone",
+   "confidence": "medium",
+   "note": "Xiaomi 11T Pro"
+  },
+  {
+   "make": "Xiaomi",
+   "model": "HM NOTE 1LTE",
+   "announced": "2014",
+   "category": "phone",
+   "confidence": "medium",
+   "note": "Redmi Note 4G"
+  },
+  {
+   "make": "Xiaomi",
+   "model": "M2010J19CG",
+   "announced": "2020-11",
+   "category": "phone",
+   "confidence": "high",
+   "note": "Poco M3"
+  },
+  {
+   "make": "Xiaomi",
+   "model": "MI 8",
+   "announced": "2018-05",
+   "category": "phone",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Xiaomi",
+   "model": "Mi 9 Lite",
+   "announced": "2019-09",
+   "category": "phone",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Xiaomi",
+   "model": "MI MAX",
+   "announced": "2016-05",
+   "category": "phone",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Xiaomi",
+   "model": "Redmi Note 7",
+   "announced": "2019-01",
+   "category": "phone",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Xiaomi",
+   "model": "Redmi Note 8T",
+   "announced": "2019-11",
+   "category": "phone",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "make": "Xiaomi",
+   "model": "Yi",
+   "announced": "2015-03",
+   "category": "action",
+   "confidence": "medium",
+   "note": "Xiaomi Yi action camera"
+  },
+  {
+   "make": "XIAOYI",
+   "model": "YDXJ 2",
+   "announced": "2016",
+   "category": "action",
+   "confidence": "medium",
+   "note": "YI 4K action camera"
+  },
+  {
+   "make": "XIAOYI",
+   "model": "YI 4K",
+   "announced": "2016",
+   "category": "action",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "XIAOYI",
+   "model": "YIAC 3",
+   "announced": "2017",
+   "category": "action",
+   "confidence": "low",
+   "note": "likely YI 4K+ or YI Lite"
+  },
+  {
+   "make": "Xiro",
+   "model": "Xplorer V",
+   "announced": "2015",
+   "category": "drone",
+   "confidence": "medium",
+   "note": ""
+  },
+  {
+   "make": "YI TECHNOLOGY",
+   "model": "M1",
+   "announced": "2016-09",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "Micro Four Thirds"
+  },
+  {
+   "make": "Yuneec",
+   "model": "CGO3",
+   "announced": "2015-01",
+   "category": "drone",
+   "confidence": "medium",
+   "note": "Typhoon Q500 4K camera"
+  },
+  {
+   "make": "Yuneec",
+   "model": "CGO3P",
+   "announced": "2016-01",
+   "category": "drone",
+   "confidence": "medium",
+   "note": "Typhoon H camera"
+  }
+ ]
+}

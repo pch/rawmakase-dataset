@@ -1,0 +1,244 @@
+{
+ "schema": 1,
+ "set": "color-vibrance-train",
+ "settings": [
+  "vibrance-100",
+  "vibrance-50",
+  "vibrance+50",
+  "vibrance+100",
+  "saturation-50",
+  "saturation+50"
+ ],
+ "photos": [
+  {
+   "raw": "raws/signature-edits/free raw from signature edits 2.dng",
+   "sha256": "07e8cfe35a42ce287e60027633436862845a9c76d5327e2576981bc759daf690",
+   "p90_L": 38.41550309106501,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS R",
+   "subject": "woman in profile against a dark red backdrop",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits Free Raw Photos - DSC_2470.dng",
+   "sha256": "3fbc4422aa9523d7e1fc234996460ecc5a6a2458162f70bd91c0117d0d0b68a0",
+   "p90_L": 37.46964332892568,
+   "stratum": "low",
+   "make": "Nikon",
+   "model": "D800",
+   "subject": "woman lying on a rug surrounded by vinyl records",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/tag @ryanbreitkreutz - free raws from @signatureeditsco - signatureedits.com - DSC02405.ARW",
+   "sha256": "89ada84ecafcd8cb5dcac0c3529c32d7fe982787bece93146368bd6089b5dfc2",
+   "p90_L": 35.06868499146488,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "ILCE-7M3",
+   "subject": "woman in yellow dress walking down tree-lined path",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco - free raws from signatureedits.com -IMG_0316.CR2",
+   "sha256": "0980eb3ab6dea41b335d3b44af305ae2020dc716a0a48f1ed22c69213ce31cfd",
+   "p90_L": 25.905168676757434,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS 6D",
+   "subject": "woman in ornate costume holding a pole",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/Copy of Signature Edits Free Raw Photos - _DSC4471.dng",
+   "sha256": "9dd12be319733bd9ad1d17031d18f66018870a131adf31efc2e759a1aa8b25ee",
+   "p90_L": 29.629408066891475,
+   "stratum": "low",
+   "make": "Nikon",
+   "model": "D800E",
+   "subject": "ballerina in red leotard performing a pose on pointe",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/tag @valeqvisuals-2 - signature edits free raw photos.ARW",
+   "sha256": "cb952db982b050d78ecc2188633489837f9db7a699aedb62f254775945e16789",
+   "p90_L": 39.21606453671801,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "ILCE-7M4",
+   "subject": "woman in a sunflower field holding her hair",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/Copy of free raws from signatureedits.com - tag @signatureeditsco - IMG_9564.dng",
+   "sha256": "0a60d24d6d39fa83c74273d1fa9c6f4a9de27c943b322fb0624f1c021e99b06d",
+   "p90_L": 32.42382197496292,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS 6D",
+   "subject": "woman in a sequined green gown posing in a studio",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/IMG_7837-1kok_KMB.cr2",
+   "sha256": "02717156f67fdc7007758286e66d5ebd8f5af75ad2a748ab2365d61f1320fb02",
+   "p90_L": 74.3427873479507,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 6D",
+   "subject": "portrait of a woman with orange paint on her face",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits free raw files tag @signatureeditsco RAW_0833.NEF",
+   "sha256": "01fca435809587d48fde50d724144c28333317c086a0f4a1306768f3c0746ed0",
+   "p90_L": 74.47450978473184,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "D5600",
+   "subject": "motorcyclist riding on a dirt track",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/tag @ryanbreitkreutz - free raws from signatureedits.com DSC00381.ARW.ARW",
+   "sha256": "089fdc0e5389e94c5c443713f4850be4f2afdb70ea40d39cb2743d22774e0baf",
+   "p90_L": 65.66760190989022,
+   "stratum": "mid",
+   "make": "Sony",
+   "model": "ILCE-7M3",
+   "subject": "woman in yellow dress walking under lanterns",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/Canon-6D-Shotkit-11.CR2",
+   "sha256": "0b4e66f1c648268544ae2506f2e0b9cdee085093666e47b16ce74ad97e61a744",
+   "p90_L": 65.59872991024392,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 6D",
+   "subject": "wedding couple sitting on a bench in a lush greenhouse",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco - free raws from signatureedits.com DSC_0083.nef",
+   "sha256": "4246e7c640935cb95e3e53aa1be3735d21312729b9f9c2c28dc84e1192d2bb8f",
+   "p90_L": 43.27195087318264,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "D60",
+   "subject": "woman holding flowers against a fence",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/@valeqvisuals-1 - signature edits free raw photos.ARW",
+   "sha256": "275983ca403ad5d282cf5de4c29a2a0393b5bf7a48e53cd848a4e1198d1026ce",
+   "p90_L": 59.43839186487432,
+   "stratum": "mid",
+   "make": "Sony",
+   "model": "ILCE-7M4",
+   "subject": "woman holding sunflower in front of her face",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits Free Raw Photos - IMG_4649.CR2",
+   "sha256": "0fb620f8a2c36ce7e3cee32ae7fce467e9cffb4c6f1b5016c0f8dbd2879bc17b",
+   "p90_L": 61.17938843396729,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 6D",
+   "subject": "woman in black swimwear standing in a tropical garden",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/APC_0083.DNG",
+   "sha256": "14f87f9539c34f1e54e02248d8aed84404d2908f3bcf22ef16edbe4710cc95e1",
+   "p90_L": 81.62720095577437,
+   "stratum": "high",
+   "make": "Apple",
+   "model": "iPhone XS Max",
+   "subject": "young woman in denim jacket standing in front of a rainbow-themed store window",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/5M3_8791.CR2",
+   "sha256": "0270771723f7505226325f85f537bf5072c6da9344b761fba698c9218cb8974c",
+   "p90_L": 86.31636254112368,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS 5D Mark III",
+   "subject": "couple celebrating with confetti on a bed",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco - free raws from signatureedits.comDSC_3024.dng",
+   "sha256": "0518804d22d90b73ea237e01db03f151db6575520c5436edb9a80896f62b6917",
+   "p90_L": 92.42545819104068,
+   "stratum": "high",
+   "make": "Nikon",
+   "model": "D800E",
+   "subject": "portrait of a woman with curly hair",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/Instagram----dave_design_official (3).RW2",
+   "sha256": "abec576d99ffedda5664a48966b223ec29c2a8d958cd0e5e2dfd7710017ef737",
+   "p90_L": 75.11630470058523,
+   "stratum": "high",
+   "make": "Panasonic",
+   "model": "DMC-G7",
+   "subject": "woman with curly hair wearing sunglasses and a yellow dress",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits Free Raw Photos - DSC09127.ARW",
+   "sha256": "0c4cc1aff1bca9674fb665dfebe4120e00afda8b9a52bd8092559cb42084e2fd",
+   "p90_L": 78.05212168171349,
+   "stratum": "high",
+   "make": "Sony",
+   "model": "ILCE-7M3",
+   "subject": "couple laughing on concrete stairs",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/APC_0140.DNG",
+   "sha256": "5f03f39456cf5c5e31f1194246e0eca8e083638c394f5c19868e112655ce3bf3",
+   "p90_L": 92.65907051946526,
+   "stratum": "high",
+   "make": "Apple",
+   "model": "iPhone XS Max",
+   "subject": "hand holding a La Croix can in front of a round window",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/file000551.cr2",
+   "sha256": "0aafbf611c9af42c1a31c482d36f42bc16d40fe996bba3146bab9ee9e80d53da",
+   "p90_L": 75.85698694385442,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS 6D",
+   "subject": "woman in red dress lying on stairs",
+   "score": null
+  }
+ ],
+ "crs": {
+  "vibrance-100": {
+   "Vibrance": "-100"
+  },
+  "vibrance-50": {
+   "Vibrance": "-50"
+  },
+  "vibrance+50": {
+   "Vibrance": "+50"
+  },
+  "vibrance+100": {
+   "Vibrance": "+100"
+  },
+  "saturation-50": {
+   "Saturation": "-50"
+  },
+  "saturation+50": {
+   "Saturation": "+50"
+  }
+ }
+}

@@ -1,0 +1,224 @@
+{
+ "schema": 1,
+ "set": "dehaze-train",
+ "settings": [
+  "dehaze-100",
+  "dehaze-50",
+  "dehaze-25",
+  "dehaze+25",
+  "dehaze+50",
+  "dehaze+100"
+ ],
+ "photos": [
+  {
+   "raw": "raws/signature-edits/tag @signatureditsco DSC06452.ARW",
+   "sha256": "8f066880b30afcb4ffe288e90af9a35f4de9d2ebfbd7eb7cae63e2b4393dda6c",
+   "p90_L": 33.001135965681804,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "SLT-A37",
+   "subject": "misty pine forest with tall trees",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/tommytusberg(1).ARW",
+   "sha256": "f840055ea643d7cfd9ed956a2dc08e445e68c58e4cc27c783d3a81ea815fafeb",
+   "p90_L": 32.819356842309034,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "ILCE-7M3",
+   "subject": "waterfall in a deep mountain gorge",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco IMG_8892.CR2",
+   "sha256": "1078475c0c5cbff4482693bf73cf76609dd345bf54ce95bebcedc86ea1221644",
+   "p90_L": 39.248023056862564,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS REBEL T3",
+   "subject": "golden retriever resting in a pile of autumn leaves",
+   "score": 1
+  },
+  {
+   "raw": "raws/signature-edits/Tag @ryanbreitkreutz - Free files from @signatureeditscoDSC00830.ARW",
+   "sha256": "4b195fdcab09a189ada85b5a4c4172e62f1155944c56c91d954672a7929bec4a",
+   "p90_L": 29.239594822254933,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "ILCE-7M4",
+   "subject": "ornate wooden window frame with carved decoration, viewed from inside a dark room",
+   "score": 1
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - IMG_4077.CR2",
+   "sha256": "bef7d17f0cff6281fbeb791dadf006f19a17fcefe4b995c300b819b519c59c10",
+   "p90_L": 31.239589360837495,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS 6D",
+   "subject": "wedding couple embracing in a forest",
+   "score": 1
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - DSC06299.ARW",
+   "sha256": "6f5a351d88c577f65b408524446e988dda3fc32afce5068641393e28c3226acc",
+   "p90_L": 33.277014496608324,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "ILCE-7M2",
+   "subject": "woman holding dried plants while wrapped in a blanket",
+   "score": 1
+  },
+  {
+   "raw": "raws/signature-edits/DSC00326.dng",
+   "sha256": "8fb11e446f80c7d6613d7acf4ea8f163ab46cd138243dfd66d0732dd8599b40f",
+   "p90_L": 26.19897160161675,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "ILCE-7M3",
+   "subject": "person in yellow jacket standing before a waterfall",
+   "score": 1
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits free raw files tag @signatureeditsco IMG_4563.cr2",
+   "sha256": "50461de49480a6d98133de58538fa70d32aa4deefb6dec4ff0436352c897c9a6",
+   "p90_L": 58.54460851439617,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 6D",
+   "subject": "woman sleeping on a rooftop at sunset",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits Free Raws - tag @signatureeditsco - DSC_0032.NEF",
+   "sha256": "993deffa1d0d16f75a46810f1b93950fb795cbc43bedaf3fad655d69240b81b0",
+   "p90_L": 63.0127764021813,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "D5600",
+   "subject": "mountainous valley with lakes under a cloudy sky",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/tag @ryanbreitkreutz - free raws from @signatureeditsco DSC00948.ARW",
+   "sha256": "17c83a8cbb7c4d7908fef60eb7c0586f9636c63bc0d7398b5fe832f65189abe2",
+   "p90_L": 42.6227976086949,
+   "stratum": "mid",
+   "make": "Sony",
+   "model": "ILCE-7M4",
+   "subject": "silhouette of a person looking out a window at a city skyline",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/2G3A2473.CR2",
+   "sha256": "64f640307603f1e0a716bdb2372a3c6120382c30d28b6fb70102d2ff8bdd8954",
+   "p90_L": 50.45629075019177,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 5D Mark III",
+   "subject": "sailboat on a hazy lake with mountains in the background",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/Egret (2).NEF",
+   "sha256": "a15db1e25b29970a5d6f0ba27b16cff15cf6682c61a6d0a0ab912608c117d10d",
+   "p90_L": 58.818986408416826,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "D7500",
+   "subject": "white egret perched on a wooden post",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/tag @ryanbreitkreutz - free raws from @signatureeditsco - DSC06683.dng",
+   "sha256": "409cd1d44c7455b3b3ad144eaf33404c6d89ee9c86e5d616cc8bc774a835a2e7",
+   "p90_L": 44.182434353416525,
+   "stratum": "mid",
+   "make": "Sony",
+   "model": "ILCE-1",
+   "subject": "mountain ridge partially obscured by fog with sparse trees",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/DSC00936.dng",
+   "sha256": "489c820fa0abcb4028e9ca1207ea6acaeb5bdc92bae29e1d09cc185b77546c1f",
+   "p90_L": 71.04507075455794,
+   "stratum": "mid",
+   "make": "Sony",
+   "model": "ILCE-7M3",
+   "subject": "shirtless man standing in water beneath a waterfall",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco  IMG_1473.cr2",
+   "sha256": "3e42014286ab7e02d6de430273b490e10518fdfc536e3143f410010f80ee5710",
+   "p90_L": 75.0511458168041,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS 5D Mark II",
+   "subject": "woman in lace dress sitting in field with horses",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/tag @ryanbreitkreutz - free raws from @signatureeditsco - DSC06780.dng",
+   "sha256": "374116578a158ea12ea050437a34676326d7c00a04e8c499890ac7f0b889b9c9",
+   "p90_L": 88.22697838718351,
+   "stratum": "high",
+   "make": "Sony",
+   "model": "ILCE-1",
+   "subject": "two hikers on a cliff overlooking a deep valley",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/Copy of free raws from signatureedits.com - tag @signatureeditsco - 122A0419.CR2",
+   "sha256": "9f0e51d01dedae3a0bd284257a124b31a94d39506a959ecd928ef7f0a5c35da9",
+   "p90_L": 76.14539996693162,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS 5D Mark III",
+   "subject": "wedding couple standing in a forest looking at a misty valley",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/free raw files from @signatureeditscoDSC01710.ARW",
+   "sha256": "3cd08e678979c4976f5bf7ee14ad2391cccd0df2bd7b833fe569ee34a694733c",
+   "p90_L": 83.12145115795994,
+   "stratum": "high",
+   "make": "Sony",
+   "model": "ILCE-7M3",
+   "subject": "river flowing through a mountain valley",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/Copy of free raws from signatureedits.com - tag @signatureeditsco - IMG_2428.CR2",
+   "sha256": "a8c6d5537858bc549a6393f4ca88aa3b007146025403ad7be0e7179b5af80c1e",
+   "p90_L": 90.35037080020359,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS 5D Mark III",
+   "subject": "wedding couple on a wet wooden pier",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - DSC02783.ARW",
+   "sha256": "76267f8083bbcdddce609660125060c157309e210f66128e15ffcc8236fe34ba",
+   "p90_L": 90.77976982536485,
+   "stratum": "high",
+   "make": "Sony",
+   "model": "ILCE-7M2",
+   "subject": "person with backpack standing on a hill overlooking foggy mountains",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - IMG_9737.CR2",
+   "sha256": "b370d82a57405f750bf51ce7782ae3a057e8ddf485896e5b56d2fae4d348a8e3",
+   "p90_L": 87.83280939548267,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS 6D",
+   "subject": "sunset over a desert with mountains in the distance",
+   "score": 2
+  }
+ ]
+}

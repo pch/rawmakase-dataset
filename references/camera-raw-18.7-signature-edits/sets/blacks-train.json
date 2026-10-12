@@ -1,0 +1,194 @@
+{
+ "schema": 1,
+ "set": "blacks-train",
+ "settings": [
+  "blacks-100",
+  "blacks-50",
+  "blacks-25",
+  "blacks+25",
+  "blacks+50",
+  "blacks+100"
+ ],
+ "photos": [
+  {
+   "raw": "raws/signature-edits/free raw from signature edits 2.dng",
+   "sha256": "07e8cfe35a42ce287e60027633436862845a9c76d5327e2576981bc759daf690",
+   "p90_L": 38.41550309106501,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS R",
+   "subject": "woman in profile against a dark red backdrop",
+   "score": 1
+  },
+  {
+   "raw": "raws/signature-edits/tag @ryanbreitkreutz - free raws from @signatureeditsco - DSC01135.ARW",
+   "sha256": "f50220c601f03a46a8dc6068728d5280755b400fc985badf273f39cca42fd07a",
+   "p90_L": 32.70482573030886,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "ILCE-7M3",
+   "subject": "a male elk with antlers standing in autumn foliage",
+   "score": 1
+  },
+  {
+   "raw": "raws/signature-edits/Copy of free raws from signatureedits.com - tag @signatureeditsco - IMG_9564.dng",
+   "sha256": "0a60d24d6d39fa83c74273d1fa9c6f4a9de27c943b322fb0624f1c021e99b06d",
+   "p90_L": 32.42382197496292,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS 6D",
+   "subject": "woman in a sequined green gown posing in a studio",
+   "score": 1
+  },
+  {
+   "raw": "raws/signature-edits/IMG_0069.CR2",
+   "sha256": "5daffb31ab0aca5e2b7394dc58f52afa2b4839c364c71af8b8c5f2e7f6cdc0ef",
+   "p90_L": 38.773057707797804,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS 5D Mark III",
+   "subject": "mountain under a starry night sky",
+   "score": 1
+  },
+  {
+   "raw": "raws/signature-edits/signatureedits raws.CR2",
+   "sha256": "c70010563e845a92050745ec6902fd5d5f3434285705a0a047d828356f7a5282",
+   "p90_L": 46.72444966708959,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 5D Mark III",
+   "subject": "cityscape at twilight with illuminated streets and a starry sky",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/DSC_8373.NEF",
+   "sha256": "2d788cb1f864a0615ebe3bf42dc3b17ae917afd8ef8bf21963ed3f1cf6097cd4",
+   "p90_L": 64.5925736221015,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "D610",
+   "subject": "underwater couple in flowing dresses",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/PIG00203.ARW",
+   "sha256": "315fd95b437399f9e706c93282e70c11bcc8cb0ac65248982f3ae6b31a81e0b0",
+   "p90_L": 69.53697009925946,
+   "stratum": "mid",
+   "make": "Sony",
+   "model": "ILCE-7M2",
+   "subject": "narrow cobblestone street at night leading to a lit church",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/Copy of IMG_1121_33 - from signatureedits.com.nef",
+   "sha256": "acc2a2c928a908984caa5269996f2468d00cd93579ae22bfe60bc342126d6941",
+   "p90_L": 71.58001940492838,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "D300",
+   "subject": "portrait of a young woman with blue eyes in dim lighting",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/APC_0144-2.DNG",
+   "sha256": "53a31861ada23c63234d51b4a6552f347cb18114b1300738530ae3c8c27100f6",
+   "p90_L": 52.54881108458819,
+   "stratum": "mid",
+   "make": "Apple",
+   "model": "iPhone XS Max",
+   "subject": "Aesop store window with tree shadows",
+   "score": 1
+  },
+  {
+   "raw": "raws/signature-edits/Copy of free raws from signatureedits.com - tag @signatureeditsco - IMG_9969.dng",
+   "sha256": "204c33744836d8b0509e7167eb81207446d629a718e3aedc82467e989605d82e",
+   "p90_L": 58.422690166791114,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 6D",
+   "subject": "woman in black suit sitting on floor",
+   "score": 1
+  },
+  {
+   "raw": "raws/signature-edits/Copy of Kayla-383 - tag @signatureeditsco.dng",
+   "sha256": "34bafa236ba264bfb1a0ed58bfd0e979d42f0450e4800e1739e21f9683d402ce",
+   "p90_L": 72.35537874679653,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "D800E",
+   "subject": "woman posing in black clothing and studded platform shoes",
+   "score": 1
+  },
+  {
+   "raw": "raws/signature-edits/Credit OliverBruendler 01_Silouette.CR2",
+   "sha256": "c656c335fbde1cc2c771189686fad1c9525cf7144714f415c90df887aa7e5441",
+   "p90_L": 91.18296548375982,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS 60D",
+   "subject": "silhouetted giraffes against a sunset",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/tag @TwoSouls.ph - free raws from Signature Edits.ARW",
+   "sha256": "acd5a8ccaa292548af64c05e31628c442aa84e8692ad2bd4ef58c64b129e1f36",
+   "p90_L": 89.86251094297629,
+   "stratum": "high",
+   "make": "Sony",
+   "model": "ILCE-7M3",
+   "subject": "yellow Ford Mustang with black racing stripes",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/2C8A9753.CR2",
+   "sha256": "fbebe1826c849095b42df90c04674658fde168680d3b1192f357129f583ac534",
+   "p90_L": 78.43263122691754,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS 5D Mark III",
+   "subject": "two people standing on rocks by the water at sunset",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/signatureedits3jnfiufn.dng",
+   "sha256": "1fc414dcd42ef44d298db14c580c633a606c7e3e0cb4a80bc46c2ba776d15960",
+   "p90_L": 87.33053539960903,
+   "stratum": "high",
+   "make": "Apple",
+   "model": "iPhone XS Max",
+   "subject": "woman sitting on a bench against a white brick wall",
+   "score": 1
+  },
+  {
+   "raw": "raws/signature-edits/IMG_2884.CR2",
+   "sha256": "06b4c6cc40925e024faaf4c5e5cf70b6e00eaf58d3dd9fec8cde9149de97a0aa",
+   "p90_L": 90.56112321399881,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS 6D",
+   "subject": "portrait of a woman with curly hair",
+   "score": 1
+  },
+  {
+   "raw": "raws/signature-edits/tag @arwco  tag @signatureeditsco - free raws from signatureedits.com _m1.NEF",
+   "sha256": "146fa50ed0e5ff47282e0e2c2580a61fdbafbc8f28b1c8d0b539049953969129",
+   "p90_L": 76.63131751137603,
+   "stratum": "high",
+   "make": "Nikon",
+   "model": "D810",
+   "subject": "man in goggles and helmet standing on train tracks",
+   "score": 1
+  },
+  {
+   "raw": "raws/signature-edits/Tag @signatureeditsco LAR08325.ARW",
+   "sha256": "046f4b47d8152a73e9f791c46e9e9481128a2317e427122e24ab9ca2f4a8b9b7",
+   "p90_L": 81.33712252027524,
+   "stratum": "high",
+   "make": "Sony",
+   "model": "ILCE-7M3",
+   "subject": "giraffe head and neck against a bright blue sky",
+   "score": 1
+  }
+ ]
+}

@@ -1,0 +1,112 @@
+{
+ "schema": 1,
+ "set": "exposure-holdout",
+ "settings": [
+  "exposure-2",
+  "exposure-1",
+  "exposure+1",
+  "exposure+2"
+ ],
+ "photos": [
+  {
+   "raw": "raws/pixls/Fujifilm/X70/DSCF8848.RAF",
+   "sha256": "4f9c33fde578addebda991c37d26551b46fab8f592c74f7192560a05ec08d577",
+   "p90_L": 34.48887992945352,
+   "stratum": "low",
+   "make": "Fujifilm",
+   "model": "X70",
+   "subject": "night view of a stone clock tower",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Pentax/K-70/IMGP6854.PEF",
+   "sha256": "1d64c6aa71680642ba8f00b6f6105df3e66a4534e631f422fbf3316273c4408c",
+   "p90_L": 32.46673539235125,
+   "stratum": "low",
+   "make": "Pentax",
+   "model": "K-70",
+   "subject": "a ceiling light in a dim room",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS R6/Canon_EOS_R6_RAW_ISO_100_crop_nodual.CR3",
+   "sha256": "6156ee9cfd1a61e08719a8309095d05162891fd2adb8dd1505b31d4716dcee05",
+   "p90_L": 71.03619475315072,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS R6",
+   "subject": "terracotta animal sculptures on a concrete ledge",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Nikon/D780/DSC_0340.NEF",
+   "sha256": "6ee9e13f6f2532a5ba66f43b75885cf8a3f27f252d39969545f0471eff7d3f6f",
+   "p90_L": 66.67175626892357,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "D780",
+   "subject": "wooden play structures in a wooded backyard",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/OM System/OM-5/C1291096.ORF",
+   "sha256": "ee0213ee4899d677d9bd538d8cfa4d0f69bdbacd462c1cf3ca3901036cf2fce7",
+   "p90_L": 73.9633237475305,
+   "stratum": "mid",
+   "make": "OM System",
+   "model": "OM-5",
+   "subject": "green plants and dry twigs in a garden",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-GX7MK3/P2010097.RW2",
+   "sha256": "b801f4b12b18d7c01289a8be5555e753edd38f9c7ffbb8922eede2506d511c66",
+   "p90_L": 72.12438664211149,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DC-GX7MK3",
+   "subject": "a green thermos with a pink plastic egg on top",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS Rebel SL3/Sedona2020_SL3__MG_1061.CR3",
+   "sha256": "6f26a2e4ea5a3e3b859662c9b01da6b24731413835aa601065bff1d7f30c6092",
+   "p90_L": 80.9821724484744,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS Rebel SL3",
+   "subject": "red rock canyon with sparse vegetation",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/DJI/FC7303/DJI_0765.DNG",
+   "sha256": "fb4f294e12cab7b507fd0b7c07f24e5d13e7c0dd127b534ce12c48d644c9363d",
+   "p90_L": 81.91679614199599,
+   "stratum": "high",
+   "make": "DJI",
+   "model": "FC7303",
+   "subject": "lake beside a highway with surrounding trees and fields",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-T3/AFXT2720.RAF",
+   "sha256": "24abd27b4a200f3170ea1579672944b807d0eb35bf21422a3937bb644f27f2eb",
+   "p90_L": 91.46723874000647,
+   "stratum": "high",
+   "make": "Fujifilm",
+   "model": "X-T3",
+   "subject": "a bag of yerba mate tea next to plush toys",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Google/Pixel 8 Pro/PXL_20240415_103400204.RAW-02.ORIGINAL.dng",
+   "sha256": "45420c595401547cca950ae58d552bc82b32d31ce1d58c082df33004016197f5",
+   "p90_L": 84.64685911785156,
+   "stratum": "high",
+   "make": "Google",
+   "model": "Pixel 8 Pro",
+   "subject": "trees silhouetted against a sunset reflected in water",
+   "score": 2
+  }
+ ]
+}

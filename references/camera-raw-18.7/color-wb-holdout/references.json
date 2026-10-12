@@ -1,0 +1,830 @@
+{
+ "schema": 1,
+ "camera_raw": "18.7",
+ "set": "color-wb-holdout",
+ "photos": [
+  {
+   "raw": "raws/pixls/Fujifilm/X70/DSCF8848.RAF",
+   "sha256": "4f9c33fde578addebda991c37d26551b46fab8f592c74f7192560a05ec08d577",
+   "p90_L": 34.48887992945352,
+   "stratum": "low",
+   "make": "Fujifilm",
+   "model": "X70",
+   "subject": "night view of a stone clock tower",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Pentax/K-70/IMGP6854.PEF",
+   "sha256": "1d64c6aa71680642ba8f00b6f6105df3e66a4534e631f422fbf3316273c4408c",
+   "p90_L": 32.46673539235125,
+   "stratum": "low",
+   "make": "Pentax",
+   "model": "K-70",
+   "subject": "a ceiling light in a dim room",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-GX7MK3/P2010097.RW2",
+   "sha256": "b801f4b12b18d7c01289a8be5555e753edd38f9c7ffbb8922eede2506d511c66",
+   "p90_L": 72.12438664211149,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DC-GX7MK3",
+   "subject": "a green thermos with a pink plastic egg on top",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/SONY/ZV-E10M2/DSC00696.ARW",
+   "sha256": "3d61e7f685460e6e77a52355d88bc960d51332f3470468a06c4490a406e6b715",
+   "p90_L": 44.624307382391144,
+   "stratum": "mid",
+   "make": "Sony",
+   "model": "ZV-E10M2",
+   "subject": "red paper lantern hanging from ceiling",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-LX100M2/P1020077.RW2",
+   "sha256": "be21bf90fef3ecb9f38467f3cbaca45c852d1b07976dc307f03a97bf30eb73d3",
+   "p90_L": 66.83748316848322,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DC-LX100M2",
+   "subject": "hanging mosaic lanterns against a concrete wall",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS M6 Mark II/IMG_CRAW_1_1.CR3",
+   "sha256": "0ccbb6c447d0fab996291be9a5c2728cd7367bcc2f640e2a30eae112e13e6c0e",
+   "p90_L": 68.32334860208525,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS M6 Mark II",
+   "subject": "grass with scattered oak leaves",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Canon/Canon EOS R100/_MG_2195[1].CR3",
+   "sha256": "0b66842b2fe00329ebc05fe8ab9357ddbbe1a0a2d2e69a2893102de7fdf5c942",
+   "p90_L": 93.05444482485849,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS R100",
+   "subject": "orange flowers in front of a window",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-S5/P1047510.RW2",
+   "sha256": "3615c85207097180b231f0c89d018eb3f1a71988780612921eb0a05246bca706",
+   "p90_L": 82.02227029648658,
+   "stratum": "high",
+   "make": "Panasonic",
+   "model": "DC-S5",
+   "subject": "pirate-themed rubber duck on carpet",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-9M3/DSC00110.ARW",
+   "sha256": "6645e8038b9f2c92ab8e27c8fc2258b23d2f99b397ea2e256ce35bddfa9a2078",
+   "p90_L": 80.23997750673365,
+   "stratum": "high",
+   "make": "Sony",
+   "model": "ILCE-9M3",
+   "subject": "organized workshop tools on a pegboard",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS M50 Mark II/IMG_0051.CR3",
+   "sha256": "1a3c11d85f48b8c644664b505f69fbdd75eb51270bb8ab556dbc660f0487e957",
+   "p90_L": 91.34244678290304,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS M50 Mark II",
+   "subject": "black cat sitting by a window",
+   "score": null
+  }
+ ],
+ "cases": [
+  {
+   "photo": 0,
+   "name": "default",
+   "reference": "references/0-default.tif",
+   "reference_sha256": "9f043d4293f8383e4bf5de3b5f7a35194623369df295e5fc146530cbfa375b97",
+   "xmp": "references/0-default.xmp",
+   "xmp_sha256": "2925b07226c876ffcd8caed81fcea2d103424ad8469d466c6266aa199a3c78f9"
+  },
+  {
+   "photo": 0,
+   "name": "wb-daylight",
+   "reference": "references/0-wb-daylight.tif",
+   "reference_sha256": "d250611e51827162804d080e792bcc5ceab83a74b6fc3973255293fd90a41f91",
+   "xmp": "references/0-wb-daylight.xmp",
+   "xmp_sha256": "8929a7cec19ade92e3d0e3caee4bc2bbbb45cf6f1611a6e32ba7d8f7a8bc5171"
+  },
+  {
+   "photo": 0,
+   "name": "wb-tungsten",
+   "reference": "references/0-wb-tungsten.tif",
+   "reference_sha256": "d5a87183a65db8641ffdd38eb37913bb707d636271aef1683d3d06a8a9d88d10",
+   "xmp": "references/0-wb-tungsten.xmp",
+   "xmp_sha256": "b92bc47d485e01d903c45ec8b437b73cebb3fb03db0f9368f87ece099ac4407a"
+  },
+  {
+   "photo": 0,
+   "name": "wb-fluorescent",
+   "reference": "references/0-wb-fluorescent.tif",
+   "reference_sha256": "f202fb97ea3861e53959f3827f45348e1eccb6efc99dbecd2d5508f8a4773826",
+   "xmp": "references/0-wb-fluorescent.xmp",
+   "xmp_sha256": "4e41fa73f7f45ad3c6407f67be6c46f239b8a02a78dc0ff0e33205c1ddea5229"
+  },
+  {
+   "photo": 0,
+   "name": "temperature-3200",
+   "reference": "references/0-temperature-3200.tif",
+   "reference_sha256": "21caf9316cc05068ad927068bb5d32a7cdeb3a404d55aaff710c0c64e483a372",
+   "xmp": "references/0-temperature-3200.xmp",
+   "xmp_sha256": "253af6b417165a019b304d188c162b17796d8ccf5fd3781eca60cb18b6b33461"
+  },
+  {
+   "photo": 0,
+   "name": "temperature-5000",
+   "reference": "references/0-temperature-5000.tif",
+   "reference_sha256": "061ee288be5671ec42b34d7352166bf368482794b6325a1cb4938bb4910e8a6a",
+   "xmp": "references/0-temperature-5000.xmp",
+   "xmp_sha256": "17c4ee0d1780c443961acd236cec44229b39243f399fb775099dc6288c8c4bae"
+  },
+  {
+   "photo": 0,
+   "name": "temperature-8000",
+   "reference": "references/0-temperature-8000.tif",
+   "reference_sha256": "b59db2506e0187476332379e397a0ba612e14828eb49d07c9e2540e48c33dc23",
+   "xmp": "references/0-temperature-8000.xmp",
+   "xmp_sha256": "3cc6089ba3097b28f860ba579ef6527fca43e8c31cfd38200eda060f1b3c053a"
+  },
+  {
+   "photo": 0,
+   "name": "tint-30",
+   "reference": "references/0-tint-30.tif",
+   "reference_sha256": "eabab6220fe7c6351877fe56556415cae70f4505693536ed14bc826c2b47a040",
+   "xmp": "references/0-tint-30.xmp",
+   "xmp_sha256": "decbea207526ac2d2d16ad3d9c02d1868c3f0e24bd3adea56e24a306d638deaa"
+  },
+  {
+   "photo": 0,
+   "name": "tint+30",
+   "reference": "references/0-tint+30.tif",
+   "reference_sha256": "9dd8b0aa10dd246edcf293492ee19356b65907f30295debda9ffab77e988302d",
+   "xmp": "references/0-tint+30.xmp",
+   "xmp_sha256": "0a0ad37543d80061f0306cfa1c2ac49ecf1298f183eeeb1c6dd521f5095b8307"
+  },
+  {
+   "photo": 1,
+   "name": "default",
+   "reference": "references/1-default.tif",
+   "reference_sha256": "43043c9485b96b2533a23675d45f11d0cf29b26b9772383424004ae8e34bcff9",
+   "xmp": "references/1-default.xmp",
+   "xmp_sha256": "2f7e0d11a54cecdbf9c1d45b62b6b994d0aabcc1363329e9bf18b05dc673829f"
+  },
+  {
+   "photo": 1,
+   "name": "wb-daylight",
+   "reference": "references/1-wb-daylight.tif",
+   "reference_sha256": "a01a98deb5e92a0168c4576b7a326522f507327a406b7aa0601f9a714692f2ef",
+   "xmp": "references/1-wb-daylight.xmp",
+   "xmp_sha256": "b3ad0dd47d778f61b8d1afcd9e78ecf35ce175db2b55d1a2c0f9104be2b3c242"
+  },
+  {
+   "photo": 1,
+   "name": "wb-tungsten",
+   "reference": "references/1-wb-tungsten.tif",
+   "reference_sha256": "95537208baeb72d8feefd08c16a91f44dce0d26b469d166bcbaebae2633ddafb",
+   "xmp": "references/1-wb-tungsten.xmp",
+   "xmp_sha256": "5209c872a83d369b392d0eb1d80cb346582fbd04b92f5f7a7710880007226996"
+  },
+  {
+   "photo": 1,
+   "name": "wb-fluorescent",
+   "reference": "references/1-wb-fluorescent.tif",
+   "reference_sha256": "35034571e3e56f5d24952a1bb64bd961a7df2f458011b7a0add6ddb3212d9c75",
+   "xmp": "references/1-wb-fluorescent.xmp",
+   "xmp_sha256": "d0421401aaa21d2617a63944abe2be2fa6eba4b6a81f9385c5ee0d6ef78bdba5"
+  },
+  {
+   "photo": 1,
+   "name": "temperature-3200",
+   "reference": "references/1-temperature-3200.tif",
+   "reference_sha256": "4dd2ff2e6129d972d8aba1183d6fc2463d814afd27065cf42b5907cdf262d62a",
+   "xmp": "references/1-temperature-3200.xmp",
+   "xmp_sha256": "7c1e272605bfa30e27c24b833bc739760bff89e22a1739cd451363cc3c50d32f"
+  },
+  {
+   "photo": 1,
+   "name": "temperature-5000",
+   "reference": "references/1-temperature-5000.tif",
+   "reference_sha256": "49a687a16691fa97d3a215dfaec4f44c44fd1bc95b8aa98f0fda5e85f5483e90",
+   "xmp": "references/1-temperature-5000.xmp",
+   "xmp_sha256": "c21b70c51b037e6c2c9fc411ed50c34d99534d51236c59b06d6649beb9e4576a"
+  },
+  {
+   "photo": 1,
+   "name": "temperature-8000",
+   "reference": "references/1-temperature-8000.tif",
+   "reference_sha256": "414737128fd926b60ee08873161fba3650adef88f226a27b8574c02407a961ad",
+   "xmp": "references/1-temperature-8000.xmp",
+   "xmp_sha256": "c58027ea435a4abead921e83b28822fc5e55cbb11993b0316badbab028d6eb71"
+  },
+  {
+   "photo": 1,
+   "name": "tint-30",
+   "reference": "references/1-tint-30.tif",
+   "reference_sha256": "bc76e4f57d0dd05aaf4553c19d4d30ae500132b044d2ea99a8a699040fce722b",
+   "xmp": "references/1-tint-30.xmp",
+   "xmp_sha256": "32cb655f4df5d7008a60f2404050a2505177c6c0895a5e23edac75102a449152"
+  },
+  {
+   "photo": 1,
+   "name": "tint+30",
+   "reference": "references/1-tint+30.tif",
+   "reference_sha256": "5407fe79090c87e3367ffad4a76f0ebaf85f8e220698b10a31f04ddd004cda8b",
+   "xmp": "references/1-tint+30.xmp",
+   "xmp_sha256": "b6eddee8a79a2f215ad30d5642932896cb6f9b7ce5b7589cfaabf6ce706c866a"
+  },
+  {
+   "photo": 2,
+   "name": "default",
+   "reference": "references/2-default.tif",
+   "reference_sha256": "91b35ebd400ce003944bf26ca0a293988b1ba034bba13d2b9b18061f8a20e239",
+   "xmp": "references/2-default.xmp",
+   "xmp_sha256": "aaebcd13b09273b508d278d6e45bb441b037cec2b095b3a251ad03f5c047a604"
+  },
+  {
+   "photo": 2,
+   "name": "wb-daylight",
+   "reference": "references/2-wb-daylight.tif",
+   "reference_sha256": "3676f568362a1c96c6df061c94fd9f795e7ad78c60539afc2cc969e674390f0b",
+   "xmp": "references/2-wb-daylight.xmp",
+   "xmp_sha256": "0363f2bb2dcb6c908ea0436b7e2c617ebbf499f5dfa5ba3b2f20fbeee909817c"
+  },
+  {
+   "photo": 2,
+   "name": "wb-tungsten",
+   "reference": "references/2-wb-tungsten.tif",
+   "reference_sha256": "2ba89b0f2042006f930a93d786610c8f0bd1ba07c8e4817328b48af47a539961",
+   "xmp": "references/2-wb-tungsten.xmp",
+   "xmp_sha256": "656cbd39a68507fe9a1459b4d095eec9f84aa216ed638774ad39d82c5cf42543"
+  },
+  {
+   "photo": 2,
+   "name": "wb-fluorescent",
+   "reference": "references/2-wb-fluorescent.tif",
+   "reference_sha256": "7cde0615a0e40d976069ae8a74472e464d88b880bf42fb1c6a1b6b9bc47cb39c",
+   "xmp": "references/2-wb-fluorescent.xmp",
+   "xmp_sha256": "04dac2911d0f7b70c8854c66136f320d1405300e49658c01825e65003711ee6b"
+  },
+  {
+   "photo": 2,
+   "name": "temperature-3200",
+   "reference": "references/2-temperature-3200.tif",
+   "reference_sha256": "935443516521c2059977cf7678ba44f403b023b32dfd4d8d9a5215efce0a610a",
+   "xmp": "references/2-temperature-3200.xmp",
+   "xmp_sha256": "f272ad0bdb684e27edef49d4250ad430c2b55cbfb276e4ba70b4d2c34ce2ffdb"
+  },
+  {
+   "photo": 2,
+   "name": "temperature-5000",
+   "reference": "references/2-temperature-5000.tif",
+   "reference_sha256": "05f4799750714538ffae49b930be86c036231f2f4e8d4a75f8fdb26400a92e9e",
+   "xmp": "references/2-temperature-5000.xmp",
+   "xmp_sha256": "41f3e9ec683a67e3e0c9690ecc44d7947bbd8036a5e83f14ea93e7fafcc9b69b"
+  },
+  {
+   "photo": 2,
+   "name": "temperature-8000",
+   "reference": "references/2-temperature-8000.tif",
+   "reference_sha256": "7fdb6a075715d02568fae695e562455d50481c2388de04a746b789bdd892d3ec",
+   "xmp": "references/2-temperature-8000.xmp",
+   "xmp_sha256": "47f2fdb317011df48486bf6db133beb04ea6ffef928b43a1fb5608eacf991098"
+  },
+  {
+   "photo": 2,
+   "name": "tint-30",
+   "reference": "references/2-tint-30.tif",
+   "reference_sha256": "243fa4818d10b690001d5a50af0f33d2dbd5daf79793444469bef8aff212b95b",
+   "xmp": "references/2-tint-30.xmp",
+   "xmp_sha256": "0e693e331f31addfdd49bda1f369a8d6f68a4552049069e352786d935e613166"
+  },
+  {
+   "photo": 2,
+   "name": "tint+30",
+   "reference": "references/2-tint+30.tif",
+   "reference_sha256": "d1d34bd97f7734cf1f0d43de66e51eb4d2cc73ddb01bc63ba2785b93efc12824",
+   "xmp": "references/2-tint+30.xmp",
+   "xmp_sha256": "4ef4de9e6f6dba9e432bcf04ebd5b834b8ea507e9eb668322da469bea8b7ac70"
+  },
+  {
+   "photo": 3,
+   "name": "default",
+   "reference": "references/3-default.tif",
+   "reference_sha256": "1d7a18b3df37266e571c80022f7d38b85419d451bdd520bc90ff7fcfdf23d89c",
+   "xmp": "references/3-default.xmp",
+   "xmp_sha256": "735b63dc01bc228f66292b2200dd57dfcd69587e92cb5365425cd7bb75a37869"
+  },
+  {
+   "photo": 3,
+   "name": "wb-daylight",
+   "reference": "references/3-wb-daylight.tif",
+   "reference_sha256": "83e6d7579de975ed74b8570d16886c61a47930d2c213bb657d0689e32a8180f1",
+   "xmp": "references/3-wb-daylight.xmp",
+   "xmp_sha256": "319f9ae7fa7d6c7627d74a86d5e1ef560eb400d4041f6f1f8872bf136d982ce9"
+  },
+  {
+   "photo": 3,
+   "name": "wb-tungsten",
+   "reference": "references/3-wb-tungsten.tif",
+   "reference_sha256": "3d754646d30a9678078c095f7e2bc21a5d33707e13787f28f0d57825600fca1e",
+   "xmp": "references/3-wb-tungsten.xmp",
+   "xmp_sha256": "5242729b4b6360a829e37491f4f64a8af5eef3dc9e0814a66fef26eb3f7d0ccd"
+  },
+  {
+   "photo": 3,
+   "name": "wb-fluorescent",
+   "reference": "references/3-wb-fluorescent.tif",
+   "reference_sha256": "278f62eaf20f7320f3ec005b6e9051a748c40cf257c099472c8f71c2d34a0d62",
+   "xmp": "references/3-wb-fluorescent.xmp",
+   "xmp_sha256": "75c376a04245d4d6cd749fae17fb37b4b4003d79c688d7ce7cbfda0b7007f71d"
+  },
+  {
+   "photo": 3,
+   "name": "temperature-3200",
+   "reference": "references/3-temperature-3200.tif",
+   "reference_sha256": "4770cdb3791dfc4e70c2affb409f7bac23e5c41eb0ecea44c57fd96e0a9622b3",
+   "xmp": "references/3-temperature-3200.xmp",
+   "xmp_sha256": "aecdf1839e0148bd7295b505cbcc99d4a98de1f7319cc00b988fb185b0eaf69a"
+  },
+  {
+   "photo": 3,
+   "name": "temperature-5000",
+   "reference": "references/3-temperature-5000.tif",
+   "reference_sha256": "a95d8fa6cb86378d23c6057eb3a388c42b530158411e1aad357e01ad15465d51",
+   "xmp": "references/3-temperature-5000.xmp",
+   "xmp_sha256": "acb2f5c88959883b299322046409aa6315d71de1a10056c927898d11c231f325"
+  },
+  {
+   "photo": 3,
+   "name": "temperature-8000",
+   "reference": "references/3-temperature-8000.tif",
+   "reference_sha256": "402ca7973dd8088444efeb0b651d2374ddf5b8bcfe16add78ef913803ff7cbb7",
+   "xmp": "references/3-temperature-8000.xmp",
+   "xmp_sha256": "89c4ec3c11150738cf4a04b9c4a19d97f177fb7c31635c0078b05ed938d62695"
+  },
+  {
+   "photo": 3,
+   "name": "tint-30",
+   "reference": "references/3-tint-30.tif",
+   "reference_sha256": "d6709e3039b4cd3104060fdd26a8e14db3759b2e9b2903544b27c8d22043aa9b",
+   "xmp": "references/3-tint-30.xmp",
+   "xmp_sha256": "438cd65164211da24f3cda413f30f329db04c9d7b7ffac9dec65a4fad15f5429"
+  },
+  {
+   "photo": 3,
+   "name": "tint+30",
+   "reference": "references/3-tint+30.tif",
+   "reference_sha256": "51d898cf1d5a9b252fcd80e19c96eca7a370a09041eee014669e66ff2710f061",
+   "xmp": "references/3-tint+30.xmp",
+   "xmp_sha256": "31f02916e3f6a6dfe4373c6ef3cc556dc56d23c8316846d95d5e3682d3a2b41a"
+  },
+  {
+   "photo": 4,
+   "name": "default",
+   "reference": "references/4-default.tif",
+   "reference_sha256": "9b321392bc67d0cae4bbcedaee024467cfb0e7ead513ff8a90f83d9ebe4e7844",
+   "xmp": "references/4-default.xmp",
+   "xmp_sha256": "76782ae337c44b56609d7deb0a2d49af3d2d4b15b7a95485ee5ae948d2f879d8"
+  },
+  {
+   "photo": 4,
+   "name": "wb-daylight",
+   "reference": "references/4-wb-daylight.tif",
+   "reference_sha256": "b3333b5d64639847e91166c51a831d58eb7d22d326536c8d1634a6715dc2c559",
+   "xmp": "references/4-wb-daylight.xmp",
+   "xmp_sha256": "503d90e9760a792bbf311ed74b69b6f3709b3045a8d0f74548f0fa5492dde140"
+  },
+  {
+   "photo": 4,
+   "name": "wb-tungsten",
+   "reference": "references/4-wb-tungsten.tif",
+   "reference_sha256": "3fb808b9f9a5bb67e708dce0af2a8f53bb2ee1950debe56c903c0a4135a4fdb1",
+   "xmp": "references/4-wb-tungsten.xmp",
+   "xmp_sha256": "24dae73615e9628bda4b143e0e3cf82092740d4e2499a8bf892058fa6b594e77"
+  },
+  {
+   "photo": 4,
+   "name": "wb-fluorescent",
+   "reference": "references/4-wb-fluorescent.tif",
+   "reference_sha256": "ef4bb9d69bbe27015eee33c77de8f25c74cc713c2c477d6d1226f6e80fabfc09",
+   "xmp": "references/4-wb-fluorescent.xmp",
+   "xmp_sha256": "de3fdd011a429cf723db68bad89e6009367327583e90a75cc69e020053721fa7"
+  },
+  {
+   "photo": 4,
+   "name": "temperature-3200",
+   "reference": "references/4-temperature-3200.tif",
+   "reference_sha256": "9b95aad7b7daca52010743ee95a10b7f8d6632553328d91a9a4fca51b08436f5",
+   "xmp": "references/4-temperature-3200.xmp",
+   "xmp_sha256": "610d53bcb556c5a3e84fa52e5ffae32df6482801c096a70e3fcc604e32f2c255"
+  },
+  {
+   "photo": 4,
+   "name": "temperature-5000",
+   "reference": "references/4-temperature-5000.tif",
+   "reference_sha256": "4fff6b1c563cd1795de3d0e0e78f3f7f6dc00b8c04200393bc8ea8a45a5e8d40",
+   "xmp": "references/4-temperature-5000.xmp",
+   "xmp_sha256": "dd4b63efa5652407458763a7e890bd91a0348eaefbe011a2e43f0fda62a4226d"
+  },
+  {
+   "photo": 4,
+   "name": "temperature-8000",
+   "reference": "references/4-temperature-8000.tif",
+   "reference_sha256": "b219ea2170a4a0cb44bf9d9513d13d325cc2be640b4a8cb4525be455f10257b4",
+   "xmp": "references/4-temperature-8000.xmp",
+   "xmp_sha256": "4dd72f4989117273935c3a53090d3c667689e0b9eb4f966e21855cc51b6f5f7b"
+  },
+  {
+   "photo": 4,
+   "name": "tint-30",
+   "reference": "references/4-tint-30.tif",
+   "reference_sha256": "25472a5c57085159cfa9e454b60dd7da1888e58301c23320bdc0af8b6054884c",
+   "xmp": "references/4-tint-30.xmp",
+   "xmp_sha256": "98de3ec8f4d88c631dce3f206cc5ca2887c08144c4c05d9c84b704f6e45cf010"
+  },
+  {
+   "photo": 4,
+   "name": "tint+30",
+   "reference": "references/4-tint+30.tif",
+   "reference_sha256": "5b432172680ab6d12aed9489ce0e7a3842f512c429c01da151087276d992009f",
+   "xmp": "references/4-tint+30.xmp",
+   "xmp_sha256": "55da4df9bceedf83c6589517bc87b510b8ca8d3e69a832b9d660a865d889805d"
+  },
+  {
+   "photo": 5,
+   "name": "default",
+   "reference": "references/5-default.tif",
+   "reference_sha256": "c206831d543dd2358d382ef48e96b7e7b2632059c44035b4b7495016177d50ae",
+   "xmp": "references/5-default.xmp",
+   "xmp_sha256": "26e97b8d406f1ca93038efbfc5cad780253e1a50dc36f739229e2a8954f7857d"
+  },
+  {
+   "photo": 5,
+   "name": "wb-daylight",
+   "reference": "references/5-wb-daylight.tif",
+   "reference_sha256": "ee6aadfd60687d93e7417a6c870972c05877a0b1d725c58dc72107e50708abb8",
+   "xmp": "references/5-wb-daylight.xmp",
+   "xmp_sha256": "8efbdebe0f0546f5f55fa409cc921c618cc70193a1d3fcecc40968a947cc0484"
+  },
+  {
+   "photo": 5,
+   "name": "wb-tungsten",
+   "reference": "references/5-wb-tungsten.tif",
+   "reference_sha256": "2ddcff9785600f2ac587a669303f5d22de29448842cb154ec223e36054ac4e47",
+   "xmp": "references/5-wb-tungsten.xmp",
+   "xmp_sha256": "2b8395ef117985b771d8055951925ff9ae023c1377fb2b92e38b48d2f9175c4b"
+  },
+  {
+   "photo": 5,
+   "name": "wb-fluorescent",
+   "reference": "references/5-wb-fluorescent.tif",
+   "reference_sha256": "695f4704e0a9234bc62772b0e89e428eb3ecd3d8852f26a9423ff2a82db7cd61",
+   "xmp": "references/5-wb-fluorescent.xmp",
+   "xmp_sha256": "734ea0660e1bc4ca3eed9ff7abf75486afacf57ea66acdf314b96301c6574ca7"
+  },
+  {
+   "photo": 5,
+   "name": "temperature-3200",
+   "reference": "references/5-temperature-3200.tif",
+   "reference_sha256": "d23f097a1b5d61ed33ba1764657449bebef8c9af2ea8bfcd14087209c2338303",
+   "xmp": "references/5-temperature-3200.xmp",
+   "xmp_sha256": "9badfdc2a2defea615fb063f0a6e932cd1342c1693f25d15e41d8ada9dfe067e"
+  },
+  {
+   "photo": 5,
+   "name": "temperature-5000",
+   "reference": "references/5-temperature-5000.tif",
+   "reference_sha256": "db87571d8befcd95beac3d09a0b77eb3203c9e213af9b00d072dac726313b4ad",
+   "xmp": "references/5-temperature-5000.xmp",
+   "xmp_sha256": "0979213a7220c0d955671a591d5e9b8f9f37fe031ea79710e6d6f810f9026d53"
+  },
+  {
+   "photo": 5,
+   "name": "temperature-8000",
+   "reference": "references/5-temperature-8000.tif",
+   "reference_sha256": "9fc3103550ea4272a65b3473aafb0c8050bf7e081824bb65e7060f3d9aab6efd",
+   "xmp": "references/5-temperature-8000.xmp",
+   "xmp_sha256": "341dfefed5c178792aeae8eb06448e1976baf9448486a9ce65b6983550516532"
+  },
+  {
+   "photo": 5,
+   "name": "tint-30",
+   "reference": "references/5-tint-30.tif",
+   "reference_sha256": "9c8837930cba59d1efca64641ec558527765a1b9c18094ba65b78441c95e4294",
+   "xmp": "references/5-tint-30.xmp",
+   "xmp_sha256": "f1b18f2ae790d1cef18f6f93ecad69b6ffb8567c2cafdf4265ee53d3c804c8a6"
+  },
+  {
+   "photo": 5,
+   "name": "tint+30",
+   "reference": "references/5-tint+30.tif",
+   "reference_sha256": "3a163609331ba5b228abaa8a6d1820475019d192e49ef74cac301484039b86d0",
+   "xmp": "references/5-tint+30.xmp",
+   "xmp_sha256": "063f628967c913513f43dc3837764c98236d1717645ab070af0b00ce70267982"
+  },
+  {
+   "photo": 6,
+   "name": "default",
+   "reference": "references/6-default.tif",
+   "reference_sha256": "024a3817b02d5c4516a6160cab26fcb9ab05162d2d73797d635d65cc119538f8",
+   "xmp": "references/6-default.xmp",
+   "xmp_sha256": "5d03894ae140b7ccf913801aa5e0b0168fa0f9270086b6086bd62f95c10e1b20"
+  },
+  {
+   "photo": 6,
+   "name": "wb-daylight",
+   "reference": "references/6-wb-daylight.tif",
+   "reference_sha256": "569069d6fe1bcb5e431ff52ceb945140258aee56ca71122453dbac35cfcc8ba7",
+   "xmp": "references/6-wb-daylight.xmp",
+   "xmp_sha256": "0620fd1f2dccab5abb964d420a42b9fff16b25cf641a4cfc001fb750e18b81ec"
+  },
+  {
+   "photo": 6,
+   "name": "wb-tungsten",
+   "reference": "references/6-wb-tungsten.tif",
+   "reference_sha256": "f0237b85583c5467bdb36d6f66adf3d7e30ddb91b9b8703ea528f8f5d511c92f",
+   "xmp": "references/6-wb-tungsten.xmp",
+   "xmp_sha256": "958c53f02d6ef862ef5bf1f36646b3d2c9334dfd14df119dffd7b0012a52b398"
+  },
+  {
+   "photo": 6,
+   "name": "wb-fluorescent",
+   "reference": "references/6-wb-fluorescent.tif",
+   "reference_sha256": "5793ce9b27dcfac3e14a393a813907239b5a4971f3b9dccde49f414006729897",
+   "xmp": "references/6-wb-fluorescent.xmp",
+   "xmp_sha256": "b8f1d8c51316750a5d7a22f7aacb3386698d35cf969fc4d97e946012769636e1"
+  },
+  {
+   "photo": 6,
+   "name": "temperature-3200",
+   "reference": "references/6-temperature-3200.tif",
+   "reference_sha256": "8e274904c6bbf51f81936403483a45f8ebdb8c09a69bf1fb71447f278b6f39b3",
+   "xmp": "references/6-temperature-3200.xmp",
+   "xmp_sha256": "31136b107b2e470e23d294c8f7a9f40ad6a93a3d2a111df63aa27b20301a049d"
+  },
+  {
+   "photo": 6,
+   "name": "temperature-5000",
+   "reference": "references/6-temperature-5000.tif",
+   "reference_sha256": "f6f0d5650a6d905d63fb67ba87d5a545596684e2606634c3e373c39a487c03e4",
+   "xmp": "references/6-temperature-5000.xmp",
+   "xmp_sha256": "fe2d14c780d11f6f39df6d14348d107bb9cc2dd5b15ac16a6167e1ba132c3ee4"
+  },
+  {
+   "photo": 6,
+   "name": "temperature-8000",
+   "reference": "references/6-temperature-8000.tif",
+   "reference_sha256": "a9bdd8bc682add2fb0ecce289c423ebfe3af5ba4b62d5940e56060102a3dcc6c",
+   "xmp": "references/6-temperature-8000.xmp",
+   "xmp_sha256": "23dc6ecc217286405f0f3fbbcf72906fa9d8d751155cc591f52580ba31413608"
+  },
+  {
+   "photo": 6,
+   "name": "tint-30",
+   "reference": "references/6-tint-30.tif",
+   "reference_sha256": "bb783c849bd39ed96250923cb4816c35960a99507c2e5ee0c8b102ac1b00abb7",
+   "xmp": "references/6-tint-30.xmp",
+   "xmp_sha256": "2ca53877ea448ef4bb480c1d2dc5489dc2a0420e7630292d8b62e8c8fc1155a3"
+  },
+  {
+   "photo": 6,
+   "name": "tint+30",
+   "reference": "references/6-tint+30.tif",
+   "reference_sha256": "ab638c4356d931d8881948cd3b7f26d1984c77326e08eb8bd8ce4b33cd818a95",
+   "xmp": "references/6-tint+30.xmp",
+   "xmp_sha256": "ea780b96c163426282d69b8383a6a942f36a95264ed1c690e7b5946e92aaac04"
+  },
+  {
+   "photo": 7,
+   "name": "default",
+   "reference": "references/7-default.tif",
+   "reference_sha256": "f983c3afb01c4e1a61463c1b6b441c30688842250df04deeb30b3454ba53bc8d",
+   "xmp": "references/7-default.xmp",
+   "xmp_sha256": "7c7819caa15e6763d8e96c02a1b47cd776304ab4fa2a3b309d9c785ab465b730"
+  },
+  {
+   "photo": 7,
+   "name": "wb-daylight",
+   "reference": "references/7-wb-daylight.tif",
+   "reference_sha256": "c71ec42049022323dba8bc1073ce2bc095b2c2d9f67e503c36895d42afaefbef",
+   "xmp": "references/7-wb-daylight.xmp",
+   "xmp_sha256": "5a5be6122778e484e6c681a10810dec12c8054bcc65525165cfed47799aedce6"
+  },
+  {
+   "photo": 7,
+   "name": "wb-tungsten",
+   "reference": "references/7-wb-tungsten.tif",
+   "reference_sha256": "771df36084d9f133d1ac5fd54df751b4014f83bcc68f54495a0901e2e42595af",
+   "xmp": "references/7-wb-tungsten.xmp",
+   "xmp_sha256": "f5685155bfd3b005c8b548b04773c1beba3a63114ac6604ef21b2e5b20611b59"
+  },
+  {
+   "photo": 7,
+   "name": "wb-fluorescent",
+   "reference": "references/7-wb-fluorescent.tif",
+   "reference_sha256": "81bdedf8cbca9afdc8f0c8c7495e07a341e34774c1cc81d9e43ffc2de662fa5a",
+   "xmp": "references/7-wb-fluorescent.xmp",
+   "xmp_sha256": "9e2c28c9104517d02eec166d3e78c561d7e504489569833a467b1cc69c11c524"
+  },
+  {
+   "photo": 7,
+   "name": "temperature-3200",
+   "reference": "references/7-temperature-3200.tif",
+   "reference_sha256": "c2bc0b94ed494cc10feb6800aba59f21d97312440cf232f5167154cbbe6f589d",
+   "xmp": "references/7-temperature-3200.xmp",
+   "xmp_sha256": "7cc3992381b57364d52fe7ff659a087dd788e2489d0597b96e28be28c2c80c47"
+  },
+  {
+   "photo": 7,
+   "name": "temperature-5000",
+   "reference": "references/7-temperature-5000.tif",
+   "reference_sha256": "945072adecca8c17279cc3fee4e962320145c18aa3886f61040b9e9b1ec61dbc",
+   "xmp": "references/7-temperature-5000.xmp",
+   "xmp_sha256": "862d24d8cf0196aceb579b1499922aa20f48be3bfe2d17ae38c460ab2178e2cd"
+  },
+  {
+   "photo": 7,
+   "name": "temperature-8000",
+   "reference": "references/7-temperature-8000.tif",
+   "reference_sha256": "71041d46ee6b02c583082cb09570f826eba6fb3f2a9b989aae792f1ccf589ab8",
+   "xmp": "references/7-temperature-8000.xmp",
+   "xmp_sha256": "0c19894601d659f2e4267e51fe036c83b7dffd33ad642068d4aa33dec2bc33d2"
+  },
+  {
+   "photo": 7,
+   "name": "tint-30",
+   "reference": "references/7-tint-30.tif",
+   "reference_sha256": "4eebf7b8ad648698e1576c517a1a6076c15461305b9da5968ec8519273f86cb4",
+   "xmp": "references/7-tint-30.xmp",
+   "xmp_sha256": "22a135a08cf8f82843007b6dbb780ee50d5efcee1a890d0ab63b0a97e224b304"
+  },
+  {
+   "photo": 7,
+   "name": "tint+30",
+   "reference": "references/7-tint+30.tif",
+   "reference_sha256": "52ed55460f423e6b7efda9061a7dfe9eb436b87f84b5146635307bc53fa94f94",
+   "xmp": "references/7-tint+30.xmp",
+   "xmp_sha256": "0849a7254cbec51680f5e12f679e62f504f6d9e0d37768e8a232438d1eb68f34"
+  },
+  {
+   "photo": 8,
+   "name": "default",
+   "reference": "references/8-default.tif",
+   "reference_sha256": "2f1f42ad1da1abf00ded213376a0ccf14ef1cc3ecb1d884cf9343c6dedd04ac9",
+   "xmp": "references/8-default.xmp",
+   "xmp_sha256": "9dd26f612029c56ec882962be9fac408fe508eb37267f6a9931e0c1fa0165317"
+  },
+  {
+   "photo": 8,
+   "name": "wb-daylight",
+   "reference": "references/8-wb-daylight.tif",
+   "reference_sha256": "3f90c99d1241577954e1faef6c9c0e113924d192fc12d20957aecb615bde12d3",
+   "xmp": "references/8-wb-daylight.xmp",
+   "xmp_sha256": "28b9b9267c20d1580a08725922142f59f2f4acf50eb259bda2077bd8368f1ee8"
+  },
+  {
+   "photo": 8,
+   "name": "wb-tungsten",
+   "reference": "references/8-wb-tungsten.tif",
+   "reference_sha256": "b67c2ece97cba7a84c2176ddaa2d55848865808e817b3f44a981b6859d16a5b0",
+   "xmp": "references/8-wb-tungsten.xmp",
+   "xmp_sha256": "98a4925a1be8878e320267780640e8e547cd48d3f9ae541e3e36f1648aeb4a1d"
+  },
+  {
+   "photo": 8,
+   "name": "wb-fluorescent",
+   "reference": "references/8-wb-fluorescent.tif",
+   "reference_sha256": "00fccb7a70efe7505fb2b2b3669209a104599b77d9bed771cbeb9358cad61df1",
+   "xmp": "references/8-wb-fluorescent.xmp",
+   "xmp_sha256": "50217e7e4342c6f021a6bd5bb2cae2bc2862c5d08a468b1587915d8805fe1ebb"
+  },
+  {
+   "photo": 8,
+   "name": "temperature-3200",
+   "reference": "references/8-temperature-3200.tif",
+   "reference_sha256": "ffd177ab44973869e9f8470938c24738e23180fb17cc44455d6298ff7d9ec771",
+   "xmp": "references/8-temperature-3200.xmp",
+   "xmp_sha256": "d96593d3b6c23a38ca5b5b6ca965ca8d18160e322824414c1a6ef7e4ba765a21"
+  },
+  {
+   "photo": 8,
+   "name": "temperature-5000",
+   "reference": "references/8-temperature-5000.tif",
+   "reference_sha256": "7b38fc17a506be3d71e1337df5c37cf587a907c33fbbfe54ef8fadcccbc5ecc4",
+   "xmp": "references/8-temperature-5000.xmp",
+   "xmp_sha256": "89cc5418d7432d2a4d682b4284649943a57a6bdfe151b2332ecc7eccbfd302a1"
+  },
+  {
+   "photo": 8,
+   "name": "temperature-8000",
+   "reference": "references/8-temperature-8000.tif",
+   "reference_sha256": "02042791bd593e1d641cdcdbdf9e724988b4b584e9e4bb7a67121126a1d3e988",
+   "xmp": "references/8-temperature-8000.xmp",
+   "xmp_sha256": "9d34f405c6320f751cf46357661327b3208ca0d964de9569275418101914f06f"
+  },
+  {
+   "photo": 8,
+   "name": "tint-30",
+   "reference": "references/8-tint-30.tif",
+   "reference_sha256": "5fc7fb620b7f7e747f4ba31ba24351ee45a3e4aab06e6cb53a8445019068f879",
+   "xmp": "references/8-tint-30.xmp",
+   "xmp_sha256": "8c2bb8613467a41caab39663701b4932905c68ca44ad0e4c42cada3b8d479a4b"
+  },
+  {
+   "photo": 8,
+   "name": "tint+30",
+   "reference": "references/8-tint+30.tif",
+   "reference_sha256": "283d589540eba8107cc7e4efac2cdc60376635f2eeb7565fb315ad8cfd3c04d8",
+   "xmp": "references/8-tint+30.xmp",
+   "xmp_sha256": "47c6b5505cce4f257d739034fbc674d1cd1ce77edb3ca34bc573dff177319357"
+  },
+  {
+   "photo": 9,
+   "name": "default",
+   "reference": "references/9-default.tif",
+   "reference_sha256": "423d1af27a08a37f04e6e94068bed275c15d243e483179bb5761a5b9a888a489",
+   "xmp": "references/9-default.xmp",
+   "xmp_sha256": "ece0706ad26783accbc39059541c8e95b220055c9cdb5d613c4c00e98b04fa1e"
+  },
+  {
+   "photo": 9,
+   "name": "wb-daylight",
+   "reference": "references/9-wb-daylight.tif",
+   "reference_sha256": "863ff84bd6a75980dbc8e531d83ebb6d2124ab56fe917fa5723fd7490c876403",
+   "xmp": "references/9-wb-daylight.xmp",
+   "xmp_sha256": "9e2bc92abcbf15500bec49ce3e5caa1d313b335edc89b179305156a91fe4e8be"
+  },
+  {
+   "photo": 9,
+   "name": "wb-tungsten",
+   "reference": "references/9-wb-tungsten.tif",
+   "reference_sha256": "832ec61c3ea9480e4a355d16c85a2998fc7e8b366b8314fb05c5e63b77772e0a",
+   "xmp": "references/9-wb-tungsten.xmp",
+   "xmp_sha256": "a22760c5902de7fe05a29f77cf171bf66052fb3a835775727fa162294f5a0fa8"
+  },
+  {
+   "photo": 9,
+   "name": "wb-fluorescent",
+   "reference": "references/9-wb-fluorescent.tif",
+   "reference_sha256": "8be2c8c806d37a77804c1b9762d2f8e3c2c9c17e03f55a03d8b54591a9bb54e6",
+   "xmp": "references/9-wb-fluorescent.xmp",
+   "xmp_sha256": "1d406198769f441ab5ccc7da4c64585f1629954a5942bf16711287ab3118c1d4"
+  },
+  {
+   "photo": 9,
+   "name": "temperature-3200",
+   "reference": "references/9-temperature-3200.tif",
+   "reference_sha256": "84b25488a4f34b223480a33d7bfa070672566bdbe10e958dc122f4a20ebb02e5",
+   "xmp": "references/9-temperature-3200.xmp",
+   "xmp_sha256": "c38d10216947b0b03a8c29a2a4ce60713fb7679d3affa4617d763078ad52ad34"
+  },
+  {
+   "photo": 9,
+   "name": "temperature-5000",
+   "reference": "references/9-temperature-5000.tif",
+   "reference_sha256": "0e1dce58663789c5bc2471045addb987c9cbcf800b7016fbe48a5df2263afb4b",
+   "xmp": "references/9-temperature-5000.xmp",
+   "xmp_sha256": "95a0f0b037453df9fcc17c8c71c3bc2fb1f77c3a3acf233da7e4cb32a1de4f4f"
+  },
+  {
+   "photo": 9,
+   "name": "temperature-8000",
+   "reference": "references/9-temperature-8000.tif",
+   "reference_sha256": "2864938331093e27ec11d2017b3360667cd05768fc40199e2b1495d111180af3",
+   "xmp": "references/9-temperature-8000.xmp",
+   "xmp_sha256": "004bed6e79f4eb8e8a50861e837af7fcb692a92c16f2aff033571ee23fabd4ce"
+  },
+  {
+   "photo": 9,
+   "name": "tint-30",
+   "reference": "references/9-tint-30.tif",
+   "reference_sha256": "7edc49652fc2370a45cf1a723f263389e7f6d2376ad858b80ab964796e853d83",
+   "xmp": "references/9-tint-30.xmp",
+   "xmp_sha256": "162fb72625eaf8f5d25a0250dd7f665d765df6843823d66030454d23354e94e6"
+  },
+  {
+   "photo": 9,
+   "name": "tint+30",
+   "reference": "references/9-tint+30.tif",
+   "reference_sha256": "92d8e10447a311a0ad3187635386ab5b02681ad8b22d0aede68050230ca76485",
+   "xmp": "references/9-tint+30.xmp",
+   "xmp_sha256": "34c2d42206450892f8d55863025a8aa8f8349da4fa1258dc7b387dce374072ae"
+  }
+ ],
+ "skipped": []
+}

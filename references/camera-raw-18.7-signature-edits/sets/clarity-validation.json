@@ -1,0 +1,134 @@
+{
+ "schema": 1,
+ "set": "clarity-validation",
+ "settings": [
+  "clarity-100",
+  "clarity-50",
+  "clarity-25",
+  "clarity+25",
+  "clarity+50",
+  "clarity+100"
+ ],
+ "photos": [
+  {
+   "raw": "raws/signature-edits/_MGL0192.CR2",
+   "sha256": "0201e5a2ce31e3d61af5db8fbaf97cc2e09a83e26942e4cf2c907cbf907c03db",
+   "p90_L": 13.525838321925468,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS 7D",
+   "subject": "woman with tattoos and sunglasses sitting in a dim arcade",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/_DSC0580.NEF",
+   "sha256": "31aa708a3b55499fcca40a04336567c235cebef646abc93e344764b0e9dd1d31",
+   "p90_L": 12.946647063881416,
+   "stratum": "low",
+   "make": "Nikon",
+   "model": "D7000",
+   "subject": "Tokyo Tower illuminated at night against a city skyline",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/free raw files - credit signatureedits.com - CF000981.dng",
+   "sha256": "bc5e8af06334e715ba9524069fac4c09e1292da99f75d6b2dccbb7f7c87f296b",
+   "p90_L": 25.913585099804564,
+   "stratum": "low",
+   "make": "Phase One A/S",
+   "model": "IQ250",
+   "subject": "female dancer mid-leap against a black backdrop",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/Copy of cvl5p6_adventurekid - from signatureedits.com.arw",
+   "sha256": "012aa6db443231a8b976a3489691298c7451514a5d17be5ace2ddbb55b825efc",
+   "p90_L": 37.775968556816046,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "SLT-A77V",
+   "subject": "person standing in a mossy forest",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/IMG_4525.cr2",
+   "sha256": "0fe2aa8ce3db9196aab1bbbda5f996eb9833e32ba048d7f31487f4dacef25305",
+   "p90_L": 57.80783548880318,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 750D",
+   "subject": "couple holding hands in a vineyard",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/M50R3197.dng",
+   "sha256": "ae83bb3ad7d71c3b80a247f514ffe316510dbc8fbbc0c1ec18bd429f743f4515",
+   "p90_L": 57.20962863505874,
+   "stratum": "mid",
+   "make": "Fujifilm",
+   "model": "GFX 50R",
+   "subject": "woman sitting in a vintage car",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits Free Raws - 1 (103).NEF",
+   "sha256": "3ee510044371f45dffaf78d77d76fbb59393fb01bc10ec5519e359bebddbcad0",
+   "p90_L": 61.98264216960476,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "D7200",
+   "subject": "young woman smiling while leaning against a wall",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/P1012775.dng",
+   "sha256": "0573c6c1a817239db6b0028bb83291be5cd250143ee9f9e9faa870c0e513d0ec",
+   "p90_L": 53.79426637890456,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DC-S1",
+   "subject": "silhouette of a man standing on a rocky beach at dusk",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/IMG_7495.CR2",
+   "sha256": "0ed65f1923b881cd09b07d73732ee9bf3b996a6302f6490ccd288cc89d4f7957",
+   "p90_L": 83.12550180892967,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS Rebel T7i",
+   "subject": "woman leaning against a brick wall in an urban setting",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/July_mReKo_002.DNG",
+   "sha256": "e5d9b5ba519f8abc0126d03fabe72508d4c3d8c5d45b22c1007ec0dce26160a4",
+   "p90_L": 88.35092438025104,
+   "stratum": "high",
+   "make": "Hasselblad",
+   "model": "L1D-20c",
+   "subject": "snow-capped mountain under a partly cloudy sky",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/ free raw files from signatureedits.com 1 (72).NEF",
+   "sha256": "0831fd4abfa6b5aae00963b04cc20a75462427c11d11c97e8a4d7ac9fed322cd",
+   "p90_L": 82.08327216391433,
+   "stratum": "high",
+   "make": "Nikon",
+   "model": "D7200",
+   "subject": "woman leaning against a wall",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/P1011574.dng",
+   "sha256": "04d1d01573ea14986601c5fb61c20cb894e28064b5c2194d2752d88cb34dc6a5",
+   "p90_L": 77.81709404466207,
+   "stratum": "high",
+   "make": "Panasonic",
+   "model": "DC-S1",
+   "subject": "white marble statue of Abraham Lincoln seated in a grand hall",
+   "score": 2
+  }
+ ]
+}

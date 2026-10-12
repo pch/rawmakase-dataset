@@ -1,0 +1,224 @@
+{
+ "schema": 1,
+ "set": "whites-train",
+ "settings": [
+  "whites-100",
+  "whites-50",
+  "whites-25",
+  "whites+25",
+  "whites+50",
+  "whites+100"
+ ],
+ "photos": [
+  {
+   "raw": "raws/signature-edits/Copy of free raws from signatureedits.com - tag @signatureeditsco - IMG_9564.dng",
+   "sha256": "0a60d24d6d39fa83c74273d1fa9c6f4a9de27c943b322fb0624f1c021e99b06d",
+   "p90_L": 32.42382197496292,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS 6D",
+   "subject": "woman in a sequined green gown posing in a studio",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/Copy of Signature Edits Free Raw Photos - _DSC4471.dng",
+   "sha256": "9dd12be319733bd9ad1d17031d18f66018870a131adf31efc2e759a1aa8b25ee",
+   "p90_L": 29.629408066891475,
+   "stratum": "low",
+   "make": "Nikon",
+   "model": "D800E",
+   "subject": "ballerina in red leotard performing a pose on pointe",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/credit @ryanbreitkreutz signature edits free raw photos DSC01153.ARW",
+   "sha256": "5dee4eb2351133d6947bcd1a7c66d349172fd40c0baaf07f2212ee15627cb350",
+   "p90_L": 16.251516174879033,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "ILCE-7M3",
+   "subject": "person standing in a cave with a waterfall",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/Free Raw Files - Tag @signatureeditsco IMG_0170.cr2",
+   "sha256": "6c130349a2d5a77d1cfdb8182983de2e709cfcefa95c70f0f60e7c5daae10e0f",
+   "p90_L": 35.50261215038755,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS 650D",
+   "subject": "woman in a sheer dress standing by a doorway",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/Tag @ryanbreitkreutz - Free files from @signatureeditsco DSC00841.ARW",
+   "sha256": "5f882caf3dd79e432571dd84a7f7a5bbd58108e9b8cb6fe6b51391d2cdaacf17",
+   "p90_L": 1.770271627178426,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "ILCE-7M4",
+   "subject": "silhouette of a person at the top of a staircase looking into a lit doorway",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/Free Raw Files - Tag @signatureeditsco IMG_9034.CR2",
+   "sha256": "84f96a48f4493ef0cb51d074400b24d5776fd1acbf91edb6bd73e0b25ab0496b",
+   "p90_L": 36.891220843849574,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS 6D",
+   "subject": "Milky Way galaxy in night sky",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - DSC01158.ARW",
+   "sha256": "80367d293602248afd5339cfe5221dd30e9947652a02b40186f4f5c4fbb63b60",
+   "p90_L": 38.985158086942754,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "ILCE-7M2",
+   "subject": "woman sitting on floor in dimly lit room",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/APC_0245-2.DNG",
+   "sha256": "a877e28229d29eb4b8c1c634eaa7bd9a6ee885067bf24bd95d8c02e01e69607b",
+   "p90_L": 69.02332224544276,
+   "stratum": "mid",
+   "make": "Apple",
+   "model": "iPhone XS Max",
+   "subject": "person walking down a sunlit urban street",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/IMG_0188.cr2",
+   "sha256": "0a735f621fc93b2c8582a1646cbd17e48d14091b535b3d1c5c291ee713638694",
+   "p90_L": 64.51651769554148,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 550D",
+   "subject": "young woman walking barefoot on a forest path",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits free raw files tag @signatureeditsco RAW_0833.NEF",
+   "sha256": "01fca435809587d48fde50d724144c28333317c086a0f4a1306768f3c0746ed0",
+   "p90_L": 74.47450978473184,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "D5600",
+   "subject": "motorcyclist riding on a dirt track",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/  tag @ryanbreitkreutz - signature edits free raw photos.ARW",
+   "sha256": "18c509459808b235d5e3894d3116d3094e124945875a37276760d87fc49aceda",
+   "p90_L": 47.68243569421208,
+   "stratum": "mid",
+   "make": "Sony",
+   "model": "ILCE-7M3",
+   "subject": "waterfall cascading into a pool surrounded by forested cliffs",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/1 signatureedits9823u.dng",
+   "sha256": "c7684fe33a13602b26f0bf8ae2a9fe4a3a5eb1bbd59a79a5642c63b41888732a",
+   "p90_L": 55.46650659558534,
+   "stratum": "mid",
+   "make": "Apple",
+   "model": "iPhone X",
+   "subject": "white SUV parked on a sandy beach near rocky coastline",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/Canon-6D-Shotkit-11.CR2",
+   "sha256": "0b4e66f1c648268544ae2506f2e0b9cdee085093666e47b16ce74ad97e61a744",
+   "p90_L": 65.59872991024392,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 6D",
+   "subject": "wedding couple sitting on a bench in a lush greenhouse",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/DSC_8373.NEF",
+   "sha256": "2d788cb1f864a0615ebe3bf42dc3b17ae917afd8ef8bf21963ed3f1cf6097cd4",
+   "p90_L": 64.5925736221015,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "D610",
+   "subject": "underwater couple in flowing dresses",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/APC_0083.DNG",
+   "sha256": "14f87f9539c34f1e54e02248d8aed84404d2908f3bcf22ef16edbe4710cc95e1",
+   "p90_L": 81.62720095577437,
+   "stratum": "high",
+   "make": "Apple",
+   "model": "iPhone XS Max",
+   "subject": "young woman in denim jacket standing in front of a rainbow-themed store window",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/IMG_2884.CR2",
+   "sha256": "06b4c6cc40925e024faaf4c5e5cf70b6e00eaf58d3dd9fec8cde9149de97a0aa",
+   "p90_L": 90.56112321399881,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS 6D",
+   "subject": "portrait of a woman with curly hair",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco - free raws from signatureedits.comDSC_3024.dng",
+   "sha256": "0518804d22d90b73ea237e01db03f151db6575520c5436edb9a80896f62b6917",
+   "p90_L": 92.42545819104068,
+   "stratum": "high",
+   "make": "Nikon",
+   "model": "D800E",
+   "subject": "portrait of a woman with curly hair",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/Instagram----dave_design_official (3).RW2",
+   "sha256": "abec576d99ffedda5664a48966b223ec29c2a8d958cd0e5e2dfd7710017ef737",
+   "p90_L": 75.11630470058523,
+   "stratum": "high",
+   "make": "Panasonic",
+   "model": "DMC-G7",
+   "subject": "woman with curly hair wearing sunglasses and a yellow dress",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/Tag @signatureeditsco LAR08325.ARW",
+   "sha256": "046f4b47d8152a73e9f791c46e9e9481128a2317e427122e24ab9ca2f4a8b9b7",
+   "p90_L": 81.33712252027524,
+   "stratum": "high",
+   "make": "Sony",
+   "model": "ILCE-7M3",
+   "subject": "giraffe head and neck against a bright blue sky",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/signature edits APC_00171.dng",
+   "sha256": "233f64f11514e7fca0420d459c12fe54976eaf2be858deea4c9275d41d8b8b5a",
+   "p90_L": 93.68810490106559,
+   "stratum": "high",
+   "make": "Apple",
+   "model": "iPhone XS Max",
+   "subject": "woman in denim dress holding a mug",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/ Signature Edits Free Raw Photos - By Tawny Horton - 5E0C9673.CR2",
+   "sha256": "06d079ce7ac9d38f9898818234a8704bd2f68e429c5253f709b8f087c4b4047b",
+   "p90_L": 83.24698609551098,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS 5D Mark III",
+   "subject": "woman in black dress and sunglasses standing in front of a building",
+   "score": 2
+  }
+ ]
+}

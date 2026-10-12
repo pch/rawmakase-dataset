@@ -1,0 +1,172 @@
+{
+ "schema": 1,
+ "set": "color-wb-holdout",
+ "settings": [
+  "wb-daylight",
+  "wb-tungsten",
+  "wb-fluorescent",
+  "temperature-3200",
+  "temperature-5000",
+  "temperature-8000",
+  "tint-30",
+  "tint+30"
+ ],
+ "photos": [
+  {
+   "raw": "raws/signature-edits/Mthembeni Mavundla (2).CR2",
+   "sha256": "ddc0a86b9ee24872dcdd67ba689dad2b6a2aee8c13e3a761e255d39427ac872e",
+   "p90_L": 5.354358717575379,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS M3",
+   "subject": "portrait of a man in a dark setting",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/- credit_signatureedits.com - DSC.3003.dng",
+   "sha256": "47a4b56a36a8799ba45dc9f5e967f52f4a34931ac2c18429843d372d1ebe5a6a",
+   "p90_L": 21.124764939028193,
+   "stratum": "low",
+   "make": "Leica",
+   "model": "SL2-S",
+   "subject": "shirtless man smoking in dim light",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/Free Raws From @signatureeditsco FIL_2407.dng",
+   "sha256": "336a6fdcbbe6a0b66cb5b439f45ddc46136954795101f11465f0a359f50c95bb",
+   "p90_L": 17.139774553816036,
+   "stratum": "low",
+   "make": "Nikon",
+   "model": "D7100",
+   "subject": "man in sunglasses posing in a train station",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/DSC00086.ARW",
+   "sha256": "196c168ab39369c031638ecf1705d85a55af43bfe370e6a8006719c6344db936",
+   "p90_L": 15.994231273907769,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "ILCE-7RM2",
+   "subject": "star-filled night sky over a lake with silhouetted trees and mountains",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/IMG_6484.CR2",
+   "sha256": "2853254b1fba42ab37ce3a319814e7ed0cb5038a796df2b56d5c3882db8f50c0",
+   "p90_L": 58.380958363335566,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 700D",
+   "subject": "interior of a multi-level parking garage with yellow support beams",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/free raw files - please credit signatureedits.com IDSC_0108.nef",
+   "sha256": "3d5c8cba5f26387e94ced41da25971c4a1d1133b7a3cbe693fa7c1b3c23fcf2c",
+   "p90_L": 64.56613910035088,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "D3100",
+   "subject": "woman with paint on her face and hands holding a paintbrush",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/DSC00056.ARW",
+   "sha256": "20b0f6a36700f360e1decaa446bb4b4cbbc2d497f5ef540d1f5387d5e6f9a980",
+   "p90_L": 40.23741825952833,
+   "stratum": "mid",
+   "make": "Sony",
+   "model": "ILCE-7RM2",
+   "subject": "star-filled night sky reflected in a lake with a snow-capped mountain",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/7K1A8651.CR2",
+   "sha256": "3fe0b9edd99edba4f2f3661b268544b30f583fb7f6a541688cbcdeb630e42028",
+   "p90_L": 42.44427315201913,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 5D Mark IV",
+   "subject": "man in a jacket under colorful lights",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/7K1A8951.CR2",
+   "sha256": "8aad76eaf296fdbdb692a0e83ee896b7d18e15553c3972fd9a3623ba6b91cfd8",
+   "p90_L": 77.28440173595605,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS 5D Mark IV",
+   "subject": "woman at an outdoor table",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/credit @signatureeditsco - signatureedits.com - 01020304.dng",
+   "sha256": "96e82feb5d790e4ae3706e8fed75c5bc73d1a7b514d640a739a2715587fc7a32",
+   "p90_L": 83.26046687718737,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS-1Ds Mark III",
+   "subject": "woman washing hands in bathroom",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/M4_24117.CR2",
+   "sha256": "170aa36db600207d4d37b7c14b835cb876cc414968a504160b3e9b5bb6bf5460",
+   "p90_L": 90.78639714403866,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS 5D Mark IV",
+   "subject": "bride with floral crown overlooking a lake",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco DSC_3262.NEF",
+   "sha256": "0cefd8214fff366518864dcfc8a0da81cf7c797af4a8f90f000871e33f679dc1",
+   "p90_L": 76.29755905092256,
+   "stratum": "high",
+   "make": "Nikon",
+   "model": "D5100",
+   "subject": "woman in a sleeveless mint dress with a white collar",
+   "score": null
+  }
+ ],
+ "crs": {
+  "wb-daylight": {
+   "WhiteBalance": "Daylight"
+  },
+  "wb-tungsten": {
+   "WhiteBalance": "Tungsten"
+  },
+  "wb-fluorescent": {
+   "WhiteBalance": "Fluorescent"
+  },
+  "temperature-3200": {
+   "WhiteBalance": "Custom",
+   "Temperature": "3200",
+   "Tint": "+0"
+  },
+  "temperature-5000": {
+   "WhiteBalance": "Custom",
+   "Temperature": "5000",
+   "Tint": "+0"
+  },
+  "temperature-8000": {
+   "WhiteBalance": "Custom",
+   "Temperature": "8000",
+   "Tint": "+0"
+  },
+  "tint-30": {
+   "WhiteBalance": "Custom",
+   "Temperature": "6500",
+   "Tint": "-30"
+  },
+  "tint+30": {
+   "WhiteBalance": "Custom",
+   "Temperature": "6500",
+   "Tint": "+30"
+  }
+ }
+}

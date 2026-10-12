@@ -1,0 +1,142 @@
+{
+ "schema": 1,
+ "set": "color-wb-validation",
+ "settings": [
+  "wb-daylight",
+  "wb-tungsten",
+  "wb-fluorescent",
+  "temperature-3200",
+  "temperature-5000",
+  "temperature-8000",
+  "tint-30",
+  "tint+30"
+ ],
+ "photos": [
+  {
+   "raw": "raws/pixls/Panasonic/DC-S1RM2/P1000454.RW2",
+   "sha256": "0fde3176fd98214f64d5d472162d47f7146267c29f39eb8f3dd2351bc60158d0",
+   "p90_L": 30.57402220611348,
+   "stratum": "low",
+   "make": "Panasonic",
+   "model": "DC-S1RM2",
+   "subject": "star trails over a lit urban scene",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-FZ10002/P1015595.RW2",
+   "sha256": "2af14516a1fb0a519af7f71bdfec9b40c8a16882b0277b4141d712d6a5a7e8a5",
+   "p90_L": 67.54393803335046,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DC-FZ10002",
+   "subject": "cartoonish cow statue with soccer ball",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-7RM3/DSC03792.ARW",
+   "sha256": "377f8e20efb62d402eb041e1867799d7cbe590812fb36a66b8d598cb41086b1f",
+   "p90_L": 68.63063292704607,
+   "stratum": "mid",
+   "make": "Sony",
+   "model": "ILCE-7RM3",
+   "subject": "a figurine of a robot standing beside a dog on a countertop",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS Rebel T7i/20190925-1501-0421.cr2",
+   "sha256": "03fb55af71f384ada6b6aa0ca93279d48cf5fbd13651a323408d2fd97e1d1f7c",
+   "p90_L": 70.2815250024545,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS Rebel T7i",
+   "subject": "a yellow and pink plastic chair in a grassy field with trees",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-A10/DSCF8207.RAF",
+   "sha256": "05309c5434500cc53d5782072cc0dcdd947d2f0a34f0ddcd4656c82cc7803272",
+   "p90_L": 55.132809170214536,
+   "stratum": "mid",
+   "make": "Fujifilm",
+   "model": "X-A10",
+   "subject": "mountainous valley with grassy field under blue sky",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS R10/IMG_4276.CR3",
+   "sha256": "5d2e076d38e7835d4c4f13dc2030a913cc573a31d7199b60777d23a25ccc3ef9",
+   "p90_L": 82.47373728695337,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS R10",
+   "subject": "close-up of a wine bottle label",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS RP/Canon_EOS_RP_RAW_ISO_100_crop_nodual.CR3",
+   "sha256": "7d4ba45dc9264d598336133593c677b09774bcdf13b602ee770e72415a652a16",
+   "p90_L": 81.68665613063258,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS RP",
+   "subject": "still life of food items including bananas, apples, tomatoes, salami, coffee, and wine",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Canon/Canon EOS R5m2/APS-C_RAW.CR3",
+   "sha256": "9f88c0ff012924193b7f4497559d133dfe626766d600b5d67689156721739ead",
+   "p90_L": 82.62695864495515,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS R5 Mark II",
+   "subject": "cherry tomatoes on a green tray with a white ramekin",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS RP/Canon_EOS_RP_RAW_ISO_100_nocrop_nodual.CR3",
+   "sha256": "dcbd0f6f9929de2e2331b0fd10a9d01e7cfd04c5a5e4038456de1647d714cdf2",
+   "p90_L": 75.68993725514638,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS RP",
+   "subject": "groceries arranged on a wooden stool",
+   "score": null
+  }
+ ],
+ "crs": {
+  "wb-daylight": {
+   "WhiteBalance": "Daylight"
+  },
+  "wb-tungsten": {
+   "WhiteBalance": "Tungsten"
+  },
+  "wb-fluorescent": {
+   "WhiteBalance": "Fluorescent"
+  },
+  "temperature-3200": {
+   "WhiteBalance": "Custom",
+   "Temperature": "3200",
+   "Tint": "+0"
+  },
+  "temperature-5000": {
+   "WhiteBalance": "Custom",
+   "Temperature": "5000",
+   "Tint": "+0"
+  },
+  "temperature-8000": {
+   "WhiteBalance": "Custom",
+   "Temperature": "8000",
+   "Tint": "+0"
+  },
+  "tint-30": {
+   "WhiteBalance": "Custom",
+   "Temperature": "6500",
+   "Tint": "-30"
+  },
+  "tint+30": {
+   "WhiteBalance": "Custom",
+   "Temperature": "6500",
+   "Tint": "+30"
+  }
+ }
+}

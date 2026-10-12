@@ -1,0 +1,537 @@
+{
+ "schema": 1,
+ "camera_raw": "18.7",
+ "set": "dehaze-validation",
+ "photos": [
+  {
+   "raw": "raws/pixls/Canon/EOS Rebel T100/IMG_7229.CR2",
+   "sha256": "b9fab78e2db2496abc2bd9aec3a3bee81ba2898c68212a468c17c47a7be1ab36",
+   "p90_L": 69.05603328177543,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS Rebel T100",
+   "subject": "coastal cityscape viewed from a cliff",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS Rebel T7i/20190925-1501-0421.cr2",
+   "sha256": "03fb55af71f384ada6b6aa0ca93279d48cf5fbd13651a323408d2fd97e1d1f7c",
+   "p90_L": 70.2815250024545,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS Rebel T7i",
+   "subject": "a yellow and pink plastic chair in a grassy field with trees",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DMC-ZS60/P1000290.RW2",
+   "sha256": "64b2a2e2abba6d26ede59f11d35a74e31e002aef569756771a297bbb3ad1d748",
+   "p90_L": 51.94536385969553,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DMC-ZS60",
+   "subject": "forest floor with tree stumps and moss",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS 80D/IMG_0097.CR2",
+   "sha256": "181cf35881cf967d025948694bc06d5e3e194ec371df3263ed26ec34909ffedb",
+   "p90_L": 73.56452698146948,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 80D",
+   "subject": "large tree with new leaves in front of brick buildings",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Canon/Canon EOS M200/_MG_2233.CR3",
+   "sha256": "0585a468143c6606936d0ffbff1788c6c02e3610d8ecb50614e21492fbacd052",
+   "p90_L": 75.24732937356374,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS M200",
+   "subject": "residential waterfront with distant city skyline",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/FUJIFILM/X-T30 III/DSCF0133.RAF",
+   "sha256": "1910b95422240f97781fa3296d67a56cc8f62de63144ac11cbf4267a11278042",
+   "p90_L": 81.09573295160197,
+   "stratum": "high",
+   "make": "Fujifilm",
+   "model": "X-T30 III",
+   "subject": "rock formation at sunset with parking lot in foreground",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DMC-G85/_1030984.RW2",
+   "sha256": "0140ae9708c333dd9fd518c936a14835aa41d2c7e79d8e0a3d03aec17aa8f37b",
+   "p90_L": 88.14762601879065,
+   "stratum": "high",
+   "make": "Panasonic",
+   "model": "DMC-G85",
+   "subject": "artichoke plants in a field at golden hour",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Sony/DSC-HX99/DSC00001.ARW",
+   "sha256": "0223d56b8c3af16e6f588b5340275c9bb30bed2cb5a5cafb0f3ffc7ef4da84e4",
+   "p90_L": 82.78396103362196,
+   "stratum": "high",
+   "make": "Sony",
+   "model": "DSC-HX99",
+   "subject": "river with bridge and city buildings",
+   "score": 1
+  }
+ ],
+ "cases": [
+  {
+   "photo": 0,
+   "name": "default",
+   "reference": "references/0-default.tif",
+   "reference_sha256": "0a6400afe90be89e7cac012385fc527d00c14a13762e2520e45c709231064797",
+   "xmp": "references/0-default.xmp",
+   "xmp_sha256": "0f3ed9cf9364f974954685e13c778bfaafd25d3c40f0ddba9a403fe2d88094e2"
+  },
+  {
+   "photo": 0,
+   "name": "dehaze-100",
+   "reference": "references/0-dehaze-100.tif",
+   "reference_sha256": "f86b22011cfa83c06f4373cc79bfc0829acac9baa5e0503752a356605cb3bf42",
+   "xmp": "references/0-dehaze-100.xmp",
+   "xmp_sha256": "2c902afe240c327d60fbcf2ccd65b2845f4cda28ebf5a4d083ef8b3af3abdbeb"
+  },
+  {
+   "photo": 0,
+   "name": "dehaze-50",
+   "reference": "references/0-dehaze-50.tif",
+   "reference_sha256": "86b8bfce4b3b030a73272bb955b05010653e7dc85ee9a91a756a914f403d56ac",
+   "xmp": "references/0-dehaze-50.xmp",
+   "xmp_sha256": "179132bb6659b0a41ba4e800eb0073576bcec1ceb5fb9965965efa70166e1bd7"
+  },
+  {
+   "photo": 0,
+   "name": "dehaze-25",
+   "reference": "references/0-dehaze-25.tif",
+   "reference_sha256": "672e5481377aaca1e3ae3efba7bcea05ff30e35b0016bd1da276d69282394a18",
+   "xmp": "references/0-dehaze-25.xmp",
+   "xmp_sha256": "2a75ae11778cc6c6f3f36bc29018f3c5559d531c59907f974eee13fd57bb91c7"
+  },
+  {
+   "photo": 0,
+   "name": "dehaze+25",
+   "reference": "references/0-dehaze+25.tif",
+   "reference_sha256": "92f38d61b94d9cc6209f508999d8248901c3a6ea58042b4a542821c3a9af8d31",
+   "xmp": "references/0-dehaze+25.xmp",
+   "xmp_sha256": "9d0cc0875e3d1598e7fffaf3f7a444d4781684863f922e34135d7a52d587afc3"
+  },
+  {
+   "photo": 0,
+   "name": "dehaze+50",
+   "reference": "references/0-dehaze+50.tif",
+   "reference_sha256": "a15994d80264d65d067acab7e220df66c8451e7e26d9f602f40dcc158d552b8d",
+   "xmp": "references/0-dehaze+50.xmp",
+   "xmp_sha256": "387113cab1d790878ad6d58d591898035cfafa66b15a7d488f10351de73e83f2"
+  },
+  {
+   "photo": 0,
+   "name": "dehaze+100",
+   "reference": "references/0-dehaze+100.tif",
+   "reference_sha256": "ff66a23c397dab898f3c797033fcd844033838dc91695559ae597e7557cb3d75",
+   "xmp": "references/0-dehaze+100.xmp",
+   "xmp_sha256": "3000d46e08358f5da8829ea66f425f075cc6841a21eb48e685d5af3960c844ee"
+  },
+  {
+   "photo": 1,
+   "name": "default",
+   "reference": "references/1-default.tif",
+   "reference_sha256": "9ff0a0a6b4bdb00cba7250fdd633e8233bea83e31855ad714cfd357cffef09de",
+   "xmp": "references/1-default.xmp",
+   "xmp_sha256": "dbfd5f6a5612aaef5637b93688850a218e5661bcbf39ca8e158d18fd1bf59e5c"
+  },
+  {
+   "photo": 1,
+   "name": "dehaze-100",
+   "reference": "references/1-dehaze-100.tif",
+   "reference_sha256": "4c025bc0eca04fd21ad25d664734c7d3ccac8c22e0a40a0b7ae4a8059ebf98d6",
+   "xmp": "references/1-dehaze-100.xmp",
+   "xmp_sha256": "a601bed5979f35f85d160dbda1488c1d36b9858ed2bf5b498368fd183ec04cc7"
+  },
+  {
+   "photo": 1,
+   "name": "dehaze-50",
+   "reference": "references/1-dehaze-50.tif",
+   "reference_sha256": "c2edc20681284f98a2d73aead3106468c862db5666bc9db724a70e5099b1d38f",
+   "xmp": "references/1-dehaze-50.xmp",
+   "xmp_sha256": "22e39db3986845c072b79645effdbcd72e042e9174b3792f549a75b5acbc0922"
+  },
+  {
+   "photo": 1,
+   "name": "dehaze-25",
+   "reference": "references/1-dehaze-25.tif",
+   "reference_sha256": "04ce905ad829f3e6c1c4daca2dc12ae8c3a5724f81ca7c67ef598dffd3f9a146",
+   "xmp": "references/1-dehaze-25.xmp",
+   "xmp_sha256": "f64f742915009b54ac2b50567a8ddd50c6394c4d4c7e788e56bd1adfc94de67c"
+  },
+  {
+   "photo": 1,
+   "name": "dehaze+25",
+   "reference": "references/1-dehaze+25.tif",
+   "reference_sha256": "bf4fadf1882f2d6bb02fab6cb6492d71c4eb29523b2231c7aaafdd271d37342b",
+   "xmp": "references/1-dehaze+25.xmp",
+   "xmp_sha256": "feca31f304fad04bc340241f8ef939e75db43d34c1a193097e95b0d4919a9ac7"
+  },
+  {
+   "photo": 1,
+   "name": "dehaze+50",
+   "reference": "references/1-dehaze+50.tif",
+   "reference_sha256": "4c7fc2995ea657970ce3fa517b50a6fcfed3dad95e2e214aca86fe7624314c13",
+   "xmp": "references/1-dehaze+50.xmp",
+   "xmp_sha256": "d955338fab8bbfec238623d02e8d4d9d5b4bbe13c14f206925b815543d8e177f"
+  },
+  {
+   "photo": 1,
+   "name": "dehaze+100",
+   "reference": "references/1-dehaze+100.tif",
+   "reference_sha256": "1ad90e4710e0f066491f4e43105c6f1ff963adc6bdfd0c092c3d984f9b5d08f5",
+   "xmp": "references/1-dehaze+100.xmp",
+   "xmp_sha256": "0e4731cee6cccf79696a2924717181b23461a1ed003965b521857d4957ead579"
+  },
+  {
+   "photo": 2,
+   "name": "default",
+   "reference": "references/2-default.tif",
+   "reference_sha256": "62e39b662f4b0103b6e9911332cff5863be7642be125c0fb272e4797a02537fe",
+   "xmp": "references/2-default.xmp",
+   "xmp_sha256": "c3cf517c49b6d1e2bf09a4684dbdf30404d4cd30d97d49e6b793a017dfd2019b"
+  },
+  {
+   "photo": 2,
+   "name": "dehaze-100",
+   "reference": "references/2-dehaze-100.tif",
+   "reference_sha256": "76484c913f97c6382ac96aeff2aba5acef9150884697a3ba06dce5c48351c954",
+   "xmp": "references/2-dehaze-100.xmp",
+   "xmp_sha256": "90a65a94cf84112fd33a5aedfe9ebc3f96fd27a03bf3fbfda5d0f096bf4c6b4a"
+  },
+  {
+   "photo": 2,
+   "name": "dehaze-50",
+   "reference": "references/2-dehaze-50.tif",
+   "reference_sha256": "c093943f4dfa3f1eca6579a979ac891122c4957d9100ac992b04c26455990b5a",
+   "xmp": "references/2-dehaze-50.xmp",
+   "xmp_sha256": "5623b190625dc2f0c5100fee60a15a353968cff369d333d5630999bbff7ce04f"
+  },
+  {
+   "photo": 2,
+   "name": "dehaze-25",
+   "reference": "references/2-dehaze-25.tif",
+   "reference_sha256": "b4946e9e8e2bacc7d0d4893ae2f3cd98f0f74f3173c98e1cc3256085368f096c",
+   "xmp": "references/2-dehaze-25.xmp",
+   "xmp_sha256": "73f6909c12a75b192f0bfec54b568aa786a7b8f22590041330cf4757ddb58342"
+  },
+  {
+   "photo": 2,
+   "name": "dehaze+25",
+   "reference": "references/2-dehaze+25.tif",
+   "reference_sha256": "6b107d53685c07363e32b0df31faa43b2132ec1cc503680b3e6fe066df8ee90c",
+   "xmp": "references/2-dehaze+25.xmp",
+   "xmp_sha256": "0456e4f97d724309054850b7da1a19be3c9d272609550436bdf29bf34a2da258"
+  },
+  {
+   "photo": 2,
+   "name": "dehaze+50",
+   "reference": "references/2-dehaze+50.tif",
+   "reference_sha256": "2db8fba466cd1fa6926efae91b12600682c053ba64d10aa21b56a76542dcf8f7",
+   "xmp": "references/2-dehaze+50.xmp",
+   "xmp_sha256": "e9e20173ff1a172f8a458c453446d0891d4fe73a23116cbff1a086c821d5ed27"
+  },
+  {
+   "photo": 2,
+   "name": "dehaze+100",
+   "reference": "references/2-dehaze+100.tif",
+   "reference_sha256": "189c2bfa700b2e7c6b238a917c378a42b2b410fc131429ac70cc4d6dfa06cb5d",
+   "xmp": "references/2-dehaze+100.xmp",
+   "xmp_sha256": "88b1ce7ecbe107a276711dbfc90b952a7c7cc97cd7d0c9df1aaf4a3d9843eb7a"
+  },
+  {
+   "photo": 3,
+   "name": "default",
+   "reference": "references/3-default.tif",
+   "reference_sha256": "7a3f01f705255b3de998a0abb72653785ca80db9dfa45f3398e0fb91f09bf1d3",
+   "xmp": "references/3-default.xmp",
+   "xmp_sha256": "d9d99d9d76ccfda18cf9e11a764122064b74dc82efdc1e9dbe28c6c2a4987b25"
+  },
+  {
+   "photo": 3,
+   "name": "dehaze-100",
+   "reference": "references/3-dehaze-100.tif",
+   "reference_sha256": "84d8b4a16922019d467d3aecd445f6d23ec5c9ff1dfc194f5cc166567c97471e",
+   "xmp": "references/3-dehaze-100.xmp",
+   "xmp_sha256": "51320cc9dec94c2151ca8c2d1f8c4f2f03f5f498e51fe9fc5ea75992a55e12cd"
+  },
+  {
+   "photo": 3,
+   "name": "dehaze-50",
+   "reference": "references/3-dehaze-50.tif",
+   "reference_sha256": "a65eeae867213d97272da861041c1ff319a1c80407aa823c46f01ea873a249a9",
+   "xmp": "references/3-dehaze-50.xmp",
+   "xmp_sha256": "c0500bc10cdc8069b5065539fc9b611c0fb14fa0bee631c3f4634f2f2f37fc12"
+  },
+  {
+   "photo": 3,
+   "name": "dehaze-25",
+   "reference": "references/3-dehaze-25.tif",
+   "reference_sha256": "e46fab52b7bbcf3e4280db63d176cf607e9516dd4f76a9802589c52b8e4f6e85",
+   "xmp": "references/3-dehaze-25.xmp",
+   "xmp_sha256": "ace418867450023b42db384cca0827ac46497a32a8b1441bb7697399d52615f3"
+  },
+  {
+   "photo": 3,
+   "name": "dehaze+25",
+   "reference": "references/3-dehaze+25.tif",
+   "reference_sha256": "22dbddffd91a07775a7a71425ab0ea56f1864d1e9a7d2a604e4c29c1c5a39e04",
+   "xmp": "references/3-dehaze+25.xmp",
+   "xmp_sha256": "e076dabd32769a3d42619fdc2fcc2f7b4b72c7344e023b682872a0e0c422bddb"
+  },
+  {
+   "photo": 3,
+   "name": "dehaze+50",
+   "reference": "references/3-dehaze+50.tif",
+   "reference_sha256": "8f472251a666c69519b5c0559090328b7a9d033ee49002317564447d87000415",
+   "xmp": "references/3-dehaze+50.xmp",
+   "xmp_sha256": "7c5d8c1b9795779a9aa890d9f798ad7addc175b5f774bfd9c7bd56d4898b85ef"
+  },
+  {
+   "photo": 3,
+   "name": "dehaze+100",
+   "reference": "references/3-dehaze+100.tif",
+   "reference_sha256": "e4610ea3b216e8744052ef7651e61898d9f58f915b62760a06d9b389df0e88e7",
+   "xmp": "references/3-dehaze+100.xmp",
+   "xmp_sha256": "57f5712eb31dcfda7ca61b07203e2e0c40188d86dd29e9ed7291779fdee3444c"
+  },
+  {
+   "photo": 4,
+   "name": "default",
+   "reference": "references/4-default.tif",
+   "reference_sha256": "7f0277f50c719cae1d0018ee8e16f239c11871903d07cf10fb437ecda44bf4ef",
+   "xmp": "references/4-default.xmp",
+   "xmp_sha256": "f8926e9e40179731902addefa52065a4f8f876dafcbf05cdf8bf6dae0d529f93"
+  },
+  {
+   "photo": 4,
+   "name": "dehaze-100",
+   "reference": "references/4-dehaze-100.tif",
+   "reference_sha256": "aaab4216f000f033592d0a91089e203a38ecb1e0ebf40b3f51a4bc3d774404fa",
+   "xmp": "references/4-dehaze-100.xmp",
+   "xmp_sha256": "d817b93f8c198452d723471d52813dc129db44c8b83d2470016ffc0b9b8ac5ec"
+  },
+  {
+   "photo": 4,
+   "name": "dehaze-50",
+   "reference": "references/4-dehaze-50.tif",
+   "reference_sha256": "9af6890cdc94158ad09e9eb1f076eb932f125fbbd76fc0f96cf0bc21869b7271",
+   "xmp": "references/4-dehaze-50.xmp",
+   "xmp_sha256": "888d02a5ce12e6af5a011fdd9d15a06be751420a72b90637862df3439a6d18b7"
+  },
+  {
+   "photo": 4,
+   "name": "dehaze-25",
+   "reference": "references/4-dehaze-25.tif",
+   "reference_sha256": "a6486d1928048dc1a18c59062ddedf63c75ea6983ec6611bb36643f4b4f65750",
+   "xmp": "references/4-dehaze-25.xmp",
+   "xmp_sha256": "b0046942bb592f3d409730169a67f7073f2fd1d4ce158577bf34d76021a8287e"
+  },
+  {
+   "photo": 4,
+   "name": "dehaze+25",
+   "reference": "references/4-dehaze+25.tif",
+   "reference_sha256": "56c3d7a4bf24bfc6f183e4e0a2254511c90c31eb2a3927adf91a5910573f9584",
+   "xmp": "references/4-dehaze+25.xmp",
+   "xmp_sha256": "71ed31c8f8edec0975576c0de35538009a19648bd72b258193746472346a9c9a"
+  },
+  {
+   "photo": 4,
+   "name": "dehaze+50",
+   "reference": "references/4-dehaze+50.tif",
+   "reference_sha256": "1684a0b5d911e937c85f46a3504c3c8229b09b5571a279cf497e7d56b3bca4c7",
+   "xmp": "references/4-dehaze+50.xmp",
+   "xmp_sha256": "788a9b2fd4633dc346e15477b59b7144a04f394d61837d8092bc24debb084fc6"
+  },
+  {
+   "photo": 4,
+   "name": "dehaze+100",
+   "reference": "references/4-dehaze+100.tif",
+   "reference_sha256": "0b642aa8418c0dd01cf50ddf4802a17bc14576a6c63f72dfb16783f3eab96ed7",
+   "xmp": "references/4-dehaze+100.xmp",
+   "xmp_sha256": "a0bc95e1fb56cca4c6bd21b3eede49c20cd9f4206767e8b7f5eb7e8b02d730d0"
+  },
+  {
+   "photo": 5,
+   "name": "default",
+   "reference": "references/5-default.tif",
+   "reference_sha256": "b3e57653495b62ba5b5c15c6c9971996f1658c1819ac982a0296ad1ec1c4c118",
+   "xmp": "references/5-default.xmp",
+   "xmp_sha256": "9584076d1ffe51ce161c555eed5a5fb1714a86d4a62616e64d7d13f89dd93cf5"
+  },
+  {
+   "photo": 5,
+   "name": "dehaze-100",
+   "reference": "references/5-dehaze-100.tif",
+   "reference_sha256": "35aba4581dc3d8fda82b15e20c4a75b5c368af6d64703a9bf27cec8331c113a1",
+   "xmp": "references/5-dehaze-100.xmp",
+   "xmp_sha256": "3155267b2ac6985a7ae7ad613c88d0fa3c45d3cdaf697912c443d6bb2c41c1e3"
+  },
+  {
+   "photo": 5,
+   "name": "dehaze-50",
+   "reference": "references/5-dehaze-50.tif",
+   "reference_sha256": "43b29c4c7b852b8e7ba0c5aed5e0bb5e2f2476b44d836d32dae22724f5afe972",
+   "xmp": "references/5-dehaze-50.xmp",
+   "xmp_sha256": "a575c8bf26e83910a76d11e3f768af4d9aadb2edbfaa59a7e0d91f85fa178ae7"
+  },
+  {
+   "photo": 5,
+   "name": "dehaze-25",
+   "reference": "references/5-dehaze-25.tif",
+   "reference_sha256": "c5bff34ecaf1c54bec723ccf88e99f955f77aefa498fd945646d1a0077b4a19b",
+   "xmp": "references/5-dehaze-25.xmp",
+   "xmp_sha256": "1c38b2fb852da66d3a0800152835952ca290f502cd60157c542eb0cf003fb240"
+  },
+  {
+   "photo": 5,
+   "name": "dehaze+25",
+   "reference": "references/5-dehaze+25.tif",
+   "reference_sha256": "b7f34dc5e679fefbe80344c2ff1bdc746710c043abf1c4e9d42b6e5c65767079",
+   "xmp": "references/5-dehaze+25.xmp",
+   "xmp_sha256": "127a32d327de3440eb3749852c7b3c49abb58f548c0ed57fb2b1271c1f1af642"
+  },
+  {
+   "photo": 5,
+   "name": "dehaze+50",
+   "reference": "references/5-dehaze+50.tif",
+   "reference_sha256": "79115285bd807e750090e6f0edead51eb25867105ec98b7def9266e2b3f797c1",
+   "xmp": "references/5-dehaze+50.xmp",
+   "xmp_sha256": "1e02e1b4235561325bd081a6dbc9464d1198cc9fe06ffd6e87bc2843dd9b61de"
+  },
+  {
+   "photo": 5,
+   "name": "dehaze+100",
+   "reference": "references/5-dehaze+100.tif",
+   "reference_sha256": "a68339415ae7864dc442fd916d6fe0b32168bd984cc4a49dfa810d19e8ee2087",
+   "xmp": "references/5-dehaze+100.xmp",
+   "xmp_sha256": "8a9e800a1b995626c8fddefa763f392582b67f1bc3095df4e4c6b3dc24d0faf4"
+  },
+  {
+   "photo": 6,
+   "name": "default",
+   "reference": "references/6-default.tif",
+   "reference_sha256": "93e007e34724e6beeb4e3e01796c6dd097d13f62d4c12e886ed3db4683763644",
+   "xmp": "references/6-default.xmp",
+   "xmp_sha256": "5d48c097d658e67f0084753bdaa06a5d5da61aa4998ecd3166f4a3a77ba197ea"
+  },
+  {
+   "photo": 6,
+   "name": "dehaze-100",
+   "reference": "references/6-dehaze-100.tif",
+   "reference_sha256": "1f1831c189326f753662ffc7c1865bde4a91e71bc7d6d017382fe7ed37e489fd",
+   "xmp": "references/6-dehaze-100.xmp",
+   "xmp_sha256": "ee25b9c965418d7dcb7ac7e2b41bc96422f2997d6756a4005bb53c11121650a7"
+  },
+  {
+   "photo": 6,
+   "name": "dehaze-50",
+   "reference": "references/6-dehaze-50.tif",
+   "reference_sha256": "5d3f1a45c2ac5ee72325ec617928ac99d44ef29c8d88bbbb123de717fcf53985",
+   "xmp": "references/6-dehaze-50.xmp",
+   "xmp_sha256": "582235f89a05f9564cbe46c4173dfa811c17a41894c9349be3406b09df12f51f"
+  },
+  {
+   "photo": 6,
+   "name": "dehaze-25",
+   "reference": "references/6-dehaze-25.tif",
+   "reference_sha256": "85b52b12a99ecac5bc2d9809bc029b60b43c68003b14173d4341171535fb1f5f",
+   "xmp": "references/6-dehaze-25.xmp",
+   "xmp_sha256": "fa8ce2d7eeaf761e2dd8604d2b1704da16c090a8366773b9adb20cbd58ad3b2d"
+  },
+  {
+   "photo": 6,
+   "name": "dehaze+25",
+   "reference": "references/6-dehaze+25.tif",
+   "reference_sha256": "74bd5c02c0b11ee401d56cff1fe96ce35d1919109dca5f45f29a57055b667c5b",
+   "xmp": "references/6-dehaze+25.xmp",
+   "xmp_sha256": "d25ad9bf254d3885a6608fe43ee944f2b66bfd041b53b30c2000a8206c18d2e6"
+  },
+  {
+   "photo": 6,
+   "name": "dehaze+50",
+   "reference": "references/6-dehaze+50.tif",
+   "reference_sha256": "08edc7f756048dfe56e71327372a005297f2d5988994dffcc6a83dad792a10cf",
+   "xmp": "references/6-dehaze+50.xmp",
+   "xmp_sha256": "e64bce621c883e6d2bb39afae7c2505dc74ec9a0239821deaa060ef280cb70f9"
+  },
+  {
+   "photo": 6,
+   "name": "dehaze+100",
+   "reference": "references/6-dehaze+100.tif",
+   "reference_sha256": "c555f92c6042a09d152de45d30386229b3898d34a311d221a7e54a9309fc66cc",
+   "xmp": "references/6-dehaze+100.xmp",
+   "xmp_sha256": "5da569a11acac027f2d9c60705743377068fe88857e004be7624897441c3197d"
+  },
+  {
+   "photo": 7,
+   "name": "default",
+   "reference": "references/7-default.tif",
+   "reference_sha256": "7259900b31125265d7a82c8152d6b38b6c41a7c71a708a4d4d9c9b1b1ad87a48",
+   "xmp": "references/7-default.xmp",
+   "xmp_sha256": "c9960aca8d4e665cc108492f179869054328f5764c2e430d8260a61f2b846ed0"
+  },
+  {
+   "photo": 7,
+   "name": "dehaze-100",
+   "reference": "references/7-dehaze-100.tif",
+   "reference_sha256": "13472933980d7137135b394f4d58f27470894b2ac0e104c3dbb63bf93879b212",
+   "xmp": "references/7-dehaze-100.xmp",
+   "xmp_sha256": "ed6d4bdab204ee2ad341fb71a2e4dffb2bae062ca6bf95b60626f6a4cebdf300"
+  },
+  {
+   "photo": 7,
+   "name": "dehaze-50",
+   "reference": "references/7-dehaze-50.tif",
+   "reference_sha256": "e2a9a46537bd8bbb9719c61ed0733cc304e804d9a835cacb85ef047a4520a9aa",
+   "xmp": "references/7-dehaze-50.xmp",
+   "xmp_sha256": "8433948f8df9c5b2090ad5737a71b503fa5a1a0e251dd5d3e3a327b3dfc99261"
+  },
+  {
+   "photo": 7,
+   "name": "dehaze-25",
+   "reference": "references/7-dehaze-25.tif",
+   "reference_sha256": "7e01cc8bc13f3210daf0fff5ea6d8f8eb37fb2822b214d8864e2cfdf393c4a4b",
+   "xmp": "references/7-dehaze-25.xmp",
+   "xmp_sha256": "538d34382e130fa6969e4d6592d092c4a13b79891293285b978046f3849d1ed7"
+  },
+  {
+   "photo": 7,
+   "name": "dehaze+25",
+   "reference": "references/7-dehaze+25.tif",
+   "reference_sha256": "97c18b969da98461c57f3636838230bb6ae8ed98f134031ea751b61361a7e2b2",
+   "xmp": "references/7-dehaze+25.xmp",
+   "xmp_sha256": "c6a1c9535a3503f46788a0ca85997bb660b139b529f72352b525c455376a2b7a"
+  },
+  {
+   "photo": 7,
+   "name": "dehaze+50",
+   "reference": "references/7-dehaze+50.tif",
+   "reference_sha256": "e0cfdae732bd73c9cfce206590c48350095a6a32bb3c1f845fbad99237da5180",
+   "xmp": "references/7-dehaze+50.xmp",
+   "xmp_sha256": "bcabc8635f667be308adfd6f28211e7dbefae6e29ee3c7b2ce6e4c824e8d061b"
+  },
+  {
+   "photo": 7,
+   "name": "dehaze+100",
+   "reference": "references/7-dehaze+100.tif",
+   "reference_sha256": "4d27556d692c560fc4bcf233d5dcfd1550e39bcd99f041474e1308fbb9233d0d",
+   "xmp": "references/7-dehaze+100.xmp",
+   "xmp_sha256": "3c20710ce8d725bfba70ac6275d8c1b7adc200eb1cbbf11e71529513459acc1a"
+  }
+ ]
+}

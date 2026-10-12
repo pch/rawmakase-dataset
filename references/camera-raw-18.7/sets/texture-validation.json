@@ -1,0 +1,104 @@
+{
+ "schema": 1,
+ "set": "texture-validation",
+ "settings": [
+  "texture-100",
+  "texture-50",
+  "texture-25",
+  "texture+25",
+  "texture+50",
+  "texture+100"
+ ],
+ "photos": [
+  {
+   "raw": "raws/pixls/Panasonic/DC-S1RM2/P1000454.RW2",
+   "sha256": "0fde3176fd98214f64d5d472162d47f7146267c29f39eb8f3dd2351bc60158d0",
+   "p90_L": 30.57402220611348,
+   "stratum": "low",
+   "make": "Panasonic",
+   "model": "DC-S1RM2",
+   "subject": "star trails over a lit urban scene",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS R7/443A0159.CR3",
+   "sha256": "10a18e3f01ca9cd93408496d3853388ef140830548bfeed4237e40f967eb9d5c",
+   "p90_L": 55.85671878966952,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS R7",
+   "subject": "a purple flower with green foliage",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/FUJIFILM/GFX100RF/DSCF0077.RAF",
+   "sha256": "a509f06feb9aed19936fe0c843279f5995e21c1176be6f4823dabb4908f32cfb",
+   "p90_L": 74.51581586551393,
+   "stratum": "mid",
+   "make": "Fujifilm",
+   "model": "GFX100RF",
+   "subject": "green bush with flowers growing beside concrete steps",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DMC-TZ110/P1000491.RW2",
+   "sha256": "04a906f77428f371caaa493ea1b6f1f85ef7f7905cb23d683cb7f2b63effb44d",
+   "p90_L": 67.65232201571436,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DMC-TZ110",
+   "subject": "white flowers growing beside a green net and weathered wood",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS 80D/IMG_0097.CR2",
+   "sha256": "181cf35881cf967d025948694bc06d5e3e194ec371df3263ed26ec34909ffedb",
+   "p90_L": 73.56452698146948,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 80D",
+   "subject": "large tree with new leaves in front of brick buildings",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS R10/IMG_4361.CR3",
+   "sha256": "15d017f0770b3da17180077617ffe07b786a1ec2cb36297f81a82a27a54756db",
+   "p90_L": 92.59524582462628,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS R10",
+   "subject": "elderly woman wearing a cap and necklaces outdoors",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/FUJIFILM/X-T30 III/DSCF0133.RAF",
+   "sha256": "1910b95422240f97781fa3296d67a56cc8f62de63144ac11cbf4267a11278042",
+   "p90_L": 81.09573295160197,
+   "stratum": "high",
+   "make": "Fujifilm",
+   "model": "X-T30 III",
+   "subject": "rock formation at sunset with parking lot in foreground",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DMC-G85/_1030984.RW2",
+   "sha256": "0140ae9708c333dd9fd518c936a14835aa41d2c7e79d8e0a3d03aec17aa8f37b",
+   "p90_L": 88.14762601879065,
+   "stratum": "high",
+   "make": "Panasonic",
+   "model": "DMC-G85",
+   "subject": "artichoke plants in a field at golden hour",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Sony/DSC-RX10M4/DSC02484.ARW",
+   "sha256": "1825b615a472962bbef13a6717e754e2aeb53d353de10d3503767932c420070c",
+   "p90_L": 85.2013999154978,
+   "stratum": "high",
+   "make": "Sony",
+   "model": "DSC-RX10M4",
+   "subject": "terraced tea plantation on a hillside",
+   "score": 2
+  }
+ ]
+}

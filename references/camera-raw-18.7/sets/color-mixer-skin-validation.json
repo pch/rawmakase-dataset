@@ -1,0 +1,44 @@
+{
+ "schema": 1,
+ "set": "color-mixer-skin-validation",
+ "settings": [
+  "orange-hue-50",
+  "orange-hue+50",
+  "orange-sat-50",
+  "orange-sat+50",
+  "orange-lum-50",
+  "orange-lum+50"
+ ],
+ "photos": [
+  {
+   "raw": "raws/pixls/Canon/EOS R10/IMG_4361.CR3",
+   "sha256": "15d017f0770b3da17180077617ffe07b786a1ec2cb36297f81a82a27a54756db",
+   "p90_L": 92.59524582462628,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS R10",
+   "subject": "elderly woman wearing a cap and necklaces outdoors",
+   "score": null
+  }
+ ],
+ "crs": {
+  "orange-hue-50": {
+   "HueAdjustmentOrange": "-50"
+  },
+  "orange-hue+50": {
+   "HueAdjustmentOrange": "+50"
+  },
+  "orange-sat-50": {
+   "SaturationAdjustmentOrange": "-50"
+  },
+  "orange-sat+50": {
+   "SaturationAdjustmentOrange": "+50"
+  },
+  "orange-lum-50": {
+   "LuminanceAdjustmentOrange": "-50"
+  },
+  "orange-lum+50": {
+   "LuminanceAdjustmentOrange": "+50"
+  }
+ }
+}

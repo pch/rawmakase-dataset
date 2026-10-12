@@ -1,0 +1,104 @@
+{
+ "schema": 1,
+ "set": "whites-validation",
+ "settings": [
+  "whites-100",
+  "whites-50",
+  "whites-25",
+  "whites+25",
+  "whites+50",
+  "whites+100"
+ ],
+ "photos": [
+  {
+   "raw": "raws/pixls/Panasonic/DC-S1RM2/P1000454.RW2",
+   "sha256": "0fde3176fd98214f64d5d472162d47f7146267c29f39eb8f3dd2351bc60158d0",
+   "p90_L": 30.57402220611348,
+   "stratum": "low",
+   "make": "Panasonic",
+   "model": "DC-S1RM2",
+   "subject": "star trails over a lit urban scene",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS Rebel T7i/20190925-1501-0421.cr2",
+   "sha256": "03fb55af71f384ada6b6aa0ca93279d48cf5fbd13651a323408d2fd97e1d1f7c",
+   "p90_L": 70.2815250024545,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS Rebel T7i",
+   "subject": "a yellow and pink plastic chair in a grassy field with trees",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/FUJIFILM/GFX100RF/DSCF0091.RAF",
+   "sha256": "abead251c364f6b674444f3833115843050e31ea0e5eafb26d36c29b116314b3",
+   "p90_L": 67.93492166192233,
+   "stratum": "mid",
+   "make": "Fujifilm",
+   "model": "GFX100RF",
+   "subject": "potted plants on a brick patio",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-TZ91/P1000244.RW2",
+   "sha256": "07f25a4d71724a06059e89f3290c88b54f126977a49765aa94a5950533028680",
+   "p90_L": 66.33235220488484,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DC-TZ91",
+   "subject": "seagulls on rocks in water",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-7RM3/DSC03792.ARW",
+   "sha256": "377f8e20efb62d402eb041e1867799d7cbe590812fb36a66b8d598cb41086b1f",
+   "p90_L": 68.63063292704607,
+   "stratum": "mid",
+   "make": "Sony",
+   "model": "ILCE-7RM3",
+   "subject": "a figurine of a robot standing beside a dog on a countertop",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS R10/IMG_4276.CR3",
+   "sha256": "5d2e076d38e7835d4c4f13dc2030a913cc573a31d7199b60777d23a25ccc3ef9",
+   "p90_L": 82.47373728695337,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS R10",
+   "subject": "close-up of a wine bottle label",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-T30 II/lossless_X-T30II.RAF",
+   "sha256": "af195f31365d69f428a8ea35d7c33eeab4a8bbb6236cd1e2b790a28613b50942",
+   "p90_L": 97.51905088982352,
+   "stratum": "high",
+   "make": "Fujifilm",
+   "model": "X-T30 II",
+   "subject": "village nestled in a green valley with forested hills in the background",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-ZS200D/P1000631.RW2",
+   "sha256": "035bcc3456196bdf4628c451b00887cfd5e88c5ab98dc45aa79b48ce63d41b2c",
+   "p90_L": 83.79792444461859,
+   "stratum": "high",
+   "make": "Panasonic",
+   "model": "DC-ZS200D",
+   "subject": "green backyard with trees and bushes",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Samsung/SM-G965F/Samsung_SM-G965F_4-3_ratio_f2.4.dng",
+   "sha256": "9ef0ec12311094006c4acf33214a47625230916437b6a39fc4fa6f73c93fb53f",
+   "p90_L": 84.2165627863437,
+   "stratum": "high",
+   "make": "Samsung",
+   "model": "SM-G965F",
+   "subject": "pool with hose and potted plants",
+   "score": 2
+  }
+ ]
+}

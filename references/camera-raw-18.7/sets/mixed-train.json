@@ -1,0 +1,177 @@
+{
+ "schema": 1,
+ "set": "mixed-train",
+ "settings": [
+  "exposure-1+whites+100",
+  "shadows+50+highlights-50",
+  "contrast+50+blacks-50",
+  "dehaze+40+clarity+40",
+  "mask-exposure+shadows",
+  "color-default",
+  "color-shadows+100",
+  "color-dehaze+40",
+  "color-whites+100"
+ ],
+ "photos": [
+  {
+   "raw": "raws/pixls/Canon/EOS 850D/IMG_1837.CR3",
+   "sha256": "47f7747b74073515bdbd65015738bc31947504d68255c5377baa21f179df2486",
+   "p90_L": 34.86673123208111,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS 850D",
+   "subject": "fairytale scene with magical creatures and horses",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Leica/V-Lux 5/_1000200.RWL",
+   "sha256": "6540d067665a842d903d2c44ec101e6f95f65759d4754a94f38817d7a2fd72f4",
+   "p90_L": 0.003529896599236082,
+   "stratum": "low",
+   "make": "Leica",
+   "model": "V-Lux 5",
+   "subject": "full moon against a dark sky",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Apple/iPhone XS/IMG_1105.dng",
+   "sha256": "50bc64ee8cfbbfb6c0531e29ab428ff985506a16fe2d1d2e74656f21b54505f6",
+   "p90_L": 66.23743602838603,
+   "stratum": "mid",
+   "make": "Apple",
+   "model": "iPhone XS",
+   "subject": "modern building facade with ivy and reflections",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS 4000D/IMG_0361.CR2",
+   "sha256": "06daaf663f42d3f6ceb1a837d3ca4db2cfcb5899888ed13510bfa01e3261a896",
+   "p90_L": 59.646102203388516,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 4000D",
+   "subject": "lavender plants with a bee in a garden",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-E4/fuji_xe4_32_uncompressed.RAF",
+   "sha256": "7f0084fd7c5ad96adb661c0a8863bab832a3e208394036623b89fc9c40ba53bc",
+   "p90_L": 56.89472012240039,
+   "stratum": "mid",
+   "make": "Fujifilm",
+   "model": "X-E4",
+   "subject": "weathered white siding on a building",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Leica/C-Lux/_1001076.RWL",
+   "sha256": "286106ec2df65539912709c64e84a9b94686443fe5ea05b8ebada76daa1feb2d",
+   "p90_L": 71.05190198204406,
+   "stratum": "mid",
+   "make": "Leica",
+   "model": "C-Lux",
+   "subject": "city skyline reflected in a river on a clear day",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/NIKON CORPORATION/NIKON Z5_2/Lossless_compression_1-1.NEF",
+   "sha256": "133d8a624f2d39769dec3cb9e7b9ae81971ae8787b5e8d0675bc6ecd27ddef4b",
+   "p90_L": 70.23765733226382,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "Z5_2",
+   "subject": "view from a quarry overlooking farmland and a village",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/OM Digital Solutions/OM-3/P5048182.ORF",
+   "sha256": "1cee7deb661e45101ab3ca6c4240d24ed949b167ed423703fca15c09dd8ec176",
+   "p90_L": 73.16297661838517,
+   "stratum": "mid",
+   "make": "OM System",
+   "model": "OM-3",
+   "subject": "wooden play structure in a sunlit garden",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Olympus/E-PL8/P9110021.ORF",
+   "sha256": "68400f859dea4be9a398fdc1f97613962b92d14b53d96531e2310b7dde2e674e",
+   "p90_L": 57.59668584098803,
+   "stratum": "mid",
+   "make": "Olympus",
+   "model": "E-PL8",
+   "subject": "brick apartment building facade",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Apple/iPhone 7 Plus/IMG_0739.DNG",
+   "sha256": "e8c7ebd8f22f7281d165496b91c8fea8a8e79c8113172fb499e1d66d6045332e",
+   "p90_L": 78.32542395205516,
+   "stratum": "high",
+   "make": "Apple",
+   "model": "iPhone 7 Plus",
+   "subject": "aerial view of a green valley with scattered houses and clouds",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Canon/PowerShot G5 X Mark II/Canon_-_PowerShot_G5_X_Mark_II_-_RAW_(1:1).CR3",
+   "sha256": "13bc9926954dd62f2b84c1539428554754c078953c7af9baa5650cb85237aec8",
+   "p90_L": 92.76644753643757,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "PowerShot G5 X Mark II",
+   "subject": "a lakeside village seen through autumn trees",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/DJI/FC9287/DJI_20250528104510_0025_D.DNG",
+   "sha256": "901b7970f02f7197c782f111363feef02108f75811342d8cc4a2b66757bb7af0",
+   "p90_L": 90.44344241638767,
+   "stratum": "high",
+   "make": "DJI",
+   "model": "FC9287",
+   "subject": "suburban neighborhood with solar panels and distant buildings",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/XF10/DSCF6466.RAF",
+   "sha256": "0486676fdbbdc7f3f4c63cd45aa76581cbc1316f4c9baef8781bced0fbc137db",
+   "p90_L": 79.05712297626046,
+   "stratum": "high",
+   "make": "Fujifilm",
+   "model": "XF10",
+   "subject": "castle on a hill overlooking a waterfront",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Google/Pixel 4 XL/IMG_20191023_125156.dng",
+   "sha256": "0c03a6c93b4b8593cd0e4426166e6389710007238b82eb23861ef191322f0c54",
+   "p90_L": 85.23252275405812,
+   "stratum": "high",
+   "make": "Google",
+   "model": "Pixel 4 XL",
+   "subject": "roadside view with houses and autumn trees",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/HUAWEI/BLA-L29/IMG_20180119_175851.dng",
+   "sha256": "eaf1db7d47dd7966c8042964a0f9fa2d3ac19acc1e5458bb7c803f2d70909924",
+   "p90_L": 78.35943934174426,
+   "stratum": "high",
+   "make": "HUAWEI",
+   "model": "BLA-L29",
+   "subject": "two toy cars on a white surface",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Hasselblad/L2D-20c/DJI_0023.DNG",
+   "sha256": "dbe98cb202f884ff11e0144899613b26d33cf9cddd9f1a62226f4352397f18e4",
+   "p90_L": 89.73176092937037,
+   "stratum": "high",
+   "make": "Hasselblad",
+   "model": "L2D-20c",
+   "subject": "beach scene with swimmers and coastal houses",
+   "score": null
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "schema": 1,
+ "camera_raw": "18.7",
+ "set": "color-mixer-skin-validation",
+ "photos": [
+  {
+   "raw": "raws/pixls/Canon/EOS R10/IMG_4361.CR3",
+   "sha256": "15d017f0770b3da17180077617ffe07b786a1ec2cb36297f81a82a27a54756db",
+   "p90_L": 92.59524582462628,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS R10",
+   "subject": "elderly woman wearing a cap and necklaces outdoors",
+   "score": null
+  }
+ ],
+ "cases": [
+  {
+   "photo": 0,
+   "name": "default",
+   "reference": "references/0-default.tif",
+   "reference_sha256": "b52097718276a8792c1ac16415ed3ad04801dbc44d166f0c2e45d8313515969e",
+   "xmp": "references/0-default.xmp",
+   "xmp_sha256": "6251245b780952c5b91d8f7c5d280440558b29c08bfe7600908a43e6c1c3cb19"
+  },
+  {
+   "photo": 0,
+   "name": "orange-hue-50",
+   "reference": "references/0-orange-hue-50.tif",
+   "reference_sha256": "56f56c9d33c6b393c46c8dd423e8dff6c02154b4921cc0dd658340178799adbe",
+   "xmp": "references/0-orange-hue-50.xmp",
+   "xmp_sha256": "dde6d49738b8ae083f066c9cb89ff2e0fe94dc91428f38da2aecf8d62f763acc"
+  },
+  {
+   "photo": 0,
+   "name": "orange-hue+50",
+   "reference": "references/0-orange-hue+50.tif",
+   "reference_sha256": "2ae2dc981ce39f5e9187075d1c20c63e11d047fc2721c93c8b77fa5739524de3",
+   "xmp": "references/0-orange-hue+50.xmp",
+   "xmp_sha256": "8dacefa30515a465cf3fe3cd7fc248011b484633b742f3809d9aba3ade0fed22"
+  },
+  {
+   "photo": 0,
+   "name": "orange-sat-50",
+   "reference": "references/0-orange-sat-50.tif",
+   "reference_sha256": "6be2627325c3d4ed366002f71956c39dd4447a6a9298486d00b0e9aa4cf3cb13",
+   "xmp": "references/0-orange-sat-50.xmp",
+   "xmp_sha256": "9fac6c4124d46d9418e738ac97a2be7e33c33a19cc6cf23770e6a5768cd29252"
+  },
+  {
+   "photo": 0,
+   "name": "orange-sat+50",
+   "reference": "references/0-orange-sat+50.tif",
+   "reference_sha256": "fdcac5ff91a5b34b9bf504845ad5ef5e0f4968908741c644e7b121c964418d43",
+   "xmp": "references/0-orange-sat+50.xmp",
+   "xmp_sha256": "6bb9ce779f9af9881237b6373741bb36e8ec42f1fa204d36cbeab85ae68417c9"
+  },
+  {
+   "photo": 0,
+   "name": "orange-lum-50",
+   "reference": "references/0-orange-lum-50.tif",
+   "reference_sha256": "ffbedb64078cb796733848ca75b92b30c7fe949641021ada85bdfe1ebdb22332",
+   "xmp": "references/0-orange-lum-50.xmp",
+   "xmp_sha256": "e6823a5f05923f93ec944356911ade9807c5e112bc0950a66bbf84a698ff3f79"
+  },
+  {
+   "photo": 0,
+   "name": "orange-lum+50",
+   "reference": "references/0-orange-lum+50.tif",
+   "reference_sha256": "ec0200463e443f7a0732bfab1fdc0b99c3e61f9958ae9017f40dbc0dd0d51faf",
+   "xmp": "references/0-orange-lum+50.xmp",
+   "xmp_sha256": "a6e7d069f95d5ae56b2922fe6a294bcc79e1be505ee0305df679f706b9285527"
+  }
+ ],
+ "skipped": []
+}

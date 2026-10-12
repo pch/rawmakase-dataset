@@ -1,0 +1,134 @@
+{
+ "schema": 1,
+ "set": "highlights-validation",
+ "settings": [
+  "highlights-100",
+  "highlights-50",
+  "highlights-25",
+  "highlights+25",
+  "highlights+50",
+  "highlights+100"
+ ],
+ "photos": [
+  {
+   "raw": "raws/signature-edits/_MGL0192.CR2",
+   "sha256": "0201e5a2ce31e3d61af5db8fbaf97cc2e09a83e26942e4cf2c907cbf907c03db",
+   "p90_L": 13.525838321925468,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS 7D",
+   "subject": "woman with tattoos and sunglasses sitting in a dim arcade",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/free raw files - credit signatureedits.com - CF000981.dng",
+   "sha256": "bc5e8af06334e715ba9524069fac4c09e1292da99f75d6b2dccbb7f7c87f296b",
+   "p90_L": 25.913585099804564,
+   "stratum": "low",
+   "make": "Phase One A/S",
+   "model": "IQ250",
+   "subject": "female dancer mid-leap against a black backdrop",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/_DSC7300.ARW",
+   "sha256": "0f40581b8a3fda6ae522b2b79c4c90ef9d529187b06ca487d66da7d01e8f76a4",
+   "p90_L": 39.70552264907422,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "ILCE-7RM3",
+   "subject": "bride and groom standing outside a brick building",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/BeSureToTag@christianbmeza - free raws from signatureedits.com.CR2",
+   "sha256": "2d9c40f6f49f2dc6d2ef9c8dd85603a4a0a0959fc85b6f39fc28a87a092c49d2",
+   "p90_L": 25.44516689184476,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS 5DS R",
+   "subject": "young man in red shirt looking up in dimly lit room",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/@olyjuniorfotografia  - from signatureedits.com.CR2",
+   "sha256": "44df58cae3c9a28d829615744fe3535d38e1033f9447bb1d5fd4401f7dcdd48a",
+   "p90_L": 70.11890183690957,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS Rebel T7i",
+   "subject": "woman with long blonde hair standing beside red flowers",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/M50R3197.dng",
+   "sha256": "ae83bb3ad7d71c3b80a247f514ffe316510dbc8fbbc0c1ec18bd429f743f4515",
+   "p90_L": 57.20962863505874,
+   "stratum": "mid",
+   "make": "Fujifilm",
+   "model": "GFX 50R",
+   "subject": "woman sitting in a vintage car",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/credit @signatureeditsco RAW_8228.NEF",
+   "sha256": "40d4e3f20420e1d57d0b60756233299e15ce2919fe1865da4cf49419efa1f5a3",
+   "p90_L": 56.09599762030681,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "D7000",
+   "subject": "young woman posing among large green leaves",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/P1012775.dng",
+   "sha256": "0573c6c1a817239db6b0028bb83291be5cd250143ee9f9e9faa870c0e513d0ec",
+   "p90_L": 53.79426637890456,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DC-S1",
+   "subject": "silhouette of a man standing on a rocky beach at dusk",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/IMG_7495.CR2",
+   "sha256": "0ed65f1923b881cd09b07d73732ee9bf3b996a6302f6490ccd288cc89d4f7957",
+   "p90_L": 83.12550180892967,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS Rebel T7i",
+   "subject": "woman leaning against a brick wall in an urban setting",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/July_mReKo_002.DNG",
+   "sha256": "e5d9b5ba519f8abc0126d03fabe72508d4c3d8c5d45b22c1007ec0dce26160a4",
+   "p90_L": 88.35092438025104,
+   "stratum": "high",
+   "make": "Hasselblad",
+   "model": "L1D-20c",
+   "subject": "snow-capped mountain under a partly cloudy sky",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/ free raw files from signatureedits.com 1 (72).NEF",
+   "sha256": "0831fd4abfa6b5aae00963b04cc20a75462427c11d11c97e8a4d7ac9fed322cd",
+   "p90_L": 82.08327216391433,
+   "stratum": "high",
+   "make": "Nikon",
+   "model": "D7200",
+   "subject": "woman leaning against a wall",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/P1011574.dng",
+   "sha256": "04d1d01573ea14986601c5fb61c20cb894e28064b5c2194d2752d88cb34dc6a5",
+   "p90_L": 77.81709404466207,
+   "stratum": "high",
+   "make": "Panasonic",
+   "model": "DC-S1",
+   "subject": "white marble statue of Abraham Lincoln seated in a grand hall",
+   "score": 2
+  }
+ ]
+}

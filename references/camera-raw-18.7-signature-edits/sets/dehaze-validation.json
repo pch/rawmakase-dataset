@@ -1,0 +1,124 @@
+{
+ "schema": 1,
+ "set": "dehaze-validation",
+ "settings": [
+  "dehaze-100",
+  "dehaze-50",
+  "dehaze-25",
+  "dehaze+25",
+  "dehaze+50",
+  "dehaze+100"
+ ],
+ "photos": [
+  {
+   "raw": "raws/signature-edits/free raw file - signature edits.dng",
+   "sha256": "143c5e441eb55f4fcdd0e083b5f36d0fc441a7bd1f31a63b32e8c5afc6cf96a7",
+   "p90_L": 32.45838338638244,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS RP",
+   "subject": "woman posing in a studio with dramatic lighting",
+   "score": 1
+  },
+  {
+   "raw": "raws/signature-edits/Copy of cvl5p6_adventurekid - from signatureedits.com.arw",
+   "sha256": "012aa6db443231a8b976a3489691298c7451514a5d17be5ace2ddbb55b825efc",
+   "p90_L": 37.775968556816046,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "SLT-A77V",
+   "subject": "person standing in a mossy forest",
+   "score": 1
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco - free raw files from signatureedits.com DSC01956.ARW",
+   "sha256": "fa21322f5d46c16054c6e89c5fff086fd55162272e7d371cac4afd9dc8bd42d0",
+   "p90_L": 39.145669216847054,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "DSC-RX10M4",
+   "subject": "silhouetted trees and posts against a twilight sky reflected in water",
+   "score": 1
+  },
+  {
+   "raw": "raws/signature-edits/IMG_3968.CR2",
+   "sha256": "1fe2af6db11389422874ec40e21f18f67851a88bf3df0914e716e85b5c711c2b",
+   "p90_L": 73.15782600883081,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 100D",
+   "subject": "a bird perched on a rock in a foggy mountain landscape",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/_MG_4128.CR2",
+   "sha256": "36ff97fb9c9b51478a2b1bec69429944f410c81e51a4e9f773e598961598409b",
+   "p90_L": 72.86962747922384,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 70D",
+   "subject": "foggy park path lined with bare trees",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/Greek Sunset.CR2",
+   "sha256": "fac65926fb896076e858671ef7c46b288e136512c7e6ead63ff89e50294930d9",
+   "p90_L": 60.397250427738214,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 80D",
+   "subject": "silhouetted crane and person against a sunset over water",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco - IMG_7426.CR2",
+   "sha256": "59e92ce7d97c22638b31391ddd93362896be9f953c61bf243e25d85e9a8f47be",
+   "p90_L": 47.65234495345868,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS Rebel T7i",
+   "subject": "woman in black blazer and orange crop top standing outdoors",
+   "score": 1
+  },
+  {
+   "raw": "raws/signature-edits/IMG_3278.cr2",
+   "sha256": "28f6718f6b09d18291323b9aca373251caf3104eca666d1a5ae12284a27636ac",
+   "p90_L": 77.7109270796981,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS 1100D",
+   "subject": "woman smoking with smoke rising",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/Copy of free raws from signatureedits.com - tag @signatureeditsco - SNY06949.ARW - Iceland Wedding.ARW",
+   "sha256": "cd06e3d88a5235c3484e5b648c4f2eca2fa618dd270954cd4dbb2ff6a9ba2242",
+   "p90_L": 84.68572780595797,
+   "stratum": "high",
+   "make": "Sony",
+   "model": "ILCE-7RM3",
+   "subject": "black sand beach with a lone rock formation",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/_MG_4332.CR2",
+   "sha256": "8813edc18cbfcae14b3550bc6866ef3cb2139f4bf509d9bce92fde35503bd610",
+   "p90_L": 89.61994006709,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS 70D",
+   "subject": "foggy field at dawn with trees on the horizon",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/WilliamMitchellPhoto - Signature Edits Free Raws.CR2",
+   "sha256": "2724ab0f165c9f8b8771ba8aa1b5fe5f8a44573dfe8393391d5d62b86f56035d",
+   "p90_L": 82.15218330937071,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS 6D Mark II",
+   "subject": "young woman with red hair sitting in tall grass at sunset",
+   "score": 1
+  }
+ ]
+}

@@ -1,0 +1,1396 @@
+{
+ "schema": 1,
+ "camera_raw": "18.7",
+ "set": "color-grading-train",
+ "photos": [
+  {
+   "raw": "raws/signature-edits/APC_0031.DNG",
+   "sha256": "35aa4ca2f978f733aa784d68352453af7e61ee1b98b84a1a041c75294cdca962",
+   "p90_L": 16.775749126442584,
+   "stratum": "low",
+   "make": "Apple",
+   "model": "iPhone XS Max",
+   "subject": "woman in denim dress standing in front of a window",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/free raw from signature edits 2.dng",
+   "sha256": "07e8cfe35a42ce287e60027633436862845a9c76d5327e2576981bc759daf690",
+   "p90_L": 38.41550309106501,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS R",
+   "subject": "woman in profile against a dark red backdrop",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/tag @arwcoe - free raw files from signatureedits.com @arwcoe(3).NEF",
+   "sha256": "164f99961ef8df2e7ec3dc61503fb7a9ea05e2f821b4cc8057ab50a7bd4b8ba6",
+   "p90_L": 29.688070960576177,
+   "stratum": "low",
+   "make": "Nikon",
+   "model": "D810",
+   "subject": "elderly man with cane in formal attire",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco _DSC5952.ARW",
+   "sha256": "05a0e4a1dabf2d98dde04f8d4703dd6f0575bf78d9bde788caf3db59db87f788",
+   "p90_L": 21.9364878582095,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "ILCE-7M3",
+   "subject": "silhouette of a man in a hat looking out a window",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco - free raws from signatureedits.com -IMG_0316.CR2",
+   "sha256": "0980eb3ab6dea41b335d3b44af305ae2020dc716a0a48f1ed22c69213ce31cfd",
+   "p90_L": 25.905168676757434,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS 6D",
+   "subject": "woman in ornate costume holding a pole",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits Free Raw Photos - DSC_2470.dng",
+   "sha256": "3fbc4422aa9523d7e1fc234996460ecc5a6a2458162f70bd91c0117d0d0b68a0",
+   "p90_L": 37.46964332892568,
+   "stratum": "low",
+   "make": "Nikon",
+   "model": "D800",
+   "subject": "woman lying on a rug surrounded by vinyl records",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/tag @ryanbreitkreutz - free raws from @signatureeditsco DSC01139.ARW",
+   "sha256": "160717d00fe688a8caf10f8d3284781c58d2b0c4945bc45765e50739a0fcdcb9",
+   "p90_L": 14.225469298849097,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "ILCE-7M4",
+   "subject": "silhouette of a person sitting by a window",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/APC_0144-2.DNG",
+   "sha256": "53a31861ada23c63234d51b4a6552f347cb18114b1300738530ae3c8c27100f6",
+   "p90_L": 52.54881108458819,
+   "stratum": "mid",
+   "make": "Apple",
+   "model": "iPhone XS Max",
+   "subject": "Aesop store window with tree shadows",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/IMG_7837-1kok_KMB.cr2",
+   "sha256": "02717156f67fdc7007758286e66d5ebd8f5af75ad2a748ab2365d61f1320fb02",
+   "p90_L": 74.3427873479507,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 6D",
+   "subject": "portrait of a woman with orange paint on her face",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits free raw files tag @signatureeditsco RAW_0833.NEF",
+   "sha256": "01fca435809587d48fde50d724144c28333317c086a0f4a1306768f3c0746ed0",
+   "p90_L": 74.47450978473184,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "D5600",
+   "subject": "motorcyclist riding on a dirt track",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - P1060536.RW2",
+   "sha256": "bec6b3b33310f8dd4ba9f50c053ed0da2b7f28677a04ec672abec42d8ccde552",
+   "p90_L": 58.75073062567383,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DMC-GX80",
+   "subject": "a turquoise lake surrounded by rolling hills and forests",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/ig _snipeer.ARW",
+   "sha256": "039b4219fef7d4bba392b896ee77144cd3cd3c18c46a0cefe4195af1133bb829",
+   "p90_L": 51.84244299727681,
+   "stratum": "mid",
+   "make": "Sony",
+   "model": "ILCE-7M2",
+   "subject": "silhouette of a person walking past a reflected building at dusk",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/APC_0239.DNG",
+   "sha256": "88771d3a95f080d62eadd2b3f3c0ec99a1644d608b96ed2f8e3dbae0fc25c815",
+   "p90_L": 69.58791440202016,
+   "stratum": "mid",
+   "make": "Apple",
+   "model": "iPhone XS Max",
+   "subject": "woman in denim outfit standing against a brick wall",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/_MGL3114.CR2",
+   "sha256": "060609c6084d9040689c8550c7c1f31f3ac3469675c6bcf2b950fb798ee58f7f",
+   "p90_L": 59.68124837128452,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 5D Mark III",
+   "subject": "yellow flowering shrubs on a cliff overlooking a lake",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/APC_0083.DNG",
+   "sha256": "14f87f9539c34f1e54e02248d8aed84404d2908f3bcf22ef16edbe4710cc95e1",
+   "p90_L": 81.62720095577437,
+   "stratum": "high",
+   "make": "Apple",
+   "model": "iPhone XS Max",
+   "subject": "young woman in denim jacket standing in front of a rainbow-themed store window",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/5M3_8791.CR2",
+   "sha256": "0270771723f7505226325f85f537bf5072c6da9344b761fba698c9218cb8974c",
+   "p90_L": 86.31636254112368,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS 5D Mark III",
+   "subject": "couple celebrating with confetti on a bed",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco - free raws from signatureedits.comDSC_3024.dng",
+   "sha256": "0518804d22d90b73ea237e01db03f151db6575520c5436edb9a80896f62b6917",
+   "p90_L": 92.42545819104068,
+   "stratum": "high",
+   "make": "Nikon",
+   "model": "D800E",
+   "subject": "portrait of a woman with curly hair",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/Instagram----dave_design_official (3).RW2",
+   "sha256": "abec576d99ffedda5664a48966b223ec29c2a8d958cd0e5e2dfd7710017ef737",
+   "p90_L": 75.11630470058523,
+   "stratum": "high",
+   "make": "Panasonic",
+   "model": "DMC-G7",
+   "subject": "woman with curly hair wearing sunglasses and a yellow dress",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/Tag @signatureeditsco LAR08325.ARW",
+   "sha256": "046f4b47d8152a73e9f791c46e9e9481128a2317e427122e24ab9ca2f4a8b9b7",
+   "p90_L": 81.33712252027524,
+   "stratum": "high",
+   "make": "Sony",
+   "model": "ILCE-7M3",
+   "subject": "giraffe head and neck against a bright blue sky",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/signatureedits3jnfiufn.dng",
+   "sha256": "1fc414dcd42ef44d298db14c580c633a606c7e3e0cb4a80bc46c2ba776d15960",
+   "p90_L": 87.33053539960903,
+   "stratum": "high",
+   "make": "Apple",
+   "model": "iPhone XS Max",
+   "subject": "woman sitting on a bench against a white brick wall",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/IMG_2884.CR2",
+   "sha256": "06b4c6cc40925e024faaf4c5e5cf70b6e00eaf58d3dd9fec8cde9149de97a0aa",
+   "p90_L": 90.56112321399881,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS 6D",
+   "subject": "portrait of a woman with curly hair",
+   "score": null
+  }
+ ],
+ "cases": [
+  {
+   "photo": 0,
+   "name": "default",
+   "reference": "references/0-default.tif",
+   "reference_sha256": "19c36c7a3d6acb04a87d4ec838dc8bdbfd8c64da009c5676660135b34e6b9a7a",
+   "xmp": "references/0-default.xmp",
+   "xmp_sha256": "8d8641d635c9a3845fc3ce50b06eb58b24f6fab98f30074a664b3e21413b2c7e"
+  },
+  {
+   "photo": 0,
+   "name": "grading-shadows-h210",
+   "reference": "references/0-grading-shadows-h210.tif",
+   "reference_sha256": "629a79f9a07c3806bad71a35c606140377e581c9b5fcf65a0780562c198baaea",
+   "xmp": "references/0-grading-shadows-h210.xmp",
+   "xmp_sha256": "cf88b7d2ad187d331f93ce1a4d61f013b6fd46cd56204bcd599378a9757fc2de"
+  },
+  {
+   "photo": 0,
+   "name": "grading-highlights-h40",
+   "reference": "references/0-grading-highlights-h40.tif",
+   "reference_sha256": "e02dc64b7a5f7a42375841dee3b8c12407831844babc92262a7b4f9a84cb5ac1",
+   "xmp": "references/0-grading-highlights-h40.xmp",
+   "xmp_sha256": "fe75d72ba6767fb686afb0d6448318095f3d8c9689a7c187fa6452e1c374f016"
+  },
+  {
+   "photo": 0,
+   "name": "grading-midtones-h30",
+   "reference": "references/0-grading-midtones-h30.tif",
+   "reference_sha256": "28708a019548126ec32813d91368d62fc268e760a643e809a89d1e640775a59a",
+   "xmp": "references/0-grading-midtones-h30.xmp",
+   "xmp_sha256": "92f4104d690c034096fd661a986382a457a311eec48a9cbfc4b23b0d9f081618"
+  },
+  {
+   "photo": 0,
+   "name": "grading-blending-100",
+   "reference": "references/0-grading-blending-100.tif",
+   "reference_sha256": "e4516b7fea3c27977746ad327379212a8746b069abc92f48270a1b6d863f576c",
+   "xmp": "references/0-grading-blending-100.xmp",
+   "xmp_sha256": "83b71ecbd1063925b02eb71784d28da89b42c6c2e583292b7cf880b2ebd6da28"
+  },
+  {
+   "photo": 0,
+   "name": "grading-balance-50",
+   "reference": "references/0-grading-balance-50.tif",
+   "reference_sha256": "462e0ff0643ad22631fdcac645e3fbc84088e9db78e9bd598a3caa21a7d1fe34",
+   "xmp": "references/0-grading-balance-50.xmp",
+   "xmp_sha256": "a7aeaf7c85c993b22cd0599e9094ce7246176520df916d63fed707e8a5e260ac"
+  },
+  {
+   "photo": 0,
+   "name": "grading-balance+50",
+   "reference": "references/0-grading-balance+50.tif",
+   "reference_sha256": "1be613924387ad35dad54ccba91e9c9974fcba7097fc9da41e157385722d0211",
+   "xmp": "references/0-grading-balance+50.xmp",
+   "xmp_sha256": "f9e5a269d35eed4b21773b6f55b416281874f5049a814187ff6c2b147dd2ad03"
+  },
+  {
+   "photo": 1,
+   "name": "default",
+   "reference": "references/1-default.tif",
+   "reference_sha256": "7b977fc4f89015de0e93c3c44a25ae4ce020ba514270575bc1669b47d295843c",
+   "xmp": "references/1-default.xmp",
+   "xmp_sha256": "e0783143d292140606d456d1d01ee4ddef38dcda02d80921c79ad86e244c3ccc"
+  },
+  {
+   "photo": 1,
+   "name": "grading-shadows-h210",
+   "reference": "references/1-grading-shadows-h210.tif",
+   "reference_sha256": "c2583f5ddcc1c8a85e0ca7f5e5626020b782989de2892294aa0693b1c038f52d",
+   "xmp": "references/1-grading-shadows-h210.xmp",
+   "xmp_sha256": "a06323e6aa196fc1b4404b88b8aa54317879daab169151af095a69483acf52bf"
+  },
+  {
+   "photo": 1,
+   "name": "grading-highlights-h40",
+   "reference": "references/1-grading-highlights-h40.tif",
+   "reference_sha256": "743d87476a5335ad7e70b844d5ca9e269a80cd2520b4125ccc11724ea224ed94",
+   "xmp": "references/1-grading-highlights-h40.xmp",
+   "xmp_sha256": "1d683ad5b1861f0003e5ff5cb18b973936356549f0b6d5fc0c0d92c4e2eadfc8"
+  },
+  {
+   "photo": 1,
+   "name": "grading-midtones-h30",
+   "reference": "references/1-grading-midtones-h30.tif",
+   "reference_sha256": "56af23dcce31238b9e563d9969d476a9d5ba6536a73f070975eb159ff260b0a3",
+   "xmp": "references/1-grading-midtones-h30.xmp",
+   "xmp_sha256": "dec0cc2437fc6a2b014d020fd50d534f9218f3b0a426503d25637ca6eb98f34c"
+  },
+  {
+   "photo": 1,
+   "name": "grading-blending-100",
+   "reference": "references/1-grading-blending-100.tif",
+   "reference_sha256": "88bf43c126fad35b736ef62536ce9ccc3e15bd6cabf95b854c0745286ba80d2b",
+   "xmp": "references/1-grading-blending-100.xmp",
+   "xmp_sha256": "72e40d9872d3df1608260f464187561ebd0b985f9c40116d5d872f6edde3e1f9"
+  },
+  {
+   "photo": 1,
+   "name": "grading-balance-50",
+   "reference": "references/1-grading-balance-50.tif",
+   "reference_sha256": "de40adc501ca17dbca10b0b57572643918bba27f97caeb9772c8b3af6773aeac",
+   "xmp": "references/1-grading-balance-50.xmp",
+   "xmp_sha256": "959f5052b92cda23a979adcdc8843fdbf8f754719a85edaf1d906f79d64732ea"
+  },
+  {
+   "photo": 1,
+   "name": "grading-balance+50",
+   "reference": "references/1-grading-balance+50.tif",
+   "reference_sha256": "5ea0668f32f43e4211a3bf2c387713f14dc97d30fd2bba837d85c7afef09be0c",
+   "xmp": "references/1-grading-balance+50.xmp",
+   "xmp_sha256": "7c8d3f1e8182555cc95df287f2f6a246bd47d423e932ebce3c301d5a7bdc35f2"
+  },
+  {
+   "photo": 2,
+   "name": "default",
+   "reference": "references/2-default.tif",
+   "reference_sha256": "3377ff7ea9b01b3c68bee562bc0882f67b80fff884a207bb5e72f9f6aa1ef77a",
+   "xmp": "references/2-default.xmp",
+   "xmp_sha256": "74955148f6be1266686a8c2a9313a5f7a60242cece689f9914c080c515304e3c"
+  },
+  {
+   "photo": 2,
+   "name": "grading-shadows-h210",
+   "reference": "references/2-grading-shadows-h210.tif",
+   "reference_sha256": "e7dc9cdf4ab71b81ccb4712e7ee56b8dd907cfd5aeaf9d9aadf69d33ac85d69c",
+   "xmp": "references/2-grading-shadows-h210.xmp",
+   "xmp_sha256": "381eaf123b93da5e0d3de8b4122ab586b6aaad7ff007d6c03974e952c895cf13"
+  },
+  {
+   "photo": 2,
+   "name": "grading-highlights-h40",
+   "reference": "references/2-grading-highlights-h40.tif",
+   "reference_sha256": "25cfc15f0ae3478137ba726357ab9bbb4255c470baa4ba9fd1b6318578b2de19",
+   "xmp": "references/2-grading-highlights-h40.xmp",
+   "xmp_sha256": "fcff9a1bf616f048a997c138617b9696a390a61cc83bcee9abc5a4944ad18b81"
+  },
+  {
+   "photo": 2,
+   "name": "grading-midtones-h30",
+   "reference": "references/2-grading-midtones-h30.tif",
+   "reference_sha256": "a3223490ad777483b9a33c479eb07455376da3bf6cc1826960ed918f58fc9ae5",
+   "xmp": "references/2-grading-midtones-h30.xmp",
+   "xmp_sha256": "d71a0a6d5737f4bbab302b176df03c132b651cf0c77364486d01a553ab270bfe"
+  },
+  {
+   "photo": 2,
+   "name": "grading-blending-100",
+   "reference": "references/2-grading-blending-100.tif",
+   "reference_sha256": "4aca2e6208f11000469a1dae36eb1f2853ab9e6728086c6860aac672d38868ef",
+   "xmp": "references/2-grading-blending-100.xmp",
+   "xmp_sha256": "ea7007855bcb9198625cdac11a490d0ff27b4d40fef4112407895a458ffe9eac"
+  },
+  {
+   "photo": 2,
+   "name": "grading-balance-50",
+   "reference": "references/2-grading-balance-50.tif",
+   "reference_sha256": "710daf435b7d6a6cfbf82dba74394dc2fe60432599dc2d4e889fa2d8f409ce61",
+   "xmp": "references/2-grading-balance-50.xmp",
+   "xmp_sha256": "ff79cb8623f0645202a05e8834ecfde13b2b691691ab0b770a3c70d741a4724e"
+  },
+  {
+   "photo": 2,
+   "name": "grading-balance+50",
+   "reference": "references/2-grading-balance+50.tif",
+   "reference_sha256": "fcc5be642d31052ac63f25bf0572139c2319ad54e7c9bfa31cf924663a819213",
+   "xmp": "references/2-grading-balance+50.xmp",
+   "xmp_sha256": "7021e2906744d9a7b21ae6217bd3bc164e735a26199ca716f33a1bd8098cd7a6"
+  },
+  {
+   "photo": 3,
+   "name": "default",
+   "reference": "references/3-default.tif",
+   "reference_sha256": "c9333a67dd7f14d4a38665bda09e5a67af4b093f189b460a30ffb86fa3541d26",
+   "xmp": "references/3-default.xmp",
+   "xmp_sha256": "08e835f906d351c674b8e1efbce008e44ad3aada437d6b372f454f26aee46d0c"
+  },
+  {
+   "photo": 3,
+   "name": "grading-shadows-h210",
+   "reference": "references/3-grading-shadows-h210.tif",
+   "reference_sha256": "d186b8c5c16520361e6da3ed738916bbd7e45118847c07cf7c6d678bae5f7599",
+   "xmp": "references/3-grading-shadows-h210.xmp",
+   "xmp_sha256": "7152b027a2890b9a1fdc208bcefd9c03ebca96896601a1f3441cfd4f1e940157"
+  },
+  {
+   "photo": 3,
+   "name": "grading-highlights-h40",
+   "reference": "references/3-grading-highlights-h40.tif",
+   "reference_sha256": "0431c3f7cb7f419f829f9909ba80d9bb949c175e86c293a820643ef1280ba2b2",
+   "xmp": "references/3-grading-highlights-h40.xmp",
+   "xmp_sha256": "abfb64633843bfd2dada4bf9d7e9e00dec5c429ec222ce7376ce158d05c4f9e7"
+  },
+  {
+   "photo": 3,
+   "name": "grading-midtones-h30",
+   "reference": "references/3-grading-midtones-h30.tif",
+   "reference_sha256": "e8dce96e8b33339f6aab86944dce9215d0708ff7419e1801c1c7ff4a4daabc92",
+   "xmp": "references/3-grading-midtones-h30.xmp",
+   "xmp_sha256": "374d228d257c60bdf23a3c6ed5d958fa9852c7cc821f79e55ea8a87dba10bce0"
+  },
+  {
+   "photo": 3,
+   "name": "grading-blending-100",
+   "reference": "references/3-grading-blending-100.tif",
+   "reference_sha256": "63d052c2e2463ea1aa4cfa4538bc8b67c5a1ccfff77a23e8909757e93ccaaffe",
+   "xmp": "references/3-grading-blending-100.xmp",
+   "xmp_sha256": "854599e6ff0826ca687bf918bebab4d3fb6aeb6ae75408ec2357161a036faf36"
+  },
+  {
+   "photo": 3,
+   "name": "grading-balance-50",
+   "reference": "references/3-grading-balance-50.tif",
+   "reference_sha256": "5e26efc83c313fe1c053e5b6628c8355e5157039e89dd33a03875ba0c570d615",
+   "xmp": "references/3-grading-balance-50.xmp",
+   "xmp_sha256": "f6d578a53e65105614ebae6bda85410163deb4adbeb469409b2d6181bf7f1e1c"
+  },
+  {
+   "photo": 3,
+   "name": "grading-balance+50",
+   "reference": "references/3-grading-balance+50.tif",
+   "reference_sha256": "77999dc08a2d2b31d2a010cbb7ffc2e0b7618e41f391254368d6bcb078136955",
+   "xmp": "references/3-grading-balance+50.xmp",
+   "xmp_sha256": "6bcd6dabbc100671ddce774c363bd6b26d1d20d32051b38418a64e899bbf0057"
+  },
+  {
+   "photo": 4,
+   "name": "default",
+   "reference": "references/4-default.tif",
+   "reference_sha256": "07d77dc4e9793d1d9275298a85c3d1907a44de656f86f751b203d001337c8d2d",
+   "xmp": "references/4-default.xmp",
+   "xmp_sha256": "b97c3579f870b7e9fba7100edc6ae73b3c4a08c1341125b6d2409e433e9a1f41"
+  },
+  {
+   "photo": 4,
+   "name": "grading-shadows-h210",
+   "reference": "references/4-grading-shadows-h210.tif",
+   "reference_sha256": "d6bac9b511de8c1366271745476bff02cb195a68e3e36162e291ab5b5b4a9221",
+   "xmp": "references/4-grading-shadows-h210.xmp",
+   "xmp_sha256": "c44c5d7a995a96388845b75bdff60ada9e69be68cbaa3c8204fd07fa9f9c4517"
+  },
+  {
+   "photo": 4,
+   "name": "grading-highlights-h40",
+   "reference": "references/4-grading-highlights-h40.tif",
+   "reference_sha256": "da49fd31964fcc03415c3593a0972ddc353b5899b72d723a4405f863bc4dc646",
+   "xmp": "references/4-grading-highlights-h40.xmp",
+   "xmp_sha256": "6830a451b939662c47be16cbfc8001942a433095f4ab202d0737fcd057b17e82"
+  },
+  {
+   "photo": 4,
+   "name": "grading-midtones-h30",
+   "reference": "references/4-grading-midtones-h30.tif",
+   "reference_sha256": "534081b27c807ecb297fa1915c5763f46f24e254725a61bd364951ae3598f136",
+   "xmp": "references/4-grading-midtones-h30.xmp",
+   "xmp_sha256": "0d9baf1dc15d88766e003d3b819c89e78fcd337b17683e5adff4bdcb2fc2aeaf"
+  },
+  {
+   "photo": 4,
+   "name": "grading-blending-100",
+   "reference": "references/4-grading-blending-100.tif",
+   "reference_sha256": "9a24910c86573b122609698fd5d7bd961ab34462a8c8ed0e0daf542bc1f771cf",
+   "xmp": "references/4-grading-blending-100.xmp",
+   "xmp_sha256": "9398c8abb982756fbdc1a0cf0a069d1c3d9be564344fd6959c524d7884096a8f"
+  },
+  {
+   "photo": 4,
+   "name": "grading-balance-50",
+   "reference": "references/4-grading-balance-50.tif",
+   "reference_sha256": "27831193127f8f4c828543512cca86748234f3c669c8cfbb7621e2335a90677f",
+   "xmp": "references/4-grading-balance-50.xmp",
+   "xmp_sha256": "e3178921836074ab61eb20d28dabd7dede5dc009ffe4fa9de786c07576f2f4a7"
+  },
+  {
+   "photo": 4,
+   "name": "grading-balance+50",
+   "reference": "references/4-grading-balance+50.tif",
+   "reference_sha256": "1117bc961b9c65e61f16a78ddfd76b5363222334876a2027d473bd7252958f4d",
+   "xmp": "references/4-grading-balance+50.xmp",
+   "xmp_sha256": "f88f434da0018fa41bb9b7b30161adf8e3c14e894cb21b399ce24c05c0b71cfe"
+  },
+  {
+   "photo": 5,
+   "name": "default",
+   "reference": "references/5-default.tif",
+   "reference_sha256": "2f493476d28b3e54fa3328de113635a1094a76e8aa36b77c83af22391086dde0",
+   "xmp": "references/5-default.xmp",
+   "xmp_sha256": "1b09c2873db514f78b940bf5749cded70a5f75811f92bb6777528542578d79e4"
+  },
+  {
+   "photo": 5,
+   "name": "grading-shadows-h210",
+   "reference": "references/5-grading-shadows-h210.tif",
+   "reference_sha256": "cda8611cef9de65913d24ef52fba2bc939ded9fd0342be4f89cb9fc91df9cde9",
+   "xmp": "references/5-grading-shadows-h210.xmp",
+   "xmp_sha256": "15765e03eeb428a60aef3569d922e50012f7995ea9f3be1197c54440a51026f0"
+  },
+  {
+   "photo": 5,
+   "name": "grading-highlights-h40",
+   "reference": "references/5-grading-highlights-h40.tif",
+   "reference_sha256": "abfd8f73f834bb847e79e4597588d05f01f88d0bd4e99f63b102d22155ad606d",
+   "xmp": "references/5-grading-highlights-h40.xmp",
+   "xmp_sha256": "54ace9104c7950172b62c27f1dc8956d139e8ab8f50fb42cd520ae93ebe12e44"
+  },
+  {
+   "photo": 5,
+   "name": "grading-midtones-h30",
+   "reference": "references/5-grading-midtones-h30.tif",
+   "reference_sha256": "01dc3237868e0cc2d547241759e1ba562442ac36f9178d881e263c1598f0b64d",
+   "xmp": "references/5-grading-midtones-h30.xmp",
+   "xmp_sha256": "fa56a734883b2e7abc2247074f407caeea084af12fae56137eb4b3e2441d95f9"
+  },
+  {
+   "photo": 5,
+   "name": "grading-blending-100",
+   "reference": "references/5-grading-blending-100.tif",
+   "reference_sha256": "67d00c9813385137a26e32c7d77a613968eaae39ac06cb260f05ec37668ea0a3",
+   "xmp": "references/5-grading-blending-100.xmp",
+   "xmp_sha256": "cd83df566e31d2ba841d502f6d6976333226506f405009322984db6cdb6b89f3"
+  },
+  {
+   "photo": 5,
+   "name": "grading-balance-50",
+   "reference": "references/5-grading-balance-50.tif",
+   "reference_sha256": "2ce8a64299bb7e3dd89d542242e6aaf2d9a02f5e754b98e7b8fb45189ed8f586",
+   "xmp": "references/5-grading-balance-50.xmp",
+   "xmp_sha256": "b204c385e2a5eed2716b120e660e02ada17d6593e7b8ca7e48c1bf172db04e64"
+  },
+  {
+   "photo": 5,
+   "name": "grading-balance+50",
+   "reference": "references/5-grading-balance+50.tif",
+   "reference_sha256": "3a202321c6572c61d3c12a239ef77cfe8e26b2a79ccc9b393c77c730fc713ea3",
+   "xmp": "references/5-grading-balance+50.xmp",
+   "xmp_sha256": "3865276b6466748cf06efd4416e66659a9af9f575c7aa13f6ea889390be03797"
+  },
+  {
+   "photo": 6,
+   "name": "default",
+   "reference": "references/6-default.tif",
+   "reference_sha256": "7651c23d52504f4847195ecb5271ce1346a56a84f5e6ddc296037d492b4625ef",
+   "xmp": "references/6-default.xmp",
+   "xmp_sha256": "ca57bd960f32d7e499978290c82a067acca6cf0166ab1482aed51131acda486a"
+  },
+  {
+   "photo": 6,
+   "name": "grading-shadows-h210",
+   "reference": "references/6-grading-shadows-h210.tif",
+   "reference_sha256": "b6d74b55dc96a5610fa75d62b8cff9b97f8b8a67d5a3ddf8fa07513f52104a55",
+   "xmp": "references/6-grading-shadows-h210.xmp",
+   "xmp_sha256": "2520e1221c80e6bc679ef184c0bbed8595525ade04999be250572cd35741b4d0"
+  },
+  {
+   "photo": 6,
+   "name": "grading-highlights-h40",
+   "reference": "references/6-grading-highlights-h40.tif",
+   "reference_sha256": "6d28a15ab65024ff1defe4c7a8d7f432c17e26997a4021856f958255c226d9d7",
+   "xmp": "references/6-grading-highlights-h40.xmp",
+   "xmp_sha256": "3c20e43b2ee023db842577594f1c10339d96812bea1414ecb1ff0c057a6ed9e0"
+  },
+  {
+   "photo": 6,
+   "name": "grading-midtones-h30",
+   "reference": "references/6-grading-midtones-h30.tif",
+   "reference_sha256": "2e7ad50feabb4c2640ea4c242c3a76ea884a708c95ffe138f03920012082cde4",
+   "xmp": "references/6-grading-midtones-h30.xmp",
+   "xmp_sha256": "32dccf104d972a1c6fbef4873c67a99eb03f97e380087897dc997f29b4a04cb7"
+  },
+  {
+   "photo": 6,
+   "name": "grading-blending-100",
+   "reference": "references/6-grading-blending-100.tif",
+   "reference_sha256": "c770779a9ddddfc0a820743c5bddda0fd348968e8008d433328025270ee7a35d",
+   "xmp": "references/6-grading-blending-100.xmp",
+   "xmp_sha256": "3bea610aaaf3b6de229a763a755d4435044fb33a474333a7ed5d7f12a0edc0dd"
+  },
+  {
+   "photo": 6,
+   "name": "grading-balance-50",
+   "reference": "references/6-grading-balance-50.tif",
+   "reference_sha256": "f2d549e089a00fcd2c60714fdf274bc9963e68b8cecb20280dd30ae059240e2c",
+   "xmp": "references/6-grading-balance-50.xmp",
+   "xmp_sha256": "ab5f7170bfe0b20ffdcbe982c5bc4658a4f7068429be3b64a5349d75a93414f7"
+  },
+  {
+   "photo": 6,
+   "name": "grading-balance+50",
+   "reference": "references/6-grading-balance+50.tif",
+   "reference_sha256": "1aa02003b8cf93406681d5a36778a1b2a04d055a9d1fe65657242c4c39308389",
+   "xmp": "references/6-grading-balance+50.xmp",
+   "xmp_sha256": "1883990e50ec7f33f3dceebeaad9fa37d111cfcc5133b8662ac50cdaf6ede07e"
+  },
+  {
+   "photo": 7,
+   "name": "default",
+   "reference": "references/7-default.tif",
+   "reference_sha256": "7c18b2a9dc3d13fe44e76468450f34ed66be5b1404ed843f3af6fc83a439f2ac",
+   "xmp": "references/7-default.xmp",
+   "xmp_sha256": "03ac69d7047e49b3d462d313261a8d19e80d24ba8e41647b19b414317f2fc04d"
+  },
+  {
+   "photo": 7,
+   "name": "grading-shadows-h210",
+   "reference": "references/7-grading-shadows-h210.tif",
+   "reference_sha256": "960defb7a339598822ae9174128c500727a10843d2f9873b9659634c495b5453",
+   "xmp": "references/7-grading-shadows-h210.xmp",
+   "xmp_sha256": "fcca94801d335752b1e05e69e0e22a87f393e9cd9f7aa9f3e843a97936df1a88"
+  },
+  {
+   "photo": 7,
+   "name": "grading-highlights-h40",
+   "reference": "references/7-grading-highlights-h40.tif",
+   "reference_sha256": "1a514424b71214d8f649d0326393eeef0d06ad9184c82f2eb05005c77c82f833",
+   "xmp": "references/7-grading-highlights-h40.xmp",
+   "xmp_sha256": "956203e7a3d3e945623b250bde4f778caee5fb1a818bd3c37cefe7bdcd9e8129"
+  },
+  {
+   "photo": 7,
+   "name": "grading-midtones-h30",
+   "reference": "references/7-grading-midtones-h30.tif",
+   "reference_sha256": "69ff108e41791b65cc400e8ee0739db81ef34537b7249a3ad2f745c38a077835",
+   "xmp": "references/7-grading-midtones-h30.xmp",
+   "xmp_sha256": "efac91c43e49af1ecb9fd06a140b14a4bed6ef5cdfc9f74de9240eef2c24ffa8"
+  },
+  {
+   "photo": 7,
+   "name": "grading-blending-100",
+   "reference": "references/7-grading-blending-100.tif",
+   "reference_sha256": "536457cd015ebcab826273cbe634d7a065fc7164da0ee3d44f916a001245cc0b",
+   "xmp": "references/7-grading-blending-100.xmp",
+   "xmp_sha256": "1f8af936fa77aaac1b451ae3d1c2980c2e49ccb0c0a526fe286d93b67d5fe9ce"
+  },
+  {
+   "photo": 7,
+   "name": "grading-balance-50",
+   "reference": "references/7-grading-balance-50.tif",
+   "reference_sha256": "643becf8560d4ffa316f0e7dc97f2bc193b02604ea7ec095b39421c0f30d8b0a",
+   "xmp": "references/7-grading-balance-50.xmp",
+   "xmp_sha256": "91f1599abfe36b50a2d5ef5988c4b9356835a5fe855f888d4cc0eb241fe2afde"
+  },
+  {
+   "photo": 7,
+   "name": "grading-balance+50",
+   "reference": "references/7-grading-balance+50.tif",
+   "reference_sha256": "9c8d2b42080edbfe52be44220a5a6fe040a0af83c63c022ce7becdb3a53ff9e1",
+   "xmp": "references/7-grading-balance+50.xmp",
+   "xmp_sha256": "0b9ba4a4510094badb0c7c0e61bc515c26ac6d6111f91acc372864faf81d8c14"
+  },
+  {
+   "photo": 8,
+   "name": "default",
+   "reference": "references/8-default.tif",
+   "reference_sha256": "7e41c46ca02738b9f228fd27a9f35524e01ecc891f12cec2ed1940328202dc5b",
+   "xmp": "references/8-default.xmp",
+   "xmp_sha256": "953c32ef11e5f4df4952cadd819f30713b192779af90b1e7ec66ad0d962c20d4"
+  },
+  {
+   "photo": 8,
+   "name": "grading-shadows-h210",
+   "reference": "references/8-grading-shadows-h210.tif",
+   "reference_sha256": "e425217ff3656f6dce1289d7fbf899e63c64c3b75d60317c1fd9cfbb34ed5be6",
+   "xmp": "references/8-grading-shadows-h210.xmp",
+   "xmp_sha256": "bad1a1f7965fcf64b49ce4060759fe0e8b6b9a8bc77830c8eece26fdff37e0a6"
+  },
+  {
+   "photo": 8,
+   "name": "grading-highlights-h40",
+   "reference": "references/8-grading-highlights-h40.tif",
+   "reference_sha256": "044c175115d479d360fe03ad990f1e3ed4a517da2e88d3d0ab66a65f32d6ac0f",
+   "xmp": "references/8-grading-highlights-h40.xmp",
+   "xmp_sha256": "2107cb78b082141cd5829ef560654aa54dd3fad5c11fb4327b6076f8e4030615"
+  },
+  {
+   "photo": 8,
+   "name": "grading-midtones-h30",
+   "reference": "references/8-grading-midtones-h30.tif",
+   "reference_sha256": "02aebec1b381586a3a8f558e3f707d87571a69d303dea2d30de5111f9f6dd09a",
+   "xmp": "references/8-grading-midtones-h30.xmp",
+   "xmp_sha256": "7610fc2e467d44fadfedfb7ba6a7200502369d317f240e83d056a29991b55dac"
+  },
+  {
+   "photo": 8,
+   "name": "grading-blending-100",
+   "reference": "references/8-grading-blending-100.tif",
+   "reference_sha256": "ca51e57350f6925c67f44e0ba0f9cb1e71d98a86cace52493e0c770f9e6d63c8",
+   "xmp": "references/8-grading-blending-100.xmp",
+   "xmp_sha256": "32a4dd0b2906c54b72e5c6585434a79126092792f10dce6851c71b8502dccf46"
+  },
+  {
+   "photo": 8,
+   "name": "grading-balance-50",
+   "reference": "references/8-grading-balance-50.tif",
+   "reference_sha256": "8b850023b5e7bdefd4d5d54372e506175435d90dc2c46a0a66cfac445993ef5b",
+   "xmp": "references/8-grading-balance-50.xmp",
+   "xmp_sha256": "bd62237fb600295814a17419c030520b62eb04dc26e88b3ae29805ef923908e6"
+  },
+  {
+   "photo": 8,
+   "name": "grading-balance+50",
+   "reference": "references/8-grading-balance+50.tif",
+   "reference_sha256": "78e236e43f6f3d36497d1719e10cf93aa2ea195a05f18b8dd5b3ed05d0665067",
+   "xmp": "references/8-grading-balance+50.xmp",
+   "xmp_sha256": "367f64e151ef0c8bd647a889c99c14d5c6c434a5b26d2b9f1a3628480e2f6322"
+  },
+  {
+   "photo": 9,
+   "name": "default",
+   "reference": "references/9-default.tif",
+   "reference_sha256": "1fc74e2fdaf96dddc95aa5d64e456b1281364a0c84743db4db730e248d41f4e8",
+   "xmp": "references/9-default.xmp",
+   "xmp_sha256": "3b09cba3f7d4d619545b9573e48710b053ee4112355781cd1e8ea2bc1f6faeb2"
+  },
+  {
+   "photo": 9,
+   "name": "grading-shadows-h210",
+   "reference": "references/9-grading-shadows-h210.tif",
+   "reference_sha256": "b6de87ed9929365af661002047048c5693db17eff90c2c111184babdd911d882",
+   "xmp": "references/9-grading-shadows-h210.xmp",
+   "xmp_sha256": "65c695ca1f8ee8e4c38bbd72037c03fb244165c1f8828ea80429d77a02f6ecf4"
+  },
+  {
+   "photo": 9,
+   "name": "grading-highlights-h40",
+   "reference": "references/9-grading-highlights-h40.tif",
+   "reference_sha256": "0406fe6d8043ac56920f480c22c4a3df3d1c84a814ea9139b178a96538fa6f5f",
+   "xmp": "references/9-grading-highlights-h40.xmp",
+   "xmp_sha256": "1079e452a4fd21be3b447dad8bbc3609f0d835d9708a627c2728764014ccf2cf"
+  },
+  {
+   "photo": 9,
+   "name": "grading-midtones-h30",
+   "reference": "references/9-grading-midtones-h30.tif",
+   "reference_sha256": "8f30393ac7d1dedf5ae84f2d0f25577ddb54484001dacfe703cb73ffb7d1e4f7",
+   "xmp": "references/9-grading-midtones-h30.xmp",
+   "xmp_sha256": "8a18808f0a407e89cb2e95ff029d1645045a08d531a762a0d2bf54e2c157ed85"
+  },
+  {
+   "photo": 9,
+   "name": "grading-blending-100",
+   "reference": "references/9-grading-blending-100.tif",
+   "reference_sha256": "81a7287b1b2be7cd7298b6250d89d42180e419722c3132cf47a0d7b5c27daf7a",
+   "xmp": "references/9-grading-blending-100.xmp",
+   "xmp_sha256": "872c316f655c15b290938eac8549f0fa413cfce09c16733cad4bd7fcce7a0e4f"
+  },
+  {
+   "photo": 9,
+   "name": "grading-balance-50",
+   "reference": "references/9-grading-balance-50.tif",
+   "reference_sha256": "12cd6451b5e643e00ed63b9a6ed65401e1e4de164d40bc343b6ca0b588d5b933",
+   "xmp": "references/9-grading-balance-50.xmp",
+   "xmp_sha256": "c84626d2f1a98159d6bfb6554226d9d8108f11db6f5a89af8fdd9ab32fb683e3"
+  },
+  {
+   "photo": 9,
+   "name": "grading-balance+50",
+   "reference": "references/9-grading-balance+50.tif",
+   "reference_sha256": "f106f64d813332eb1d2cd4886eb9678d5d00f21e02ff7253ac5221613dd7a654",
+   "xmp": "references/9-grading-balance+50.xmp",
+   "xmp_sha256": "f85fa6a0858381f09fb5325e064fda571c73152cc4d8f145a4900d7777de3b04"
+  },
+  {
+   "photo": 10,
+   "name": "default",
+   "reference": "references/10-default.tif",
+   "reference_sha256": "3a5fc7d9c0f50d093f7e065908fd440f19e90070e60aa5a7d0f24c90cb3e74e7",
+   "xmp": "references/10-default.xmp",
+   "xmp_sha256": "188b61996ea336f6d8856173f1b1d813299833571278f3a36f40507c720084af"
+  },
+  {
+   "photo": 10,
+   "name": "grading-shadows-h210",
+   "reference": "references/10-grading-shadows-h210.tif",
+   "reference_sha256": "46b155cc894150f234d6510db98b9d086ee07fc14a714a08078b257ee7abc622",
+   "xmp": "references/10-grading-shadows-h210.xmp",
+   "xmp_sha256": "d4ffb72dd8f3c5952e63ad28fd9ce45f48bec14d5de2baf02806504bebf74eb4"
+  },
+  {
+   "photo": 10,
+   "name": "grading-highlights-h40",
+   "reference": "references/10-grading-highlights-h40.tif",
+   "reference_sha256": "6f864aa5945727a9e0833983a2cc9bf4ca4a68f4d6da6a0943fc9227087b59f9",
+   "xmp": "references/10-grading-highlights-h40.xmp",
+   "xmp_sha256": "06d9e3051a6c91b45800cf852ef4ca46939ea614024ed6ffc401f9e7c9e47c19"
+  },
+  {
+   "photo": 10,
+   "name": "grading-midtones-h30",
+   "reference": "references/10-grading-midtones-h30.tif",
+   "reference_sha256": "f2c2649d2ab6834a3f8ffb2462cc889fede904d0076ff4b79b0a92353e1e9255",
+   "xmp": "references/10-grading-midtones-h30.xmp",
+   "xmp_sha256": "43e7300c3779a79a10580420903f74d6b2daf907853d057401893a2d384fc551"
+  },
+  {
+   "photo": 10,
+   "name": "grading-blending-100",
+   "reference": "references/10-grading-blending-100.tif",
+   "reference_sha256": "129be64bf8fb9b43db0edaf93d56b6412282656e3611cf37db3ec00bd22c5ab7",
+   "xmp": "references/10-grading-blending-100.xmp",
+   "xmp_sha256": "a778b920f5645e09eb4142f2d924a78d4b3c1f153fe3fd25ece667b429a50f65"
+  },
+  {
+   "photo": 10,
+   "name": "grading-balance-50",
+   "reference": "references/10-grading-balance-50.tif",
+   "reference_sha256": "5d7c4c390092b2bcb61b3856461d5f7e69644a813cf73bef2a67cad84c5ea3a1",
+   "xmp": "references/10-grading-balance-50.xmp",
+   "xmp_sha256": "5d3f61c534f149f63aea7dcf259ed741dd29b562308ebf1aade1e0bdc85ff59e"
+  },
+  {
+   "photo": 10,
+   "name": "grading-balance+50",
+   "reference": "references/10-grading-balance+50.tif",
+   "reference_sha256": "3495373011ba45246bf8ae90412da09231b00327a5a2c3625ac86d5df2bbbe99",
+   "xmp": "references/10-grading-balance+50.xmp",
+   "xmp_sha256": "e7e9abc653eb382d54ba332a8b335e35910c9ebf60cdc1cca2cda86a8637fa65"
+  },
+  {
+   "photo": 11,
+   "name": "default",
+   "reference": "references/11-default.tif",
+   "reference_sha256": "00ee2e80cba4ae77fcafaed1b7b34810b4571ba4f2261636969e51bdb5156ac5",
+   "xmp": "references/11-default.xmp",
+   "xmp_sha256": "00e93e1111b57bac80effcbe1acddb06f30ebe7545c5ce3375825f7b28492f9d"
+  },
+  {
+   "photo": 11,
+   "name": "grading-shadows-h210",
+   "reference": "references/11-grading-shadows-h210.tif",
+   "reference_sha256": "ae9f7b59b6383f0a981f1d8392b1fb7b85befc3f70c075c8615802c9da3e32c5",
+   "xmp": "references/11-grading-shadows-h210.xmp",
+   "xmp_sha256": "96895175984ba340f6efb47ccebb5c9dd46b94efab62f26b722ac080b61cd169"
+  },
+  {
+   "photo": 11,
+   "name": "grading-highlights-h40",
+   "reference": "references/11-grading-highlights-h40.tif",
+   "reference_sha256": "dbe9784afa1c26b1e5ec7062a7fa880fee8d73d088d46a5056807f10e1719bcb",
+   "xmp": "references/11-grading-highlights-h40.xmp",
+   "xmp_sha256": "0fab49a72e862c421a471a26cd335885260699814dbc6a5575b65fc017608591"
+  },
+  {
+   "photo": 11,
+   "name": "grading-midtones-h30",
+   "reference": "references/11-grading-midtones-h30.tif",
+   "reference_sha256": "0639ccbca998e7696cd3b09f4b1f335bb187746d71d3745ff11559d66bdf45d8",
+   "xmp": "references/11-grading-midtones-h30.xmp",
+   "xmp_sha256": "ffebb997cca3150abd539e3177a196d0d2ce743f6531fdfaf73f553af9721d7a"
+  },
+  {
+   "photo": 11,
+   "name": "grading-blending-100",
+   "reference": "references/11-grading-blending-100.tif",
+   "reference_sha256": "8f1ded386570e55256190e1ce8adcd5d8dfdeb2f62ee944e819fb26bb3a9c093",
+   "xmp": "references/11-grading-blending-100.xmp",
+   "xmp_sha256": "3f413fa11fa432e190145dcaa6573fb3c18852689e48aa53363007a5a39a3d33"
+  },
+  {
+   "photo": 11,
+   "name": "grading-balance-50",
+   "reference": "references/11-grading-balance-50.tif",
+   "reference_sha256": "a83c6472245fd85384ffc39c567b04bbaf07479137f09f6007edc7abc1234957",
+   "xmp": "references/11-grading-balance-50.xmp",
+   "xmp_sha256": "eda95d6512de3a1a771c2041da31898c5fb1b09aae24e2f5542249bcef672ce3"
+  },
+  {
+   "photo": 11,
+   "name": "grading-balance+50",
+   "reference": "references/11-grading-balance+50.tif",
+   "reference_sha256": "5998f5c667baad9a9be6dd8f9f216491875d8ee91ab5e915d32edbcb127b19b3",
+   "xmp": "references/11-grading-balance+50.xmp",
+   "xmp_sha256": "502256780b3a7199743ce18f319581556619763c80067586632fdef4972e614a"
+  },
+  {
+   "photo": 12,
+   "name": "default",
+   "reference": "references/12-default.tif",
+   "reference_sha256": "6eae7f8eb654603eaafe97eff5cc690bbfeed150cd8c454af43b60715780c879",
+   "xmp": "references/12-default.xmp",
+   "xmp_sha256": "608e41841eb2bb77139b839773efcdb20e6732455723edce969f2ea82e9078ef"
+  },
+  {
+   "photo": 12,
+   "name": "grading-shadows-h210",
+   "reference": "references/12-grading-shadows-h210.tif",
+   "reference_sha256": "dc662b88f9cf37ba44e0f7762af8520acd5bda26b712e8e90045d114c70c0c23",
+   "xmp": "references/12-grading-shadows-h210.xmp",
+   "xmp_sha256": "e07057f22a816aef9f516831ec240e12cff584c5d750c2420248b4962975a36e"
+  },
+  {
+   "photo": 12,
+   "name": "grading-highlights-h40",
+   "reference": "references/12-grading-highlights-h40.tif",
+   "reference_sha256": "2b8b3cd4f601c9188bd996a1d0d66d49ce35a7a9cf3071170c690d65bd3e032d",
+   "xmp": "references/12-grading-highlights-h40.xmp",
+   "xmp_sha256": "b0e55b96054d69a94fb75345ac35aa53b35e5d76d872766829f4cbc97b81db53"
+  },
+  {
+   "photo": 12,
+   "name": "grading-midtones-h30",
+   "reference": "references/12-grading-midtones-h30.tif",
+   "reference_sha256": "1a5bf64bd687caa8416e967a14ddec368c647bafd84eba86904b94367e3446ca",
+   "xmp": "references/12-grading-midtones-h30.xmp",
+   "xmp_sha256": "a165397b139db41bfcd2ef4e3949a9bb4719bef2884a237b14b879cabfe80290"
+  },
+  {
+   "photo": 12,
+   "name": "grading-blending-100",
+   "reference": "references/12-grading-blending-100.tif",
+   "reference_sha256": "ea96fcf9b62a31b8663430d1bbc5c50264b82a229a38601267f998ac7a1f7d0a",
+   "xmp": "references/12-grading-blending-100.xmp",
+   "xmp_sha256": "e3e8fc6627e9bc8bc34448e5f351b4d7bb16fdfbda50109263f6690433054286"
+  },
+  {
+   "photo": 12,
+   "name": "grading-balance-50",
+   "reference": "references/12-grading-balance-50.tif",
+   "reference_sha256": "404d83a977767133d529ecfd0e33a1bd13e29339737814def9bf27a42ba8dbb2",
+   "xmp": "references/12-grading-balance-50.xmp",
+   "xmp_sha256": "48df001199e0b783941c27b11066b008e3978873a3d562208da8e1d45a8b229e"
+  },
+  {
+   "photo": 12,
+   "name": "grading-balance+50",
+   "reference": "references/12-grading-balance+50.tif",
+   "reference_sha256": "f329eea6c4138d087371c7b3575be2404a226f5fa296cae4444c84e9383a44e8",
+   "xmp": "references/12-grading-balance+50.xmp",
+   "xmp_sha256": "69e4fcd846d8a6308f3929779dc8e0171b2266dceb74a7594d2978d0650227c1"
+  },
+  {
+   "photo": 13,
+   "name": "default",
+   "reference": "references/13-default.tif",
+   "reference_sha256": "0e5c4286aa089e2e177abd4c1a298067b183b201e84344af00f5ce8ddff0ad50",
+   "xmp": "references/13-default.xmp",
+   "xmp_sha256": "3014b728ccd4b92271ce5fe81f5a37d3e7f17261650d3e041414d0b67947a0fa"
+  },
+  {
+   "photo": 13,
+   "name": "grading-shadows-h210",
+   "reference": "references/13-grading-shadows-h210.tif",
+   "reference_sha256": "31c03245294ba14d5f36f9f476e7afc75341963a7adfcf4dc02e24745d247237",
+   "xmp": "references/13-grading-shadows-h210.xmp",
+   "xmp_sha256": "f66b84eed2d4dfbd42680c8a4d4953e05802d4803448e0c9f8450793f4a45b02"
+  },
+  {
+   "photo": 13,
+   "name": "grading-highlights-h40",
+   "reference": "references/13-grading-highlights-h40.tif",
+   "reference_sha256": "64249e630e1c0fe4723152e43e9f1b316cdd2ec42b526107e8708d33a31a6cfa",
+   "xmp": "references/13-grading-highlights-h40.xmp",
+   "xmp_sha256": "b635cf2001f15ff8f193d30512f53eff758be3059bd5c020f87cfca42e33441c"
+  },
+  {
+   "photo": 13,
+   "name": "grading-midtones-h30",
+   "reference": "references/13-grading-midtones-h30.tif",
+   "reference_sha256": "ab949a598abfa7f30076451e96faec967da94bc10fee0a13cca1f70b9a982b21",
+   "xmp": "references/13-grading-midtones-h30.xmp",
+   "xmp_sha256": "1d0cd43c964ed143d615ffede332b9ff135343798b71c39155509263e9c2fad6"
+  },
+  {
+   "photo": 13,
+   "name": "grading-blending-100",
+   "reference": "references/13-grading-blending-100.tif",
+   "reference_sha256": "11aa093b9cbffaa007ebf21b6863a8c78ace2f4294ce2e6006f7335562b74568",
+   "xmp": "references/13-grading-blending-100.xmp",
+   "xmp_sha256": "fc007445425f6e594e7450e145bf4e070422a7b85c430cbf67ba10c6f7821405"
+  },
+  {
+   "photo": 13,
+   "name": "grading-balance-50",
+   "reference": "references/13-grading-balance-50.tif",
+   "reference_sha256": "24e0df1eefda08b6ecd0ca6b8b8a71acba2b42dfa2b5127336c652544202f5fe",
+   "xmp": "references/13-grading-balance-50.xmp",
+   "xmp_sha256": "23c1f5823e12615624e14b28f9b360840cdd107636469601ea9e86e8e03ec785"
+  },
+  {
+   "photo": 13,
+   "name": "grading-balance+50",
+   "reference": "references/13-grading-balance+50.tif",
+   "reference_sha256": "e1641ec1261142bbc5f069ca655f92b93e85c83e3d8db55cd61d34c998e32ca6",
+   "xmp": "references/13-grading-balance+50.xmp",
+   "xmp_sha256": "bc0ef33a7e4c9b1a9789531489a80e09b5973ce9554c13160a11f7de6a438742"
+  },
+  {
+   "photo": 14,
+   "name": "default",
+   "reference": "references/14-default.tif",
+   "reference_sha256": "f5e80cf4671ce7d02d9821bfde703c00f482bb721818c0b4656eb8dc41f2ae19",
+   "xmp": "references/14-default.xmp",
+   "xmp_sha256": "4fbef9908fe770770d542027c7b47acdbff638653037b36a6b8e51fe5307cfd2"
+  },
+  {
+   "photo": 14,
+   "name": "grading-shadows-h210",
+   "reference": "references/14-grading-shadows-h210.tif",
+   "reference_sha256": "286757df52140ebbb7714a353c10d6b390f7164548fc68cef1a17065f2d87739",
+   "xmp": "references/14-grading-shadows-h210.xmp",
+   "xmp_sha256": "774ba153256fee8840c3079a8278201b63189eb5cb8bcbc760ba8143829cc9fa"
+  },
+  {
+   "photo": 14,
+   "name": "grading-highlights-h40",
+   "reference": "references/14-grading-highlights-h40.tif",
+   "reference_sha256": "080237d20c9382e2d7a1109b376728eb8e4ee4b13e6fdccd2e3a0769f96dbc35",
+   "xmp": "references/14-grading-highlights-h40.xmp",
+   "xmp_sha256": "b2dde1f2d28d61b723395afeb40494d7ac32a02645994c16926e0cf4f1342b44"
+  },
+  {
+   "photo": 14,
+   "name": "grading-midtones-h30",
+   "reference": "references/14-grading-midtones-h30.tif",
+   "reference_sha256": "3f3aad793e11bacd58a23fc6ba0021d862d698873c207b9c618285c5d1d76240",
+   "xmp": "references/14-grading-midtones-h30.xmp",
+   "xmp_sha256": "dade8f241f95005844d40be79ea66d1084fbf48008f01ff64873bab0c55bf230"
+  },
+  {
+   "photo": 14,
+   "name": "grading-blending-100",
+   "reference": "references/14-grading-blending-100.tif",
+   "reference_sha256": "fe254b9536fc7127a4dd1554701d2efb840f4ebc342113b2cd49dc9f6aee614b",
+   "xmp": "references/14-grading-blending-100.xmp",
+   "xmp_sha256": "dd3406165b2c586116737c644908556c8e7a6a4a50590eeff46c3d2c1fee7d7d"
+  },
+  {
+   "photo": 14,
+   "name": "grading-balance-50",
+   "reference": "references/14-grading-balance-50.tif",
+   "reference_sha256": "55fc1a44dacc01da2858a7757e246fd4d44647bf30e9226d0c5f62de653ae9ec",
+   "xmp": "references/14-grading-balance-50.xmp",
+   "xmp_sha256": "33612c5aad3660d719623b875447350c9319287295c89d825fa4b280318c6678"
+  },
+  {
+   "photo": 14,
+   "name": "grading-balance+50",
+   "reference": "references/14-grading-balance+50.tif",
+   "reference_sha256": "819c8d4aeb0ba04308de55814a9a90e556c7dcf34f5f74c6f09e9cda591f1a82",
+   "xmp": "references/14-grading-balance+50.xmp",
+   "xmp_sha256": "bb26819c6141c09c82bb697081a1c32955eb5a6e2ae1d34ec378badbd6a8e13d"
+  },
+  {
+   "photo": 15,
+   "name": "default",
+   "reference": "references/15-default.tif",
+   "reference_sha256": "b484ea269205488a2d96b9d829c1cc9944647ec97daaded5e56dea1a76f5bb5e",
+   "xmp": "references/15-default.xmp",
+   "xmp_sha256": "351c9abc541f2e67a9483e82be35a2a53af1d19738585de528e3cd5b740852e1"
+  },
+  {
+   "photo": 15,
+   "name": "grading-shadows-h210",
+   "reference": "references/15-grading-shadows-h210.tif",
+   "reference_sha256": "be71917dd04c992af45557a180251ed76db63d34e727f9f01b913a0f357d7161",
+   "xmp": "references/15-grading-shadows-h210.xmp",
+   "xmp_sha256": "80be3c1888255cbe4be5efeaab200bf0661f2d63fad12228c5f024fe5141da34"
+  },
+  {
+   "photo": 15,
+   "name": "grading-highlights-h40",
+   "reference": "references/15-grading-highlights-h40.tif",
+   "reference_sha256": "10a6cbf15eea9d4a9209282c989065ff1b458a63e64ca1b68dff34f46bedaeb0",
+   "xmp": "references/15-grading-highlights-h40.xmp",
+   "xmp_sha256": "4f51c8a402474a97277626095ee853e938126e4a068b718fba31b607475cee83"
+  },
+  {
+   "photo": 15,
+   "name": "grading-midtones-h30",
+   "reference": "references/15-grading-midtones-h30.tif",
+   "reference_sha256": "0f5f6352cbe30317f98ef97d2c09b65cac54ee9d65af344b160e8bd47e37ba3d",
+   "xmp": "references/15-grading-midtones-h30.xmp",
+   "xmp_sha256": "b74c8157ed9377c987265d68437ccc7c6780312791635e5bdf8d204f0b12a00a"
+  },
+  {
+   "photo": 15,
+   "name": "grading-blending-100",
+   "reference": "references/15-grading-blending-100.tif",
+   "reference_sha256": "4cb11c64172969ce2ad432d0b174c9a02e78732fde9931b9d3af451f58b00702",
+   "xmp": "references/15-grading-blending-100.xmp",
+   "xmp_sha256": "ae82c0fa7f29648b4eb0fd2fe7359ee0deba7080ce917e1e32b1df1b86cc808e"
+  },
+  {
+   "photo": 15,
+   "name": "grading-balance-50",
+   "reference": "references/15-grading-balance-50.tif",
+   "reference_sha256": "51f66c37c518eb1fb88470472f72d673612883f215a9095be6934629be0598db",
+   "xmp": "references/15-grading-balance-50.xmp",
+   "xmp_sha256": "ec8a7fa3675d4e68e12f1c1b8dc740f8ffeba451b7a49e165ee91e82c5434d08"
+  },
+  {
+   "photo": 15,
+   "name": "grading-balance+50",
+   "reference": "references/15-grading-balance+50.tif",
+   "reference_sha256": "b0728d98a912bc7eaabc1c66eed763cb0e1b48a967ede73cd5110f088753a84f",
+   "xmp": "references/15-grading-balance+50.xmp",
+   "xmp_sha256": "4c10986c6a2d17b12e16f4ac35112a3c99b294abc0268bc7dec9e00eef90b130"
+  },
+  {
+   "photo": 16,
+   "name": "default",
+   "reference": "references/16-default.tif",
+   "reference_sha256": "3d54f6bab2f4ec8b62d36a64fbe3da27b7e245e0a9cd56b990396e59b755a458",
+   "xmp": "references/16-default.xmp",
+   "xmp_sha256": "88ef669e1ff9036fcec1d7d1db0be11cea3aa68afc360b44ee9a28f29fb8bc38"
+  },
+  {
+   "photo": 16,
+   "name": "grading-shadows-h210",
+   "reference": "references/16-grading-shadows-h210.tif",
+   "reference_sha256": "2e759a9a686326a11fd9c6088087ac794ae0f8b1178f20c92798ac2564c98dc5",
+   "xmp": "references/16-grading-shadows-h210.xmp",
+   "xmp_sha256": "cd1e56eac0916eb0a8829c31383f60d27d7b3f5ed5ed918fd19a29c08b3e2821"
+  },
+  {
+   "photo": 16,
+   "name": "grading-highlights-h40",
+   "reference": "references/16-grading-highlights-h40.tif",
+   "reference_sha256": "c276cc99b0c0bb91e91345169552d3c40b05e9b03fbddd99fec1ffed1b880999",
+   "xmp": "references/16-grading-highlights-h40.xmp",
+   "xmp_sha256": "285ade594cff8d934961f6eeb32ef8bac248bfae684b76fac11fdbd4b685f8c5"
+  },
+  {
+   "photo": 16,
+   "name": "grading-midtones-h30",
+   "reference": "references/16-grading-midtones-h30.tif",
+   "reference_sha256": "6089362ac368a97eb657caf6c6163bde56246e6325f6e56f8b7e9de16d495b47",
+   "xmp": "references/16-grading-midtones-h30.xmp",
+   "xmp_sha256": "162353ace8b6e97b5da2b9ef70690cbd04c90185102ca8aa7fe4923720f18e2a"
+  },
+  {
+   "photo": 16,
+   "name": "grading-blending-100",
+   "reference": "references/16-grading-blending-100.tif",
+   "reference_sha256": "b606977f1bcf9f865c2ced4b8009a4539b12e166006127869329fa2dd0a91ad3",
+   "xmp": "references/16-grading-blending-100.xmp",
+   "xmp_sha256": "cd431e0626dfc9846b7b745ac2c4d9444b7c773df4a745ec7dab0282c02b7433"
+  },
+  {
+   "photo": 16,
+   "name": "grading-balance-50",
+   "reference": "references/16-grading-balance-50.tif",
+   "reference_sha256": "2b97e7092e94ad1f9ea261c7d24228681426b57c18afcfb1905acda9e1e4aed6",
+   "xmp": "references/16-grading-balance-50.xmp",
+   "xmp_sha256": "a1d1047db42220e06934f27d5ed61c064a0a36e7c7b511aa4514480c31dd9c71"
+  },
+  {
+   "photo": 16,
+   "name": "grading-balance+50",
+   "reference": "references/16-grading-balance+50.tif",
+   "reference_sha256": "befe7dcf4caa4e83fe8209a9ee7c325b8d8b46b5c5b35d9007c4451666f7e2eb",
+   "xmp": "references/16-grading-balance+50.xmp",
+   "xmp_sha256": "893f353c82e63a3365aebac1c95ff244db1fb1108c1da4d4df42ec7e3fdd311d"
+  },
+  {
+   "photo": 17,
+   "name": "default",
+   "reference": "references/17-default.tif",
+   "reference_sha256": "5d9def13940ddbccf55186edaee4b5dcb2c3e1a59a028cef4e92728aa3341588",
+   "xmp": "references/17-default.xmp",
+   "xmp_sha256": "45cacf9cd7aa4ea5a2fbbc60b647b210594ec384bb50f4852fa5f2497fae0c94"
+  },
+  {
+   "photo": 17,
+   "name": "grading-shadows-h210",
+   "reference": "references/17-grading-shadows-h210.tif",
+   "reference_sha256": "d125c4b4b801f9a02de7d9d723891c64a884c4170b0837f4cb76443a78601a28",
+   "xmp": "references/17-grading-shadows-h210.xmp",
+   "xmp_sha256": "110ed2332c4bd884e1da2ab08983e079bdbd81cba82ab4139fafa304f0eb2566"
+  },
+  {
+   "photo": 17,
+   "name": "grading-highlights-h40",
+   "reference": "references/17-grading-highlights-h40.tif",
+   "reference_sha256": "1606f72585ba2528119d1fe075743332f103339815fc142c1af999bab3a7bba3",
+   "xmp": "references/17-grading-highlights-h40.xmp",
+   "xmp_sha256": "33040484053360a0735b63011be66a2bf66365bc0a3e83bbf7bb0a5927a67446"
+  },
+  {
+   "photo": 17,
+   "name": "grading-midtones-h30",
+   "reference": "references/17-grading-midtones-h30.tif",
+   "reference_sha256": "345415a406c6bda200b4b4debf441e7c3bb14a7fb0bef5118076434634bd9f61",
+   "xmp": "references/17-grading-midtones-h30.xmp",
+   "xmp_sha256": "69df12db1faa3eaad8d3cf44f90526c31ec7b46a239b37dfefcce79f07f65047"
+  },
+  {
+   "photo": 17,
+   "name": "grading-blending-100",
+   "reference": "references/17-grading-blending-100.tif",
+   "reference_sha256": "9c86b03589326a3be277c40b88d1531cc5785eba9b06e9e048de455cfa41587b",
+   "xmp": "references/17-grading-blending-100.xmp",
+   "xmp_sha256": "3bdcf194471c518db04bc9ebfdb1d7c263acd047d0eb28b5ea769061d60ddf55"
+  },
+  {
+   "photo": 17,
+   "name": "grading-balance-50",
+   "reference": "references/17-grading-balance-50.tif",
+   "reference_sha256": "431c9f102d5ac9a23f6ec4d17d7351312060345959b25359494318017bbab6d4",
+   "xmp": "references/17-grading-balance-50.xmp",
+   "xmp_sha256": "85ac3bdbe76984870c166807791cc464018dd13570527ee30123d211c3580640"
+  },
+  {
+   "photo": 17,
+   "name": "grading-balance+50",
+   "reference": "references/17-grading-balance+50.tif",
+   "reference_sha256": "dd70be9d6c582e935fbeaf364574f93a03c2e91b98a148a9cc138b7d35b843ff",
+   "xmp": "references/17-grading-balance+50.xmp",
+   "xmp_sha256": "1ec1099ec70eb5179bd16bffef81c4192567d5f3ec634e2a8fdd4bdcb4034610"
+  },
+  {
+   "photo": 18,
+   "name": "default",
+   "reference": "references/18-default.tif",
+   "reference_sha256": "63a74d62b60fd9f32b4a15afc96c005269945b90c9b1a428eaee4a445f9a0893",
+   "xmp": "references/18-default.xmp",
+   "xmp_sha256": "710878260f90b0d1b05958804d5651d772e16686e81ffa3149a57697b809d0b8"
+  },
+  {
+   "photo": 18,
+   "name": "grading-shadows-h210",
+   "reference": "references/18-grading-shadows-h210.tif",
+   "reference_sha256": "db9adcabd841f262197b4e8aa8bcbfaf2c1ffa4cf0ba9bb2bf1af2d28c44f33d",
+   "xmp": "references/18-grading-shadows-h210.xmp",
+   "xmp_sha256": "6698b4002323ef2615bc5a1a2fe558c8ac535253d79d9bb90b11003d02d5b7a0"
+  },
+  {
+   "photo": 18,
+   "name": "grading-highlights-h40",
+   "reference": "references/18-grading-highlights-h40.tif",
+   "reference_sha256": "4ce51cf17cdbb29dbc1a97db5c4f1779bf42ba9928df6a495c4b516a7f032bbe",
+   "xmp": "references/18-grading-highlights-h40.xmp",
+   "xmp_sha256": "3dc590369674d0051373e36671d62171bd25e5810de8aa043051e80ae3740271"
+  },
+  {
+   "photo": 18,
+   "name": "grading-midtones-h30",
+   "reference": "references/18-grading-midtones-h30.tif",
+   "reference_sha256": "e096535fe5bd367c5e7d26a73b0881c444c1a9087afc54f01d67db2f7f4da7db",
+   "xmp": "references/18-grading-midtones-h30.xmp",
+   "xmp_sha256": "12edbb14606b7aa41d3edef10014ef89804e6c24d24866dfd64359e63de3a1ab"
+  },
+  {
+   "photo": 18,
+   "name": "grading-blending-100",
+   "reference": "references/18-grading-blending-100.tif",
+   "reference_sha256": "bdd570f0ac4b45c1cebd504c1865e28a75cdc0f37342b8454ddd10cd98fe5a2a",
+   "xmp": "references/18-grading-blending-100.xmp",
+   "xmp_sha256": "2d859473ca3e6a1c06f7a357a81a31bdd65242695cc2586492df493cbb3bc5a3"
+  },
+  {
+   "photo": 18,
+   "name": "grading-balance-50",
+   "reference": "references/18-grading-balance-50.tif",
+   "reference_sha256": "d0ecd5ef86f920afcc9b575a6946cc9abc452858df45872b257416ccf12656a3",
+   "xmp": "references/18-grading-balance-50.xmp",
+   "xmp_sha256": "61bf28598707a741a39ab05e47e6052cb785cdfa5737d14d28a35bc4687c65fb"
+  },
+  {
+   "photo": 18,
+   "name": "grading-balance+50",
+   "reference": "references/18-grading-balance+50.tif",
+   "reference_sha256": "1d8b8fa341afb1e33647e6c30a7cbed8e1d114b62b579c8be54a73a385123e0e",
+   "xmp": "references/18-grading-balance+50.xmp",
+   "xmp_sha256": "8dd43ebf8ac60ce8699f3f9f70c189ad351e505e6b9a925c8c1c4a4f9b1481df"
+  },
+  {
+   "photo": 19,
+   "name": "default",
+   "reference": "references/19-default.tif",
+   "reference_sha256": "4cf11edafcbb492433b6b40e91711a2919b6810d8b39266d89fe1cf1b6177a8e",
+   "xmp": "references/19-default.xmp",
+   "xmp_sha256": "8f2ccef97ae726793235958c44d98f1617a6236d4e18a1774e520bb65956bb6e"
+  },
+  {
+   "photo": 19,
+   "name": "grading-shadows-h210",
+   "reference": "references/19-grading-shadows-h210.tif",
+   "reference_sha256": "b83792a823b1ee93fec168bc119ef8543d322f968813d4762d84c006ed1eb262",
+   "xmp": "references/19-grading-shadows-h210.xmp",
+   "xmp_sha256": "0f400cae3cf3709fc01dc9422a7c52604ba54f29b1aa98935ad085f958c65e38"
+  },
+  {
+   "photo": 19,
+   "name": "grading-highlights-h40",
+   "reference": "references/19-grading-highlights-h40.tif",
+   "reference_sha256": "45b1a6bf1d5e34654a7776d9be39d1795fa570ac5a78027661403b8a92066ca4",
+   "xmp": "references/19-grading-highlights-h40.xmp",
+   "xmp_sha256": "d78484ded299d5c44351f723cd41ee26bcc0c987d43f1c392f406d13205efbcc"
+  },
+  {
+   "photo": 19,
+   "name": "grading-midtones-h30",
+   "reference": "references/19-grading-midtones-h30.tif",
+   "reference_sha256": "713c27ffe4fdf613fea79731f7ea1505610fbdcfaf94a0472324046ac0450658",
+   "xmp": "references/19-grading-midtones-h30.xmp",
+   "xmp_sha256": "b45620bac0b3321c6419c823e1c399b87aa97d0cf27e0ff0136534e6fa2ea4af"
+  },
+  {
+   "photo": 19,
+   "name": "grading-blending-100",
+   "reference": "references/19-grading-blending-100.tif",
+   "reference_sha256": "b1d5ef98d35668d61bca47cd7ed56ab84ea2741b814a758eb456b55602bcd872",
+   "xmp": "references/19-grading-blending-100.xmp",
+   "xmp_sha256": "d90aa9433e7af92c7eeb283e4c28ffabb5916f286729fadfeae7e3ce59fb2317"
+  },
+  {
+   "photo": 19,
+   "name": "grading-balance-50",
+   "reference": "references/19-grading-balance-50.tif",
+   "reference_sha256": "d4baa039d4cad4d8552a8fe121e9a979d74452dad04518564b3a8966d20916b1",
+   "xmp": "references/19-grading-balance-50.xmp",
+   "xmp_sha256": "035a1d3dfaf50793529f144ebaa138e8b6d63553cfcc8950a1a6724df7a72351"
+  },
+  {
+   "photo": 19,
+   "name": "grading-balance+50",
+   "reference": "references/19-grading-balance+50.tif",
+   "reference_sha256": "3f1b3beeb4a9b0fcdbb70e5aac735ae8482d90ea7464f0949223e12bea9099b1",
+   "xmp": "references/19-grading-balance+50.xmp",
+   "xmp_sha256": "5fdfc2372ad0d2e2e8d741f2928363d2d4759fefcbde4ebd5f8f16809118a364"
+  },
+  {
+   "photo": 20,
+   "name": "default",
+   "reference": "references/20-default.tif",
+   "reference_sha256": "14649b54c1bdcdac4edd55dced7418dda4a060c091b1d433c0c76e0024be59db",
+   "xmp": "references/20-default.xmp",
+   "xmp_sha256": "dc364342b7e46f6cc8e4d44601408ca2f2316f0d16b1339c0f608eb6136afb42"
+  },
+  {
+   "photo": 20,
+   "name": "grading-shadows-h210",
+   "reference": "references/20-grading-shadows-h210.tif",
+   "reference_sha256": "0a146c76ebeda2e20084cb4155a368bf9a98f2c67bf5d38fb5cbf89e681c1d05",
+   "xmp": "references/20-grading-shadows-h210.xmp",
+   "xmp_sha256": "fc4d6dce5263c944c2671c90fbcd716d4b4f30377df16b344ce6e2439271d498"
+  },
+  {
+   "photo": 20,
+   "name": "grading-highlights-h40",
+   "reference": "references/20-grading-highlights-h40.tif",
+   "reference_sha256": "95697542ab65d73ea3cab78a275a7c4150d09a525f0da7bc11eb67ab416571ed",
+   "xmp": "references/20-grading-highlights-h40.xmp",
+   "xmp_sha256": "d2503ec7faeac1e90873b194274bc54504406ddd37fae367a74f54bc4da81b9d"
+  },
+  {
+   "photo": 20,
+   "name": "grading-midtones-h30",
+   "reference": "references/20-grading-midtones-h30.tif",
+   "reference_sha256": "8a364c906d47c810d19fd6fc1ac4d86365245746dc56540a0ea4925f2b4c2f40",
+   "xmp": "references/20-grading-midtones-h30.xmp",
+   "xmp_sha256": "e1c3fc22353a4ba412806d285393bf37910712439b6a1fe40a07dac4e325620d"
+  },
+  {
+   "photo": 20,
+   "name": "grading-blending-100",
+   "reference": "references/20-grading-blending-100.tif",
+   "reference_sha256": "a1049eb45cf2bc1527e3216e2c51f6beece210f6d9af106d6474bb3754f61657",
+   "xmp": "references/20-grading-blending-100.xmp",
+   "xmp_sha256": "47ccd40f152b525bf338f14f57e8762a258e4ca059fd963b069828129534c79a"
+  },
+  {
+   "photo": 20,
+   "name": "grading-balance-50",
+   "reference": "references/20-grading-balance-50.tif",
+   "reference_sha256": "edb0f0e25ae321d1bcf2638fd7d6b6be67828afc6f74ec64a7bb608ca21b6696",
+   "xmp": "references/20-grading-balance-50.xmp",
+   "xmp_sha256": "82d16c6b892595f7dfe833d5abc9117268bc8bdfde78dde45869f99cb1352950"
+  },
+  {
+   "photo": 20,
+   "name": "grading-balance+50",
+   "reference": "references/20-grading-balance+50.tif",
+   "reference_sha256": "3b2f23209bf80ca24cc7285d17034cbbb2bfd0f5296a65e09607eda80355ee6d",
+   "xmp": "references/20-grading-balance+50.xmp",
+   "xmp_sha256": "1133d0e077beb4f139489f1a5fbacf2040311a31e864f7ff74db3ae51dfe5835"
+  }
+ ],
+ "skipped": []
+}

@@ -1,0 +1,172 @@
+{
+ "schema": 1,
+ "set": "exposure-train",
+ "settings": [
+  "exposure-2",
+  "exposure-1",
+  "exposure+1",
+  "exposure+2"
+ ],
+ "photos": [
+  {
+   "raw": "raws/pixls/Canon/EOS 850D/IMG_1837.CR3",
+   "sha256": "47f7747b74073515bdbd65015738bc31947504d68255c5377baa21f179df2486",
+   "p90_L": 34.86673123208111,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS 850D",
+   "subject": "fairytale scene with magical creatures and horses",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Leica/V-Lux 5/_1000200.RWL",
+   "sha256": "6540d067665a842d903d2c44ec101e6f95f65759d4754a94f38817d7a2fd72f4",
+   "p90_L": 0.003529896599236082,
+   "stratum": "low",
+   "make": "Leica",
+   "model": "V-Lux 5",
+   "subject": "full moon against a dark sky",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Apple/iPhone XS/IMG_1105.dng",
+   "sha256": "50bc64ee8cfbbfb6c0531e29ab428ff985506a16fe2d1d2e74656f21b54505f6",
+   "p90_L": 66.23743602838603,
+   "stratum": "mid",
+   "make": "Apple",
+   "model": "iPhone XS",
+   "subject": "modern building facade with ivy and reflections",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS R50/Canon_R50_ISO100_RAW_mechanicShutter.CR3",
+   "sha256": "cbc0666f27d37007203df53f3668c30d3980aab93c3e33e7bff41c72b77414e9",
+   "p90_L": 73.02801345811011,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS R50",
+   "subject": "gardening beds with plants and wildflowers in front of a hedge",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Leica/C-Lux/_1001076.RWL",
+   "sha256": "286106ec2df65539912709c64e84a9b94686443fe5ea05b8ebada76daa1feb2d",
+   "p90_L": 71.05190198204406,
+   "stratum": "mid",
+   "make": "Leica",
+   "model": "C-Lux",
+   "subject": "city skyline reflected in a river on a clear day",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Nikon/D850/Nikon-D850-14bit-uncompressed.NEF",
+   "sha256": "ce1fb927aca4f0ac3a1fa5caded0d7859560988e500f71177287310fd1a3d845",
+   "p90_L": 69.46941533423153,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "D850",
+   "subject": "green field with forest edge under clear sky",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/OM Digital Solutions/OM-3/P5048182.ORF",
+   "sha256": "1cee7deb661e45101ab3ca6c4240d24ed949b167ed423703fca15c09dd8ec176",
+   "p90_L": 73.16297661838517,
+   "stratum": "mid",
+   "make": "OM System",
+   "model": "OM-3",
+   "subject": "wooden play structure in a sunlit garden",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Olympus/E-M1X/P3240916.ORF",
+   "sha256": "ab171cedfe3a65438dd47c2df704a7d3001f45f5ab43e67b7f96cfe30b6ebbcf",
+   "p90_L": 73.71540726376253,
+   "stratum": "mid",
+   "make": "Olympus",
+   "model": "E-M1X",
+   "subject": "frozen lake at dusk with wooden pier",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-GH6/4-3.RW2",
+   "sha256": "07996bca904a178d02c5f56ee03a8dce775a0e1150c1beeaec51d72ff5e700d0",
+   "p90_L": 65.37285622457964,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DC-GH6",
+   "subject": "stone sculpture of a seated figure in a garden",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Apple/iPhone 7 Plus/IMG_0739.DNG",
+   "sha256": "e8c7ebd8f22f7281d165496b91c8fea8a8e79c8113172fb499e1d66d6045332e",
+   "p90_L": 78.32542395205516,
+   "stratum": "high",
+   "make": "Apple",
+   "model": "iPhone 7 Plus",
+   "subject": "aerial view of a green valley with scattered houses and clouds",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Canon/PowerShot G5 X Mark II/Canon_-_PowerShot_G5_X_Mark_II_-_RAW_(1:1).CR3",
+   "sha256": "13bc9926954dd62f2b84c1539428554754c078953c7af9baa5650cb85237aec8",
+   "p90_L": 92.76644753643757,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "PowerShot G5 X Mark II",
+   "subject": "a lakeside village seen through autumn trees",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-T100/DSCF0627.RAF",
+   "sha256": "0af086b9569b59317da42b8e136013245486073b6b8d409fc997a71788538c4d",
+   "p90_L": 77.49236513874357,
+   "stratum": "high",
+   "make": "Fujifilm",
+   "model": "X-T100",
+   "subject": "paved path through grassy field with trees under clear sky",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Google/Pixel 4 XL/IMG_20191023_125156.dng",
+   "sha256": "0c03a6c93b4b8593cd0e4426166e6389710007238b82eb23861ef191322f0c54",
+   "p90_L": 85.23252275405812,
+   "stratum": "high",
+   "make": "Google",
+   "model": "Pixel 4 XL",
+   "subject": "roadside view with houses and autumn trees",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/HUAWEI/BLA-L29/IMG_20180119_175851.dng",
+   "sha256": "eaf1db7d47dd7966c8042964a0f9fa2d3ac19acc1e5458bb7c803f2d70909924",
+   "p90_L": 78.35943934174426,
+   "stratum": "high",
+   "make": "HUAWEI",
+   "model": "BLA-L29",
+   "subject": "two toy cars on a white surface",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Leica/D-Lux 7/L1023208.RWL",
+   "sha256": "4f6db6492da83f7f2a5012591e370557249d1ed44d4c948784016605b799327c",
+   "p90_L": 81.52160493887374,
+   "stratum": "high",
+   "make": "Leica",
+   "model": "D-Lux 7",
+   "subject": "large rust-colored metal ring sculpture in front of classical building",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/NIKON CORPORATION/NIKON Z fc/Nikon_Z_fc_14bit.NEF",
+   "sha256": "038995c5108899cfa3f54d99364752fe761bb0accb8b26a21ac274d107a85d05",
+   "p90_L": 75.8937142607546,
+   "stratum": "high",
+   "make": "Nikon",
+   "model": "Z fc",
+   "subject": "garden tools and containers against a wooden fence",
+   "score": 2
+  }
+ ]
+}

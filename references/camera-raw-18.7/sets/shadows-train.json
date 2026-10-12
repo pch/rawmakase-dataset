@@ -1,0 +1,154 @@
+{
+ "schema": 1,
+ "set": "shadows-train",
+ "settings": [
+  "shadows-100",
+  "shadows-50",
+  "shadows-25",
+  "shadows+25",
+  "shadows+50",
+  "shadows+100"
+ ],
+ "photos": [
+  {
+   "raw": "raws/pixls/Apple/iPhone XS/IMG_1105.dng",
+   "sha256": "50bc64ee8cfbbfb6c0531e29ab428ff985506a16fe2d1d2e74656f21b54505f6",
+   "p90_L": 66.23743602838603,
+   "stratum": "mid",
+   "make": "Apple",
+   "model": "iPhone XS",
+   "subject": "modern building facade with ivy and reflections",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Nikon/D5600/2018-01-20_01-14_0792.NEF",
+   "sha256": "4d9b49e6eb8a9e055b10be67f580a9c42538132e3a6e808d2fd08826c644827e",
+   "p90_L": 55.45377077092965,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "D5600",
+   "subject": "night street scene viewed through tree branches",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Olympus/E-M1X/P3240916.ORF",
+   "sha256": "ab171cedfe3a65438dd47c2df704a7d3001f45f5ab43e67b7f96cfe30b6ebbcf",
+   "p90_L": 73.71540726376253,
+   "stratum": "mid",
+   "make": "Olympus",
+   "model": "E-M1X",
+   "subject": "frozen lake at dusk with wooden pier",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-G9/P1000951.RW2",
+   "sha256": "16282357ce0143ff7d36737f82074662db7aa0790ecd309196f406baf0f586a7",
+   "p90_L": 63.74690559469991,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DC-G9",
+   "subject": "black motorcycle jacket with red and white accents displayed on a shelf",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/SONY/ILME-FX2/Image_3_-_Lossless_Compression_(L)_-_Shade.ARW",
+   "sha256": "fc7cf5cc9ab91fe1d45b5469e532c17507312091f6664f09dd7988a00744d2a2",
+   "p90_L": 71.85540209908862,
+   "stratum": "mid",
+   "make": "Sony",
+   "model": "ILME-FX2",
+   "subject": "fern in hanging basket",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-G90/PMAT0201.RW2",
+   "sha256": "41de770701618b7276871fd1566da08782bf1009977c5bea91c0cc300bb8ed65",
+   "p90_L": 62.67492132811666,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DC-G90",
+   "subject": "forested hills under a partly cloudy sky",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-G9/P1000476.RW2",
+   "sha256": "7a56babeb19f9bde3eaa532a4c8d1b11637a0f550963a1182ec845722c65583d",
+   "p90_L": 62.07052625203536,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DC-G9",
+   "subject": "dense green foliage of a tree canopy",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS-1D X Mark II/AZ1I2270.CR2",
+   "sha256": "2e372710d546c9b8903a343696af4e7fd245794571f64258ab607a89dfa6aa97",
+   "p90_L": 78.6322150948456,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS-1D X Mark II",
+   "subject": "snow-covered suburban street with houses and parked vehicles",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-H1/fuji_xh1_compressed.RAF",
+   "sha256": "5210bf896d2757cecda88bab0a87ef0b534d4b36c31dc08d5db7cd8f5bbf9b4e",
+   "p90_L": 96.99365403974619,
+   "stratum": "high",
+   "make": "Fujifilm",
+   "model": "X-H1",
+   "subject": "street view from a porch with autumn trees",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Google/Pixel 4a/PXL_20201121_100251397.dng",
+   "sha256": "11b38186ee3455376291bcdb3049728a3f9dcd94b9e82ff76855d9f3430e44be",
+   "p90_L": 87.07676896777717,
+   "stratum": "high",
+   "make": "Google",
+   "model": "Pixel 4a",
+   "subject": "mushrooms growing at the base of a tree in a forest",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Leica/D-Lux 7/L1023208.RWL",
+   "sha256": "4f6db6492da83f7f2a5012591e370557249d1ed44d4c948784016605b799327c",
+   "p90_L": 81.52160493887374,
+   "stratum": "high",
+   "make": "Leica",
+   "model": "D-Lux 7",
+   "subject": "large rust-colored metal ring sculpture in front of classical building",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Nikon/Z 50/DSC_0450.NEF",
+   "sha256": "5e93735923229117abee2779d81f114f180f361e8ae553c9dd9bdaaedb0d9e02",
+   "p90_L": 94.78218465983109,
+   "stratum": "high",
+   "make": "Nikon",
+   "model": "Z 50",
+   "subject": "green hill with city skyline in background",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/OM Digital Solutions/OM-5MarkII/OM_System_OM-5_2_regular.ORF",
+   "sha256": "c6fe861982ddc18464cf6858d2700f6813cc3a17956bcb12d1179212c999c76a",
+   "p90_L": 84.92070532365615,
+   "stratum": "high",
+   "make": "OM System",
+   "model": "OM-5 Mark II",
+   "subject": "green hillside overlooking a distant town under a partly cloudy sky",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Parrot/Anafi/100000190019.DNG",
+   "sha256": "a257a296047ff2d396109fd2e6947fa36aa7986695b6815f83979d59e98a84e6",
+   "p90_L": 84.58309456304636,
+   "stratum": "high",
+   "make": "PARROT",
+   "model": "Anafi",
+   "subject": "cityscape at dusk with overcast sky",
+   "score": 2
+  }
+ ]
+}

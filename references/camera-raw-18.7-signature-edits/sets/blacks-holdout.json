@@ -1,0 +1,134 @@
+{
+ "schema": 1,
+ "set": "blacks-holdout",
+ "settings": [
+  "blacks-100",
+  "blacks-50",
+  "blacks-25",
+  "blacks+25",
+  "blacks+50",
+  "blacks+100"
+ ],
+ "photos": [
+  {
+   "raw": "raws/signature-edits/NightPhotosMadeEasy-4.ARW",
+   "sha256": "dcb2a83c4180aebee7730b831fc4024843f0f4b67472591f128331d814a7a9ab",
+   "p90_L": 14.546297676705468,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "ILCE-7RM4",
+   "subject": "snow-capped mountain reflected in a lake under a starry night sky",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/Free Raw Files - Tag @signatureeditsco DSC_3500.nef",
+   "sha256": "133c5741e60bd6cfa12550a74f4a801a76376b5ff6795fd1a912025d16083a29",
+   "p90_L": 32.34933854561544,
+   "stratum": "low",
+   "make": "Nikon",
+   "model": "D3100",
+   "subject": "woman in black dress lying on stone steps",
+   "score": 1
+  },
+  {
+   "raw": "raws/signature-edits/DSC00086.ARW",
+   "sha256": "196c168ab39369c031638ecf1705d85a55af43bfe370e6a8006719c6344db936",
+   "p90_L": 15.994231273907769,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "ILCE-7RM2",
+   "subject": "star-filled night sky over a lake with silhouetted trees and mountains",
+   "score": 1
+  },
+  {
+   "raw": "raws/signature-edits/DSC00092.ARW",
+   "sha256": "d647f15f3993715724c22e84358ea16ed8750923862d1094268bca309f0f19de",
+   "p90_L": 31.508068302460586,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "ILCE-7RM2",
+   "subject": "star-filled night sky over a lake and snow-capped mountain",
+   "score": 1
+  },
+  {
+   "raw": "raws/signature-edits/DSC00056.ARW",
+   "sha256": "20b0f6a36700f360e1decaa446bb4b4cbbc2d497f5ef540d1f5387d5e6f9a980",
+   "p90_L": 40.23741825952833,
+   "stratum": "mid",
+   "make": "Sony",
+   "model": "ILCE-7RM2",
+   "subject": "star-filled night sky reflected in a lake with a snow-capped mountain",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/IMG_6484.CR2",
+   "sha256": "2853254b1fba42ab37ce3a319814e7ed0cb5038a796df2b56d5c3882db8f50c0",
+   "p90_L": 58.380958363335566,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 700D",
+   "subject": "interior of a multi-level parking garage with yellow support beams",
+   "score": 1
+  },
+  {
+   "raw": "raws/signature-edits/free raws from www.signatureedits.com - tag @signatureeditsco DSC_5488.NEF",
+   "sha256": "3f70439aee1e598dbb418b6032266c0a6ceb99f15d8117b26856e9f3fd02e2b5",
+   "p90_L": 74.20223636799032,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "D3200",
+   "subject": "silhouette of a person at sunset",
+   "score": 1
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - PANA1176.RW2",
+   "sha256": "15dca5746677bd53fcd7bf70651834852c1e7211a062162ba2ab64fc3b7d8ca3",
+   "p90_L": 68.88005044102061,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DC-GH5",
+   "subject": "Joshua tree silhouettes against twilight sky",
+   "score": 1
+  },
+  {
+   "raw": "raws/signature-edits/free raw from signature edits.DNG",
+   "sha256": "a567f3b81430c4da2ae16e7b7582e6bbecb5da7c798ebfc3f8bece83e30c5428",
+   "p90_L": 91.75789571558926,
+   "stratum": "high",
+   "make": "Nikon",
+   "model": "D90",
+   "subject": "coastal seascape with rocky shore and distant islands",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/Copy of signature edits free raws - IMG_7059.CR2",
+   "sha256": "60c0d41410067534a82be3a8868f6804390c0e6f62bbd5aec88770c73c64c419",
+   "p90_L": 87.00928278894935,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS 700D",
+   "subject": "woman sitting outdoors wearing a striped jacket",
+   "score": 1
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco DSC_3262.NEF",
+   "sha256": "0cefd8214fff366518864dcfc8a0da81cf7c797af4a8f90f000871e33f679dc1",
+   "p90_L": 76.29755905092256,
+   "stratum": "high",
+   "make": "Nikon",
+   "model": "D5100",
+   "subject": "woman in a sleeveless mint dress with a white collar",
+   "score": 1
+  },
+  {
+   "raw": "raws/signature-edits/P1011659.RW2",
+   "sha256": "1c4b50fcc9060778c3ca83623a48049c9d9ecbb5e77dd5f744a4fc12e8deafee",
+   "p90_L": 75.8635815521896,
+   "stratum": "high",
+   "make": "Panasonic",
+   "model": "DC-GH5",
+   "subject": "a white wooden yacht docked at a marina",
+   "score": 1
+  }
+ ]
+}

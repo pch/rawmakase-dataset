@@ -1,0 +1,134 @@
+{
+ "schema": 1,
+ "set": "color-mixer-foliage-holdout",
+ "settings": [
+  "green-hue-50",
+  "green-hue+50",
+  "yellow-sat-50",
+  "yellow-sat+50",
+  "green-lum-50",
+  "green-lum+50"
+ ],
+ "photos": [
+  {
+   "raw": "raws/signature-edits/Signature Edits Free Raws - DSC_0234.NEF",
+   "sha256": "6e3c1801577133d8bcfe135d7899ba5733dcee7eeeb42ff0d445e147878eed3e",
+   "p90_L": 23.341335179583158,
+   "stratum": "low",
+   "make": "Nikon",
+   "model": "D3200",
+   "subject": "woman with round glasses peeking from behind a poinsettia plant",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/DSC00086.ARW",
+   "sha256": "196c168ab39369c031638ecf1705d85a55af43bfe370e6a8006719c6344db936",
+   "p90_L": 15.994231273907769,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "ILCE-7RM2",
+   "subject": "star-filled night sky over a lake with silhouetted trees and mountains",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/2Q1A2335.CR2",
+   "sha256": "468497c8160a378b8f506dbb0c9f4e5d43ac8e2a6827997ab9df2856c63e273a",
+   "p90_L": 71.88949131196756,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 5D Mark IV",
+   "subject": "mother and daughter embracing in a forest",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/pls tag @ryanbreitkreutz signature edits free raw photos DJI_0239.DNG",
+   "sha256": "b81eab585cf2fa8a7b56c6f9f617a0af2f3d40450bb1c05e655034bff3fa54b1",
+   "p90_L": 66.81749428424304,
+   "stratum": "mid",
+   "make": "DJI",
+   "model": "FC7303",
+   "subject": "person floating in a swimming pool surrounded by tropical foliage",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/_DSC2331.NEF",
+   "sha256": "0ca572433311e8bda4ef5f013873eb122e59c1fc664c2a6e9391e064849fb7f0",
+   "p90_L": 43.7375088817188,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "D500",
+   "subject": "a bald eagle peeking through foliage",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/PANA1405.RW2",
+   "sha256": "8c43060167323767a70420e1dd36b2209caaad055d0a37e47c6296d35d6be01a",
+   "p90_L": 65.65096641383931,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DC-GH5",
+   "subject": "Joshua tree in desert with rocky outcrop",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/3M0A4793.CR2",
+   "sha256": "4aa15c3bdadad9cc0dc133183cc91c5b1a35dcb248c6b14d7ed9310e89b2437e",
+   "p90_L": 93.71115664360313,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS 5D Mark IV",
+   "subject": "vineyard overlooking a lake with mountains in the distance",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/Copy of free raws from signatureedits.com - tag @signatureeditsco - DSC_1473.nef",
+   "sha256": "0efcd4831ef02309c210836a7ee57c041080d57ccf31214acd9321d220cdf7b3",
+   "p90_L": 76.63414867644407,
+   "stratum": "high",
+   "make": "Nikon",
+   "model": "D3100",
+   "subject": "young woman with autumn leaves framing her face",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/CREDIT @RYANBREITKREUTZ - P1073455.RW2",
+   "sha256": "5d2ef0c4dbfb679eaa634f5910630eb5f2c47b7173cb61a16ddd36e602fcc1a8",
+   "p90_L": 77.54686258052725,
+   "stratum": "high",
+   "make": "Panasonic",
+   "model": "DC-S5",
+   "subject": "snow-capped mountain peak at golden hour",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco DSC02439.ARW",
+   "sha256": "37ebfa80ff6981a25861db0e2e00a6138c1a067966ef70e0ed8899bf4b849099",
+   "p90_L": 94.73281007983987,
+   "stratum": "high",
+   "make": "Sony",
+   "model": "ILCE-7SM3",
+   "subject": "couple wrapped in a colorful blanket in a grassy field",
+   "score": null
+  }
+ ],
+ "crs": {
+  "green-hue-50": {
+   "HueAdjustmentGreen": "-50"
+  },
+  "green-hue+50": {
+   "HueAdjustmentGreen": "+50"
+  },
+  "yellow-sat-50": {
+   "SaturationAdjustmentYellow": "-50"
+  },
+  "yellow-sat+50": {
+   "SaturationAdjustmentYellow": "+50"
+  },
+  "green-lum-50": {
+   "LuminanceAdjustmentGreen": "-50"
+  },
+  "green-lum+50": {
+   "LuminanceAdjustmentGreen": "+50"
+  }
+ }
+}

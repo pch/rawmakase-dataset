@@ -1,0 +1,3023 @@
+{
+ "schema": 1,
+ "camera_raw": "18.7",
+ "photos": [
+  {
+   "raw": "raws/pixls/Apple/iPhone 7 Plus/IMG_0739.DNG",
+   "sha256": "e8c7ebd8f22f7281d165496b91c8fea8a8e79c8113172fb499e1d66d6045332e",
+   "p90_L": 78.32542395205516,
+   "stratum": "high",
+   "make": "Apple"
+  },
+  {
+   "raw": "raws/pixls/Apple/iPhone XS/IMG_1105.dng",
+   "sha256": "50bc64ee8cfbbfb6c0531e29ab428ff985506a16fe2d1d2e74656f21b54505f6",
+   "p90_L": 66.23743602838603,
+   "stratum": "mid",
+   "make": "Apple"
+  },
+  {
+   "raw": "raws/pixls/Arashi Vision/Insta360 One X/IMG_20201122_142733_00_015.dng",
+   "sha256": "54919f75c1981e23c83731da54a381ca0c7b4ef4b1e14d124a81289959fa8108",
+   "p90_L": 83.59590900158676,
+   "stratum": "high",
+   "make": "Arashi Vision"
+  },
+  {
+   "raw": "raws/pixls/Autel Robotics/XB015/MAX_0001.DNG",
+   "sha256": "4e889a718a14e9f613ff4a3429bf7b84263d4920ebc497a11d12a7d2a4076e90",
+   "p90_L": 79.62558378390611,
+   "stratum": "high",
+   "make": "Autel Robotics"
+  },
+  {
+   "raw": "raws/pixls/Blackmagic/Blackmagic Pocket Cinema Camera 4k/4k_DCI_uncompressed.dng",
+   "sha256": "a5c06d82b458da23965a04ab53277369e3cb01ee1dfc4130cda56f8f21dee9f7",
+   "p90_L": 99.61802520818075,
+   "stratum": "high",
+   "make": "Blackmagic"
+  },
+  {
+   "raw": "raws/pixls/Blackmagic/Blackmagic Pocket Cinema Camera 4k/BMPCC_4k_DCI_lossless.dng",
+   "sha256": "a90b542deab594093cdc91211c71ca9c3e451db12d400d5372fcfb6fc4cd27d3",
+   "p90_L": 99.02526937232024,
+   "stratum": "high",
+   "make": "Blackmagic"
+  },
+  {
+   "raw": "raws/pixls/Blackmagic/Blackmagic Pocket Cinema Camera 4k/BMPCC_4k_DCI_uncompressed.dng",
+   "sha256": "1253e2e1fb76cf9c1ecace9849f13181f2a9abd5538ecc0290ea2b0609f79fd9",
+   "p90_L": 99.5867271206392,
+   "stratum": "high",
+   "make": "Blackmagic"
+  },
+  {
+   "raw": "raws/pixls/Blackmagic Design/Pocket Cinema Camera 6k Pro/A010_04101355_S068.dng",
+   "sha256": "28b6a26662fea4723afa2fdd7148bf9fa2691c00c8cacf771469e90eaeb90736",
+   "p90_L": 71.72483154471564,
+   "stratum": "mid",
+   "make": "Blackmagic Design"
+  },
+  {
+   "raw": "raws/pixls/Canon/Canon EOS M200/_MG_2231.CR3",
+   "sha256": "9b900c04ae37ba827b7894e66907657a0b174a74855c40039a8ca0c95583f141",
+   "p90_L": 72.17529542892358,
+   "stratum": "mid",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/Canon EOS M200/_MG_2233.CR3",
+   "sha256": "0585a468143c6606936d0ffbff1788c6c02e3610d8ecb50614e21492fbacd052",
+   "p90_L": 75.24732937356374,
+   "stratum": "high",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/Canon EOS R10/IMG_6310.CR3",
+   "sha256": "2dc0bbdf04c93ca62c914604f644c735286037912d6fba609d0cb78d00acd097",
+   "p90_L": 79.56246073744488,
+   "stratum": "high",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/Canon EOS R100/_MG_2195[1].CR3",
+   "sha256": "0b66842b2fe00329ebc05fe8ab9357ddbbe1a0a2d2e69a2893102de7fdf5c942",
+   "p90_L": 93.05444482485849,
+   "stratum": "high",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/Canon EOS R5m2/APS-C_RAW.CR3",
+   "sha256": "9f88c0ff012924193b7f4497559d133dfe626766d600b5d67689156721739ead",
+   "p90_L": 82.62695864495515,
+   "stratum": "high",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/Canon EOS R5m2/RAW.CR3",
+   "sha256": "d6e6aa3b493ea8936dff0efb0cc17c87471437e7317bce37c8c82ba08b9cab7b",
+   "p90_L": 75.88529158293348,
+   "stratum": "high",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/Canon PowerShot ELPH 180/CANON_IXUS175_ELPH180_CHDK_CRW_0194.DNG",
+   "sha256": "9803b24ce3b817e00c368085b693cda3e75f58d75129cffb66e7634f27ce6428",
+   "p90_L": 72.38635184837428,
+   "stratum": "mid",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS 1300D/IMG_0778.CR2",
+   "sha256": "e064327405b3a736b1cc89d499bc5a049cfb2800bcb06a5072e6d0a82cd296d7",
+   "p90_L": 69.31112931145735,
+   "stratum": "mid",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS 2000D/IMG_0531.CR2",
+   "sha256": "84015493df96c877c0387071a627d6940187d75695b0598694901ac0ff83876a",
+   "p90_L": 78.59169955092945,
+   "stratum": "high",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS 200D/IMG_1813.CR2",
+   "sha256": "ffed1191fc4d832f847274a4ec1c5e34e50083a5aeedee3d5dd8a24f707e9ede",
+   "p90_L": 63.30774960804669,
+   "stratum": "mid",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS 200D Mark II/_MG_3608.CR3",
+   "sha256": "4ea0cbd52b760a5654d3f431c7c9ecf8acdc62a6aa74a2cfbfe651693c740c77",
+   "p90_L": 65.14383225684925,
+   "stratum": "mid",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS 250D/Canon250D_RAW-2:3.CR3",
+   "sha256": "ed1bd1bb8dbcf31735fbe52eeabdbd3a32236eda9cb20b132e8847cb0d89517f",
+   "p90_L": 65.7745927063023,
+   "stratum": "mid",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS 4000D/IMG_0361.CR2",
+   "sha256": "06daaf663f42d3f6ceb1a837d3ca4db2cfcb5899888ed13510bfa01e3261a896",
+   "p90_L": 59.646102203388516,
+   "stratum": "mid",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS 6D Mark II/6DII-sRAW.CR2",
+   "sha256": "a4bf9842c2222b2eeb95ec71065f9d981c9b5be619b96db7f121e395968a119b",
+   "p90_L": 65.61577322150505,
+   "stratum": "mid",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS 77D/IMG_4049.CR2",
+   "sha256": "811df582d97918987312fa0fceae3ad19a20532a64ebda9782764ac7e629c265",
+   "p90_L": 87.32535338344053,
+   "stratum": "high",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS 800D/IMG_3378.CR2",
+   "sha256": "b87a0d727fa61b7da012e3ea738be6c05a24561656cba9265f5e1e6463f6478e",
+   "p90_L": 75.30257883879379,
+   "stratum": "high",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS 80D/IMG_0096.CR2",
+   "sha256": "f9c5404b57248c21e9b269721aa0d721c3b1281c94ebdee3c50bf32db42613a8",
+   "p90_L": 73.95602238378412,
+   "stratum": "mid",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS 80D/IMG_0097.CR2",
+   "sha256": "181cf35881cf967d025948694bc06d5e3e194ec371df3263ed26ec34909ffedb",
+   "p90_L": 73.56452698146948,
+   "stratum": "mid",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS 850D/IMG_1837.CR3",
+   "sha256": "47f7747b74073515bdbd65015738bc31947504d68255c5377baa21f179df2486",
+   "p90_L": 34.86673123208111,
+   "stratum": "low",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS 850D/IMG_1906.CR3",
+   "sha256": "c6e781a58fdbe97fac5b99deb878a8568904aba48de0e4c31076b4d3887e2c91",
+   "p90_L": 95.99282842703698,
+   "stratum": "high",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS 90D/Canon-90D-RAW-ISO-100.CR3",
+   "sha256": "e47981d90142291a2bd7ba5a3dea51a25fff72ad3dad83dd2d2698f3ef5f59a8",
+   "p90_L": 81.83744446278192,
+   "stratum": "high",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS Kiss X80/IMG_3688.CR2",
+   "sha256": "155878290528ff91f67b4f9ffed5d765e80ede5fb0c36fca40107c0b7f5c1d9d",
+   "p90_L": 81.23285545467755,
+   "stratum": "high",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS Kiss X9/IMG_3505.CR2",
+   "sha256": "f50cea4641c97c1154a214a686226ba900002f00f4f844af858ef80b9ec8dea6",
+   "p90_L": 85.32334029505229,
+   "stratum": "high",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS M100/IMG_1200.CR2",
+   "sha256": "941d9e696b1d92b4b25a762474e3c5c127e7405dea099c266fa85e39a2454fcc",
+   "p90_L": 55.51445910694399,
+   "stratum": "mid",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS M5/IMG_6968.CR2",
+   "sha256": "5af02dbad6cd90eeac2b0b1c0be0aeb9a5d2841c6dd984ee415ede9f2566667d",
+   "p90_L": 94.90191882429276,
+   "stratum": "high",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS M50/Canon-EOS_M50_-CRAW_(1:1).CR3",
+   "sha256": "15384b775867ec4c42b11882837f1e368cedc0561832ffab271221e6bb80be4c",
+   "p90_L": 72.70812863454196,
+   "stratum": "mid",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS M50/Canon_EOS_M50_CRAW_ISO_100_nocrop_nodual.CR3",
+   "sha256": "27a88fdae82516ba136e12c2cc9b934f25dbaaac24d64ab4e5517f8524463594",
+   "p90_L": 88.11816117234935,
+   "stratum": "high",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS M50/Canon_EOS_M50_RAW_ISO_100_nocrop_nodual.CR3",
+   "sha256": "1ba9ad6b51b315b88820eb0fe5fd7f52bc136ba37b1a5ca76825ebfe25b18058",
+   "p90_L": 92.3652605118366,
+   "stratum": "high",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS M50 Mark II/IMG_0051.CR3",
+   "sha256": "1a3c11d85f48b8c644664b505f69fbdd75eb51270bb8ab556dbc660f0487e957",
+   "p90_L": 91.34244678290304,
+   "stratum": "high",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS M6/Canon_EOS-M6-IMG_0302.CR2",
+   "sha256": "b3a7a0037600b61d4c26ad03d5cac1801e35fb43a55699db5b77708c96f7338a",
+   "p90_L": 56.21263212880499,
+   "stratum": "mid",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS M6 Mark II/IMG_CRAW_1_1.CR3",
+   "sha256": "0ccbb6c447d0fab996291be9a5c2728cd7367bcc2f640e2a30eae112e13e6c0e",
+   "p90_L": 68.32334860208525,
+   "stratum": "mid",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS M6 Mark II/IMG_CRAW_3_2.CR3",
+   "sha256": "94635c6f91e7d743cee6881cc2519992ae9f9031fd86b49e5d0f16edf5961b55",
+   "p90_L": 64.0593252458459,
+   "stratum": "mid",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS M6 Mark II/IMG_RAW_16_9.CR3",
+   "sha256": "4f89f3770c794a0ca5af86b84f1f694eb5a0f553b64f85fc1ba3ddf412a211b8",
+   "p90_L": 66.64295358236362,
+   "stratum": "mid",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS M6 Mark II/IMG_RAW_1_1.CR3",
+   "sha256": "6a7d52f7ae5e12b58cfebd39d82e8d71f35e6c6216775569eea7a7e168f83fac",
+   "p90_L": 67.90447243380473,
+   "stratum": "mid",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS M6 Mark II/IMG_RAW_3_2.CR3",
+   "sha256": "48be4fbcc36e4f9bf31dd63ba7f97aa906a39b29f6b2caa679506c4cdb20f5a7",
+   "p90_L": 63.824344295200966,
+   "stratum": "mid",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS R/Canon_EOS_R_RAW_ISO_100.CR3",
+   "sha256": "89bd55532b0cceb5efa360e97827ba35c2076bce0de4675f3a4413a883dac880",
+   "p90_L": 89.91178599935344,
+   "stratum": "high",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS R/Canon_EOS_R_RAW_ISO_100_crop_nodual.CR3",
+   "sha256": "78ef0efef541c2618b9f95915e825726fc31b06f7d61149167f5af620f6b4c30",
+   "p90_L": 86.74713120561174,
+   "stratum": "high",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS R10/IMG_4276.CR3",
+   "sha256": "5d2e076d38e7835d4c4f13dc2030a913cc573a31d7199b60777d23a25ccc3ef9",
+   "p90_L": 82.47373728695337,
+   "stratum": "high",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS R10/IMG_4361.CR3",
+   "sha256": "15d017f0770b3da17180077617ffe07b786a1ec2cb36297f81a82a27a54756db",
+   "p90_L": 92.59524582462628,
+   "stratum": "high",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS R3/_C3A1200.CR3",
+   "sha256": "295d46a4d5383895e63126f67000d4352a5bb425ee4d8b16eb6b6c284bdf7994",
+   "p90_L": 92.75971179958748,
+   "stratum": "high",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS R5/Canon_EOS_R5_CRAW_ISO_100_nocrop_nodual.CR3",
+   "sha256": "2deae46b816e56ba91ae7a3892ca121290e12d5b22afb11f5b05a3d8f09f759f",
+   "p90_L": 61.86777177580598,
+   "stratum": "mid",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS R5/Canon_EOS_R5_RAW_ISO_100_crop_nodual.CR3",
+   "sha256": "dc3ef975ef029fe527ba6cafa0f899720cfdcbcfb4f590edcff81f26d499c2f0",
+   "p90_L": 62.1512477315427,
+   "stratum": "mid",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS R5/Canon_EOS_R5_RAW_ISO_100_nocrop_nodual.CR3",
+   "sha256": "21430c36387efe65bd09ac0fcd724bfd959d93dd391ec811a1b741c8663becb5",
+   "p90_L": 62.24029854459612,
+   "stratum": "mid",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS R50/Canon_R50_ISO100_RAW_mechanicShutter.CR3",
+   "sha256": "cbc0666f27d37007203df53f3668c30d3980aab93c3e33e7bff41c72b77414e9",
+   "p90_L": 73.02801345811011,
+   "stratum": "mid",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS R6/Canon_EOS_R6_RAW_ISO_100_crop_nodual.CR3",
+   "sha256": "6156ee9cfd1a61e08719a8309095d05162891fd2adb8dd1505b31d4716dcee05",
+   "p90_L": 71.03619475315072,
+   "stratum": "mid",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS R6/Canon_EOS_R6_RAW_ISO_100_nocrop_nodual.CR3",
+   "sha256": "81fab349ae9080fd0172583b7fd5ea36806e95ffa434909d2ccc6527dde34ee6",
+   "p90_L": 70.13547450976837,
+   "stratum": "mid",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS R6 Mark II/canon-r6m2-img_0346-raw-normal-full.cr3",
+   "sha256": "1a93f96556aabbc4a7260750ab0a191ec7926bb978fe8428bf3465121da730d6",
+   "p90_L": 84.50878550073159,
+   "stratum": "high",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS R6 Mark II/canon-r6m2-img_0347-raw-normal-crop.cr3",
+   "sha256": "b9ff8d98be99bb22effe47c61906dadcb214b0909699cb4fa1ff089b2f889a07",
+   "p90_L": 77.20609662809483,
+   "stratum": "high",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS R7/443A0157.CR3",
+   "sha256": "887439cb1a45becd6a5c85fe75ae10e6c520a9f13a8b9ed077c6cf5d7c37700c",
+   "p90_L": 56.18404432052877,
+   "stratum": "mid",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS R7/443A0159.CR3",
+   "sha256": "10a18e3f01ca9cd93408496d3853388ef140830548bfeed4237e40f967eb9d5c",
+   "p90_L": 55.85671878966952,
+   "stratum": "mid",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS R8/RAW_FULL_FRAME.CR3",
+   "sha256": "7d5c6dbb11ff7e6ee58715d90a20f5d801e8b103f4711ff6ea329ceafcef254c",
+   "p90_L": 68.88200297830096,
+   "stratum": "mid",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS REBEL T7i/IMG_1322.CR2",
+   "sha256": "ae5155e5a0b83d009cd8fee82a19b051b391db100a638e16368a9af6d8d509b6",
+   "p90_L": 52.59676365995617,
+   "stratum": "mid",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS RP/Canon_EOS_RP_RAW_ISO_100_crop_nodual.CR3",
+   "sha256": "7d4ba45dc9264d598336133593c677b09774bcdf13b602ee770e72415a652a16",
+   "p90_L": 81.68665613063258,
+   "stratum": "high",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS RP/Canon_EOS_RP_RAW_ISO_100_nocrop_nodual.CR3",
+   "sha256": "dcbd0f6f9929de2e2331b0fd10a9d01e7cfd04c5a5e4038456de1647d714cdf2",
+   "p90_L": 75.68993725514638,
+   "stratum": "high",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS Rebel SL2/Canon_SL2_Len_24-105.CR2",
+   "sha256": "f9a5533c4c66a3c6cc050074939b635ad0bce086edce98f875ba187964950229",
+   "p90_L": 75.69992043705437,
+   "stratum": "high",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS Rebel SL3/Sedona2020_SL3__MG_1061.CR3",
+   "sha256": "6f26a2e4ea5a3e3b859662c9b01da6b24731413835aa601065bff1d7f30c6092",
+   "p90_L": 80.9821724484744,
+   "stratum": "high",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS Rebel T100/IMG_7229.CR2",
+   "sha256": "b9fab78e2db2496abc2bd9aec3a3bee81ba2898c68212a468c17c47a7be1ab36",
+   "p90_L": 69.05603328177543,
+   "stratum": "mid",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS Rebel T6/IMG_2422.CR2",
+   "sha256": "432e968a244816ed9c7bbae1807bbc66dc6245d294e9f11cb5b3ab1fc830df5a",
+   "p90_L": 48.821274536232195,
+   "stratum": "mid",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS Rebel T7/IMG_0662.CR2",
+   "sha256": "f32fe3e691b6bddf7ecef23050bb197c64c3b5c6811e5c24201d76244ae20e81",
+   "p90_L": 88.20935446904896,
+   "stratum": "high",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS Rebel T7i/20190925-1501-0421.cr2",
+   "sha256": "03fb55af71f384ada6b6aa0ca93279d48cf5fbd13651a323408d2fd97e1d1f7c",
+   "p90_L": 70.2815250024545,
+   "stratum": "mid",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS-1D X Mark II/AZ1I2270.CR2",
+   "sha256": "2e372710d546c9b8903a343696af4e7fd245794571f64258ab607a89dfa6aa97",
+   "p90_L": 78.6322150948456,
+   "stratum": "high",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS-1D X Mark III/Canon_EOS-1D_X_Mark_III_CRAW_ISO_100_nocrop_nodual.CR3",
+   "sha256": "e5755d1414a2dd51fb0120b272058f00b0199861646070c00304d927eb119560",
+   "p90_L": 75.16408235499208,
+   "stratum": "high",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS-1D X Mark III/Canon_EOS-1D_X_Mark_III_RAW_ISO_100_nocrop_nodual.CR3",
+   "sha256": "8f38b9de90eaebefcd54022fcbfdf38e05fb86831c4c976c8ac05c599e63535b",
+   "p90_L": 75.53918418758624,
+   "stratum": "high",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/PowerShot G1 X Mark III/20180719T101829IMG_0246.CR2",
+   "sha256": "ca052ed025432fdacfba7347cb4374fa3b727155912a91c42ed9a275d13bedf5",
+   "p90_L": 70.62433843630569,
+   "stratum": "mid",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/PowerShot G5 X Mark II/Canon_-_PowerShot_G5_X_Mark_II_-_RAW_(16:9).CR3",
+   "sha256": "feb0ece1244ba45f179f48ad1a52c887e6042a605927156d9b944d1305f10d59",
+   "p90_L": 94.99969887032745,
+   "stratum": "high",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/PowerShot G5 X Mark II/Canon_-_PowerShot_G5_X_Mark_II_-_RAW_(1:1).CR3",
+   "sha256": "13bc9926954dd62f2b84c1539428554754c078953c7af9baa5650cb85237aec8",
+   "p90_L": 92.76644753643757,
+   "stratum": "high",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/PowerShot G5 X Mark II/Canon_-_PowerShot_G5_X_Mark_II_-_RAW_(3:2).CR3",
+   "sha256": "16f69a73e25e0555259a942d65be816042dcb3af03505b25335e5d02ad6f2af6",
+   "p90_L": 94.82601126725879,
+   "stratum": "high",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/PowerShot G7 X Mark II/IMG_0166.CR2",
+   "sha256": "b81acebf5ac49b0389c354942d128d9423fdd59ff92217554f232f94e3e87ef5",
+   "p90_L": 58.37516663705029,
+   "stratum": "mid",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/PowerShot G7 X Mark III/IMG_0253.CR3",
+   "sha256": "63ce623055dd2ac7374e0b1c645a4eabc7e181cd12c2039625f64b4e63a5ee86",
+   "p90_L": 77.65566378135902,
+   "stratum": "high",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/PowerShot G9 X Mark II/IMG_1066.CR2",
+   "sha256": "f91f1a3b6fa66b2e15fd26c1bd78e1eb19dfa7e6a3886aff36e7ab96fd1c319c",
+   "p90_L": 78.69970792971786,
+   "stratum": "high",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/Canon/PowerShot SX70 HS/IMG_1000.CR3",
+   "sha256": "3b346078836f933f505338ba45965be17a39cac82bfffc7006db07e3af944839",
+   "p90_L": 80.52526249560105,
+   "stratum": "high",
+   "make": "Canon"
+  },
+  {
+   "raw": "raws/pixls/DJI/DJI Osmo Action/DJI_0254.DNG",
+   "sha256": "c05a4b112936c9ac110af241ca9e1bda089f7456b647f8a13595b604cbdf944c",
+   "p90_L": 84.23856448142432,
+   "stratum": "high",
+   "make": "DJI"
+  },
+  {
+   "raw": "raws/pixls/DJI/FC220/DJI_0004.DNG",
+   "sha256": "85a4fc27cca3c1358abd22898d6426dc3448060ca5143e7bd255cb5fff64392d",
+   "p90_L": 86.8391569952173,
+   "stratum": "high",
+   "make": "DJI"
+  },
+  {
+   "raw": "raws/pixls/DJI/FC4382/DJI_20250506184749_0011_D.DNG",
+   "sha256": "f33ddaf2a7fa70b395abced251faccea11100d2ab7e54ae0a6adbff043d72027",
+   "p90_L": 94.37971218911203,
+   "stratum": "high",
+   "make": "DJI"
+  },
+  {
+   "raw": "raws/pixls/DJI/FC6310/DJI_0220.DNG",
+   "sha256": "6d10b59405200c84d0a7f1e317bfc2ef5a592f042ba3072b7208dc10da611bda",
+   "p90_L": 77.89106063980283,
+   "stratum": "high",
+   "make": "DJI"
+  },
+  {
+   "raw": "raws/pixls/DJI/FC7303/DJI_0109.DNG",
+   "sha256": "21a49e63966f82391ca1188c7559c3acc01a35a89a70194fda4bf44cbd64a851",
+   "p90_L": 68.57112440139313,
+   "stratum": "mid",
+   "make": "DJI"
+  },
+  {
+   "raw": "raws/pixls/DJI/FC7303/DJI_0765.DNG",
+   "sha256": "fb4f294e12cab7b507fd0b7c07f24e5d13e7c0dd127b534ce12c48d644c9363d",
+   "p90_L": 81.91679614199599,
+   "stratum": "high",
+   "make": "DJI"
+  },
+  {
+   "raw": "raws/pixls/DJI/FC9287/DJI_20250528104510_0025_D.DNG",
+   "sha256": "901b7970f02f7197c782f111363feef02108f75811342d8cc4a2b66757bb7af0",
+   "p90_L": 90.44344241638767,
+   "stratum": "high",
+   "make": "DJI"
+  },
+  {
+   "raw": "raws/pixls/FIMI/X8SE/IMG_20180808_081040_0001.DNG",
+   "sha256": "8f82cfc6832ee7747ec0775aa653059bd3ed63c4a7b41f9a776516c4598dad5b",
+   "p90_L": 77.2871666261816,
+   "stratum": "high",
+   "make": "FIMI"
+  },
+  {
+   "raw": "raws/pixls/FUJIFILM/GFX100RF/DSCF0075.RAF",
+   "sha256": "dad07d5635a5ad6ffd169657a333de7258a87ab18689945540832e28bff85586",
+   "p90_L": 73.23625219955497,
+   "stratum": "mid",
+   "make": "FUJIFILM"
+  },
+  {
+   "raw": "raws/pixls/FUJIFILM/GFX100RF/DSCF0077.RAF",
+   "sha256": "a509f06feb9aed19936fe0c843279f5995e21c1176be6f4823dabb4908f32cfb",
+   "p90_L": 74.51581586551393,
+   "stratum": "mid",
+   "make": "FUJIFILM"
+  },
+  {
+   "raw": "raws/pixls/FUJIFILM/GFX100RF/DSCF0091.RAF",
+   "sha256": "abead251c364f6b674444f3833115843050e31ea0e5eafb26d36c29b116314b3",
+   "p90_L": 67.93492166192233,
+   "stratum": "mid",
+   "make": "FUJIFILM"
+  },
+  {
+   "raw": "raws/pixls/FUJIFILM/GFX100S II/_DSF0001.RAF",
+   "sha256": "10e007f3d1aef2ac9bf4da063ea1983e44515af818bf0ab63e3703cd67803810",
+   "p90_L": 79.37835107488803,
+   "stratum": "high",
+   "make": "FUJIFILM"
+  },
+  {
+   "raw": "raws/pixls/FUJIFILM/X-E5/DSCF0202.RAF",
+   "sha256": "7595cf39268d2b026773fe5648f0d96c93a3781d0c73c90604e16866ae9fbf0e",
+   "p90_L": 83.94761386995346,
+   "stratum": "high",
+   "make": "FUJIFILM"
+  },
+  {
+   "raw": "raws/pixls/FUJIFILM/X-M5/DSCF0620_-_uncompressed.RAF",
+   "sha256": "5c904381e4bf62d7030d2714523d4ce48ce06b68f1b17e2a70ca850ef80ced20",
+   "p90_L": 90.28192818213765,
+   "stratum": "high",
+   "make": "FUJIFILM"
+  },
+  {
+   "raw": "raws/pixls/FUJIFILM/X-M5/DSCF0622_-_compressed.RAF",
+   "sha256": "8445f45b1da0342a0ac7ed3e05f99be7a16bc9798d15a67ca4cb3f409e7e94fb",
+   "p90_L": 90.27278883049472,
+   "stratum": "high",
+   "make": "FUJIFILM"
+  },
+  {
+   "raw": "raws/pixls/FUJIFILM/X-M5/DSCF0623_-_crop_1,25.RAF",
+   "sha256": "af853b753bb91d40a0881978229f872cdafd8860794885366e9313b605221461",
+   "p90_L": 87.8718472807771,
+   "stratum": "high",
+   "make": "FUJIFILM"
+  },
+  {
+   "raw": "raws/pixls/FUJIFILM/X-T30 III/DSCF0131.RAF",
+   "sha256": "49f77d6162abfa5c94d2d8b90e4e926b7386c42bcf7e84a152c9ffe1ebd584da",
+   "p90_L": 80.57421367781856,
+   "stratum": "high",
+   "make": "FUJIFILM"
+  },
+  {
+   "raw": "raws/pixls/FUJIFILM/X-T30 III/DSCF0133.RAF",
+   "sha256": "1910b95422240f97781fa3296d67a56cc8f62de63144ac11cbf4267a11278042",
+   "p90_L": 81.09573295160197,
+   "stratum": "high",
+   "make": "FUJIFILM"
+  },
+  {
+   "raw": "raws/pixls/FUJIFILM/X-T50/DSCF0118.RAF",
+   "sha256": "65c7c0972a040ff0cda02f9307cc4ca9e015c18abbeb7a6b564e3a57b62e8800",
+   "p90_L": 88.86369011969558,
+   "stratum": "high",
+   "make": "FUJIFILM"
+  },
+  {
+   "raw": "raws/pixls/FUJIFILM/X-T50/DSCF0119.RAF",
+   "sha256": "2353162430a3d4e47ed4adf3e220f2ccdb1ef364a10528bb492432090d448894",
+   "p90_L": 84.96456122691812,
+   "stratum": "high",
+   "make": "FUJIFILM"
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/GFX 50R/2019-01-24-14-02-50_DSCF1316_e819634e46ecdb8ea241012ee70ae11e5c220c48.raf",
+   "sha256": "9d0570010a36fda60823de10837c47b39d7693ad8a87e531c859cfe411e41172",
+   "p90_L": 71.69172849416752,
+   "stratum": "mid",
+   "make": "Fujifilm"
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/GFX 50S/20170525_0036TEST.RAF",
+   "sha256": "bb7c832430549029ddfc61224b97cc40a5149ec363e11c566a57de65d9582ec9",
+   "p90_L": 73.82251451658374,
+   "stratum": "mid",
+   "make": "Fujifilm"
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/GFX100S/Fujifilm-GFX100S-16bits-uncompress-4_3.RAF",
+   "sha256": "79bd20f5ed2fe5c0d1d0ff5b317dedb41f16feb55e693e5569e165fd1c7bcaa4",
+   "p90_L": 92.24252919267825,
+   "stratum": "high",
+   "make": "Fujifilm"
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/GFX50S II/Fuji_GFX50S_II_-_Lossless_Compressed.RAF",
+   "sha256": "4aada4653d7f876ee5e7b1cff36671d7820600adb98af39e8fb7c41ae0ace96d",
+   "p90_L": 62.65896031061086,
+   "stratum": "mid",
+   "make": "Fujifilm"
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/GFX50S II/Fuji_GFX50S_II_-_Uncompressed.RAF",
+   "sha256": "cf53a9018d5a77cd854ea0a91afee2a35ac8fab8f814020d79f728f99ba99892",
+   "p90_L": 72.01589641334053,
+   "stratum": "mid",
+   "make": "Fujifilm"
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-A10/DSCF8207.RAF",
+   "sha256": "05309c5434500cc53d5782072cc0dcdd947d2f0a34f0ddcd4656c82cc7803272",
+   "p90_L": 55.132809170214536,
+   "stratum": "mid",
+   "make": "Fujifilm"
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-A3/DSCF7241.RAF",
+   "sha256": "4187cb5caa72320a74e9b4355db01e8e21edd43f3084873f9b9b67169d8d4ad8",
+   "p90_L": 91.23857683389637,
+   "stratum": "high",
+   "make": "Fujifilm"
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-A5/DSCF0617.RAF",
+   "sha256": "46daaf8c2b07f40bd01f737181d048a497bb0a87615a1fde65809fdd5de86bf1",
+   "p90_L": 92.11056332780794,
+   "stratum": "high",
+   "make": "Fujifilm"
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-A7/DSCF1595.RAF",
+   "sha256": "97db251dd129663da00d33e8eb4d7932d222f58d99ff7311c09cc277de5b6f18",
+   "p90_L": 76.88253896204377,
+   "stratum": "high",
+   "make": "Fujifilm"
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-E2S/_DSF0540.RAF",
+   "sha256": "330fc84b597e7be6d7477aad5715705efaa99d4663eb05aa47e1250d6f421549",
+   "p90_L": 94.26439372901501,
+   "stratum": "high",
+   "make": "Fujifilm"
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-E3/DSCF2175.RAF",
+   "sha256": "b2aeb7fd72a9ea116b1dcc2c8a8cf5462b15757ba3aca33bad8ce36339a1642f",
+   "p90_L": 85.90532435151879,
+   "stratum": "high",
+   "make": "Fujifilm"
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-E4/fuji_xe4_32_uncompressed.RAF",
+   "sha256": "7f0084fd7c5ad96adb661c0a8863bab832a3e208394036623b89fc9c40ba53bc",
+   "p90_L": 56.89472012240039,
+   "stratum": "mid",
+   "make": "Fujifilm"
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-H1/fuji_xh1_compressed.RAF",
+   "sha256": "5210bf896d2757cecda88bab0a87ef0b534d4b36c31dc08d5db7cd8f5bbf9b4e",
+   "p90_L": 96.99365403974619,
+   "stratum": "high",
+   "make": "Fujifilm"
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-H2/Fuji-X-H2-Compressed-Raw.RAF",
+   "sha256": "caeadb2666f6c5d9bbe32fbe692c2079b6a7e028f8514a13173f360656d08507",
+   "p90_L": 63.92974995323123,
+   "stratum": "mid",
+   "make": "Fujifilm"
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-H2/Fuji-X-H2-Lossless-Compressed-Raw.RAF",
+   "sha256": "109be38f59963c9b8ff289ebe1f5ec9168c52f609e5b601432bd194520b4605b",
+   "p90_L": 52.693754240415714,
+   "stratum": "mid",
+   "make": "Fujifilm"
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-H2S/IMG-20221005-0665.raf",
+   "sha256": "6738634a3d7256a9d05f943a78f4f0f1e08d8f1730d8964c7a9cfdbf113654f5",
+   "p90_L": 80.46812050056008,
+   "stratum": "high",
+   "make": "Fujifilm"
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-Pro2/_DSF3050.RAF",
+   "sha256": "8cc12566e5c0fc676b713bb1612ce0510d47b1dc691e9a5a0bcf3799ad9b8af1",
+   "p90_L": 64.45453106923775,
+   "stratum": "mid",
+   "make": "Fujifilm"
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-Pro3/_DSF2384.RAF",
+   "sha256": "8c50e965d7627932414e8790a5ef1d673fcb44b548b64130df6b9be42c418554",
+   "p90_L": 70.52073437766076,
+   "stratum": "mid",
+   "make": "Fujifilm"
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-Pro3/_DSF2385.RAF",
+   "sha256": "151353de58fa3a1d29e9840e7db6415dff178c2d6faadf362a8130f793507531",
+   "p90_L": 71.65975951047197,
+   "stratum": "mid",
+   "make": "Fujifilm"
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-S20/DSCF2526.RAF",
+   "sha256": "737c1551843282d4963ccb351a4d6409f3eaf172928d563bbaf72fe0f1f74fdd",
+   "p90_L": 76.76271835906745,
+   "stratum": "high",
+   "make": "Fujifilm"
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-S20/DSCF2528.RAF",
+   "sha256": "644a290158f19c681f436fbdf5429fdcaad26de2c3f8583bcf29596ba5c90ca9",
+   "p90_L": 76.54063237438429,
+   "stratum": "high",
+   "make": "Fujifilm"
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-T100/DSCF0627.RAF",
+   "sha256": "0af086b9569b59317da42b8e136013245486073b6b8d409fc997a71788538c4d",
+   "p90_L": 77.49236513874357,
+   "stratum": "high",
+   "make": "Fujifilm"
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-T20/DSCF0526.RAF",
+   "sha256": "afe552f4a2794c7aa2376dd826165354b243dcf6f2296b01505dded8c8e4be76",
+   "p90_L": 88.88430378953257,
+   "stratum": "high",
+   "make": "Fujifilm"
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-T3/AFXT2720.RAF",
+   "sha256": "24abd27b4a200f3170ea1579672944b807d0eb35bf21422a3937bb644f27f2eb",
+   "p90_L": 91.46723874000647,
+   "stratum": "high",
+   "make": "Fujifilm"
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-T30/DSCF0065.RAF",
+   "sha256": "f0353544bc62a6816385de0850e1d37e2f3383892a7eb3928c73e4517fe47ff5",
+   "p90_L": 63.822609842198716,
+   "stratum": "mid",
+   "make": "Fujifilm"
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-T30 II/lossless-compressed_X-T30II.RAF",
+   "sha256": "ef75c170f9f15eb4429aea32cbd8c832248f66e5759b7512fd2a8e9eb8d03b4b",
+   "p90_L": 97.43697483825395,
+   "stratum": "high",
+   "make": "Fujifilm"
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-T30 II/lossless_X-T30II.RAF",
+   "sha256": "af195f31365d69f428a8ea35d7c33eeab4a8bbb6236cd1e2b790a28613b50942",
+   "p90_L": 97.51905088982352,
+   "stratum": "high",
+   "make": "Fujifilm"
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-T5/DSCF0021.RAF",
+   "sha256": "b2a067e7fda16338f15c2532caa12b238b2415dc1c75a96a6d24d3445cfd0ae3",
+   "p90_L": 84.87656309578743,
+   "stratum": "high",
+   "make": "Fujifilm"
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-T5/DSCF0022.RAF",
+   "sha256": "cddd7ae0c43f9280876e5fdcbdf8878718972ebd3d034d8affc8cfc6752d33dc",
+   "p90_L": 82.56588962344615,
+   "stratum": "high",
+   "make": "Fujifilm"
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-T5/DSCF4964_70-300.RAF",
+   "sha256": "b77b0352a02c5a9272f5e4ee0bfb9ba270cf7482a727f5ffb91cf1d41a280e2c",
+   "p90_L": 93.39669661790852,
+   "stratum": "high",
+   "make": "Fujifilm"
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X100V/DSCF0733.RAF",
+   "sha256": "c0011a458e2de30a8fb37b2284f525c2b986177acff56424f9d47b59a5ea6791",
+   "p90_L": 83.63796063438862,
+   "stratum": "high",
+   "make": "Fujifilm"
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X100VI/DSCF0074.RAF",
+   "sha256": "8e5e4d8d2e0a865ca79b3d40734b6abc2f4b00281afea8b9bd3d8c29808f2fb3",
+   "p90_L": 90.81666320099247,
+   "stratum": "high",
+   "make": "Fujifilm"
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X100VI/DSCF0076.RAF",
+   "sha256": "7f19c7c5914542b91829ac2e41c8d4c10e414b28b0f7a793001e1a979c8c6056",
+   "p90_L": 89.8947144098617,
+   "stratum": "high",
+   "make": "Fujifilm"
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X70/DSCF8848.RAF",
+   "sha256": "4f9c33fde578addebda991c37d26551b46fab8f592c74f7192560a05ec08d577",
+   "p90_L": 34.48887992945352,
+   "stratum": "low",
+   "make": "Fujifilm"
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/XF10/DSCF6466.RAF",
+   "sha256": "0486676fdbbdc7f3f4c63cd45aa76581cbc1316f4c9baef8781bced0fbc137db",
+   "p90_L": 79.05712297626046,
+   "stratum": "high",
+   "make": "Fujifilm"
+  },
+  {
+   "raw": "raws/pixls/Google/Pixel 2 XL/IMG_20180109_080629.dng",
+   "sha256": "5541093a369f0487fef92bcd1f5fef1be6e4e3cec2aa4d52ad38d2211f3309d7",
+   "p90_L": 85.62475592264593,
+   "stratum": "high",
+   "make": "Google"
+  },
+  {
+   "raw": "raws/pixls/Google/Pixel 3a/IMG_20190918_164153.dng",
+   "sha256": "78c7bec867f3f739d43df6f027fad36ead73502d062570ce6ca14f59cdc4a0dd",
+   "p90_L": 73.366596732948,
+   "stratum": "mid",
+   "make": "Google"
+  },
+  {
+   "raw": "raws/pixls/Google/Pixel 4 XL/IMG_20191023_125156.dng",
+   "sha256": "0c03a6c93b4b8593cd0e4426166e6389710007238b82eb23861ef191322f0c54",
+   "p90_L": 85.23252275405812,
+   "stratum": "high",
+   "make": "Google"
+  },
+  {
+   "raw": "raws/pixls/Google/Pixel 4a/PXL_20201121_100251397.dng",
+   "sha256": "11b38186ee3455376291bcdb3049728a3f9dcd94b9e82ff76855d9f3430e44be",
+   "p90_L": 87.07676896777717,
+   "stratum": "high",
+   "make": "Google"
+  },
+  {
+   "raw": "raws/pixls/Google/Pixel 6 Pro/PXL_20220910_093206982.dng",
+   "sha256": "3a859e917a91698a3e15ce3b3721a48a1fb1296873e0697d3bf7c2793297200d",
+   "p90_L": 86.47112186784209,
+   "stratum": "high",
+   "make": "Google"
+  },
+  {
+   "raw": "raws/pixls/Google/Pixel 7 Pro/PXL_20221204_063131635.dng",
+   "sha256": "6b921558944db5fdb4f1c63dc64919b6666ef700857a187e18500099c6e7c6c6",
+   "p90_L": 86.79843873174339,
+   "stratum": "high",
+   "make": "Google"
+  },
+  {
+   "raw": "raws/pixls/Google/Pixel 8 Pro/PXL_20240415_103400204.RAW-02.ORIGINAL.dng",
+   "sha256": "45420c595401547cca950ae58d552bc82b32d31ce1d58c082df33004016197f5",
+   "p90_L": 84.64685911785156,
+   "stratum": "high",
+   "make": "Google"
+  },
+  {
+   "raw": "raws/pixls/HMD Global/Nokia 7 plus/IMG_20190612_120131.dng",
+   "sha256": "82e060c5197fda5eff12d658285256a2ba2c5eaf8ae4997507bda2242a766216",
+   "p90_L": 81.80249080275212,
+   "stratum": "high",
+   "make": "HMD Global"
+  },
+  {
+   "raw": "raws/pixls/HTC/HTC 10/IMAG1305.dng",
+   "sha256": "3aac646ae2bb9cceda41559afaf6354c66ef371b6ade02bcbe1ba1be093696bd",
+   "p90_L": 89.3452371868636,
+   "stratum": "high",
+   "make": "HTC"
+  },
+  {
+   "raw": "raws/pixls/HUAWEI/ANE-LX1/IMG_20200920_112515.dng",
+   "sha256": "0efb67add448d20a82912e465f98e2be9ddb7cae87485e4905ef1cd2a9aa3ce6",
+   "p90_L": 93.77054302743957,
+   "stratum": "high",
+   "make": "HUAWEI"
+  },
+  {
+   "raw": "raws/pixls/HUAWEI/AUM-L29/IMG_20181222_154757.dng",
+   "sha256": "cdb7ac8f515f2f8bfd0fe308d3247e217a417f1ff0577c4b2d7f672775b3ce85",
+   "p90_L": 88.59117064004725,
+   "stratum": "high",
+   "make": "HUAWEI"
+  },
+  {
+   "raw": "raws/pixls/HUAWEI/BLA-L29/IMG_20180119_175851.dng",
+   "sha256": "eaf1db7d47dd7966c8042964a0f9fa2d3ac19acc1e5458bb7c803f2d70909924",
+   "p90_L": 78.35943934174426,
+   "stratum": "high",
+   "make": "HUAWEI"
+  },
+  {
+   "raw": "raws/pixls/HUAWEI/DLI-L22/IMG_20171028_150510.dng",
+   "sha256": "85b790b0eb3f0ccb87da8b0d3d0c69acdbd959592306ec0698817da14c9233eb",
+   "p90_L": 93.59256115304602,
+   "stratum": "high",
+   "make": "HUAWEI"
+  },
+  {
+   "raw": "raws/pixls/HUAWEI/EML-L09/IMG_20190316_130857_(2).dng",
+   "sha256": "1ea6509c86729d4656a1eaf874022d714cc6aa5dee0436d4dcc1d1ba680db19c",
+   "p90_L": 74.2360974693584,
+   "stratum": "mid",
+   "make": "HUAWEI"
+  },
+  {
+   "raw": "raws/pixls/HUAWEI/EML-L29/IMG_20190507_233457.dng",
+   "sha256": "77385bde838ab7e0a5b067d7f6e6b8cb3019a3c22353fae6b8689a43adda439a",
+   "p90_L": 63.47493382660756,
+   "stratum": "mid",
+   "make": "HUAWEI"
+  },
+  {
+   "raw": "raws/pixls/HUAWEI/EVA-AL00/IMG_20171015_200142.dng",
+   "sha256": "032c8b7321e1cdfb4714835e15158e21fc1cd17c634d5d814ab2b11688e67262",
+   "p90_L": 60.519224907580266,
+   "stratum": "mid",
+   "make": "HUAWEI"
+  },
+  {
+   "raw": "raws/pixls/HUAWEI/EVA-L09/Huawai_P9_Leica.dng",
+   "sha256": "1f90c784209650cbceace0f7b114baf2bffb48a9c0d63026889b104c1fada7d3",
+   "p90_L": 71.72684629309744,
+   "stratum": "mid",
+   "make": "HUAWEI"
+  },
+  {
+   "raw": "raws/pixls/HUAWEI/FRD-L09/IMG_20180520_132951.dng",
+   "sha256": "905960bbe459ed68347e3cbdb55c8f6b463146da5b79a9ca2f8a5543e3763432",
+   "p90_L": 88.44985281539279,
+   "stratum": "high",
+   "make": "HUAWEI"
+  },
+  {
+   "raw": "raws/pixls/HUAWEI/HRY-LX1/IMG_20190427_200711.dng",
+   "sha256": "a21850edf21ac42bd5af366a8bd421c379a53c0f8be89adec9027dafc6e9c01b",
+   "p90_L": 70.70471703330976,
+   "stratum": "mid",
+   "make": "HUAWEI"
+  },
+  {
+   "raw": "raws/pixls/HUAWEI/PRA-LX1/IMG_20180330_171432.dng",
+   "sha256": "2fca99ebc7e9ae7a79e86d4706ae2c6b6aab8063693c44aa6a89cb447feab429",
+   "p90_L": 80.71380911671832,
+   "stratum": "high",
+   "make": "HUAWEI"
+  },
+  {
+   "raw": "raws/pixls/HUAWEI/VKY-L09/IMG_20180429_160450.dng",
+   "sha256": "243037548709cdcefeda3ca593abffaadc7ab463111bc1ba2fc6c2081897b632",
+   "p90_L": 77.447441452386,
+   "stratum": "high",
+   "make": "HUAWEI"
+  },
+  {
+   "raw": "raws/pixls/HUAWEI/VOG-L29/IMG_20190330_123314.dng",
+   "sha256": "6dea2735a31f06e39b1a203826bcdfe4ff0fcdec444772bdab455c49f91b1846",
+   "p90_L": 68.50966729348222,
+   "stratum": "mid",
+   "make": "HUAWEI"
+  },
+  {
+   "raw": "raws/pixls/HUAWEI/VTR-L09/IMG_20180307_120152.dng",
+   "sha256": "95f7b90f51d6b5ffed6c97ccc41019e767d861dad3505de1001192484dfe760b",
+   "p90_L": 70.5423143321389,
+   "stratum": "mid",
+   "make": "HUAWEI"
+  },
+  {
+   "raw": "raws/pixls/HUAWEI/WAS-LX1A/IMG_20180416_193350.dng",
+   "sha256": "f77f2cb548bcccefdb08d1de4feac1a37c8f0f7936de693d3418267cd8d43028",
+   "p90_L": 84.44225543560955,
+   "stratum": "high",
+   "make": "HUAWEI"
+  },
+  {
+   "raw": "raws/pixls/Hasselblad/L1D-20c/DJI_0017.DNG",
+   "sha256": "7afecae0db80d832941eeeb3c0eb2dc03f5696637b6e78b3c592e8c002dce4ec",
+   "p90_L": 91.26349434036108,
+   "stratum": "high",
+   "make": "Hasselblad"
+  },
+  {
+   "raw": "raws/pixls/Hasselblad/L2D-20c/DJI_0023.DNG",
+   "sha256": "dbe98cb202f884ff11e0144899613b26d33cf9cddd9f1a62226f4352397f18e4",
+   "p90_L": 89.73176092937037,
+   "stratum": "high",
+   "make": "Hasselblad"
+  },
+  {
+   "raw": "raws/pixls/KanDao/QooCam/KD3D_20190310_123825_000001.DNG",
+   "sha256": "d3bf8b6ace281dd6d9caa9547a5e3434d4820c0aec7028c2bf0ce47fb22dbc54",
+   "p90_L": 75.59488531178933,
+   "stratum": "high",
+   "make": "KanDao"
+  },
+  {
+   "raw": "raws/pixls/KanDao/QooCam/KDRaw_Q360_20190310_125715_000001.dng",
+   "sha256": "f6aab065b68822536866acab9d67207b8bf7ffb88ce09ec7a7b3bb2f4fb202fe",
+   "p90_L": 77.28889176697784,
+   "stratum": "high",
+   "make": "KanDao"
+  },
+  {
+   "raw": "raws/pixls/KanDao/QooCam/Q360_20190310_123437_000001.DNG",
+   "sha256": "400dbe89e2cfb536c0146401e2fc8f2d4a7df3709d3e0ca0a2691c7400c2d67a",
+   "p90_L": 76.80995104529192,
+   "stratum": "high",
+   "make": "KanDao"
+  },
+  {
+   "raw": "raws/pixls/Kandao/QooCam 8K/Q360_20210330_100513_00000D.DNG",
+   "sha256": "db45e91c52ca113a773be18fb0ebd0603cfe56703b7887b3f108ecf708108975",
+   "p90_L": 60.96096777278823,
+   "stratum": "mid",
+   "make": "Kandao"
+  },
+  {
+   "raw": "raws/pixls/LEICA CAMERA AG/LEICA SL2/L1020010.DNG",
+   "sha256": "d00f05468793e4509b53230e90dcdc078e823b254eee95f1c68b29e217df99bf",
+   "p90_L": 91.5396432423089,
+   "stratum": "high",
+   "make": "LEICA CAMERA AG"
+  },
+  {
+   "raw": "raws/pixls/LG/LG-F800K/20171028_174609.dng",
+   "sha256": "9b68e4e3406502d1b9d84cfd3c7172093de4422b55186e61b73d0f458d410bcd",
+   "p90_L": 85.3942035382989,
+   "stratum": "high",
+   "make": "LG"
+  },
+  {
+   "raw": "raws/pixls/LG/LG-H850/LGG5_Camera_Front.dng",
+   "sha256": "be58e948626b193538217e96bc6d9ff5fdeb91a3a8a8af65624dab41ae39895f",
+   "p90_L": 78.48988689528201,
+   "stratum": "high",
+   "make": "LG"
+  },
+  {
+   "raw": "raws/pixls/LG/VS995/0313171232.dng",
+   "sha256": "f896d34876a7544cdcadf8d3b6ff5055639dec3d8429e9756441bcd6373fd7a6",
+   "p90_L": 85.8280231286376,
+   "stratum": "high",
+   "make": "LG"
+  },
+  {
+   "raw": "raws/pixls/Leica/C-Lux/_1001076.RWL",
+   "sha256": "286106ec2df65539912709c64e84a9b94686443fe5ea05b8ebada76daa1feb2d",
+   "p90_L": 71.05190198204406,
+   "stratum": "mid",
+   "make": "Leica"
+  },
+  {
+   "raw": "raws/pixls/Leica/CL/L1080510_2018_CL-35-135-Chateau_Thy__Chateau_Ham.DNG",
+   "sha256": "1f4cfa565d176d85838d96bd3eb598bbeed719cac8acb9999d5823c527635950",
+   "p90_L": 87.85820882036465,
+   "stratum": "high",
+   "make": "Leica"
+  },
+  {
+   "raw": "raws/pixls/Leica/D-Lux 7/L1023208.RWL",
+   "sha256": "4f6db6492da83f7f2a5012591e370557249d1ed44d4c948784016605b799327c",
+   "p90_L": 81.52160493887374,
+   "stratum": "high",
+   "make": "Leica"
+  },
+  {
+   "raw": "raws/pixls/Leica/Q2/L1000750.DNG",
+   "sha256": "a71f98405e9e9c1e4ac0f2d2e6c52d65daae3234fc0a9f6eed2a84ee4ce794ad",
+   "p90_L": 68.02623524848337,
+   "stratum": "mid",
+   "make": "Leica"
+  },
+  {
+   "raw": "raws/pixls/Leica/V-Lux 5/_1000200.RWL",
+   "sha256": "6540d067665a842d903d2c44ec101e6f95f65759d4754a94f38817d7a2fd72f4",
+   "p90_L": 0.003529896599236082,
+   "stratum": "low",
+   "make": "Leica"
+  },
+  {
+   "raw": "raws/pixls/Leica Camera AG/LEICA M10-R/M10R0324.DNG",
+   "sha256": "ba35d25d521c7ddbc4feca69c8cdbe071ac65dcd6cf2c93374391bf6f3662b8d",
+   "p90_L": 70.80539015308348,
+   "stratum": "mid",
+   "make": "Leica Camera AG"
+  },
+  {
+   "raw": "raws/pixls/MADV/QJXJ01FJ/IMG_20190326_134416.DNG",
+   "sha256": "4b2db2bed2807e1006fbf3b9d49784a4b789e7c9149917c477eb2760d1cb7ed8",
+   "p90_L": 74.18054373755847,
+   "stratum": "mid",
+   "make": "MADV"
+  },
+  {
+   "raw": "raws/pixls/NIKON CORPORATION/COOLPIX P1100/DSCN0173.NRW",
+   "sha256": "706840f7a36c3852092d4aad0465e75920e04f1aa653adf31626c0c05ab41258",
+   "p90_L": 71.12241059035794,
+   "stratum": "mid",
+   "make": "NIKON CORPORATION"
+  },
+  {
+   "raw": "raws/pixls/NIKON CORPORATION/NIKON Z fc/Nikon_Z_fc_14bit.NEF",
+   "sha256": "038995c5108899cfa3f54d99364752fe761bb0accb8b26a21ac274d107a85d05",
+   "p90_L": 75.8937142607546,
+   "stratum": "high",
+   "make": "NIKON CORPORATION"
+  },
+  {
+   "raw": "raws/pixls/NIKON CORPORATION/NIKON Z50_2/DSC_0060_DX_Lossless.NEF",
+   "sha256": "a3314a026524396e603b461afc4fe61a8a5a3958232f3687bb1c8eca0dcbed93",
+   "p90_L": 92.55737022992999,
+   "stratum": "high",
+   "make": "NIKON CORPORATION"
+  },
+  {
+   "raw": "raws/pixls/NIKON CORPORATION/NIKON Z50_2/DSC_0063_1x1_Lossless.NEF",
+   "sha256": "ba925fc9fed35a82e279eb4e102d2221e36d35a8df3e21fb24037e0e518b715a",
+   "p90_L": 91.59729456905885,
+   "stratum": "high",
+   "make": "NIKON CORPORATION"
+  },
+  {
+   "raw": "raws/pixls/NIKON CORPORATION/NIKON Z5_2/Lossless_compression_1-1.NEF",
+   "sha256": "133d8a624f2d39769dec3cb9e7b9ae81971ae8787b5e8d0675bc6ecd27ddef4b",
+   "p90_L": 70.23765733226382,
+   "stratum": "mid",
+   "make": "NIKON CORPORATION"
+  },
+  {
+   "raw": "raws/pixls/NIKON CORPORATION/NIKON Z5_2/Lossless_compression_DX.NEF",
+   "sha256": "ba6c66ece60b18eaf6a3461ecfbccd346af785a1db311b3e651ae0284232a1c8",
+   "p90_L": 70.87651570914925,
+   "stratum": "mid",
+   "make": "NIKON CORPORATION"
+  },
+  {
+   "raw": "raws/pixls/NIKON CORPORATION/NIKON Z5_2/Lossless_compression_FX_1.NEF",
+   "sha256": "387d613e1f81e43a704bc349d7c64ef297880a8f306b001baf8be39856c532de",
+   "p90_L": 69.45290834802026,
+   "stratum": "mid",
+   "make": "NIKON CORPORATION"
+  },
+  {
+   "raw": "raws/pixls/NIKON CORPORATION/NIKON Z6_3/Nikon_Z6__3_Lossless_compressed_1_1.NEF",
+   "sha256": "ffd2eae3f5bdfd58edea142761107af70ad11a54abdd87b5896d8dba029f038c",
+   "p90_L": 80.82374650838454,
+   "stratum": "high",
+   "make": "NIKON CORPORATION"
+  },
+  {
+   "raw": "raws/pixls/NIKON CORPORATION/NIKON Z6_3/Nikon_Z6__3_Lossless_compressed_DX.NEF",
+   "sha256": "7f214d6ea98e2eea44347d42e4dee0b7fa3ccab12c29275e2d029775685b74b5",
+   "p90_L": 84.21223972015781,
+   "stratum": "high",
+   "make": "NIKON CORPORATION"
+  },
+  {
+   "raw": "raws/pixls/NIKON CORPORATION/NIKON Z6_3/Nikon_Z6__3_Lossless_compressed_FX.NEF",
+   "sha256": "17180e80555c149c5954a8a2f09459ede593b49731f1941f7094be105f3520e2",
+   "p90_L": 79.04843782742869,
+   "stratum": "high",
+   "make": "NIKON CORPORATION"
+  },
+  {
+   "raw": "raws/pixls/Nikon/COOLPIX B700/DSCN2079.NRW",
+   "sha256": "a175d5892304e79282add07eacf4bdc498ca3f050af48cf989c080355b4735ec",
+   "p90_L": 84.87897956579326,
+   "stratum": "high",
+   "make": "Nikon"
+  },
+  {
+   "raw": "raws/pixls/Nikon/COOLPIX P1000/DSCN1113.NRW",
+   "sha256": "1d9470ee083f914e51aa0be782161b432f27f87dbef551a59ec435f5dbc289dd",
+   "p90_L": 51.54737661012409,
+   "stratum": "mid",
+   "make": "Nikon"
+  },
+  {
+   "raw": "raws/pixls/Nikon/COOLPIX P950/DSCN0014.NRW",
+   "sha256": "fc6136b9e5a7e133d7dc30fe65baa04c09ff8c18ca3c7ad82b4ffdbb71ce5bef",
+   "p90_L": 63.82365574214938,
+   "stratum": "mid",
+   "make": "Nikon"
+  },
+  {
+   "raw": "raws/pixls/Nikon/Coolpix A1000/DSCN0417.NRW",
+   "sha256": "9b4edd03bbb17d66eacc2a72b30f044969e67666446f3f1ed25e88bb947d4f8a",
+   "p90_L": 76.52957964870771,
+   "stratum": "high",
+   "make": "Nikon"
+  },
+  {
+   "raw": "raws/pixls/Nikon/D3400/DSC_0202.NEF",
+   "sha256": "eced190786231f0081261b6c6b425fe23e42a53ade21dec3def5ae8551be71a5",
+   "p90_L": 84.29607988603394,
+   "stratum": "high",
+   "make": "Nikon"
+  },
+  {
+   "raw": "raws/pixls/Nikon/D3400/DSC_0330_bad.NEF",
+   "sha256": "69d1f76c3a206f846a3e3957663f0f3285ac4d1c74494443314019a7e889ca62",
+   "p90_L": 72.90591912709488,
+   "stratum": "mid",
+   "make": "Nikon"
+  },
+  {
+   "raw": "raws/pixls/Nikon/D3500/DSC_0043.NEF",
+   "sha256": "b53395f74674588a63f6b667325c5a2b400f26cba72ff402a65ddd02c5f841d5",
+   "p90_L": 52.03199979936476,
+   "stratum": "mid",
+   "make": "Nikon"
+  },
+  {
+   "raw": "raws/pixls/Nikon/D500/Nikon_D500_RAWL_12bit_LosslessCompressed.NEF",
+   "sha256": "9e05c61fd5b02dc11233e45b4f1e3f6d60ed2ccd0b72f9e7cc487b76f3a9ba72",
+   "p90_L": 46.07665043869304,
+   "stratum": "mid",
+   "make": "Nikon"
+  },
+  {
+   "raw": "raws/pixls/Nikon/D500/Nikon_D500_RAWL_14bit_LosslessCompressed.NEF",
+   "sha256": "90995baaad6eb2f8c0257b8a38ff6c25557fa8d411f29b84630759d9563e35fd",
+   "p90_L": 71.47176541045063,
+   "stratum": "mid",
+   "make": "Nikon"
+  },
+  {
+   "raw": "raws/pixls/Nikon/D5600/2018-01-20_01-14_0792.NEF",
+   "sha256": "4d9b49e6eb8a9e055b10be67f580a9c42538132e3a6e808d2fd08826c644827e",
+   "p90_L": 55.45377077092965,
+   "stratum": "mid",
+   "make": "Nikon"
+  },
+  {
+   "raw": "raws/pixls/Nikon/D5600/DSC_0027.NEF",
+   "sha256": "82e15f02c4037820e80f14bacfacdc52ea29721b3c70d2cf08b237b50ce8db05",
+   "p90_L": 84.1856159130153,
+   "stratum": "high",
+   "make": "Nikon"
+  },
+  {
+   "raw": "raws/pixls/Nikon/D6/D06_0312.NEF",
+   "sha256": "8c8cf431f5807e2d216318f8a42e30a4d4f8561e325eb6495d9aa0e466ef53fe",
+   "p90_L": 64.56239824275731,
+   "stratum": "mid",
+   "make": "Nikon"
+  },
+  {
+   "raw": "raws/pixls/Nikon/D7500/RAW_NIKON_D7500_12BIT_COMPRESSED.NEF",
+   "sha256": "ad53ee232836ba707d3d6820b5f9c015f129599aef7737adcec4a07b803b8891",
+   "p90_L": 81.31273553865398,
+   "stratum": "high",
+   "make": "Nikon"
+  },
+  {
+   "raw": "raws/pixls/Nikon/D780/DSC_0334.NEF",
+   "sha256": "3178d0656e3b5fbe90176e38a1cd608d0b69292299445932dddc9a0b2d196b36",
+   "p90_L": 67.63393135064908,
+   "stratum": "mid",
+   "make": "Nikon"
+  },
+  {
+   "raw": "raws/pixls/Nikon/D780/DSC_0336.NEF",
+   "sha256": "986488947e552af25c6824667aed5a1622140a581dc57efd4b00f0b55b5e4ae0",
+   "p90_L": 67.29853675025774,
+   "stratum": "mid",
+   "make": "Nikon"
+  },
+  {
+   "raw": "raws/pixls/Nikon/D780/DSC_0338.NEF",
+   "sha256": "8b786e0ecfb4cca8d94af9b3a114e9e4cab429be251efb6bb06a11a98116d49b",
+   "p90_L": 68.11626128155167,
+   "stratum": "mid",
+   "make": "Nikon"
+  },
+  {
+   "raw": "raws/pixls/Nikon/D780/DSC_0340.NEF",
+   "sha256": "6ee9e13f6f2532a5ba66f43b75885cf8a3f27f252d39969545f0471eff7d3f6f",
+   "p90_L": 66.67175626892357,
+   "stratum": "mid",
+   "make": "Nikon"
+  },
+  {
+   "raw": "raws/pixls/Nikon/D850/Nikon-D850-14bit-uncompressed.NEF",
+   "sha256": "ce1fb927aca4f0ac3a1fa5caded0d7859560988e500f71177287310fd1a3d845",
+   "p90_L": 69.46941533423153,
+   "stratum": "mid",
+   "make": "Nikon"
+  },
+  {
+   "raw": "raws/pixls/Nikon/Z 30/NIKON_Z30_14BIT.NEF",
+   "sha256": "a952c7baaed05c0f191fa3698262a1a894e54e3799dd34dc1ead0f63cf09e2ca",
+   "p90_L": 81.60808638916504,
+   "stratum": "high",
+   "make": "Nikon"
+  },
+  {
+   "raw": "raws/pixls/Nikon/Z 30/_DSC0028.NEF",
+   "sha256": "75249c11a3a845367c7a322a1c4e7076f33c785ec2518fc6594c34c185b41161",
+   "p90_L": 77.36920550974666,
+   "stratum": "high",
+   "make": "Nikon"
+  },
+  {
+   "raw": "raws/pixls/Nikon/Z 5/DSC_0517.NEF",
+   "sha256": "9870248c45532080c2459f3b52cdcc4a07bc8846ad50cbb81c7c1c6dc5e36d91",
+   "p90_L": 75.01040386657931,
+   "stratum": "high",
+   "make": "Nikon"
+  },
+  {
+   "raw": "raws/pixls/Nikon/Z 50/DSC_0441.NEF",
+   "sha256": "b25081cf9adcd51fec020b6d227ff094bc0327cbd26d76bad7e1dee3fb4c034a",
+   "p90_L": 91.54948362374991,
+   "stratum": "high",
+   "make": "Nikon"
+  },
+  {
+   "raw": "raws/pixls/Nikon/Z 50/DSC_0450.NEF",
+   "sha256": "5e93735923229117abee2779d81f114f180f361e8ae553c9dd9bdaaedb0d9e02",
+   "p90_L": 94.78218465983109,
+   "stratum": "high",
+   "make": "Nikon"
+  },
+  {
+   "raw": "raws/pixls/Nikon/Z 6/DSC_0750.NEF",
+   "sha256": "b4cdb8ecf8a971ec023dd242251c6cbfb19966914e37c2311dc9813a7ab5e15f",
+   "p90_L": 81.45914730746492,
+   "stratum": "high",
+   "make": "Nikon"
+  },
+  {
+   "raw": "raws/pixls/Nikon/Z 6_2/CZP_0299.NEF",
+   "sha256": "1b67d15817dbd4143a1f1089e2f09e319a2a2327c124e2643284509dd7621030",
+   "p90_L": 70.31117584678184,
+   "stratum": "mid",
+   "make": "Nikon"
+  },
+  {
+   "raw": "raws/pixls/Nikon/Z 7_2/Z72_0027.NEF",
+   "sha256": "dc83d3e49db54ca9c3a1e41dc847afd213c822d482c40158e42d01ee8968f33b",
+   "p90_L": 80.44525799363701,
+   "stratum": "high",
+   "make": "Nikon"
+  },
+  {
+   "raw": "raws/pixls/Nikon/Z 7_2/Z72_0029.NEF",
+   "sha256": "60de3df0af395adac77c20db7f2714760450eaff99f8d0a76834c447bedf7381",
+   "p90_L": 83.56569039495895,
+   "stratum": "high",
+   "make": "Nikon"
+  },
+  {
+   "raw": "raws/pixls/Nikon/Z 7_2/Z72_0032.NEF",
+   "sha256": "b2166f9ac7a9f348da74f51055b8e1a03a3bcac7bff8d0863a74618c1b402765",
+   "p90_L": 84.78680067599407,
+   "stratum": "high",
+   "make": "Nikon"
+  },
+  {
+   "raw": "raws/pixls/Nikon/Z 9/Nikon_-_NIKON_Z_9_-_14bit_compressed_(Lossless).NEF",
+   "sha256": "99d0fe24a38f0f7623aeab21440d266a5ac09f9665cf5283f590337e84323c38",
+   "p90_L": 66.10664106345558,
+   "stratum": "mid",
+   "make": "Nikon"
+  },
+  {
+   "raw": "raws/pixls/Nikon/Z f/DSC_0040.NEF",
+   "sha256": "83c82be0be8865d796096dfbcc8ef2abf5af1bd37db44dfad6715070b0c99d15",
+   "p90_L": 89.69256902501883,
+   "stratum": "high",
+   "make": "Nikon"
+  },
+  {
+   "raw": "raws/pixls/Nikon/Z fc/_DSC0018.nef",
+   "sha256": "4099ecc46ebaca26e2a66a96a8313fed5e8c707b3836ccf0e77a134844b041c1",
+   "p90_L": 80.21341322924087,
+   "stratum": "high",
+   "make": "Nikon"
+  },
+  {
+   "raw": "raws/pixls/Nikon/Z fc/_DSC0070.nef",
+   "sha256": "e4cabbeaf818eaa77719158ca2f480fbbf413e694f3714b44f01d588bc7a9863",
+   "p90_L": 61.45024677395087,
+   "stratum": "mid",
+   "make": "Nikon"
+  },
+  {
+   "raw": "raws/pixls/OLYMPUS/E-M5 Mark III/PB290154.ORF",
+   "sha256": "24de6ac3bd5e668ee22fd0dbf2e344608949eb85f7342f28470ce709c9d51226",
+   "p90_L": 50.35082382801016,
+   "stratum": "mid",
+   "make": "OLYMPUS"
+  },
+  {
+   "raw": "raws/pixls/OM Digital Solutions/OM-3/P5048182.ORF",
+   "sha256": "1cee7deb661e45101ab3ca6c4240d24ed949b167ed423703fca15c09dd8ec176",
+   "p90_L": 73.16297661838517,
+   "stratum": "mid",
+   "make": "OM Digital Solutions"
+  },
+  {
+   "raw": "raws/pixls/OM Digital Solutions/OM-5MarkII/OM_System_OM-5_2_regular.ORF",
+   "sha256": "c6fe861982ddc18464cf6858d2700f6813cc3a17956bcb12d1179212c999c76a",
+   "p90_L": 84.92070532365615,
+   "stratum": "high",
+   "make": "OM Digital Solutions"
+  },
+  {
+   "raw": "raws/pixls/OM System/OM-1/OM_Systems_OM1_RAW_Image_20mpx_P1010025.ORF",
+   "sha256": "bf2eef6becc0851e48231617c3e2eac27a2cdb44c75b93035c561d837952c18b",
+   "p90_L": 91.80705327290462,
+   "stratum": "high",
+   "make": "OM System"
+  },
+  {
+   "raw": "raws/pixls/OM System/OM-1/OM_Systems_OM1_RAW_image_HiRes_80mpx_P1010027.ORF",
+   "sha256": "862dda54644400335633578ea3a37912fbe56429f755499fdbcab9e993543874",
+   "p90_L": 88.24696304495319,
+   "stratum": "high",
+   "make": "OM System"
+  },
+  {
+   "raw": "raws/pixls/OM System/OM-5/C1291096.ORF",
+   "sha256": "ee0213ee4899d677d9bd538d8cfa4d0f69bdbacd462c1cf3ca3901036cf2fce7",
+   "p90_L": 73.9633237475305,
+   "stratum": "mid",
+   "make": "OM System"
+  },
+  {
+   "raw": "raws/pixls/OM System/TG-7/UWAG0002.ORF",
+   "sha256": "4f7344c67bfcfcfec45f754195ba612fc2ad6312f5fab87812bf04b9e9e7d46a",
+   "p90_L": 78.48814803792281,
+   "stratum": "high",
+   "make": "OM System"
+  },
+  {
+   "raw": "raws/pixls/Olympus/E-M10 Mark III/PA080192.ORF",
+   "sha256": "11d90cbb564ad2c660c7a8d5d81d99c2c018aa27fdec45ed6c461fa5d24f942b",
+   "p90_L": 63.39831202314218,
+   "stratum": "mid",
+   "make": "Olympus"
+  },
+  {
+   "raw": "raws/pixls/Olympus/E-M10 Mark IIIs/ilhabela_202110_0082.ORF",
+   "sha256": "8bc0009eaacdbeacc72606581665702a1242bc6d4b405d1f0b3f149fe6c85e55",
+   "p90_L": 78.87515892390901,
+   "stratum": "high",
+   "make": "Olympus"
+  },
+  {
+   "raw": "raws/pixls/Olympus/E-M10 Mark IV/_A180042.ORF",
+   "sha256": "ce03e936cb2e8131343e7045a3249f78477bd2ae944e121ace72058b89fef509",
+   "p90_L": 89.1175140366957,
+   "stratum": "high",
+   "make": "Olympus"
+  },
+  {
+   "raw": "raws/pixls/Olympus/E-M1X/P3240916.ORF",
+   "sha256": "ab171cedfe3a65438dd47c2df704a7d3001f45f5ab43e67b7f96cfe30b6ebbcf",
+   "p90_L": 73.71540726376253,
+   "stratum": "mid",
+   "make": "Olympus"
+  },
+  {
+   "raw": "raws/pixls/Olympus/E-P7/P8162689.ORF",
+   "sha256": "391b7a28d088f093a93d05c43b82bc8e9403579dea8cdc066d28af53a773d9c5",
+   "p90_L": 77.5003710015039,
+   "stratum": "high",
+   "make": "Olympus"
+  },
+  {
+   "raw": "raws/pixls/Olympus/E-PL10/P6100030.ORF",
+   "sha256": "6911f11810545cc2c55882ef6fa6aa2f25d34674865f8ade15e47990865e37ed",
+   "p90_L": 92.97159609655287,
+   "stratum": "high",
+   "make": "Olympus"
+  },
+  {
+   "raw": "raws/pixls/Olympus/E-PL8/P9110021.ORF",
+   "sha256": "68400f859dea4be9a398fdc1f97613962b92d14b53d96531e2310b7dde2e674e",
+   "p90_L": 57.59668584098803,
+   "stratum": "mid",
+   "make": "Olympus"
+  },
+  {
+   "raw": "raws/pixls/Olympus/E-PL9/EB000005.ORF",
+   "sha256": "22525e54442f52281d007b5e8a75a2c61f768856699cf5ed697d85e055f2cc4f",
+   "p90_L": 73.73384406303272,
+   "stratum": "mid",
+   "make": "Olympus"
+  },
+  {
+   "raw": "raws/pixls/Olympus/PEN-F/PenFNormal.orf",
+   "sha256": "156bf12075c4f69a3e475518f67db9d4010972d8123bdd27ae8c9177b443c374",
+   "p90_L": 92.5680676854153,
+   "stratum": "high",
+   "make": "Olympus"
+  },
+  {
+   "raw": "raws/pixls/Olympus/TG-6/_6100003.ORF",
+   "sha256": "edd6f928bc790c79852a17fce56718d26563c7a593894d22970ef0fdb86ba45f",
+   "p90_L": 84.35840154190788,
+   "stratum": "high",
+   "make": "Olympus"
+  },
+  {
+   "raw": "raws/pixls/OnePlus/ONEPLUS A3003/IMG_20170316_134557.dng",
+   "sha256": "15c937245f419d7e8dd24d232dd9565b397c57460434fe15b1570b6a07fe9d68",
+   "p90_L": 88.199800255346,
+   "stratum": "high",
+   "make": "OnePlus"
+  },
+  {
+   "raw": "raws/pixls/OnePlus/ONEPLUS A5000/IMG_20171224_201301.dng",
+   "sha256": "b0fb9050ffd46d9216e37aed139cd5b826d5e62b875ba6d761e300cd855b994c",
+   "p90_L": 68.49746982185057,
+   "stratum": "mid",
+   "make": "OnePlus"
+  },
+  {
+   "raw": "raws/pixls/OnePlus/ONEPLUS A6003/IMG_20201019_093659.dng",
+   "sha256": "14dc45528376ee8354ccacd658bf7cc94855e0ca2e4dede947e00b0592fb838d",
+   "p90_L": 84.17461969761042,
+   "stratum": "high",
+   "make": "OnePlus"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-FZ10002/P1015595.RW2",
+   "sha256": "2af14516a1fb0a519af7f71bdfec9b40c8a16882b0277b4141d712d6a5a7e8a5",
+   "p90_L": 67.54393803335046,
+   "stratum": "mid",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-FZ80/P1010306.RW2",
+   "sha256": "34b1777a25c31053234006e172b72c142477994dc560f95bf945c742f0ca1ff9",
+   "p90_L": 59.53075350704547,
+   "stratum": "mid",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-FZ82/P1000052.RW2",
+   "sha256": "affa754f5d56f471f1c53c698798b99d1cf171bacca259d1adb6e41d81dbe9d4",
+   "p90_L": 77.4397634278571,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-G100/P1000346.RW2",
+   "sha256": "045fbeed3f92ebe523849959ee0d7c20abdcb32cdbba88f334b648a44ae868fc",
+   "p90_L": 68.5993068222199,
+   "stratum": "mid",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-G100D/P1000143.RW2",
+   "sha256": "bc0a304c5f2d483747767d4a71b0f136a6104e293917ad2bad6467007f07cdab",
+   "p90_L": 91.07476781961108,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-G110/DC-G110-4:3.RW2",
+   "sha256": "4439a761e8fbe5d7e9b9f6a2284e77f307dc54cbb8ac7870fd8fd87acc99a82e",
+   "p90_L": 45.6398456018128,
+   "stratum": "mid",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-G9/P1000476.RW2",
+   "sha256": "7a56babeb19f9bde3eaa532a4c8d1b11637a0f550963a1182ec845722c65583d",
+   "p90_L": 62.07052625203536,
+   "stratum": "mid",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-G9/P1000951.RW2",
+   "sha256": "16282357ce0143ff7d36737f82074662db7aa0790ecd309196f406baf0f586a7",
+   "p90_L": 63.74690559469991,
+   "stratum": "mid",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-G90/PMAT0201.RW2",
+   "sha256": "41de770701618b7276871fd1566da08782bf1009977c5bea91c0cc300bb8ed65",
+   "p90_L": 62.67492132811666,
+   "stratum": "mid",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-G91/P1000167.RW2",
+   "sha256": "f1893ec9824fe7cb6f3be006fa5dc4ae4f8358eafeff3566effa26cacf6dfa1b",
+   "p90_L": 86.94773884570293,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-G95/_1000563.RW2",
+   "sha256": "40ecc5dfc90d772510c5e46b6ed3979d734869a468783d2220d4afc3c40d6392",
+   "p90_L": 68.91793834136315,
+   "stratum": "mid",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-G95/_1000574.RW2",
+   "sha256": "0183b3d50ad11146df28014ea24c381d9f45bb3df94c6e72e71a41dc1c2973d7",
+   "p90_L": 60.65280396769165,
+   "stratum": "mid",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-G95D/P1000318.RW2",
+   "sha256": "773fb77c1e71b03f44d351adfaa565c1aed5697aa9f103b2f0f19a2f0eb2c855",
+   "p90_L": 68.73532200422596,
+   "stratum": "mid",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-G97/_JOS3760.RW2",
+   "sha256": "f3a04fb066aeeef461a1b83da4cac5925a9a1b87996439c5ce3a4f513e69407e",
+   "p90_L": 65.69208528810836,
+   "stratum": "mid",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-G9M2/P1000019.RW2",
+   "sha256": "dd4bc19ed6cf6625608a1ff14ce1a9d16692e1bf1d50993a3fc076e18905b662",
+   "p90_L": 82.90041124841571,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-G9M2/P1000022.RW2",
+   "sha256": "c74090966c8411c16219adef73a6f8059527411c9fba6059e3df5cef4f24053f",
+   "p90_L": 84.81298718002942,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-G9M2/P1000029.RW2",
+   "sha256": "883c18372f68cc79c09039ce4510a8e006336fa619e158acae5e4031538770f4",
+   "p90_L": 85.74427516099101,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-G9M2/P1000034.RW2",
+   "sha256": "d8d536a46985020e6fa1b40c0a814e3a2362890dd5bfeb4f72db13da8907976c",
+   "p90_L": 86.34359273862509,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-GF10/P1010034.RW2",
+   "sha256": "e1496c9235eed14da1611d163ed383b889abbb73005196b97aedc19530845714",
+   "p90_L": 71.68373955618802,
+   "stratum": "mid",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-GF10/P1010137.RW2",
+   "sha256": "69cac182e48c707926e5c9ec55685998ad68acfe9c8cd385da1bd13babcf349b",
+   "p90_L": 45.579331518515865,
+   "stratum": "mid",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-GF10/P1010140.RW2",
+   "sha256": "cb1710b43202ee900c0c47aed6de50c536fc817d745c3bb6d445abef0588adf0",
+   "p90_L": 51.454377971869214,
+   "stratum": "mid",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-GF10/P1010141.RW2",
+   "sha256": "ef911b25debc95b121c74949ffb0bdad4c92744b1844aa6a08d766fa5c64adc5",
+   "p90_L": 49.14990789036107,
+   "stratum": "mid",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-GH5M2/Panasonic_-_DC-GH5M2_-_4:3.RW2",
+   "sha256": "0ea0efd2a9442d8c68508e4196e29f1da4577407dc3df5add4cf360f70493c7b",
+   "p90_L": 92.32672130384894,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-GH5S/P1022081.RW2",
+   "sha256": "b617151876e62b492641cef14b8c98ee3797e5014d24c6af1c780715a501fa53",
+   "p90_L": 90.05846062768568,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-GH5S/P1022084.RW2",
+   "sha256": "953e602e21974a3eb894e3ec0abd6e6fa31d991e579fe013fd9d2e0f414c47ac",
+   "p90_L": 88.32788171443346,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-GH5S/P1022090.RW2",
+   "sha256": "7553e219a0dfc8edfcef58bf209ed9e3c37a5de395fb02999e17c979ed6817cd",
+   "p90_L": 89.48102030252824,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-GH6/4-3.RW2",
+   "sha256": "07996bca904a178d02c5f56ee03a8dce775a0e1150c1beeaec51d72ff5e700d0",
+   "p90_L": 65.37285622457964,
+   "stratum": "mid",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-GH6/P1000116.RW2",
+   "sha256": "6e62bc734800beac52c42360dac277e5483798573d32d92b6c5b098f62f6e540",
+   "p90_L": 73.80693735229968,
+   "stratum": "mid",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-GH7/P1002296.RW2",
+   "sha256": "d7d99d4702f1a28326e119e39d4c43dfb7ce16bbab1a3580e813191f0edbfd87",
+   "p90_L": 91.76216789222156,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-GX7MK3/P2010097.RW2",
+   "sha256": "b801f4b12b18d7c01289a8be5555e753edd38f9c7ffbb8922eede2506d511c66",
+   "p90_L": 72.12438664211149,
+   "stratum": "mid",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-GX800/P1000091.RW2",
+   "sha256": "48d30b9b4595b01d5bc7f94c6e77fe65ee41c58f8aa4cfc04aa3766f9166825d",
+   "p90_L": 81.00682383995988,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-GX880/Panasonic_-_DC-GX880_-_1_1.RW2",
+   "sha256": "299f87fab2df3a35be83607f8ad6d40fa2b6ba4ff0977bb22358d809159af273",
+   "p90_L": 91.83646960906232,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-GX880/Panasonic_-_DC-GX880_-_4_3.RW2",
+   "sha256": "22a51b95dd6e74d748d86c1750cf4178262c4ba25e5b6208c88d01e05befe04b",
+   "p90_L": 88.87277811553813,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-GX9/gx9_3_2.RW2",
+   "sha256": "696303d9029099be41a451fce878e4de0a6a7b70a3b01e1c3f0f9848efe975c6",
+   "p90_L": 69.82613184893611,
+   "stratum": "mid",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-LX100M2/P1020077.RW2",
+   "sha256": "be21bf90fef3ecb9f38467f3cbaca45c852d1b07976dc307f03a97bf30eb73d3",
+   "p90_L": 66.83748316848322,
+   "stratum": "mid",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-LX100M2/P1020079.RW2",
+   "sha256": "2defd25d0edae3f599913dbdce27ee2706a88044192bb8157a0416c6447c73e6",
+   "p90_L": 61.158415212561216,
+   "stratum": "mid",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-S1/P1033119.RW2",
+   "sha256": "45309a096d6010281e2fa310e6ec2fe1bcc02947fa37b1a2414cfc7377ce4ac6",
+   "p90_L": 73.04403394057994,
+   "stratum": "mid",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-S1M2/Panasonic_DC-S1M2_-_32.RW2",
+   "sha256": "e50ae28ab990a7997b1f2142e976619d072969186ed4f0095bef0724d2c70563",
+   "p90_L": 93.62237847468862,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-S1M2ES/3_2_P1022959.RW2",
+   "sha256": "4a10d20cf5d17087d75b7acd3d1fbdab66605505e9b7af62390f1948be4b09a5",
+   "p90_L": 88.789783195913,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-S1R/P1000077.RW2",
+   "sha256": "8b8a969617705d9997ee0461354c99905b964ae08b820cd24c6d4e440461e24c",
+   "p90_L": 89.26177431556744,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-S1RM2/P1000236.RW2",
+   "sha256": "0175ac937261744fe13b5d234eb4ede83695562d100d2c7b4bb2e7fc3bd69e67",
+   "p90_L": 94.01263345847218,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-S1RM2/P1000454.RW2",
+   "sha256": "0fde3176fd98214f64d5d472162d47f7146267c29f39eb8f3dd2351bc60158d0",
+   "p90_L": 30.57402220611348,
+   "stratum": "low",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-S1RM2/S1Rii_4x3.RW2",
+   "sha256": "0fbb7bcb33886c8d23b2fa0c28132a6f1dea9c1f0e1d5f57d902802cb5ac164a",
+   "p90_L": 90.15216377177958,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-S1RM2/S1Rii_electronic_shtr.RW2",
+   "sha256": "42b74f5375f58bcf69d8dda5adb0607b4c104e4f72e07f807f8ca7f5e1f26e97",
+   "p90_L": 75.64813212370466,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-S1RM2/S1Rii_multiexposure.RW2",
+   "sha256": "91661af2f72502b9a0ce1f2d4ed2ddfe60ac83a64d3742fa5608498661615bdf",
+   "p90_L": 74.5978300452455,
+   "stratum": "mid",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-S5/P1047510.RW2",
+   "sha256": "3615c85207097180b231f0c89d018eb3f1a71988780612921eb0a05246bca706",
+   "p90_L": 82.02227029648658,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-S5M2/P1126458_mechanical.RW2",
+   "sha256": "53a171521a7f9af6910b4ab61c5a4a42de0cceb24166e15b07eee1e00675028f",
+   "p90_L": 88.7481386885886,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-S5M2X/P1055415.RW2",
+   "sha256": "4a52f1706a69d5d37587bfba70f9e6bf554399ac2123f0be9b30a156b513d446",
+   "p90_L": 68.21023134162414,
+   "stratum": "mid",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-S9/Panasonic_DC-S9_ISO200_3_2.RW2",
+   "sha256": "290ad5b4e396cb241a59459b2613d2b0659a03ff654e5d5368b3376d35812e50",
+   "p90_L": 77.65952411370709,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-S9/Panasonic_DC-S9_ISO200_3_2_LL_48MP.RW2",
+   "sha256": "da47b85fa4a011be0ebbb5185453224fe2ab05733d46efb65f5bae120fcdf281",
+   "p90_L": 73.17459904173597,
+   "stratum": "mid",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-TZ200/P1000416.RW2",
+   "sha256": "322daa411fd98f03a509bcf9e489eb1c72b48f676e5eef261f0a488dd2b157a7",
+   "p90_L": 84.33051550568017,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-TZ200/P1000418.RW2",
+   "sha256": "e27b8a8e0a8f244573af6e12b61b9c2116ec2f787aea922d4460b49091414679",
+   "p90_L": 84.63733958336817,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-TZ200D/TZ200D_16_9_1000230.RW2",
+   "sha256": "a7275f6566de74557be5af00f64e65fba881a55c5dfbd8aec68dfe6d09091677",
+   "p90_L": 86.36200143910482,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-TZ202/P1000582.RW2",
+   "sha256": "d4526143aa4334fb23587aec5879b6b270ada985234206a836865d534d0a1d1b",
+   "p90_L": 89.52725713063087,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-TZ202/P1000584.RW2",
+   "sha256": "9223d73006115365c8aa64bc51f183842f2992cf1797c3e3dafcabdf8866ddfb",
+   "p90_L": 82.21295591424578,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-TZ90/P1010053.RW2",
+   "sha256": "0de2f973455b5444fac9df0bc16251888227e66c677524c1dc806687068faa27",
+   "p90_L": 84.96771173827078,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-TZ91/P1000244.RW2",
+   "sha256": "07f25a4d71724a06059e89f3290c88b54f126977a49765aa94a5950533028680",
+   "p90_L": 66.33235220488484,
+   "stratum": "mid",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-TZ95/P1000098.RW2",
+   "sha256": "d6db20aeee594b5ff020e0c43aa49a982c8c93d5920e5ecc38be0609d58dbf50",
+   "p90_L": 67.63377696295163,
+   "stratum": "mid",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-TZ95D/P1021321.RW2",
+   "sha256": "c7cb71d84567b0a966eda0a76d941ad89940e64d8baddb3ad92a289a8626ec77",
+   "p90_L": 87.49456845681388,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-TZ96/TZ96-16:9.RW2",
+   "sha256": "5d8aaf06eab5df28c10ddaa4984f3d69c4bd21d5f373beaea2830644fb0e1dd9",
+   "p90_L": 85.75016171750963,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-TZ96/TZ96-4:3.RW2",
+   "sha256": "d4a5e8bfa291e3b596c397721a6a8f13a9936a0dc473802a7db7cc4d4e163b0c",
+   "p90_L": 83.44847181729457,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-ZS200D/P1000631.RW2",
+   "sha256": "035bcc3456196bdf4628c451b00887cfd5e88c5ab98dc45aa79b48ce63d41b2c",
+   "p90_L": 83.79792444461859,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-ZS200D/P1000634.RW2",
+   "sha256": "a95fc91a051e1498311a726508c5b32d12e3d70112846cf5b090f2e4b58cd857",
+   "p90_L": 87.77190004901291,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DMC-FZ2000/fz2000-11.RW2",
+   "sha256": "93f8b6e7eaf5948198621aaf766e77a9ff61e8b1ea68c5cf351cfc0500f55a8a",
+   "p90_L": 90.8437641025227,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DMC-FZ2500/P1030343.RW2",
+   "sha256": "1499043ffc9dbf108914ca347e6e9ddc36c144134c53d01346beadbc4164e5ae",
+   "p90_L": 85.8005225329673,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DMC-FZ2500/P1030346.RW2",
+   "sha256": "65b8cda30bbcfe04b354335a873c53b09e7b3411f87875c592995e5cb239febb",
+   "p90_L": 85.74428859535809,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DMC-G81/P1000128.RW2",
+   "sha256": "baf6d4697eb81e1b4c8e3374c21ee9ae5869970c73bc14a2e8485d7c481a5f20",
+   "p90_L": 70.98634947495799,
+   "stratum": "mid",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DMC-G85/_1030981.RW2",
+   "sha256": "9fd49bf0bb7e42e83d2e0aab9eaf4984185546d628674581c4233553eb027e24",
+   "p90_L": 71.0182317262817,
+   "stratum": "mid",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DMC-G85/_1030982.RW2",
+   "sha256": "0d3737bad0b7edd0ac2d9f1ec15f02c1c3cda42d43bf82c703b38c564f725852",
+   "p90_L": 84.21234313725066,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DMC-G85/_1030983.RW2",
+   "sha256": "a4a0cc177e75885d9801def08b473c612f28fbaca908c6b0ee793a875dad0b47",
+   "p90_L": 73.08165213212946,
+   "stratum": "mid",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DMC-G85/_1030984.RW2",
+   "sha256": "0140ae9708c333dd9fd518c936a14835aa41d2c7e79d8e0a3d03aec17aa8f37b",
+   "p90_L": 88.14762601879065,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DMC-GF8/P1190098.RW2",
+   "sha256": "5ac66fc2a78832aeff26dddfce69a35926cee3717a62fc1cc87aa5368e2276c8",
+   "p90_L": 89.62041272806138,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DMC-GF8/P1190101.RW2",
+   "sha256": "bd38c1c95ef0b4cd6abdabb609576091805fb2ee2ff13067844291d49e10df21",
+   "p90_L": 82.63855304028934,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DMC-GX7MK2/P1010411.RW2",
+   "sha256": "6109abdf7cc633c1e0c9e7ec1a005a396313fe564998c3e2eeca48c8436fed11",
+   "p90_L": 95.30600943795974,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DMC-GX7MK2/P1010414.RW2",
+   "sha256": "7ab967d15b7388643825e8eba4df1c814006f07e29fb164092811503194e6a92",
+   "p90_L": 86.44182147127796,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DMC-GX80/P1010041.RW2",
+   "sha256": "6e9a419c70c2124630912b2934027c635d3871e3d22dd91fed0655d58cfb5382",
+   "p90_L": 75.19036139852479,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DMC-GX85/Panasonic_-_DMC-GX85_-_4:3.RW2",
+   "sha256": "e7ba64725da183b07af44eb3ff66d4e84c08480dd6b2fff7eb3312bb4989df50",
+   "p90_L": 78.91159782613673,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DMC-LX10/pana_DMC-LX10_16x19.RW2",
+   "sha256": "7c63ca645b22ce5914b3c223e44c6b18e293e0c3c052a1206636dfbfb6c9a65e",
+   "p90_L": 63.3339069987322,
+   "stratum": "mid",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DMC-LX10/pana_DMC-LX10_3x2.RW2",
+   "sha256": "927b2ba91c241b3999086327694d1dfd2872d1c75b524d39831e7ec687c7c663",
+   "p90_L": 60.71290736048647,
+   "stratum": "mid",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DMC-TX1/P1000555.RW2",
+   "sha256": "58f995caccaa76a24d03f15bed1ee191b9c8e8f0c3def53f2acc2b9c9127334d",
+   "p90_L": 81.32102513815387,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DMC-TX1/P1000633.RW2",
+   "sha256": "d6d751289bccbd221d4a80bb6a97f18ec8d9f0adc055c04f90827893d3751f4e",
+   "p90_L": 81.92529129463419,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DMC-TX1/P1000635.RW2",
+   "sha256": "dc4e0c6d901a1e826498549144c9fb45390a0c19520d0e1eb68d3888dcc7a173",
+   "p90_L": 69.69622523933629,
+   "stratum": "mid",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DMC-TZ100/PanasonicTZ100_AR3-2_1000357.rw2",
+   "sha256": "ac74ba1d95ead4b94c8adaa2ff9ff03b7abcf567c2f1ea1ab4ee9da47b0ae123",
+   "p90_L": 77.9152174240539,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DMC-TZ101/P1010192.RW2",
+   "sha256": "b7687d1cb6b8ddfaa48bbc53ec88d82fd1dd9ae86c7fb50d91d9beaa41078447",
+   "p90_L": 71.85748952225781,
+   "stratum": "mid",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DMC-TZ110/P1000488.RW2",
+   "sha256": "31742bf9647596fb19a2511a7d53e5b8271371f50c3f4575f50d320695112bf9",
+   "p90_L": 64.63243896751476,
+   "stratum": "mid",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DMC-TZ110/P1000489.RW2",
+   "sha256": "8253d869d839cc56ea244a4f63b300f52f70ed03aedc43e322b5c3702fe11279",
+   "p90_L": 64.27993801311226,
+   "stratum": "mid",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DMC-TZ110/P1000491.RW2",
+   "sha256": "04a906f77428f371caaa493ea1b6f1f85ef7f7905cb23d683cb7f2b63effb44d",
+   "p90_L": 67.65232201571436,
+   "stratum": "mid",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DMC-TZ80/P1010762.RW2",
+   "sha256": "48b458f53bfc634bef11da59f38a69934bd636787f015ef756397412eb9a33a7",
+   "p90_L": 84.79473581704872,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DMC-TZ80/P1010764.RW2",
+   "sha256": "fbaf3819a712e5819d69a804027536082d8a15008d1937660a87d57552a768c1",
+   "p90_L": 87.84696535806788,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DMC-ZS100/P1010048.RW2",
+   "sha256": "fcf705bc64f5a2c0a2e90498c9fe9b6106527945acc1847b2c4f565e745fece2",
+   "p90_L": 80.78885165486015,
+   "stratum": "high",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DMC-ZS60/P1000290.RW2",
+   "sha256": "64b2a2e2abba6d26ede59f11d35a74e31e002aef569756771a297bbb3ad1d748",
+   "p90_L": 51.94536385969553,
+   "stratum": "mid",
+   "make": "Panasonic"
+  },
+  {
+   "raw": "raws/pixls/Parrot/Anafi/100000190019.DNG",
+   "sha256": "a257a296047ff2d396109fd2e6947fa36aa7986695b6815f83979d59e98a84e6",
+   "p90_L": 84.58309456304636,
+   "stratum": "high",
+   "make": "Parrot"
+  },
+  {
+   "raw": "raws/pixls/Pentax/K-1/IMGP8550.PEF",
+   "sha256": "068c902e7b38ac31c7c6eca5c55f69ca395ec6aa7170489281b692a893d0fee9",
+   "p90_L": 71.69043534338792,
+   "stratum": "mid",
+   "make": "Pentax"
+  },
+  {
+   "raw": "raws/pixls/Pentax/K-1 Mark II/_IMG2387.DNG",
+   "sha256": "190d5878675f4de07d246271ba411b152f3317b2d2a0e27b9c827fe7343b28ea",
+   "p90_L": 84.67751910523253,
+   "stratum": "high",
+   "make": "Pentax"
+  },
+  {
+   "raw": "raws/pixls/Pentax/K-1 Mark II/_IMG2390.DNG",
+   "sha256": "94d65bc3c44c108df67f0016afc1a116f22ca13f0b1007a25dd97ea44c703a9b",
+   "p90_L": 81.93386896553643,
+   "stratum": "high",
+   "make": "Pentax"
+  },
+  {
+   "raw": "raws/pixls/Pentax/K-1 Mark II/_IMG2393.PEF",
+   "sha256": "2b643794410ebc02b0742e84f43414c015143ee33d4ffe535c039c5969147f8e",
+   "p90_L": 86.2730297941773,
+   "stratum": "high",
+   "make": "Pentax"
+  },
+  {
+   "raw": "raws/pixls/Pentax/K-1 Mark II/_K1I9779.DNG",
+   "sha256": "05b0ecfeddfdf404b5a5831763c3aa77bbf9f5b7b9ad502bb93ff5d68887b9e7",
+   "p90_L": 71.68180638205727,
+   "stratum": "mid",
+   "make": "Pentax"
+  },
+  {
+   "raw": "raws/pixls/Pentax/K-1 Mark II/_K1I9785.PEF",
+   "sha256": "fe2330254c5313d4dde97cbd01e2987f6f1137f1c9c687d30e951f4668979381",
+   "p90_L": 75.97852097669622,
+   "stratum": "high",
+   "make": "Pentax"
+  },
+  {
+   "raw": "raws/pixls/Pentax/K-3 Mark III/IMGP9863.PEF",
+   "sha256": "f90d749cb1a8aa02aad3645a2aa97ac548e240a00d2d4ce2b0674c5a407f581b",
+   "p90_L": 77.84182800930002,
+   "stratum": "high",
+   "make": "Pentax"
+  },
+  {
+   "raw": "raws/pixls/Pentax/K-3 Mark III/_IMG0114.DNG",
+   "sha256": "1e3352ccba0db428fd2a183718fc857fb283b1d43ad704305e5094c19e0a0428",
+   "p90_L": 75.00921698149654,
+   "stratum": "high",
+   "make": "Pentax"
+  },
+  {
+   "raw": "raws/pixls/Pentax/K-3 Mark III/_IMG0115.PEF",
+   "sha256": "351be88038b2dd28af39e11dbece6de74efd71119a9ef667d35cdf02dcff919f",
+   "p90_L": 81.35111242472304,
+   "stratum": "high",
+   "make": "Pentax"
+  },
+  {
+   "raw": "raws/pixls/Pentax/K-70/IMGP0771.DNG",
+   "sha256": "748f46710b05faadb61a31a7e791df47e5a6618a9a39d9b299ce2d0432434d59",
+   "p90_L": 86.03797771529493,
+   "stratum": "high",
+   "make": "Pentax"
+  },
+  {
+   "raw": "raws/pixls/Pentax/K-70/IMGP6854.PEF",
+   "sha256": "1d64c6aa71680642ba8f00b6f6105df3e66a4534e631f422fbf3316273c4408c",
+   "p90_L": 32.46673539235125,
+   "stratum": "low",
+   "make": "Pentax"
+  },
+  {
+   "raw": "raws/pixls/Pentax/KF/IMGP0063.PEF",
+   "sha256": "ddc9cdf399a7210b203dee1765ab9f4165a2e695da59bce6bcabf75b77174a4b",
+   "p90_L": 66.37792612434446,
+   "stratum": "mid",
+   "make": "Pentax"
+  },
+  {
+   "raw": "raws/pixls/Pentax/KP/IMGP0236.DNG",
+   "sha256": "16b09cb3032003989877659ae03cbb6985e3d7e84f1402863ccae8af10033c1c",
+   "p90_L": 93.37896055653741,
+   "stratum": "high",
+   "make": "Pentax"
+  },
+  {
+   "raw": "raws/pixls/Realme/RMX1851/IMG_OCT_20191005_163311.dng",
+   "sha256": "ddb5698dd9944eb68ba5a18d51958068e9b2b98ecb814ec5741e94fa537d3f0a",
+   "p90_L": 97.10064018451075,
+   "stratum": "high",
+   "make": "Realme"
+  },
+  {
+   "raw": "raws/pixls/Ricoh/GR III/R0000357.DNG",
+   "sha256": "05513ee72f7cac4165534c9f64995412084f414a033c80c473c79fd94154292e",
+   "p90_L": 62.37288343100738,
+   "stratum": "mid",
+   "make": "Ricoh"
+  },
+  {
+   "raw": "raws/pixls/SONY/DSC-RX100M7A/RX700064.ARW",
+   "sha256": "80adbc5b1cb3342058d5998cf2eda1e6b408565169462d6d26dfe02f0c140b30",
+   "p90_L": 68.77114059338966,
+   "stratum": "mid",
+   "make": "SONY"
+  },
+  {
+   "raw": "raws/pixls/SONY/DSC-RX1RM3/DSC00253.ARW",
+   "sha256": "6ef9956b343051748a6a16ba9ba7bd0d314a4ae0b4f8d8e2f1c13b4a1e50cfb8",
+   "p90_L": 94.804124454985,
+   "stratum": "high",
+   "make": "SONY"
+  },
+  {
+   "raw": "raws/pixls/SONY/ILCE-1M2/A1_07626_uncompressed_full_frame.ARW",
+   "sha256": "7def3c8d80537f79af199052c6e13d86750203122dcb94888ada65291dabb793",
+   "p90_L": 64.8730895198522,
+   "stratum": "mid",
+   "make": "SONY"
+  },
+  {
+   "raw": "raws/pixls/SONY/ILCE-6400A/DSC04880.ARW",
+   "sha256": "0bd1d7f0e5666d1d0a72830e03f95fe173fd7b4c854b30f5e79585c9d86a6107",
+   "p90_L": 95.05661022163777,
+   "stratum": "high",
+   "make": "SONY"
+  },
+  {
+   "raw": "raws/pixls/SONY/ILCE-6400A/KTB00899.ARW",
+   "sha256": "a8a45e9b6c437eba6724fcda24c3efd084c05389711b955d84b2af67635e241b",
+   "p90_L": 89.205313606977,
+   "stratum": "high",
+   "make": "SONY"
+  },
+  {
+   "raw": "raws/pixls/SONY/ILCE-7M5/apsc_compressed_lossless.ARW",
+   "sha256": "51ad709cba01a5f05e3c723b779f6b5fda8fa7b378494dbb40b4d3d3aa5494a4",
+   "p90_L": 90.19270047823134,
+   "stratum": "high",
+   "make": "SONY"
+  },
+  {
+   "raw": "raws/pixls/SONY/ILCE-7M5/full_compressed_lossless.ARW",
+   "sha256": "8c35cd1ab0ca36b487ae50ae5e0333a8e967122700fce5678e1e5b97561896a4",
+   "p90_L": 90.52488874329389,
+   "stratum": "high",
+   "make": "SONY"
+  },
+  {
+   "raw": "raws/pixls/SONY/ILME-FX2/Image_1_-_Uncompressed_-_Landscape.ARW",
+   "sha256": "924a6e4efd5c068883dd7de2bf2a2d155c7c13bdde668232077bdf9d92a201a8",
+   "p90_L": 90.20669951534965,
+   "stratum": "high",
+   "make": "SONY"
+  },
+  {
+   "raw": "raws/pixls/SONY/ILME-FX2/Image_2_-_Compressed_-_Architecture.ARW",
+   "sha256": "7ab90ff048ac383f39ad96be38f730883a80ebbbd0eca4a0f7e0a8c409d8aa70",
+   "p90_L": 75.79951342443806,
+   "stratum": "high",
+   "make": "SONY"
+  },
+  {
+   "raw": "raws/pixls/SONY/ILME-FX2/Image_3_-_Lossless_Compression_(L)_-_Shade.ARW",
+   "sha256": "fc7cf5cc9ab91fe1d45b5469e532c17507312091f6664f09dd7988a00744d2a2",
+   "p90_L": 71.85540209908862,
+   "stratum": "mid",
+   "make": "SONY"
+  },
+  {
+   "raw": "raws/pixls/SONY/ZV-1M2/_DSC5498.ARW",
+   "sha256": "2a45845a93ab5e428868366d6575a264818b184541b1c114ab4de980872a7184",
+   "p90_L": 67.71909814332498,
+   "stratum": "mid",
+   "make": "SONY"
+  },
+  {
+   "raw": "raws/pixls/SONY/ZV-E10M2/DSC00696.ARW",
+   "sha256": "3d61e7f685460e6e77a52355d88bc960d51332f3470468a06c4490a406e6b715",
+   "p90_L": 44.624307382391144,
+   "stratum": "mid",
+   "make": "SONY"
+  },
+  {
+   "raw": "raws/pixls/Samsung/G935F/20170403_104110.dng",
+   "sha256": "843617c8b572320b7badfb4ac2eda19479f5804a1dabb909c861bde23ed30561",
+   "p90_L": 91.57988965598595,
+   "stratum": "high",
+   "make": "Samsung"
+  },
+  {
+   "raw": "raws/pixls/Samsung/SAMSUNG-SM-G930A/20180105_103031.dng",
+   "sha256": "d3eee0353f3621338f349ddc9773796062bb157bfaf468699da726c0073953ff",
+   "p90_L": 84.08857530883301,
+   "stratum": "high",
+   "make": "Samsung"
+  },
+  {
+   "raw": "raws/pixls/Samsung/SM-G930F/20200125_130015.dng",
+   "sha256": "9811ddfb5a893be286fc9c750272d672716811bb0ca601a78b71e205135263ff",
+   "p90_L": 87.89814268160477,
+   "stratum": "high",
+   "make": "Samsung"
+  },
+  {
+   "raw": "raws/pixls/Samsung/SM-G930T/20180602_132834.dng",
+   "sha256": "4e0fc62bff6a2cd53b5bfd5b15a217e37ee0bb3dd8d1845402da95b109b9828c",
+   "p90_L": 90.2634143880353,
+   "stratum": "high",
+   "make": "Samsung"
+  },
+  {
+   "raw": "raws/pixls/Samsung/SM-G950F/2018-06-08_12.48.51.dng",
+   "sha256": "6abdd353094964eaadddf69bba3a0d551ecce1bc0ed013a434691df4f64dcbf2",
+   "p90_L": 84.0281779773127,
+   "stratum": "high",
+   "make": "Samsung"
+  },
+  {
+   "raw": "raws/pixls/Samsung/SM-G950U/20170828_141409.dng",
+   "sha256": "7b0327cf015270ec98627ed1dee02ff39a47d1a6d6ff1ecfe164586e7dc7a749",
+   "p90_L": 85.74673005921346,
+   "stratum": "high",
+   "make": "Samsung"
+  },
+  {
+   "raw": "raws/pixls/Samsung/SM-G955F/20180202_091722.dng",
+   "sha256": "3cf5da4331d062bc6b31e0e8f5b7ff2cd21107de4262d79a2667f670516e8e8c",
+   "p90_L": 89.89379089849844,
+   "stratum": "high",
+   "make": "Samsung"
+  },
+  {
+   "raw": "raws/pixls/Samsung/SM-G960F/20191119_101508.dng",
+   "sha256": "b87f90976bae71035c5d001cc3d83b54abe53b45018f01fdfcf8de2a8243119d",
+   "p90_L": 85.5564683310352,
+   "stratum": "high",
+   "make": "Samsung"
+  },
+  {
+   "raw": "raws/pixls/Samsung/SM-G965F/Samsung_SM-G965F_4-3_ratio_f2.4.dng",
+   "sha256": "9ef0ec12311094006c4acf33214a47625230916437b6a39fc4fa6f73c93fb53f",
+   "p90_L": 84.2165627863437,
+   "stratum": "high",
+   "make": "Samsung"
+  },
+  {
+   "raw": "raws/pixls/Samsung/SM-G973F/20191114_225157.dng",
+   "sha256": "0f9cea817d2a53ee8a2fc741d6961727b536d4f82e2b95dd17ea060e169ab10a",
+   "p90_L": 85.77612320396028,
+   "stratum": "high",
+   "make": "Samsung"
+  },
+  {
+   "raw": "raws/pixls/Sigma/fp L/SDIM0915.DNG",
+   "sha256": "8e7229f28be30bfa45289940eac04194af2b3474f6db286e4fa4070c145a0a70",
+   "p90_L": 71.6964533044757,
+   "stratum": "mid",
+   "make": "Sigma"
+  },
+  {
+   "raw": "raws/pixls/Sony/DSC-HX99/DSC00001.ARW",
+   "sha256": "0223d56b8c3af16e6f588b5340275c9bb30bed2cb5a5cafb0f3ffc7ef4da84e4",
+   "p90_L": 82.78396103362196,
+   "stratum": "high",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/DSC-RX0/DSC00009.ARW",
+   "sha256": "f602f8ddeeb9b062f60bfdd3ba0d560c8e54f1f64dbc20e18df5222e2f37a428",
+   "p90_L": 79.12547695241018,
+   "stratum": "high",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/DSC-RX100M5/RAW_SONY_RX100M5.ARW",
+   "sha256": "82a4c49ca797eb67732021be9fb2ed19b4dc1f6d90286167b1fc80f688f21bce",
+   "p90_L": 85.72999893490135,
+   "stratum": "high",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/DSC-RX100M5A/20181014_0082.ARW",
+   "sha256": "2d0e47c9003590f2d817f9054f3988b32457a93a645156e288127d5c5988f3d5",
+   "p90_L": 69.91840758423326,
+   "stratum": "mid",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/DSC-RX10M3/RAW_SONY_RX10M3.ARW",
+   "sha256": "26ccd896f09df29036552ab46f6ef504dce2730e116eb5cfd7c20402f9ff088a",
+   "p90_L": 89.42858443068025,
+   "stratum": "high",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/DSC-RX10M4/DSC02484.ARW",
+   "sha256": "1825b615a472962bbef13a6717e754e2aeb53d353de10d3503767932c420070c",
+   "p90_L": 85.2013999154978,
+   "stratum": "high",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCA-99M2/BR_00086.ARW",
+   "sha256": "be898847ac6da485874d95469bf274df1f8f77f8b8542460464f0f393981b2d2",
+   "p90_L": 86.37822161890627,
+   "stratum": "high",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-1/A1_full_compressed.ARW",
+   "sha256": "ddb72880da333b46a4c13286f78473dacc11377ea874bc3656e64e30a8122a88",
+   "p90_L": 85.73663724045777,
+   "stratum": "high",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-6100/DSC00033.ARW",
+   "sha256": "0205f5086cc20a0e4aaf0f5468da26bdf0adba5c0b3a63d2c1930777d90b85fd",
+   "p90_L": 71.06967303197345,
+   "stratum": "mid",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-6300/AST05226.ARW",
+   "sha256": "d96dc154ed8811d52548dab52d32f9e25a654b574ce702325fae47c86e2a624a",
+   "p90_L": 85.0543188371064,
+   "stratum": "high",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-6300/DDL06913.ARW",
+   "sha256": "cb4d97c2691762545e6c9f7cbe3f7ecd8fffb7cebe9e8a5add5dd58ab2c86f6a",
+   "p90_L": 72.54218001369242,
+   "stratum": "mid",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-6400/DSC00087.ARW",
+   "sha256": "8a37c80fc47c6026efa2e55279220e79460e2f470b1aa48b440f8f2d47873aa6",
+   "p90_L": 69.66131339024199,
+   "stratum": "mid",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-6400/DSC00475.ARW",
+   "sha256": "339e7d83e030b31509ff201d4130a9bcede9945a12b07ec6a48a8b02cd499802",
+   "p90_L": 80.32428062473996,
+   "stratum": "high",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-6500/_DSC6914.ARW",
+   "sha256": "d8cbfd1d14f4f4df20046cbed6ebbd92dff583fe0201f16ece21d95153d6b9e7",
+   "p90_L": 74.12338054375232,
+   "stratum": "mid",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-6600/_DSC0268.ARW",
+   "sha256": "041d71d70148ca77164f19d061e3582adb34399ea5a4baba32960f2956fb0362",
+   "p90_L": 83.76371188632665,
+   "stratum": "high",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-6700/DSC00001.ARW",
+   "sha256": "dc3e2ed22f46fcef778553767e0703bc37cfb043f107afe2d7e6e4dbca34200a",
+   "p90_L": 77.46823537818779,
+   "stratum": "high",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-7C/DSC00018.ARW",
+   "sha256": "6bfac3286f0e931e949b23e1bb236b737bb9e4117b8b42fa09e36f40f0fa8408",
+   "p90_L": 67.53958016902953,
+   "stratum": "mid",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-7C/DSC00107[1].ARW",
+   "sha256": "386ce0122687b802e8e57151d36643b830f87e59eed15b65c690d1032eb3b763",
+   "p90_L": 90.66719163664212,
+   "stratum": "high",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-7CM2/DSC02429.ARW",
+   "sha256": "55de0ff9abbd11c2d166fdd8cfa99129ef8478f2895a65105253e6fcdfdba430",
+   "p90_L": 76.60453738398024,
+   "stratum": "high",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-7CM2/DSC02430.ARW",
+   "sha256": "b808fb96df421cfd152d00d3897cdde5a1670f83ada1a7620aab8b80b70804c6",
+   "p90_L": 84.62795805873266,
+   "stratum": "high",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-7CM2/DSC02431.ARW",
+   "sha256": "342d893bd71fd050c273df181e3039d3f12d88947b0662de5de5325c84cc449b",
+   "p90_L": 72.09827390612422,
+   "stratum": "mid",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-7CM2/DSC02436.ARW",
+   "sha256": "002c86d38a16b08a2438780728b4fda8efcc745fa6c26231dad6af67b383b11e",
+   "p90_L": 84.27613195243488,
+   "stratum": "high",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-7CR/DSC00794.ARW",
+   "sha256": "4cc138b310801ff528d5dcc0acfd0b8f58fb8aef7ae404f0f8fd3f32845783a4",
+   "p90_L": 89.0214518842531,
+   "stratum": "high",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-7CR/DSC00799.ARW",
+   "sha256": "a902b662752cb243823b2481c3334ac1fe9a3beff7e85cc1be38fd015fe32ff8",
+   "p90_L": 85.18415284719956,
+   "stratum": "high",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-7M3/_DSC0009.ARW",
+   "sha256": "250784580ea527442c09004417bb0eead484f2bf3ee8f9121a776ac65bb50d0f",
+   "p90_L": 82.94026438836103,
+   "stratum": "high",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-7M4/ILCE-7M4_DSC06673_FullFrame-Raw-Uncompressed.ARW",
+   "sha256": "626e1f3235e28f2c642814e0aefad404ea767c06943934db87d2b0072ba8e8b9",
+   "p90_L": 77.03793429288373,
+   "stratum": "high",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-7M4/ILCE-7M4_DSC06674_FullFrame-LossLess-Compressed-Large.ARW",
+   "sha256": "851b43c2116c4139104a5036f83ac3b6a148789b2142214dd7192c13972b25b6",
+   "p90_L": 76.01505451870423,
+   "stratum": "high",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-7M4/ILCE-7M4_DSC06677_FullFrame-Raw-Compressed.ARW",
+   "sha256": "73c79fd9fbd73dff89548b611aaedc3c5a7e3412ec190c23881ea8434ff2214c",
+   "p90_L": 75.8041460765592,
+   "stratum": "high",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-7M4/ILCE-7M4_DSC06678_APS-C-Raw-Uncompressed.ARW",
+   "sha256": "bc0089c821a3711ebbeec3844cde5e5c247ac7cf9ca8ad9ae03a977b232216b2",
+   "p90_L": 80.16696213219458,
+   "stratum": "high",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-7M4/ILCE-7M4_DSC06680_APS-C-LossLess-Small.ARW",
+   "sha256": "ac8a9ea9ac55eae5fd858addcd481df027903c8e8bb8a4eca180872f4a0a8d65",
+   "p90_L": 81.40782698838262,
+   "stratum": "high",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-7M4/ILCE-7M4_DSC06681_APS-C-Raw-Compressed.ARW",
+   "sha256": "639a6d4db881f1359e3ea7e1137b314e59417d24e6d4d862b7202111a2c823b2",
+   "p90_L": 76.68122847441755,
+   "stratum": "high",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-7RM3/DSC03792.ARW",
+   "sha256": "377f8e20efb62d402eb041e1867799d7cbe590812fb36a66b8d598cb41086b1f",
+   "p90_L": 68.63063292704607,
+   "stratum": "mid",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-7RM3A/_DSC0360.ARW",
+   "sha256": "455ea401c070b0318bcc8f2d8e19f463cc47042bdf1e3dd66d654f2f406ffd77",
+   "p90_L": 70.23285572616535,
+   "stratum": "mid",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-7RM4A/DSC00551.ARW",
+   "sha256": "8b4c56dd3facc29696d0c3109f701a608af4036cb604032478d55c631d53bf15",
+   "p90_L": 74.13127335295947,
+   "stratum": "mid",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-7RM4A/uncompressed_14_bit.ARW",
+   "sha256": "f0f597b984e3c307715d4b40937f47f0657fa3abcd629826da67a7421a226935",
+   "p90_L": 83.6852465112231,
+   "stratum": "high",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-7RM5/7RM5-LosslessUncompressed.ARW",
+   "sha256": "8918ba274f0919be4f9902f9eebcab4663445ebe441d22fb48f3f328198ac2ee",
+   "p90_L": 88.38707865036339,
+   "stratum": "high",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-7RM5/7RM5-S35-LosslessCompressedMedium.ARW",
+   "sha256": "234edf6b021d6d8c522256e004fffd2612859622eeca8dca9110393426983406",
+   "p90_L": 92.35688322985793,
+   "stratum": "high",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-7SM3/DSC01568.ARW",
+   "sha256": "876c7b74c957b6d8c7f9a1c285806d4a3f62269c1a3af070965bcc02fcf903f1",
+   "p90_L": 74.92366654351932,
+   "stratum": "mid",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-7SM3/DSC01569.ARW",
+   "sha256": "17e35d98d448b44164ecf414f980e9248b5829233e83a1adbee396b6c1a1a0c6",
+   "p90_L": 87.04234040224142,
+   "stratum": "high",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-9/Sony_-_ILCE-9_-_compressed.ARW",
+   "sha256": "598bbc828c279528f504c51a10418521b17a90a25b198368f65e19cfda9e3711",
+   "p90_L": 61.20707368666688,
+   "stratum": "mid",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-9/Sony_-_ILCE-9_-_uncompressed.ARW",
+   "sha256": "22c2158c9796386dba28d7cf040a1ca70f4ec2c927ec50771b78bfb523e21c29",
+   "p90_L": 61.84264199162184,
+   "stratum": "mid",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-9M2/SONY_A9II_(ILCE-9M2)_-_compressed_(3:2)_12bit.ARW",
+   "sha256": "a4d81172dad07fb0973f28bb1f5c22a9aae045aea40100aadfad1f56eb8a3903",
+   "p90_L": 65.89137304298033,
+   "stratum": "mid",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-9M2/SONY_A9II_(ILCE-9M2)_-_compressed_(3:2)_14bit.ARW",
+   "sha256": "161c2a9da2b5f1e50be6117a0b4da0ce249660b5d7de13568d301c4034716b97",
+   "p90_L": 66.08634722882395,
+   "stratum": "mid",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-9M2/SONY_A9II_(ILCE-9M2)_-_uncompressed_(3:2)_14bit.ARW",
+   "sha256": "5d894e337547f36cf1289b91229aadeb648bc1ece428536e501d222702abea67",
+   "p90_L": 68.74393884222435,
+   "stratum": "mid",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-9M3/DSC00110.ARW",
+   "sha256": "6645e8038b9f2c92ab8e27c8fc2258b23d2f99b397ea2e256ce35bddfa9a2078",
+   "p90_L": 80.23997750673365,
+   "stratum": "high",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-9M3/DSC00115.ARW",
+   "sha256": "07ac73fb5a2a3aacf741f06678975f8fbe9c42a981db21449a7517ef812d1221",
+   "p90_L": 77.94432147057162,
+   "stratum": "high",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/ILME-FX30/20230408-171459-DSC00090.ARW",
+   "sha256": "87a187dd3f30d6704112bb1d5e8e4ef8ce2f30af3236acdabc85980aa8da3872",
+   "p90_L": 95.88460250929562,
+   "stratum": "high",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/ZV-1/DSC00056.ARW",
+   "sha256": "14c9d2912584a3ccc5cf10f554fbe495fc960c36758a14d7d858b36ac5ca88e2",
+   "p90_L": 82.14682170155731,
+   "stratum": "high",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/ZV-E1/DSC00489.ARW",
+   "sha256": "d1e37dcdd0a590c62dc1d5c693f0bd202e51929b5a32d6c00b0dd1bc738620b4",
+   "p90_L": 73.12813540087923,
+   "stratum": "mid",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/Sony/ZV-E10/DSC00002.ARW",
+   "sha256": "a8633fae9749ca8d2cf2212bda4c352553c24e7140660c1cd324b982e57ab42e",
+   "p90_L": 86.9700025618901,
+   "stratum": "high",
+   "make": "Sony"
+  },
+  {
+   "raw": "raws/pixls/XIAOYI/YDXJ 2/ydxj0065.dng",
+   "sha256": "7ad205d3328d4407a39432d9e17d42b7e31f4e60efcde2346db02ac3761bd894",
+   "p90_L": 64.84567545008586,
+   "stratum": "mid",
+   "make": "XIAOYI"
+  },
+  {
+   "raw": "raws/pixls/XIAOYI/YIAC 3/YIAC0075.DNG",
+   "sha256": "8161a97a0e98c3a0a7034ca14fdd611c7ec63034b25bfa1d3d7f0d6771538323",
+   "p90_L": 42.88302151902531,
+   "stratum": "mid",
+   "make": "XIAOYI"
+  },
+  {
+   "raw": "raws/pixls/Xiaomi/M2010J19CG/IMG_20201224_141323.dng",
+   "sha256": "e1cb49299faa6609547bbb9b2c5a6167031694a99a1d252e1e048ce18ddf214f",
+   "p90_L": 94.20408807153107,
+   "stratum": "high",
+   "make": "Xiaomi"
+  },
+  {
+   "raw": "raws/pixls/Xiaomi/MI 8/IMG_20200101_174326.dng",
+   "sha256": "f1793dd915e12a7c7c0a8a83cab269f05ae99cc6155e81dc913feed57e6ce8a5",
+   "p90_L": 90.32395558156577,
+   "stratum": "high",
+   "make": "Xiaomi"
+  },
+  {
+   "raw": "raws/pixls/Xiaomi/MI MAX/IMG_2019_10_27_14_47_40.dng",
+   "sha256": "f19827776d09b81aa4c562e8c2f8af2ff5a6d5344b2554a3b328cdde10724adb",
+   "p90_L": 93.3288463519315,
+   "stratum": "high",
+   "make": "Xiaomi"
+  },
+  {
+   "raw": "raws/pixls/Xiaomi/Mi 9 Lite/IMG_20200324_073611.dng",
+   "sha256": "5d443fe71ec4372804587079e3fa8f46a6612f709008e7fc4ebe34be00206c4b",
+   "p90_L": 87.56469803444003,
+   "stratum": "high",
+   "make": "Xiaomi"
+  },
+  {
+   "raw": "raws/pixls/Xiaomi/Redmi Note 7/IMG_20190615_155524.dng",
+   "sha256": "0fb715f9427037cb72f13f27f51e2f0bfe825a9ed06a4ef743800d095781ff04",
+   "p90_L": 86.54254933173874,
+   "stratum": "high",
+   "make": "Xiaomi"
+  },
+  {
+   "raw": "raws/pixls/Xiaomi/Redmi Note 8T/IMG_20200715_094601.dng",
+   "sha256": "b9284b49a1f583d4a11319c4a55090df7d946c19caa97d735a3f207a9c67bea3",
+   "p90_L": 80.6271202910076,
+   "stratum": "high",
+   "make": "Xiaomi"
+  },
+  {
+   "raw": "raws/pixls/YI TECHNOLOGY/M1/PC070001.DNG",
+   "sha256": "3f22a4ba373e16122e72320c4158bdf2ca2bf3d35827f26ac9a9974f375a6708",
+   "p90_L": 89.39463589159776,
+   "stratum": "high",
+   "make": "YI TECHNOLOGY"
+  },
+  {
+   "raw": "raws/pixls/Yuneec/CGO3P/YUN00007.dng",
+   "sha256": "9ad52c1cd091eda9a132b8febc0c9a35b7ee6fdb2f45a44694878f0cfb5de299",
+   "p90_L": 62.22365688459229,
+   "stratum": "mid",
+   "make": "Yuneec"
+  },
+  {
+   "raw": "raws/pixls/asus/ASUS_Z01KD/2018-12-02_07.39.26-1.dng",
+   "sha256": "36708df67ff2f4527dc274688cd23b4fbf811f0d3665b54bad9cb7288e69e3d0",
+   "p90_L": 78.51338661323624,
+   "stratum": "high",
+   "make": "asus"
+  },
+  {
+   "raw": "raws/pixls/bq/Aquaris U Plus/IMG_20180217_111328_894.dng",
+   "sha256": "3ee9fe258a9b3128fdb93f47d47200fc3c1c291f61c6d6706be090a89c7e8f55",
+   "p90_L": 91.60554968756851,
+   "stratum": "high",
+   "make": "bq"
+  },
+  {
+   "raw": "raws/pixls/motorola/Moto G (5S) Plus/IMG_20180328_152254.dng",
+   "sha256": "dc54074b5b71d727cd62aca2d99ffe322ccb0ee6d8572f392edde62cf41c30fe",
+   "p90_L": 89.37493611744976,
+   "stratum": "high",
+   "make": "motorola"
+  },
+  {
+   "raw": "raws/pixls/motorola/moto g(7) play/IMG_20191114_091702382.dng",
+   "sha256": "d46953b116ee7a88b99fb28edc7b2f1b631ed09d66f73391c4ccc2e2ec959575",
+   "p90_L": 90.05474635588976,
+   "stratum": "high",
+   "make": "motorola"
+  }
+ ]
+}

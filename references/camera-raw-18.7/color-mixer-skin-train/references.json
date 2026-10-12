@@ -1,0 +1,406 @@
+{
+ "schema": 1,
+ "camera_raw": "18.7",
+ "set": "color-mixer-skin-train",
+ "photos": [
+  {
+   "raw": "raws/pixls/Canon/EOS 850D/IMG_1837.CR3",
+   "sha256": "47f7747b74073515bdbd65015738bc31947504d68255c5377baa21f179df2486",
+   "p90_L": 34.86673123208111,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS 850D",
+   "subject": "fairytale scene with magical creatures and horses",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-Pro2/_DSF3050.RAF",
+   "sha256": "8cc12566e5c0fc676b713bb1612ce0510d47b1dc691e9a5a0bcf3799ad9b8af1",
+   "p90_L": 64.45453106923775,
+   "stratum": "mid",
+   "make": "Fujifilm",
+   "model": "X-Pro2",
+   "subject": "stylized mural of warriors on horseback",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Hasselblad/L2D-20c/DJI_0023.DNG",
+   "sha256": "dbe98cb202f884ff11e0144899613b26d33cf9cddd9f1a62226f4352397f18e4",
+   "p90_L": 89.73176092937037,
+   "stratum": "high",
+   "make": "Hasselblad",
+   "model": "L2D-20c",
+   "subject": "beach scene with swimmers and coastal houses",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-GH5S/P1022090.RW2",
+   "sha256": "7553e219a0dfc8edfcef58bf209ed9e3c37a5de395fb02999e17c979ed6817cd",
+   "p90_L": 89.48102030252824,
+   "stratum": "high",
+   "make": "Panasonic",
+   "model": "DC-GH5S",
+   "subject": "two statues of men in bowler hats sitting on a bench in a grassy area",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-GH5S/P1022084.RW2",
+   "sha256": "953e602e21974a3eb894e3ec0abd6e6fa31d991e579fe013fd9d2e0f414c47ac",
+   "p90_L": 88.32788171443346,
+   "stratum": "high",
+   "make": "Panasonic",
+   "model": "DC-GH5S",
+   "subject": "two statues of men sitting on a bench in a grassy area",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-GH5S/P1022081.RW2",
+   "sha256": "b617151876e62b492641cef14b8c98ee3797e5014d24c6af1c780715a501fa53",
+   "p90_L": 90.05846062768568,
+   "stratum": "high",
+   "make": "Panasonic",
+   "model": "DC-GH5S",
+   "subject": "two statues of men in bowler hats sitting on a bench in a grassy area",
+   "score": null
+  }
+ ],
+ "cases": [
+  {
+   "photo": 0,
+   "name": "default",
+   "reference": "references/0-default.tif",
+   "reference_sha256": "76e117e6e2393f09eb22d051121300af5b40376d95778852686ed07be344ab34",
+   "xmp": "references/0-default.xmp",
+   "xmp_sha256": "476a0a7e7b4fcc6cc46effaeddc377b9050147a25bf8b7fe5fa9dc5826d47dca"
+  },
+  {
+   "photo": 0,
+   "name": "orange-hue-50",
+   "reference": "references/0-orange-hue-50.tif",
+   "reference_sha256": "e5d633f56eaf3a123f905a3e83e9e17bb2a7c5f4646ae6843b6b1cd9d97069fd",
+   "xmp": "references/0-orange-hue-50.xmp",
+   "xmp_sha256": "5930df047196725b8ef43f8ab50c62ff4de71fe261491ec403ee675370132607"
+  },
+  {
+   "photo": 0,
+   "name": "orange-hue+50",
+   "reference": "references/0-orange-hue+50.tif",
+   "reference_sha256": "fb6e3e362513b4a1386d33da5177baf5ae98e80579f36c16312ea0991d35a5c2",
+   "xmp": "references/0-orange-hue+50.xmp",
+   "xmp_sha256": "26892b141daa137d979dd9197e8ba85f3f090a3bfc84ed8d2e44bad1d836c057"
+  },
+  {
+   "photo": 0,
+   "name": "orange-sat-50",
+   "reference": "references/0-orange-sat-50.tif",
+   "reference_sha256": "44c76f4b08316d9e28f72c131648d11e1eca63eaeb11958879c9f9028bf2a3eb",
+   "xmp": "references/0-orange-sat-50.xmp",
+   "xmp_sha256": "1538c6aca223744d1623860b76cec6338c5ec980e72bd787b5c4d23a99ed06d7"
+  },
+  {
+   "photo": 0,
+   "name": "orange-sat+50",
+   "reference": "references/0-orange-sat+50.tif",
+   "reference_sha256": "050ff043c4799e91dd7881fa672599817408fc8f335cebd9781d3fffb4374eca",
+   "xmp": "references/0-orange-sat+50.xmp",
+   "xmp_sha256": "7f72361d6719e08339b6154e5b6e33f728aacdf8f29332fde942e99f511c666e"
+  },
+  {
+   "photo": 0,
+   "name": "orange-lum-50",
+   "reference": "references/0-orange-lum-50.tif",
+   "reference_sha256": "a10f0ad762b0f4c963bf3612523e74aeb5fb98108b6f612091a4c5e4b97fed47",
+   "xmp": "references/0-orange-lum-50.xmp",
+   "xmp_sha256": "a559b2ded089b6035e3c916187499f3449e929c6dd1f6c2f70708f93330ef9e9"
+  },
+  {
+   "photo": 0,
+   "name": "orange-lum+50",
+   "reference": "references/0-orange-lum+50.tif",
+   "reference_sha256": "678d33cb725eec219895854099ec7e43b304a49a49bbf3e0f29831bab8dd4ce5",
+   "xmp": "references/0-orange-lum+50.xmp",
+   "xmp_sha256": "8ea30a36bb5421c89388fc519d4917df46dfafaf1a21dda2b7165a59f39e465c"
+  },
+  {
+   "photo": 1,
+   "name": "default",
+   "reference": "references/1-default.tif",
+   "reference_sha256": "56f9dc0483246bdc753b44bf5119d90b50896122598eee5b5c3baf1f02e0dba6",
+   "xmp": "references/1-default.xmp",
+   "xmp_sha256": "fd75d2aa74afbb207e27fb29c3ddc4009534118d1cf1c8e81cddf9027400b381"
+  },
+  {
+   "photo": 1,
+   "name": "orange-hue-50",
+   "reference": "references/1-orange-hue-50.tif",
+   "reference_sha256": "275247a4d3a172ed0fa7006f634c297a57c73b08ec0e509175ae050b75999d18",
+   "xmp": "references/1-orange-hue-50.xmp",
+   "xmp_sha256": "794366bfada8a622aea918abfb39172203b481063cab669dd00688fec5372bc5"
+  },
+  {
+   "photo": 1,
+   "name": "orange-hue+50",
+   "reference": "references/1-orange-hue+50.tif",
+   "reference_sha256": "b9aad096d80a09f862b209ad4d25bda284c098621b44b49f36a4c79c994d0574",
+   "xmp": "references/1-orange-hue+50.xmp",
+   "xmp_sha256": "e6e496bf608c6d1cbabb34de6b2139759bb61e7194667af80d5f1991e897a8c4"
+  },
+  {
+   "photo": 1,
+   "name": "orange-sat-50",
+   "reference": "references/1-orange-sat-50.tif",
+   "reference_sha256": "53d3f4d21d832cfc325c713959bdcde37e086856699a8a4ba3143952109a6477",
+   "xmp": "references/1-orange-sat-50.xmp",
+   "xmp_sha256": "28a53b5acdc06c6aab512f466be910b8efd8bd208363a4402b498145339cfd69"
+  },
+  {
+   "photo": 1,
+   "name": "orange-sat+50",
+   "reference": "references/1-orange-sat+50.tif",
+   "reference_sha256": "7c086d2641ea39246f83b4946f30ec302a4e6a122b669d3cd09b1070581a790c",
+   "xmp": "references/1-orange-sat+50.xmp",
+   "xmp_sha256": "fa5dc7c9239517e1cdadf4f71fc90a949a4ac5337b3a428ef955e1191e0ec098"
+  },
+  {
+   "photo": 1,
+   "name": "orange-lum-50",
+   "reference": "references/1-orange-lum-50.tif",
+   "reference_sha256": "82cc5c3125450ea88e3ee51c50ee82d35a1356147a497f70e8a45a4613cea4bb",
+   "xmp": "references/1-orange-lum-50.xmp",
+   "xmp_sha256": "93a9d067ce10fce356e5006f27ded93dd964aa8e13dacd2794fce6bea518ed5c"
+  },
+  {
+   "photo": 1,
+   "name": "orange-lum+50",
+   "reference": "references/1-orange-lum+50.tif",
+   "reference_sha256": "d8eca34e0091c7f2913fdda83e89a5815aae532526b0bfa68d63f78ea7aa37ff",
+   "xmp": "references/1-orange-lum+50.xmp",
+   "xmp_sha256": "6fdfecd2fcb5557b7b568f16fdc5ca6d1bf6fdeed06aed92b9e4b75fff781380"
+  },
+  {
+   "photo": 2,
+   "name": "default",
+   "reference": "references/2-default.tif",
+   "reference_sha256": "85dcef7dc75ec17e60e630fe5281a0cceeb4032adb46f45bc597c1869c1a144c",
+   "xmp": "references/2-default.xmp",
+   "xmp_sha256": "2ee3fce9b12090e413dce4feeaa316887ab19b30acfac39859a10bb549103b70"
+  },
+  {
+   "photo": 2,
+   "name": "orange-hue-50",
+   "reference": "references/2-orange-hue-50.tif",
+   "reference_sha256": "624c8d16befbbdc28e4db5eee8ccf31027595d76be01ec5752ddb1c31b478ba7",
+   "xmp": "references/2-orange-hue-50.xmp",
+   "xmp_sha256": "c65c277d0c21b537a9a1982ce55819fbae447a72c98157e3bc67e9bbba96c8b1"
+  },
+  {
+   "photo": 2,
+   "name": "orange-hue+50",
+   "reference": "references/2-orange-hue+50.tif",
+   "reference_sha256": "0e0103aa86f1a685c773aca4c7f9ad8df73713bf6ebde2302bc8ea44b693bb6f",
+   "xmp": "references/2-orange-hue+50.xmp",
+   "xmp_sha256": "c25ae971b16e66c53a32dcc9aa55117f9d264cfc0289936031efd7610a9cac48"
+  },
+  {
+   "photo": 2,
+   "name": "orange-sat-50",
+   "reference": "references/2-orange-sat-50.tif",
+   "reference_sha256": "0e8779bf0eccecaa22b42e5843eee2887ddf68459d00b8d92d4bb8a8bc30de10",
+   "xmp": "references/2-orange-sat-50.xmp",
+   "xmp_sha256": "dc1c52febe6f734e704819765415ece8cdb65e9ca37de9a6a2e2f6fbe147ac72"
+  },
+  {
+   "photo": 2,
+   "name": "orange-sat+50",
+   "reference": "references/2-orange-sat+50.tif",
+   "reference_sha256": "008484d9e4b239a08d59b21cdbba3eeb7f94ce8eec323125292ab98245454cbd",
+   "xmp": "references/2-orange-sat+50.xmp",
+   "xmp_sha256": "338e4abeb5c09d9afd3b04defaeb8aaea5f19dcdec9d50ec4a59b0259be151c1"
+  },
+  {
+   "photo": 2,
+   "name": "orange-lum-50",
+   "reference": "references/2-orange-lum-50.tif",
+   "reference_sha256": "3a21e21ab4c5de7d81823b1cb2de92551d0b042e18cf788e9647b8149aded8ae",
+   "xmp": "references/2-orange-lum-50.xmp",
+   "xmp_sha256": "3d668c27a5b188022f646ea3e9ad87edceed7f846351a301fddef649048e6d3b"
+  },
+  {
+   "photo": 2,
+   "name": "orange-lum+50",
+   "reference": "references/2-orange-lum+50.tif",
+   "reference_sha256": "f06d899a067f2cc1fc369707a3c7248fe273a517b7e497c41d79ddeb1cff9677",
+   "xmp": "references/2-orange-lum+50.xmp",
+   "xmp_sha256": "f9443daae78f801383016d93ab60a51e7c2ae0e2c5a77e09bd3c2f177c4d57cf"
+  },
+  {
+   "photo": 3,
+   "name": "default",
+   "reference": "references/3-default.tif",
+   "reference_sha256": "f8ad21c0d8277f933021f3ccd348077eabdb37be2c6ae775d55e7442d830a0bc",
+   "xmp": "references/3-default.xmp",
+   "xmp_sha256": "af0302a6b320cda4b8ed3570a4bb86adc2cfa1cab3de78944dd280bac5b497d4"
+  },
+  {
+   "photo": 3,
+   "name": "orange-hue-50",
+   "reference": "references/3-orange-hue-50.tif",
+   "reference_sha256": "8e401206190757ef5ae32652c044738d1050306716cf2713f34b2c1f2a51d183",
+   "xmp": "references/3-orange-hue-50.xmp",
+   "xmp_sha256": "3465a6ff5e8bbc82217f61d6f23454b0b73279dbf84fba067cf73f409b188e75"
+  },
+  {
+   "photo": 3,
+   "name": "orange-hue+50",
+   "reference": "references/3-orange-hue+50.tif",
+   "reference_sha256": "3f7dcd3242d9eb9bb21ae94227dff2d663b512e41445829e578cf5cef088e644",
+   "xmp": "references/3-orange-hue+50.xmp",
+   "xmp_sha256": "e67626451bd8217e3f7cb94f51f6ef14fb71f28ee2134f635a6d2190525ada53"
+  },
+  {
+   "photo": 3,
+   "name": "orange-sat-50",
+   "reference": "references/3-orange-sat-50.tif",
+   "reference_sha256": "d3e3b9778542018b81dc1ad840fd979314b75549e91103419dbf17ef3d95ddba",
+   "xmp": "references/3-orange-sat-50.xmp",
+   "xmp_sha256": "e8498329c8f289145e8a730792c8fd12e986f67106e7226579aba92384d9e671"
+  },
+  {
+   "photo": 3,
+   "name": "orange-sat+50",
+   "reference": "references/3-orange-sat+50.tif",
+   "reference_sha256": "fef17cf82781e13493b0c755f2538a56de27d255ede612b891d3c5d963ceeb42",
+   "xmp": "references/3-orange-sat+50.xmp",
+   "xmp_sha256": "f6905787d1a3484c8e543af9777937cd9500957e3e0fd8958011dd15545b8cc1"
+  },
+  {
+   "photo": 3,
+   "name": "orange-lum-50",
+   "reference": "references/3-orange-lum-50.tif",
+   "reference_sha256": "8e3b21afe7eb340d1323e9f8273cb74580cbf100a02d813d5b7f881cb7f205d7",
+   "xmp": "references/3-orange-lum-50.xmp",
+   "xmp_sha256": "f1b9f9878699846e3b7ec76c83503a2b889ab090be587afd164a618939521724"
+  },
+  {
+   "photo": 3,
+   "name": "orange-lum+50",
+   "reference": "references/3-orange-lum+50.tif",
+   "reference_sha256": "78e1ec0e4933c94fd41955a89eb1cca057e2c0e36dd0c161cd066fb8b301b5e6",
+   "xmp": "references/3-orange-lum+50.xmp",
+   "xmp_sha256": "508a0f0b7d0cd635c802682c2e0a5f1247b9c47279fa6b6b2bfc51d30d67b2be"
+  },
+  {
+   "photo": 4,
+   "name": "default",
+   "reference": "references/4-default.tif",
+   "reference_sha256": "fa0176c4cb15fa341b65fea60e14e46c3b8d393e72f4c12ac91feee66e359f25",
+   "xmp": "references/4-default.xmp",
+   "xmp_sha256": "78cdddac64ad80234ada59cfed6f90626b249a3f19dc0ada15310dfbf846d252"
+  },
+  {
+   "photo": 4,
+   "name": "orange-hue-50",
+   "reference": "references/4-orange-hue-50.tif",
+   "reference_sha256": "781cb3ae66b5bc4ed5a2d990b57264267410b88c72ccb4edc299a9cfe7c4ea09",
+   "xmp": "references/4-orange-hue-50.xmp",
+   "xmp_sha256": "138dac4c8f22b19b755efe971cac4f04d0c5b5723c10783c3a44eb668b05367a"
+  },
+  {
+   "photo": 4,
+   "name": "orange-hue+50",
+   "reference": "references/4-orange-hue+50.tif",
+   "reference_sha256": "acd5e20ef4532c3345614431e49b2411ce7737eff22e5595a35b7e9ff2359be7",
+   "xmp": "references/4-orange-hue+50.xmp",
+   "xmp_sha256": "fccdee1cdbdf47d8305ae35fedd1f6efd958235879383f47023cf33dab539a90"
+  },
+  {
+   "photo": 4,
+   "name": "orange-sat-50",
+   "reference": "references/4-orange-sat-50.tif",
+   "reference_sha256": "5e844b50d151e1e467889457af6a454505fd0e46c1ab3cfe5a02fcc0bccb1260",
+   "xmp": "references/4-orange-sat-50.xmp",
+   "xmp_sha256": "1810a69b2ac44213741a145b3c88c963c2208cf59af64e18d4e9f63cd3fad37d"
+  },
+  {
+   "photo": 4,
+   "name": "orange-sat+50",
+   "reference": "references/4-orange-sat+50.tif",
+   "reference_sha256": "eca813476e4adff5e1246a1caaaecfe790783d08cccb3ceffdee7e321421699c",
+   "xmp": "references/4-orange-sat+50.xmp",
+   "xmp_sha256": "3c7f7854a63e6f06e44c9629b6f1e1a43d182670cb3a2c44ae2ea6edec23e930"
+  },
+  {
+   "photo": 4,
+   "name": "orange-lum-50",
+   "reference": "references/4-orange-lum-50.tif",
+   "reference_sha256": "5ca8adbb27e36d43c4bbb2d6723116b3024e3fcf6f6ea8d3e3cabdc535e4a94c",
+   "xmp": "references/4-orange-lum-50.xmp",
+   "xmp_sha256": "b06629a4697e66bf600303615bdea6b848d0e63b3a34795323c45a3a96aa2c14"
+  },
+  {
+   "photo": 4,
+   "name": "orange-lum+50",
+   "reference": "references/4-orange-lum+50.tif",
+   "reference_sha256": "9dd9aa4cf4fb2e7ab23a901979bd4eb32081ea4cc1afcc67221f11fdfee31896",
+   "xmp": "references/4-orange-lum+50.xmp",
+   "xmp_sha256": "f88be12d2662f9462fc263a698dafdf1d0dee44214c7556591be9e6319a244c1"
+  },
+  {
+   "photo": 5,
+   "name": "default",
+   "reference": "references/5-default.tif",
+   "reference_sha256": "770b6f3f2865b8ed6ac03aed26d201f66ae649ed70a1a8a851861092e1c8d104",
+   "xmp": "references/5-default.xmp",
+   "xmp_sha256": "7b286759b039caaaab920978c824b548400ced2b70075659ee47bdecc7aac13c"
+  },
+  {
+   "photo": 5,
+   "name": "orange-hue-50",
+   "reference": "references/5-orange-hue-50.tif",
+   "reference_sha256": "442898735dd899adc7dc8cd9642018ab853edbe5570a41ce6dac57e9a3dd5cbd",
+   "xmp": "references/5-orange-hue-50.xmp",
+   "xmp_sha256": "59824e3aaa2b27ee89c8c068880a8b70d1d86bfc51f3a68d1d2c6b97f9ff577a"
+  },
+  {
+   "photo": 5,
+   "name": "orange-hue+50",
+   "reference": "references/5-orange-hue+50.tif",
+   "reference_sha256": "7c31737c0644fedbb6b3acba62e57f311415ad2563ed3224692bbac542345352",
+   "xmp": "references/5-orange-hue+50.xmp",
+   "xmp_sha256": "6a524e49173b5fdc09bb2318f7a16c5571f79d6d7e7eca0d29836d0d27cf2f5b"
+  },
+  {
+   "photo": 5,
+   "name": "orange-sat-50",
+   "reference": "references/5-orange-sat-50.tif",
+   "reference_sha256": "2e27b3b40b80524fa3fca502cb9d59851acd0170f9d9227e38616e9663749a18",
+   "xmp": "references/5-orange-sat-50.xmp",
+   "xmp_sha256": "57a0e320aca895256dd39204bd7001c61f5076dd97c692acbbb03d41d72bb7e2"
+  },
+  {
+   "photo": 5,
+   "name": "orange-sat+50",
+   "reference": "references/5-orange-sat+50.tif",
+   "reference_sha256": "79f97ebfea08aed283cd42762a69e41c937f776130d8dd65b33bad6536984f61",
+   "xmp": "references/5-orange-sat+50.xmp",
+   "xmp_sha256": "2de2d5190b4212cccceaa77afbeff52b5892456558295c2ad410fee5a363cabb"
+  },
+  {
+   "photo": 5,
+   "name": "orange-lum-50",
+   "reference": "references/5-orange-lum-50.tif",
+   "reference_sha256": "567f4a1bffa72e1fa194e8222040744b32e6d3dfd655656e0e647302a987d043",
+   "xmp": "references/5-orange-lum-50.xmp",
+   "xmp_sha256": "19bd67f4ac0d907f97ce8ae4d957c9bafd4b065a634dce1e8b436286727c1e27"
+  },
+  {
+   "photo": 5,
+   "name": "orange-lum+50",
+   "reference": "references/5-orange-lum+50.tif",
+   "reference_sha256": "db6a280ae6e5f0db05cd2f502a2b46d952ac8580ec286a701725864e3f8165a5",
+   "xmp": "references/5-orange-lum+50.xmp",
+   "xmp_sha256": "3c12721cf3e813770fe9eb9745eb538a9678a07321d1521c80fbfdfbedccf5a9"
+  }
+ ],
+ "skipped": []
+}

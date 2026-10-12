@@ -1,0 +1,172 @@
+{
+ "schema": 1,
+ "set": "color-wb-validation",
+ "settings": [
+  "wb-daylight",
+  "wb-tungsten",
+  "wb-fluorescent",
+  "temperature-3200",
+  "temperature-5000",
+  "temperature-8000",
+  "tint-30",
+  "tint+30"
+ ],
+ "photos": [
+  {
+   "raw": "raws/signature-edits/_MGL0192.CR2",
+   "sha256": "0201e5a2ce31e3d61af5db8fbaf97cc2e09a83e26942e4cf2c907cbf907c03db",
+   "p90_L": 13.525838321925468,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS 7D",
+   "subject": "woman with tattoos and sunglasses sitting in a dim arcade",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/Photodesk 20.NEF",
+   "sha256": "14f951cc72325fbe6143436cf13630e4a8eeff0557e0a2150046f249d8853ea3",
+   "p90_L": 13.20468236320793,
+   "stratum": "low",
+   "make": "Nikon",
+   "model": "D7000",
+   "subject": "a cat standing in a dimly lit forest path",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/BeSureToTag@christianbmeza - free raws from signatureedits.com.CR2",
+   "sha256": "2d9c40f6f49f2dc6d2ef9c8dd85603a4a0a0959fc85b6f39fc28a87a092c49d2",
+   "p90_L": 25.44516689184476,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS 5DS R",
+   "subject": "young man in red shirt looking up in dimly lit room",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/_DSC0580.NEF",
+   "sha256": "31aa708a3b55499fcca40a04336567c235cebef646abc93e344764b0e9dd1d31",
+   "p90_L": 12.946647063881416,
+   "stratum": "low",
+   "make": "Nikon",
+   "model": "D7000",
+   "subject": "Tokyo Tower illuminated at night against a city skyline",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/credit @signatureeditsco - signatureedits.com DSC_4150 Liusia Moiseenkova.nef",
+   "sha256": "fa1f8f9ee5993c0cb6680f891a2e8df76747493b753416cfad26cb7576b1fa25",
+   "p90_L": 49.52348103680241,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "D7000",
+   "subject": "woman posing beside industrial-style lighting",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/IMG_4525.cr2",
+   "sha256": "0fe2aa8ce3db9196aab1bbbda5f996eb9833e32ba048d7f31487f4dacef25305",
+   "p90_L": 57.80783548880318,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 750D",
+   "subject": "couple holding hands in a vineyard",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/M50R3197.dng",
+   "sha256": "ae83bb3ad7d71c3b80a247f514ffe316510dbc8fbbc0c1ec18bd429f743f4515",
+   "p90_L": 57.20962863505874,
+   "stratum": "mid",
+   "make": "Fujifilm",
+   "model": "GFX 50R",
+   "subject": "woman sitting in a vintage car",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits Free Raws - 1 (103).NEF",
+   "sha256": "3ee510044371f45dffaf78d77d76fbb59393fb01bc10ec5519e359bebddbcad0",
+   "p90_L": 61.98264216960476,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "D7200",
+   "subject": "young woman smiling while leaning against a wall",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco - free raws from signatureedits.com - IMG_8192.cr2",
+   "sha256": "8dfe1eee6500f3448356e5d2f79b69382e508e083c4a089ba5fed08ccfce496b",
+   "p90_L": 86.92048548307598,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS 6D Mark II",
+   "subject": "woman in a subway station",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/DSC02085.ARW",
+   "sha256": "f0e515a342d8021a190d41d0a2d53dc50ec1192bef65e5b412c1322383e1fbce",
+   "p90_L": 76.5178584740312,
+   "stratum": "high",
+   "make": "Sony",
+   "model": "ILCE-5000",
+   "subject": "woman in white top looking at camera",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/IMG_7495.CR2",
+   "sha256": "0ed65f1923b881cd09b07d73732ee9bf3b996a6302f6490ccd288cc89d4f7957",
+   "p90_L": 83.12550180892967,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS Rebel T7i",
+   "subject": "woman leaning against a brick wall in an urban setting",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/alex.pekhenko.NEF",
+   "sha256": "0219ecf6c45d0e1193f81cf33e893e8e94c96346e0f600bdd21e1029a1eb8b13",
+   "p90_L": 95.3054504798071,
+   "stratum": "high",
+   "make": "Nikon",
+   "model": "D80",
+   "subject": "gray cat looking up at a window",
+   "score": null
+  }
+ ],
+ "crs": {
+  "wb-daylight": {
+   "WhiteBalance": "Daylight"
+  },
+  "wb-tungsten": {
+   "WhiteBalance": "Tungsten"
+  },
+  "wb-fluorescent": {
+   "WhiteBalance": "Fluorescent"
+  },
+  "temperature-3200": {
+   "WhiteBalance": "Custom",
+   "Temperature": "3200",
+   "Tint": "+0"
+  },
+  "temperature-5000": {
+   "WhiteBalance": "Custom",
+   "Temperature": "5000",
+   "Tint": "+0"
+  },
+  "temperature-8000": {
+   "WhiteBalance": "Custom",
+   "Temperature": "8000",
+   "Tint": "+0"
+  },
+  "tint-30": {
+   "WhiteBalance": "Custom",
+   "Temperature": "6500",
+   "Tint": "-30"
+  },
+  "tint+30": {
+   "WhiteBalance": "Custom",
+   "Temperature": "6500",
+   "Tint": "+30"
+  }
+ }
+}

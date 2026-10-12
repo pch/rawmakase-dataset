@@ -1,0 +1,801 @@
+{
+ "schema": 1,
+ "camera_raw": "18.7",
+ "set": "blacks-validation",
+ "photos": [
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco - free raw files from signatureedits.com DSC01956.ARW",
+   "sha256": "fa21322f5d46c16054c6e89c5fff086fd55162272e7d371cac4afd9dc8bd42d0",
+   "p90_L": 39.145669216847054,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "DSC-RX10M4",
+   "subject": "silhouetted trees and posts against a twilight sky reflected in water",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/_MGL0192.CR2",
+   "sha256": "0201e5a2ce31e3d61af5db8fbaf97cc2e09a83e26942e4cf2c907cbf907c03db",
+   "p90_L": 13.525838321925468,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS 7D",
+   "subject": "woman with tattoos and sunglasses sitting in a dim arcade",
+   "score": 1
+  },
+  {
+   "raw": "raws/signature-edits/BeSureToTag@christianbmeza - free raws from signatureedits.com.CR2",
+   "sha256": "2d9c40f6f49f2dc6d2ef9c8dd85603a4a0a0959fc85b6f39fc28a87a092c49d2",
+   "p90_L": 25.44516689184476,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS 5DS R",
+   "subject": "young man in red shirt looking up in dimly lit room",
+   "score": 1
+  },
+  {
+   "raw": "raws/signature-edits/signature edits free raw files.CR2",
+   "sha256": "a24a3002e8d36fcaed049e90611662f0fa569234965c0867ab06425ea4810845",
+   "p90_L": 15.776486891592779,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS 80D",
+   "subject": "person sitting on a couch in dim light",
+   "score": 1
+  },
+  {
+   "raw": "raws/signature-edits/_DSC6075.NEF",
+   "sha256": "a7480345996a3451b98c0c480cb7bfa8a859e64536d0c9c9f66ef308f3762c87",
+   "p90_L": 56.88282449527889,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "D7000",
+   "subject": "train on bridge at sunset",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/P1012775.dng",
+   "sha256": "0573c6c1a817239db6b0028bb83291be5cd250143ee9f9e9faa870c0e513d0ec",
+   "p90_L": 53.79426637890456,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DC-S1",
+   "subject": "silhouette of a man standing on a rocky beach at dusk",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco - IMG_7426.CR2",
+   "sha256": "59e92ce7d97c22638b31391ddd93362896be9f953c61bf243e25d85e9a8f47be",
+   "p90_L": 47.65234495345868,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS Rebel T7i",
+   "subject": "woman in black blazer and orange crop top standing outdoors",
+   "score": 1
+  },
+  {
+   "raw": "raws/signature-edits/M50R3197.dng",
+   "sha256": "ae83bb3ad7d71c3b80a247f514ffe316510dbc8fbbc0c1ec18bd429f743f4515",
+   "p90_L": 57.20962863505874,
+   "stratum": "mid",
+   "make": "Fujifilm",
+   "model": "GFX 50R",
+   "subject": "woman sitting in a vintage car",
+   "score": 1
+  },
+  {
+   "raw": "raws/signature-edits/P1014581.dng",
+   "sha256": "98a978249b69fbeea36e93e8f224cf2f7900edcadde7280732cc04c0f199b8ea",
+   "p90_L": 84.63103563951617,
+   "stratum": "high",
+   "make": "Panasonic",
+   "model": "DC-S1",
+   "subject": "woman in profile with dark makeup and ponytail",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/IMG_7495.CR2",
+   "sha256": "0ed65f1923b881cd09b07d73732ee9bf3b996a6302f6490ccd288cc89d4f7957",
+   "p90_L": 83.12550180892967,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS Rebel T7i",
+   "subject": "woman leaning against a brick wall in an urban setting",
+   "score": 1
+  },
+  {
+   "raw": "raws/signature-edits/July_mReKo_002.DNG",
+   "sha256": "e5d9b5ba519f8abc0126d03fabe72508d4c3d8c5d45b22c1007ec0dce26160a4",
+   "p90_L": 88.35092438025104,
+   "stratum": "high",
+   "make": "Hasselblad",
+   "model": "L1D-20c",
+   "subject": "snow-capped mountain under a partly cloudy sky",
+   "score": 1
+  },
+  {
+   "raw": "raws/signature-edits/alex.pekhenko.NEF",
+   "sha256": "0219ecf6c45d0e1193f81cf33e893e8e94c96346e0f600bdd21e1029a1eb8b13",
+   "p90_L": 95.3054504798071,
+   "stratum": "high",
+   "make": "Nikon",
+   "model": "D80",
+   "subject": "gray cat looking up at a window",
+   "score": 1
+  }
+ ],
+ "cases": [
+  {
+   "photo": 0,
+   "name": "default",
+   "reference": "references/0-default.tif",
+   "reference_sha256": "f751414f07a5ffa21f0ea4436ef2cf6afe5d043eee030bc40bde2923f7d2f67c",
+   "xmp": "references/0-default.xmp",
+   "xmp_sha256": "fac4ef2febe3357c3279f06649134a65213fbcb817e17bfb8c614b50a565cd5c"
+  },
+  {
+   "photo": 0,
+   "name": "blacks-100",
+   "reference": "references/0-blacks-100.tif",
+   "reference_sha256": "81da452fe46353649c4ddbefcb9107db78ac1a1d8d22eec57af7db1057a845b1",
+   "xmp": "references/0-blacks-100.xmp",
+   "xmp_sha256": "9896d1c53fe4a6c93a320afdd6b6042c0c2709ca2dffcd430f52a435c05c984d"
+  },
+  {
+   "photo": 0,
+   "name": "blacks-50",
+   "reference": "references/0-blacks-50.tif",
+   "reference_sha256": "080b5202933d51460d965e610474221435324fbbba09da76927168726dd8842b",
+   "xmp": "references/0-blacks-50.xmp",
+   "xmp_sha256": "c9ebd4d44fe6ee8fc23a3d57954dd9329573fb1a76091bc245dddbc258f17e02"
+  },
+  {
+   "photo": 0,
+   "name": "blacks-25",
+   "reference": "references/0-blacks-25.tif",
+   "reference_sha256": "5da920e31d866d840c889a5e9045904ea02c957bcdacc7eba56a590df79212c6",
+   "xmp": "references/0-blacks-25.xmp",
+   "xmp_sha256": "9bab621785206a9d931f64f6da6321b439bf46b0d477578a8ff52f2d29264364"
+  },
+  {
+   "photo": 0,
+   "name": "blacks+25",
+   "reference": "references/0-blacks+25.tif",
+   "reference_sha256": "e05a9dc68e52c7a93721e82b87abc67450f92fa5af9fdc2b50a301cd9723159b",
+   "xmp": "references/0-blacks+25.xmp",
+   "xmp_sha256": "a8b637f24f66e9a4ecc5b00e4e955b6fb0a5ace17466d4c804ba882369409757"
+  },
+  {
+   "photo": 0,
+   "name": "blacks+50",
+   "reference": "references/0-blacks+50.tif",
+   "reference_sha256": "231da978659a87a0219ec498d5dca680d721423a6255326b454385901a160908",
+   "xmp": "references/0-blacks+50.xmp",
+   "xmp_sha256": "78ce35b07e2e8af1a7bc33d537d28ee97686bbe26ea606f941d93823bd70475d"
+  },
+  {
+   "photo": 0,
+   "name": "blacks+100",
+   "reference": "references/0-blacks+100.tif",
+   "reference_sha256": "f7e9f2406fb7140ee62d0555f9f42872247a001758effd195d0c08b060e5afb6",
+   "xmp": "references/0-blacks+100.xmp",
+   "xmp_sha256": "ee7f10bafbfb6a344d67a1a93ea0c35ddd51b295471cdb91335d42447e08a962"
+  },
+  {
+   "photo": 1,
+   "name": "default",
+   "reference": "references/1-default.tif",
+   "reference_sha256": "858474596b86449f5809f67936853691b3104037e99c60de3b604da6d20844a9",
+   "xmp": "references/1-default.xmp",
+   "xmp_sha256": "4a42386b7f8a4001db19c01eca6b8e99e05ac3057a41305d40839ac187e73e51"
+  },
+  {
+   "photo": 1,
+   "name": "blacks-100",
+   "reference": "references/1-blacks-100.tif",
+   "reference_sha256": "05c06029589e23707f99d87b0fae7e681bd1db604a89cdf0b9236f1bda40a1b4",
+   "xmp": "references/1-blacks-100.xmp",
+   "xmp_sha256": "d06b43495080c94fdea672508cebe4a7f002504f2d9c391c37fccc82e70e5d2d"
+  },
+  {
+   "photo": 1,
+   "name": "blacks-50",
+   "reference": "references/1-blacks-50.tif",
+   "reference_sha256": "b2ca1a6f4330ab94af22e002cca15de6b4eacce0ded243b5d8eb317dcfa9ba63",
+   "xmp": "references/1-blacks-50.xmp",
+   "xmp_sha256": "82e3c2c388652ce37045cdfc4429392fefccf80af5179f0a03717f1d41fa4e58"
+  },
+  {
+   "photo": 1,
+   "name": "blacks-25",
+   "reference": "references/1-blacks-25.tif",
+   "reference_sha256": "c3fb78b36dfe79d2036b59a2a7661feef64f579a52fdf34a13e9fdd81d7850ab",
+   "xmp": "references/1-blacks-25.xmp",
+   "xmp_sha256": "cb45f7f68cb2cf8fa7dabd9bd9d05e201e565fce2a2b4fd3119335f562907832"
+  },
+  {
+   "photo": 1,
+   "name": "blacks+25",
+   "reference": "references/1-blacks+25.tif",
+   "reference_sha256": "3e4183e99370d91ce3e84a919115180cff9e2146811f80d7936404ab981c7b66",
+   "xmp": "references/1-blacks+25.xmp",
+   "xmp_sha256": "52cdec2efac8bd742b225d318106af3862a1b22f9c9dd31cf698af2cbd19ef41"
+  },
+  {
+   "photo": 1,
+   "name": "blacks+50",
+   "reference": "references/1-blacks+50.tif",
+   "reference_sha256": "aed39c12345bc9d16241ae1ae2079c45ff873c085545166da31040dbd1be6cf0",
+   "xmp": "references/1-blacks+50.xmp",
+   "xmp_sha256": "78e916146c6d3fafa97e8c79981ca240bcc40f50f88ccbbe2071acbc9ccdc5cf"
+  },
+  {
+   "photo": 1,
+   "name": "blacks+100",
+   "reference": "references/1-blacks+100.tif",
+   "reference_sha256": "1e55d15767b71d390e00ccbf3af6d5289193ea96f97abdd771d2254b2ee60569",
+   "xmp": "references/1-blacks+100.xmp",
+   "xmp_sha256": "b480aeff67e554ddfaeae8e622d596a934bbcf5edd6e4d27506c6cd62239cc47"
+  },
+  {
+   "photo": 2,
+   "name": "default",
+   "reference": "references/2-default.tif",
+   "reference_sha256": "34002ba20b9f076eac3d060c7cb0ac0e304dc5b91ef5145566f08c1ea7e92573",
+   "xmp": "references/2-default.xmp",
+   "xmp_sha256": "b75f16b0ef324fd0e0159dd4de803dbaa01293a329b0619b6749fc7527ca5a52"
+  },
+  {
+   "photo": 2,
+   "name": "blacks-100",
+   "reference": "references/2-blacks-100.tif",
+   "reference_sha256": "c6bef58e34143b5bdd06da616e32cc5c0b15d5efdc3a65b67915bab8ef1a2704",
+   "xmp": "references/2-blacks-100.xmp",
+   "xmp_sha256": "ed36495d1a41428eb363ccbbdd275db641f17972b2344f7bfd3ed2f54500e154"
+  },
+  {
+   "photo": 2,
+   "name": "blacks-50",
+   "reference": "references/2-blacks-50.tif",
+   "reference_sha256": "573cea756ccf2a544c112e9349b280cbd7dd77690c5d8009dbeb8082c0ec8382",
+   "xmp": "references/2-blacks-50.xmp",
+   "xmp_sha256": "b96fdc081800dad8f3bbd7b4b9bcd21491fa737f7447adcbafc3908faefc3bbf"
+  },
+  {
+   "photo": 2,
+   "name": "blacks-25",
+   "reference": "references/2-blacks-25.tif",
+   "reference_sha256": "c95e6057a3b0703b363f2badab0399de8f21b406a6fcc6ece6360f50256327eb",
+   "xmp": "references/2-blacks-25.xmp",
+   "xmp_sha256": "8f1bdb0c29f1bf32e164564b534c3e376eacd63a6237bb5b300e95be6ee39a2b"
+  },
+  {
+   "photo": 2,
+   "name": "blacks+25",
+   "reference": "references/2-blacks+25.tif",
+   "reference_sha256": "8f39a40d83d4ec607a09269b9cea0c2f08ee37773d91405ce2beb763ad66375f",
+   "xmp": "references/2-blacks+25.xmp",
+   "xmp_sha256": "97bfbd5313dcdac35fcc32d49a9e82d440802eac348b7caecc0043610d4a0960"
+  },
+  {
+   "photo": 2,
+   "name": "blacks+50",
+   "reference": "references/2-blacks+50.tif",
+   "reference_sha256": "cff6ced66da483b1100cdf41e016950c1723b7b39517e3f8752d6dd33b8aa3bd",
+   "xmp": "references/2-blacks+50.xmp",
+   "xmp_sha256": "44000bccc370746a4f990e911fe2fa5c674e2e28c3c888ba5e09340ce748ac37"
+  },
+  {
+   "photo": 2,
+   "name": "blacks+100",
+   "reference": "references/2-blacks+100.tif",
+   "reference_sha256": "421a36d89bc5f25c5e072fb0ff66fe26db7079a70d3ee5b026e04b0e1e045dcd",
+   "xmp": "references/2-blacks+100.xmp",
+   "xmp_sha256": "63e2ff97b22ea2fe9c4def31548a46dbc267c5c62a2034d15820fc8de410878b"
+  },
+  {
+   "photo": 3,
+   "name": "default",
+   "reference": "references/3-default.tif",
+   "reference_sha256": "4191e3ff7083449005257bed987a590029454cbc50f38dd38a2dfd3a2a45c107",
+   "xmp": "references/3-default.xmp",
+   "xmp_sha256": "92cb40a75a68c84f52f7db343b4aad1b8bfb9a3b468073ea9773946a8bbcd414"
+  },
+  {
+   "photo": 3,
+   "name": "blacks-100",
+   "reference": "references/3-blacks-100.tif",
+   "reference_sha256": "44de61992577627cdbff2c7186d8fe0abd00a404c2e19eb1182bd738c422b245",
+   "xmp": "references/3-blacks-100.xmp",
+   "xmp_sha256": "b96c848b56d7d4b6bef7acfe6ee087e5c8d5913397e66551ea50a64437db6c44"
+  },
+  {
+   "photo": 3,
+   "name": "blacks-50",
+   "reference": "references/3-blacks-50.tif",
+   "reference_sha256": "53bba38be70714d8c56718213dc5f889bacba2de521db4ca20262d110d93ba6b",
+   "xmp": "references/3-blacks-50.xmp",
+   "xmp_sha256": "9d8538b6a781675525238c2aeb81e2b3f49e761f0700f97d0801cde520e9e6c7"
+  },
+  {
+   "photo": 3,
+   "name": "blacks-25",
+   "reference": "references/3-blacks-25.tif",
+   "reference_sha256": "70cd1ab09824b703f36df42cb28211b6b5fc4f6c249db7b8d963210e4394fa9f",
+   "xmp": "references/3-blacks-25.xmp",
+   "xmp_sha256": "bf9f7c5177430a6d287f5666bbdc52057dc703b48bccaba081e642dd2fb0a81f"
+  },
+  {
+   "photo": 3,
+   "name": "blacks+25",
+   "reference": "references/3-blacks+25.tif",
+   "reference_sha256": "8444d6c63a4e31e355580569e85e6d795f3a9ecfb83812de82c6725be55e3710",
+   "xmp": "references/3-blacks+25.xmp",
+   "xmp_sha256": "922bad8c3007b5487aeeebca1713302e5a00241ba3f69091d19f3ccf61fd4ef8"
+  },
+  {
+   "photo": 3,
+   "name": "blacks+50",
+   "reference": "references/3-blacks+50.tif",
+   "reference_sha256": "b780843fcebbcb11ab4d1d4459510c3163fbaed412ea68906258b4a695059280",
+   "xmp": "references/3-blacks+50.xmp",
+   "xmp_sha256": "d45569edc1f4ed3fa1cf18449054c6f973503a33f68a41f6bd1e9acdf335d31e"
+  },
+  {
+   "photo": 3,
+   "name": "blacks+100",
+   "reference": "references/3-blacks+100.tif",
+   "reference_sha256": "8cd0a159d15547f5d788f7bb4341dd42926e4097bf4f269abbbcd0c4cb1d1f90",
+   "xmp": "references/3-blacks+100.xmp",
+   "xmp_sha256": "0c570c4774a17c537205ddbf4cda48e0d8b1f4f05db2d925967acba7742e6762"
+  },
+  {
+   "photo": 4,
+   "name": "default",
+   "reference": "references/4-default.tif",
+   "reference_sha256": "30ccc8208f1457ed937d3267dec072a2977c7e037f2c337bb49185faae6d47a9",
+   "xmp": "references/4-default.xmp",
+   "xmp_sha256": "f167cdd514a4c46dab2cac5510806de59c094722c9eb872dfe3fb845ecfef237"
+  },
+  {
+   "photo": 4,
+   "name": "blacks-100",
+   "reference": "references/4-blacks-100.tif",
+   "reference_sha256": "1f1878307513b1fbf85e235f4812221bd5d2d0cf7e08c270dbf6b12b73fc8117",
+   "xmp": "references/4-blacks-100.xmp",
+   "xmp_sha256": "8f41cfa2dae072afc8919ec9d3c1319edbb7f5cdf1900d2105ab8ce3fdcfa44f"
+  },
+  {
+   "photo": 4,
+   "name": "blacks-50",
+   "reference": "references/4-blacks-50.tif",
+   "reference_sha256": "f5dcc3228c1185203deb42fa77e85bdb0cb40b5ed4b370ec95dda52bafa2a2c4",
+   "xmp": "references/4-blacks-50.xmp",
+   "xmp_sha256": "8f265329cb245d56e689fbdab807bbe084a35c704c4a566d904f7114dd1e702e"
+  },
+  {
+   "photo": 4,
+   "name": "blacks-25",
+   "reference": "references/4-blacks-25.tif",
+   "reference_sha256": "8ac443fda13e5d73a675a197e9db337d5c927cd18309e9d1d4913cc049735f92",
+   "xmp": "references/4-blacks-25.xmp",
+   "xmp_sha256": "64de19ffa698a859199a994fc9ec7971ad00b532412e96fee6403397ec0a7d5f"
+  },
+  {
+   "photo": 4,
+   "name": "blacks+25",
+   "reference": "references/4-blacks+25.tif",
+   "reference_sha256": "627d530f53c9989a622f1c0613ce682cf3fab620033aac24d3e79abf7a4ea49f",
+   "xmp": "references/4-blacks+25.xmp",
+   "xmp_sha256": "fbcca78e98a67c78763f4d9410f41e131bbfd37c8f0d96e10ad95c5b5563de5b"
+  },
+  {
+   "photo": 4,
+   "name": "blacks+50",
+   "reference": "references/4-blacks+50.tif",
+   "reference_sha256": "5f6761faacf586c9142b1cf697c5d5200fdb532d81137a168bf7cac24687d0d2",
+   "xmp": "references/4-blacks+50.xmp",
+   "xmp_sha256": "033a803b7eda757892609ea5bfa2a46c5cdb3ff254f50a05db196b7e5bc94b9a"
+  },
+  {
+   "photo": 4,
+   "name": "blacks+100",
+   "reference": "references/4-blacks+100.tif",
+   "reference_sha256": "1db94f45fff887bf231c63957dbe031347caabbb1688c6b608562b4936adbe7b",
+   "xmp": "references/4-blacks+100.xmp",
+   "xmp_sha256": "4d94add2df63729ce64314bf22773a30e9d3edf1f2bd616a4fc1dad09f040f8e"
+  },
+  {
+   "photo": 5,
+   "name": "default",
+   "reference": "references/5-default.tif",
+   "reference_sha256": "410a0609d78456b8b9a4f1c7fb7c6ce5d6e5c8ad7c971bf40852e2e7e6aae9af",
+   "xmp": "references/5-default.xmp",
+   "xmp_sha256": "90b67dfe39e559abe2df2975eaa5d041bfe9ba69c398290110523c56cc4569c9"
+  },
+  {
+   "photo": 5,
+   "name": "blacks-100",
+   "reference": "references/5-blacks-100.tif",
+   "reference_sha256": "2995373c3f51495af8b7acb96cab5cd1368c664ba6651458ac8642b916ef3db1",
+   "xmp": "references/5-blacks-100.xmp",
+   "xmp_sha256": "314fd8d9871f3e4aa806c94b41c12bc61855ec358b25aa156e9a69470d2b4276"
+  },
+  {
+   "photo": 5,
+   "name": "blacks-50",
+   "reference": "references/5-blacks-50.tif",
+   "reference_sha256": "b9fc12ae99da4bd35577cd68e7220bcaddd48779f24a60c97cec650a04b49b6a",
+   "xmp": "references/5-blacks-50.xmp",
+   "xmp_sha256": "6d773de22088adb2b023b1b01a3641d8e64b59db87afa0d359e6392397b94133"
+  },
+  {
+   "photo": 5,
+   "name": "blacks-25",
+   "reference": "references/5-blacks-25.tif",
+   "reference_sha256": "c387f2a0de54218a6e743d1e6c9849e24dc6b752eb3d57c57d66ee86d70431bb",
+   "xmp": "references/5-blacks-25.xmp",
+   "xmp_sha256": "7179b73bfa6b9c192ae8627df0aea369543cf1d867b0101c17b02257cb8033cf"
+  },
+  {
+   "photo": 5,
+   "name": "blacks+25",
+   "reference": "references/5-blacks+25.tif",
+   "reference_sha256": "4b3f2f6df070690cc892958c2106a47d739f063f96ddc69c0f3077772e84238b",
+   "xmp": "references/5-blacks+25.xmp",
+   "xmp_sha256": "e8bf9c5336cfd910e12abb40dd24ca5012d03dfb2cf64974be0735542fe9efe1"
+  },
+  {
+   "photo": 5,
+   "name": "blacks+50",
+   "reference": "references/5-blacks+50.tif",
+   "reference_sha256": "3061a66a479ac15c2f6905a339752cb373381c1abd68cd2d01f81b9e80d03126",
+   "xmp": "references/5-blacks+50.xmp",
+   "xmp_sha256": "8e823023501e079eeba24c290918a8e2194b3282f6a804c54a2a3116148ea9b0"
+  },
+  {
+   "photo": 5,
+   "name": "blacks+100",
+   "reference": "references/5-blacks+100.tif",
+   "reference_sha256": "c0b38748039df0ae2c9cae6aacb54244e7c06f0a05ee4c64e9f12a04ec3da9c2",
+   "xmp": "references/5-blacks+100.xmp",
+   "xmp_sha256": "75f1b09d3f1f8b72e4a45831c95e496c43af0d62b34b764528d4218700fa528e"
+  },
+  {
+   "photo": 6,
+   "name": "default",
+   "reference": "references/6-default.tif",
+   "reference_sha256": "440deb5dfd556ac0bae2f84f4c5cf4c84a59bc23f46ac865a78bd6e69449e590",
+   "xmp": "references/6-default.xmp",
+   "xmp_sha256": "b2e7ddfb9c17de00624bd47fa6bb0e35e0c8e499d9b6011425edf64bf5ba78a1"
+  },
+  {
+   "photo": 6,
+   "name": "blacks-100",
+   "reference": "references/6-blacks-100.tif",
+   "reference_sha256": "7a824a3253260f0fe4d598bf0b086cabdcf1c431bdeddd49fd5f719c91eac72c",
+   "xmp": "references/6-blacks-100.xmp",
+   "xmp_sha256": "a7230a9d24e315acd61512e91e5dd75459905d781393ee56f64d935e24986f31"
+  },
+  {
+   "photo": 6,
+   "name": "blacks-50",
+   "reference": "references/6-blacks-50.tif",
+   "reference_sha256": "fcec4feb4c4d4be66fe83fcd9a94236447897e8c2a7b2c0992f0f1b601f31dfb",
+   "xmp": "references/6-blacks-50.xmp",
+   "xmp_sha256": "a11c5a919b04252edbbee0746f40b812460d63363bae8497f96326ea0c642a6a"
+  },
+  {
+   "photo": 6,
+   "name": "blacks-25",
+   "reference": "references/6-blacks-25.tif",
+   "reference_sha256": "560d585861f2e503de8b5db9b38e6ce12879eed3198c9bb10e96e6df05fcd448",
+   "xmp": "references/6-blacks-25.xmp",
+   "xmp_sha256": "2732eac58b2fd56f29e10717727d299ba51e68c4369c43e4b134761f17abdcbb"
+  },
+  {
+   "photo": 6,
+   "name": "blacks+25",
+   "reference": "references/6-blacks+25.tif",
+   "reference_sha256": "2f168540bf2647476f5a46a5b1270610ab8a2fb94436a122d519e40ddda2bf44",
+   "xmp": "references/6-blacks+25.xmp",
+   "xmp_sha256": "ec22519cb2737a9e056233e85dccd3df1894874e1542c9f9aee5168f5a07eb4a"
+  },
+  {
+   "photo": 6,
+   "name": "blacks+50",
+   "reference": "references/6-blacks+50.tif",
+   "reference_sha256": "21baa683c8463e3e594663305788c7b884fe3ad873329a7c6a813605d39a7295",
+   "xmp": "references/6-blacks+50.xmp",
+   "xmp_sha256": "e5c62f8bf424340ff8149f556c59d74f1734ef929dae9ee9fb6820bbfdad65c2"
+  },
+  {
+   "photo": 6,
+   "name": "blacks+100",
+   "reference": "references/6-blacks+100.tif",
+   "reference_sha256": "9f3f86fcd05b7b58fc6eb32c611515fde460c823e3ad1b191f2a4cb42008ef0b",
+   "xmp": "references/6-blacks+100.xmp",
+   "xmp_sha256": "dfde2ae36218addac889744cfe79197b74b6030bf3cc6ea859f195903d975e59"
+  },
+  {
+   "photo": 7,
+   "name": "default",
+   "reference": "references/7-default.tif",
+   "reference_sha256": "38f756746459fe9da587fa86e77209bc1bd5a3d4fa28f742801513347bce1aaf",
+   "xmp": "references/7-default.xmp",
+   "xmp_sha256": "2c60626c314e900545ba0ae7717c7b3fb1eed5d5d79733fb908fb5b911fdebfb"
+  },
+  {
+   "photo": 7,
+   "name": "blacks-100",
+   "reference": "references/7-blacks-100.tif",
+   "reference_sha256": "2d5c0ee4f953fa8c6c40feca69fda93b7f06d952c5fd011a920fab6db00d4e24",
+   "xmp": "references/7-blacks-100.xmp",
+   "xmp_sha256": "ea9b521f08d92ac2fe4504dd9fb00d1c1b8ccf19c441dd9311c0dcd1757be5ec"
+  },
+  {
+   "photo": 7,
+   "name": "blacks-50",
+   "reference": "references/7-blacks-50.tif",
+   "reference_sha256": "1c92c87cc1e2aaa5c80109e79fb086ae277f8476a30c9cea159aa2a30a40ea53",
+   "xmp": "references/7-blacks-50.xmp",
+   "xmp_sha256": "038b409e46024fa157e461c7db54245def94c47deb1969a9329bd43db431de93"
+  },
+  {
+   "photo": 7,
+   "name": "blacks-25",
+   "reference": "references/7-blacks-25.tif",
+   "reference_sha256": "c69834e1b7b3eaccedfcd09c7bb2a882e58ec8998a8c9c33b2d6381874bb7c4c",
+   "xmp": "references/7-blacks-25.xmp",
+   "xmp_sha256": "eb2ccf6f0b71e7d729d0f8e31d4761e8a3f1ded200b21176972e20554e309221"
+  },
+  {
+   "photo": 7,
+   "name": "blacks+25",
+   "reference": "references/7-blacks+25.tif",
+   "reference_sha256": "66796219bbbff1c8e47acb5577883c35c09c687e5a0f804581745e384d815b8d",
+   "xmp": "references/7-blacks+25.xmp",
+   "xmp_sha256": "98a2731a2abd85d0aa0728f85f6b7a49de383deff0f2e9246cc9a1089798f4de"
+  },
+  {
+   "photo": 7,
+   "name": "blacks+50",
+   "reference": "references/7-blacks+50.tif",
+   "reference_sha256": "9ee80cda62af2b587dad84620c43a79873036bd842141f8338776e8abd237dd5",
+   "xmp": "references/7-blacks+50.xmp",
+   "xmp_sha256": "dafa0aae557278ce46ba2be97cfdee435f1166e097f59d85345acc3504c457c5"
+  },
+  {
+   "photo": 7,
+   "name": "blacks+100",
+   "reference": "references/7-blacks+100.tif",
+   "reference_sha256": "80c5410e4d2de213dc2b1f1156bd3498357ca7ff064b3e01270cb84b10eceedb",
+   "xmp": "references/7-blacks+100.xmp",
+   "xmp_sha256": "73a4955ce4c02382faf397206fc58a3a42e502f4ac2c06a5de4e96e23bf7a012"
+  },
+  {
+   "photo": 8,
+   "name": "default",
+   "reference": "references/8-default.tif",
+   "reference_sha256": "bd1971de9a60fa2cfe86f9d723be5f77754dd14881ff801d987e7cd66fca7624",
+   "xmp": "references/8-default.xmp",
+   "xmp_sha256": "101aa3b16fadc0060c8d7f4854257fabfc0c8acc9935e4676c4587966a080859"
+  },
+  {
+   "photo": 8,
+   "name": "blacks-100",
+   "reference": "references/8-blacks-100.tif",
+   "reference_sha256": "6704e855f8c639dffadc0b31e821ee8e3eca876963b139996b79a7eb976091e8",
+   "xmp": "references/8-blacks-100.xmp",
+   "xmp_sha256": "d8d6ee2feeeeecc3b97be52c6d6167d4da68b6a11c50f4a016203403da2f8bcc"
+  },
+  {
+   "photo": 8,
+   "name": "blacks-50",
+   "reference": "references/8-blacks-50.tif",
+   "reference_sha256": "a60f9082426d91d3e1afa76041a848b6726f275363400be22f37ad6ac24dde26",
+   "xmp": "references/8-blacks-50.xmp",
+   "xmp_sha256": "71eded0d3469519bc9879faf8c3f090d198f6502c2f4a96022b4a719b3a4514c"
+  },
+  {
+   "photo": 8,
+   "name": "blacks-25",
+   "reference": "references/8-blacks-25.tif",
+   "reference_sha256": "b512961f3c70f396d13b2ff125d724212344f5fdb7a71e8d546f3438f65ba54f",
+   "xmp": "references/8-blacks-25.xmp",
+   "xmp_sha256": "81e945e46889f44d164feead5644a68ec7d53d09e9c03618249c8e7f7c6272f7"
+  },
+  {
+   "photo": 8,
+   "name": "blacks+25",
+   "reference": "references/8-blacks+25.tif",
+   "reference_sha256": "f0eb640e57035264bd155f833265f137df574be9e1640096bc1afad0fb21cbfa",
+   "xmp": "references/8-blacks+25.xmp",
+   "xmp_sha256": "1ba8a6e74b2f84a1c08ee1f0f15401824ce55bdbb288e6a8e4fd26c113bb8daa"
+  },
+  {
+   "photo": 8,
+   "name": "blacks+50",
+   "reference": "references/8-blacks+50.tif",
+   "reference_sha256": "7dc88e9388b08bc2817f6a1ac7c09c45ccc529340146380155363d69f2fd326a",
+   "xmp": "references/8-blacks+50.xmp",
+   "xmp_sha256": "1caf51e9d1fc83ee3f3abee0538a688652fb213bd94f41be54f07395bb83b182"
+  },
+  {
+   "photo": 8,
+   "name": "blacks+100",
+   "reference": "references/8-blacks+100.tif",
+   "reference_sha256": "e413b99648507bea2ad0217c0043e4c6129cd129ea998827e329750d4030a5fd",
+   "xmp": "references/8-blacks+100.xmp",
+   "xmp_sha256": "6ee46e482972894b99305ef38d4ca0dfa1e768719196929bf3eff6061b3c0fab"
+  },
+  {
+   "photo": 9,
+   "name": "default",
+   "reference": "references/9-default.tif",
+   "reference_sha256": "328678e08af674178edeb5875e7a1ab761c1cc98a0828d8baaca4ceea8c4835e",
+   "xmp": "references/9-default.xmp",
+   "xmp_sha256": "3c20c5e5626be96105d33b74ed0ba0c0e2c07aeb827b2baf8b93450b0ca585d0"
+  },
+  {
+   "photo": 9,
+   "name": "blacks-100",
+   "reference": "references/9-blacks-100.tif",
+   "reference_sha256": "b1958115ce162ea537669def9dcfbe4ac2ee3c8d71b083d279f6d4770f37790c",
+   "xmp": "references/9-blacks-100.xmp",
+   "xmp_sha256": "d95a9c60a5b371c832f255af6c2539dbc26c5050f047fee1f0f3f755bdece45f"
+  },
+  {
+   "photo": 9,
+   "name": "blacks-50",
+   "reference": "references/9-blacks-50.tif",
+   "reference_sha256": "53ce4366621b64eaef0d1413b61bf298755d1b8d36176fa1ad5a2e59eadd7204",
+   "xmp": "references/9-blacks-50.xmp",
+   "xmp_sha256": "510e3addc3034c658902643f31a45c6409f0f5e097fdbfb6935d94e4454f2328"
+  },
+  {
+   "photo": 9,
+   "name": "blacks-25",
+   "reference": "references/9-blacks-25.tif",
+   "reference_sha256": "58e2c6fd9dac3ab61d6d4c1b8100b7cb906b444420ec839565ac99e4f02855b6",
+   "xmp": "references/9-blacks-25.xmp",
+   "xmp_sha256": "6f07518655e10093ecf1444f12852f76253e545e0c56ffabb42712c6966fd279"
+  },
+  {
+   "photo": 9,
+   "name": "blacks+25",
+   "reference": "references/9-blacks+25.tif",
+   "reference_sha256": "c04f3f2f1d1828b16387323918892327fc84f787ab4b09502e0be70e64e44d98",
+   "xmp": "references/9-blacks+25.xmp",
+   "xmp_sha256": "62afa73f63cfce436acc7e36eba1073e4fca7bac9db34888a195d61469e199d5"
+  },
+  {
+   "photo": 9,
+   "name": "blacks+50",
+   "reference": "references/9-blacks+50.tif",
+   "reference_sha256": "dfff75efb65915972a7a5172ecf42656546ff3c0d3d5dabab1e8d497d7a49113",
+   "xmp": "references/9-blacks+50.xmp",
+   "xmp_sha256": "a381725cafa2c5c86666d8a043499181b5e424e182cd1cb4b70cf7a77d7d4bb4"
+  },
+  {
+   "photo": 9,
+   "name": "blacks+100",
+   "reference": "references/9-blacks+100.tif",
+   "reference_sha256": "7d813a57dda9051f0ec5a4bbeb472ccccb0ba41a31e6fd6a39876ada66492e60",
+   "xmp": "references/9-blacks+100.xmp",
+   "xmp_sha256": "8763bbdb91094417845c55d5a504fe60429a2ac1e57bf39bfcdf486066e39537"
+  },
+  {
+   "photo": 10,
+   "name": "default",
+   "reference": "references/10-default.tif",
+   "reference_sha256": "3e62c385517aac1f7a3b6a9d7734b537ebefb916f0ab841080377ea15c1dea21",
+   "xmp": "references/10-default.xmp",
+   "xmp_sha256": "df058928ea46246d340969a65dee1d73393af0d350b865edfc0e01fb1176a350"
+  },
+  {
+   "photo": 10,
+   "name": "blacks-100",
+   "reference": "references/10-blacks-100.tif",
+   "reference_sha256": "c1444a3bdc9033e444fe58354718dc967fb20e39d2ce7f7b12eb74f653723bc7",
+   "xmp": "references/10-blacks-100.xmp",
+   "xmp_sha256": "8e3df2b8c4f18585f74ff321e30297f24f1e7c1034796093ea3c3cfc333dc8f4"
+  },
+  {
+   "photo": 10,
+   "name": "blacks-50",
+   "reference": "references/10-blacks-50.tif",
+   "reference_sha256": "601f54b81d3586034e3cdd7746c7ec9b62d42701efafb1817a0125862c4e5322",
+   "xmp": "references/10-blacks-50.xmp",
+   "xmp_sha256": "7d692beaf88ba84764ddc4064bbf7ca4a69578b23296cbbc254103e7aab29f09"
+  },
+  {
+   "photo": 10,
+   "name": "blacks-25",
+   "reference": "references/10-blacks-25.tif",
+   "reference_sha256": "052718e0ffc63d5f0296d6011ffdefd492d5ab95e5573e5a21fc1184f41bc198",
+   "xmp": "references/10-blacks-25.xmp",
+   "xmp_sha256": "3c2bc0e24da5e500321589fc48fefb4776bf91ecc665261b048b55fcb5b97d11"
+  },
+  {
+   "photo": 10,
+   "name": "blacks+25",
+   "reference": "references/10-blacks+25.tif",
+   "reference_sha256": "7e4db5ed014bb6ab16c0b91212da73c3a8a116301b07721d41566ba8592837d7",
+   "xmp": "references/10-blacks+25.xmp",
+   "xmp_sha256": "cc39faf55b0ae120b076659a3e861d244796d8ceace1d80caf395000c926bd6c"
+  },
+  {
+   "photo": 10,
+   "name": "blacks+50",
+   "reference": "references/10-blacks+50.tif",
+   "reference_sha256": "d98cd82471c0a662e77854bfead5f4c818c3482527e9c7ecdfe84e006a01bfc8",
+   "xmp": "references/10-blacks+50.xmp",
+   "xmp_sha256": "01d3b53f7feed9772b889c8af6446253533df4093424316dd1fd80fc883fbe32"
+  },
+  {
+   "photo": 10,
+   "name": "blacks+100",
+   "reference": "references/10-blacks+100.tif",
+   "reference_sha256": "c6acd20a8747aa187e0f2a3ea2280c625ba808d43ad01651e9de9c04f9ef1cca",
+   "xmp": "references/10-blacks+100.xmp",
+   "xmp_sha256": "7b7d316eb592cdc9f5e9f3bbf56af73bb670b298f04d20d8901028decf6471ab"
+  },
+  {
+   "photo": 11,
+   "name": "default",
+   "reference": "references/11-default.tif",
+   "reference_sha256": "569fc811f90e80f38f20ec4fab65036705a0a2127af70db4fb6df66c84781013",
+   "xmp": "references/11-default.xmp",
+   "xmp_sha256": "1555cc1fa7ea5f9c97c103cf1c7cbcd818f5ea07dcc42c2ac48afc1926ae7613"
+  },
+  {
+   "photo": 11,
+   "name": "blacks-100",
+   "reference": "references/11-blacks-100.tif",
+   "reference_sha256": "74072d8205109b39eec5d355dd322ca5544faa0bc11482003d3c09677c10495f",
+   "xmp": "references/11-blacks-100.xmp",
+   "xmp_sha256": "80e28e5928df47172df3da9cdd8b2be6d2bfbc80c75b6a90c30e2046e8ec8985"
+  },
+  {
+   "photo": 11,
+   "name": "blacks-50",
+   "reference": "references/11-blacks-50.tif",
+   "reference_sha256": "fcf6e590ed4c888a570381b1050cfa1b866bd76d404c412b49d489ac9ad2418a",
+   "xmp": "references/11-blacks-50.xmp",
+   "xmp_sha256": "62d24a18602d488f84dedc584c8a066591d3d022c1af0237db20c6177d7d0150"
+  },
+  {
+   "photo": 11,
+   "name": "blacks-25",
+   "reference": "references/11-blacks-25.tif",
+   "reference_sha256": "1972ada12d36fc6ba86b641ab4729913ccc063f1d8b0bc17c0c827ca79471643",
+   "xmp": "references/11-blacks-25.xmp",
+   "xmp_sha256": "c7ac029e4fec392b50f948359224e387c3fd9ea351be1ecf86132ede478e01b8"
+  },
+  {
+   "photo": 11,
+   "name": "blacks+25",
+   "reference": "references/11-blacks+25.tif",
+   "reference_sha256": "e5aada78311d693c828de501f4f9ade06c6f090971a0a1ea7cd378f18a2aad7a",
+   "xmp": "references/11-blacks+25.xmp",
+   "xmp_sha256": "497aa1b372053c8a47f00f9c70cf053e09582609afb012b45d124f45278708fc"
+  },
+  {
+   "photo": 11,
+   "name": "blacks+50",
+   "reference": "references/11-blacks+50.tif",
+   "reference_sha256": "2c27c719126b9bb71f635e9f89200f7c0e8c5b64e2dbffecbbe0bc4d6d4f49de",
+   "xmp": "references/11-blacks+50.xmp",
+   "xmp_sha256": "f7a5f15e28eb4840ea7ab888812b9a77913796d78f48572d5f0e80df2d1e61e1"
+  },
+  {
+   "photo": 11,
+   "name": "blacks+100",
+   "reference": "references/11-blacks+100.tif",
+   "reference_sha256": "1051bc27ae18899bb02fab37f91417748be5e3d490ac539fb6d3d47d3f6e6816",
+   "xmp": "references/11-blacks+100.xmp",
+   "xmp_sha256": "9fcf906ec08e2ad3c3d2de89a798d19a6eb4ddd73c4b51e527cbb52d8d894aa3"
+  }
+ ]
+}

@@ -1,0 +1,244 @@
+{
+ "schema": 1,
+ "set": "color-mixer-foliage-train",
+ "settings": [
+  "green-hue-50",
+  "green-hue+50",
+  "yellow-sat-50",
+  "yellow-sat+50",
+  "green-lum-50",
+  "green-lum+50"
+ ],
+ "photos": [
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco IMG_8892.CR2",
+   "sha256": "1078475c0c5cbff4482693bf73cf76609dd345bf54ce95bebcedc86ea1221644",
+   "p90_L": 39.248023056862564,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS REBEL T3",
+   "subject": "golden retriever resting in a pile of autumn leaves",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - DSC06299.ARW",
+   "sha256": "6f5a351d88c577f65b408524446e988dda3fc32afce5068641393e28c3226acc",
+   "p90_L": 33.277014496608324,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "ILCE-7M2",
+   "subject": "woman holding dried plants while wrapped in a blanket",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/signature edits free raw files tag @signatureeditsco IMG_5673 (2)(1).CR2",
+   "sha256": "a205f9d2e555daa0683fe7d8772bd52505591453a24e9bcb3e024089de642c0c",
+   "p90_L": 36.407117006272436,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS 5D Mark II",
+   "subject": "woman in brown leather boots and jacket sitting on stone steps",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/tag @ryanbreitkreutz - free raws from @signatureeditsco - signatureedits.com - DSC02405.ARW",
+   "sha256": "89ada84ecafcd8cb5dcac0c3529c32d7fe982787bece93146368bd6089b5dfc2",
+   "p90_L": 35.06868499146488,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "ILCE-7M3",
+   "subject": "woman in yellow dress walking down tree-lined path",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - IMG_4077.CR2",
+   "sha256": "bef7d17f0cff6281fbeb791dadf006f19a17fcefe4b995c300b819b519c59c10",
+   "p90_L": 31.239589360837495,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS 6D",
+   "subject": "wedding couple embracing in a forest",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/tag @valeqvisuals-2 - signature edits free raw photos.ARW",
+   "sha256": "cb952db982b050d78ecc2188633489837f9db7a699aedb62f254775945e16789",
+   "p90_L": 39.21606453671801,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "ILCE-7M4",
+   "subject": "woman in a sunflower field holding her hair",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits Free Raw Files - Tag @signatureeditsco IMG_0913.CR2",
+   "sha256": "e818472b34fa4f9b710780ee2ffec732d3613b795aabce0d085144ec0aa90514",
+   "p90_L": 38.23754753183514,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS 6D",
+   "subject": "woman peeking through large green leaves",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/1 signatureedits9823u.dng",
+   "sha256": "c7684fe33a13602b26f0bf8ae2a9fe4a3a5eb1bbd59a79a5642c63b41888732a",
+   "p90_L": 55.46650659558534,
+   "stratum": "mid",
+   "make": "Apple",
+   "model": "iPhone X",
+   "subject": "white SUV parked on a sandy beach near rocky coastline",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/_MGL3114.CR2",
+   "sha256": "060609c6084d9040689c8550c7c1f31f3ac3469675c6bcf2b950fb798ee58f7f",
+   "p90_L": 59.68124837128452,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 5D Mark III",
+   "subject": "yellow flowering shrubs on a cliff overlooking a lake",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits free raw files tag @signatureeditsco RAW_0833.NEF",
+   "sha256": "01fca435809587d48fde50d724144c28333317c086a0f4a1306768f3c0746ed0",
+   "p90_L": 74.47450978473184,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "D5600",
+   "subject": "motorcyclist riding on a dirt track",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - P1060536.RW2",
+   "sha256": "bec6b3b33310f8dd4ba9f50c053ed0da2b7f28677a04ec672abec42d8ccde552",
+   "p90_L": 58.75073062567383,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DMC-GX80",
+   "subject": "a turquoise lake surrounded by rolling hills and forests",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/  tag @ryanbreitkreutz - signature edits free raw photos.ARW",
+   "sha256": "18c509459808b235d5e3894d3116d3094e124945875a37276760d87fc49aceda",
+   "p90_L": 47.68243569421208,
+   "stratum": "mid",
+   "make": "Sony",
+   "model": "ILCE-7M3",
+   "subject": "waterfall cascading into a pool surrounded by forested cliffs",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/IMG_0188.cr2",
+   "sha256": "0a735f621fc93b2c8582a1646cbd17e48d14091b535b3d1c5c291ee713638694",
+   "p90_L": 64.51651769554148,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 550D",
+   "subject": "young woman walking barefoot on a forest path",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/Free Raw Files - Tag @signatureeditsco VIS_0381.NEF",
+   "sha256": "03584a6df87519590f332a18ddcd06025c3b57bef47f8d657003230c1427bcac",
+   "p90_L": 52.43631303944195,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "D5600",
+   "subject": "a gray monkey sitting on a tree stump",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/signature edits APC_00171.dng",
+   "sha256": "233f64f11514e7fca0420d459c12fe54976eaf2be858deea4c9275d41d8b8b5a",
+   "p90_L": 93.68810490106559,
+   "stratum": "high",
+   "make": "Apple",
+   "model": "iPhone XS Max",
+   "subject": "woman in denim dress holding a mug",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco IMG_7063.cr2",
+   "sha256": "15fc574e38fb73a25e125d6d7a513d99ea1b90c10d239e4812c0a8e75d572b08",
+   "p90_L": 77.16925729179381,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS 6D",
+   "subject": "woman in forest with sunlight filtering through trees",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/free raw files - credit signatureedits.com - DSC_9474.NEF",
+   "sha256": "23d72dabc451a71632d8dcb4c4ed826c35fe25404901543a4db5d1be7441e3ec",
+   "p90_L": 76.90423116374595,
+   "stratum": "high",
+   "make": "Nikon",
+   "model": "Z 5",
+   "subject": "blond woman adjusting her hair in a pine forest",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/tag @ryanbreitkreutz - tag @signatureeditsco - free raws from signatureedits.com DSC00240.ARW",
+   "sha256": "170cbac8eb9a24ae57ef2c4da536220201f536cd795a98bae0e805e1f31bdbf1",
+   "p90_L": 80.6604409541761,
+   "stratum": "high",
+   "make": "Sony",
+   "model": "ILCE-7M3",
+   "subject": "man walking along edge of turquoise pool",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/IMG_5342.CR2",
+   "sha256": "19ed10a9f223d5deaf9309cfb807b84105053fc107bc523baec5cdf352d5e36f",
+   "p90_L": 78.7128651938057,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS 5D Mark II",
+   "subject": "brown horse wearing a black cap",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/tag @salmanhaider47_DSC0042.NEF",
+   "sha256": "3b79541da473f90a3c748463b54eb588bf83dea90bb3a1ebcb5a3a9d49bb9bf7",
+   "p90_L": 79.04775404208519,
+   "stratum": "high",
+   "make": "Nikon",
+   "model": "D5300",
+   "subject": "man wearing sunglasses sitting in a field of dry grass",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/free raw files - please credit signatureedits.com IDSC01044.arw",
+   "sha256": "415fc9bfbc8a1d77f9ea1ac1213f60da80d175a1bc9f734d3460c1b45725ef19",
+   "p90_L": 90.03677980129818,
+   "stratum": "high",
+   "make": "Sony",
+   "model": "ILCE-7R",
+   "subject": "woman holding dried grass in autumn woods",
+   "score": null
+  }
+ ],
+ "crs": {
+  "green-hue-50": {
+   "HueAdjustmentGreen": "-50"
+  },
+  "green-hue+50": {
+   "HueAdjustmentGreen": "+50"
+  },
+  "yellow-sat-50": {
+   "SaturationAdjustmentYellow": "-50"
+  },
+  "yellow-sat+50": {
+   "SaturationAdjustmentYellow": "+50"
+  },
+  "green-lum-50": {
+   "LuminanceAdjustmentGreen": "-50"
+  },
+  "green-lum+50": {
+   "LuminanceAdjustmentGreen": "+50"
+  }
+ }
+}

@@ -1,0 +1,154 @@
+{
+ "schema": 1,
+ "set": "color-mixer-skin-holdout",
+ "settings": [
+  "orange-hue-50",
+  "orange-hue+50",
+  "orange-sat-50",
+  "orange-sat+50",
+  "orange-lum-50",
+  "orange-lum+50"
+ ],
+ "photos": [
+  {
+   "raw": "raws/signature-edits/Mthembeni Mavundla (2).CR2",
+   "sha256": "ddc0a86b9ee24872dcdd67ba689dad2b6a2aee8c13e3a761e255d39427ac872e",
+   "p90_L": 5.354358717575379,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS M3",
+   "subject": "portrait of a man in a dark setting",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/- credit_signatureedits.com - DSC.3003.dng",
+   "sha256": "47a4b56a36a8799ba45dc9f5e967f52f4a34931ac2c18429843d372d1ebe5a6a",
+   "p90_L": 21.124764939028193,
+   "stratum": "low",
+   "make": "Leica",
+   "model": "SL2-S",
+   "subject": "shirtless man smoking in dim light",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/Free Raw Files - Tag @signatureeditsco DSC_3500.nef",
+   "sha256": "133c5741e60bd6cfa12550a74f4a801a76376b5ff6795fd1a912025d16083a29",
+   "p90_L": 32.34933854561544,
+   "stratum": "low",
+   "make": "Nikon",
+   "model": "D3100",
+   "subject": "woman in black dress lying on stone steps",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/signature edits free raws DSC08455.arw",
+   "sha256": "0d8075966a38ef4798eea7d52916e7d6c1bf0dd151de1607784d8fdf0bf32fec",
+   "p90_L": 29.757108088076194,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "ILCE-6300",
+   "subject": "woman sitting on a chair in a sunlit room",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/- credit_signatureedits.com - Kooskoos.CR2",
+   "sha256": "03764ebe1938c0705f65bf06060b494dc12f4b02075ff2a5bc75f2d14c900d30",
+   "p90_L": 59.57375526536253,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 5D Mark IV",
+   "subject": "woman with glitter on her face and shoulders",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/pls tag @ryanbreitkreutz signature edits free raw photos DJI_0239.DNG",
+   "sha256": "b81eab585cf2fa8a7b56c6f9f617a0af2f3d40450bb1c05e655034bff3fa54b1",
+   "p90_L": 66.81749428424304,
+   "stratum": "mid",
+   "make": "DJI",
+   "model": "FC7303",
+   "subject": "person floating in a swimming pool surrounded by tropical foliage",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/instagramnoelmonzon25.NEF",
+   "sha256": "010fe3340e02c9d91e6770acc6a619bc2dd131a2f3ae3c92ba7cceda0f212aa2",
+   "p90_L": 61.64774477573932,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "D780",
+   "subject": "person in dark clothing climbing a ladder in a concrete space",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/PANA8507.RW2",
+   "sha256": "4da6d41e2df122e1048599248fdb37ce37f2a7b501aba48f026bc8a9503f4cd2",
+   "p90_L": 74.99937054560932,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DC-GH5",
+   "subject": "couple running on beach with palm trees in background",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/M4_24117.CR2",
+   "sha256": "170aa36db600207d4d37b7c14b835cb876cc414968a504160b3e9b5bb6bf5460",
+   "p90_L": 90.78639714403866,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS 5D Mark IV",
+   "subject": "bride with floral crown overlooking a lake",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco DSC_3262.NEF",
+   "sha256": "0cefd8214fff366518864dcfc8a0da81cf7c797af4a8f90f000871e33f679dc1",
+   "p90_L": 76.29755905092256,
+   "stratum": "high",
+   "make": "Nikon",
+   "model": "D5100",
+   "subject": "woman in a sleeveless mint dress with a white collar",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/PANA2592.RW2",
+   "sha256": "072fabc7dd56f40cffb3a6dcc3ff18cf0c1c6b4d8eccb86e1b2659237b93ef8b",
+   "p90_L": 93.80401397125098,
+   "stratum": "high",
+   "make": "Panasonic",
+   "model": "DC-GH5",
+   "subject": "woman with blonde hair wearing a denim jacket",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco DSC02439.ARW",
+   "sha256": "37ebfa80ff6981a25861db0e2e00a6138c1a067966ef70e0ed8899bf4b849099",
+   "p90_L": 94.73281007983987,
+   "stratum": "high",
+   "make": "Sony",
+   "model": "ILCE-7SM3",
+   "subject": "couple wrapped in a colorful blanket in a grassy field",
+   "score": null
+  }
+ ],
+ "crs": {
+  "orange-hue-50": {
+   "HueAdjustmentOrange": "-50"
+  },
+  "orange-hue+50": {
+   "HueAdjustmentOrange": "+50"
+  },
+  "orange-sat-50": {
+   "SaturationAdjustmentOrange": "-50"
+  },
+  "orange-sat+50": {
+   "SaturationAdjustmentOrange": "+50"
+  },
+  "orange-lum-50": {
+   "LuminanceAdjustmentOrange": "-50"
+  },
+  "orange-lum+50": {
+   "LuminanceAdjustmentOrange": "+50"
+  }
+ }
+}

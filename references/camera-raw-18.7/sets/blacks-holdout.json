@@ -1,0 +1,94 @@
+{
+ "schema": 1,
+ "set": "blacks-holdout",
+ "settings": [
+  "blacks-100",
+  "blacks-50",
+  "blacks-25",
+  "blacks+25",
+  "blacks+50",
+  "blacks+100"
+ ],
+ "photos": [
+  {
+   "raw": "raws/pixls/Canon/EOS 1300D/IMG_0778.CR2",
+   "sha256": "e064327405b3a736b1cc89d499bc5a049cfb2800bcb06a5072e6d0a82cd296d7",
+   "p90_L": 69.31112931145735,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 1300D",
+   "subject": "mountain peaks rising above a sea of clouds",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Nikon/Z 9/Nikon_-_NIKON_Z_9_-_14bit_compressed_(Lossless).NEF",
+   "sha256": "99d0fe24a38f0f7623aeab21440d266a5ac09f9665cf5283f590337e84323c38",
+   "p90_L": 66.10664106345558,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "Z 9",
+   "subject": "golden abstract sculpture in a city plaza",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-GX7MK3/P2010097.RW2",
+   "sha256": "b801f4b12b18d7c01289a8be5555e753edd38f9c7ffbb8922eede2506d511c66",
+   "p90_L": 72.12438664211149,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DC-GX7MK3",
+   "subject": "a green thermos with a pink plastic egg on top",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-7SM3/DSC01568.ARW",
+   "sha256": "876c7b74c957b6d8c7f9a1c285806d4a3f62269c1a3af070965bcc02fcf903f1",
+   "p90_L": 74.92366654351932,
+   "stratum": "mid",
+   "make": "Sony",
+   "model": "ILCE-7SM3",
+   "subject": "silhouetted trees against a hazy sky",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DMC-FZ2500/P1030343.RW2",
+   "sha256": "1499043ffc9dbf108914ca347e6e9ddc36c144134c53d01346beadbc4164e5ae",
+   "p90_L": 85.8005225329673,
+   "stratum": "high",
+   "make": "Panasonic",
+   "model": "DMC-FZ2500",
+   "subject": "suburban street with houses and manicured lawns",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DMC-FZ2500/P1030346.RW2",
+   "sha256": "65b8cda30bbcfe04b354335a873c53b09e7b3411f87875c592995e5cb239febb",
+   "p90_L": 85.74428859535809,
+   "stratum": "high",
+   "make": "Panasonic",
+   "model": "DMC-FZ2500",
+   "subject": "suburban neighborhood with manicured lawns and houses",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS-1D X Mark III/Canon_EOS-1D_X_Mark_III_RAW_ISO_100_nocrop_nodual.CR3",
+   "sha256": "8f38b9de90eaebefcd54022fcbfdf38e05fb86831c4c976c8ac05c599e63535b",
+   "p90_L": 75.53918418758624,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS-1D X Mark III",
+   "subject": "a dog sleeping on a colorful bed",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-T3/AFXT2720.RAF",
+   "sha256": "24abd27b4a200f3170ea1579672944b807d0eb35bf21422a3937bb644f27f2eb",
+   "p90_L": 91.46723874000647,
+   "stratum": "high",
+   "make": "Fujifilm",
+   "model": "X-T3",
+   "subject": "a bag of yerba mate tea next to plush toys",
+   "score": 1
+  }
+ ]
+}

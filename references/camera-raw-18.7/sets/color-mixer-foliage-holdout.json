@@ -1,0 +1,114 @@
+{
+ "schema": 1,
+ "set": "color-mixer-foliage-holdout",
+ "settings": [
+  "green-hue-50",
+  "green-hue+50",
+  "yellow-sat-50",
+  "yellow-sat+50",
+  "green-lum-50",
+  "green-lum+50"
+ ],
+ "photos": [
+  {
+   "raw": "raws/pixls/Canon/EOS M6 Mark II/IMG_CRAW_1_1.CR3",
+   "sha256": "0ccbb6c447d0fab996291be9a5c2728cd7367bcc2f640e2a30eae112e13e6c0e",
+   "p90_L": 68.32334860208525,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS M6 Mark II",
+   "subject": "grass with scattered oak leaves",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-H2/Fuji-X-H2-Lossless-Compressed-Raw.RAF",
+   "sha256": "109be38f59963c9b8ff289ebe1f5ec9168c52f609e5b601432bd194520b4605b",
+   "p90_L": 52.693754240415714,
+   "stratum": "mid",
+   "make": "Fujifilm",
+   "model": "X-H2",
+   "subject": "garden with wilting and blooming flowers",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Nikon/Z 6_2/CZP_0299.NEF",
+   "sha256": "1b67d15817dbd4143a1f1089e2f09e319a2a2327c124e2643284509dd7621030",
+   "p90_L": 70.31117584678184,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "Z 6_2",
+   "subject": "forest view from a wooden deck",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/OM System/OM-5/C1291096.ORF",
+   "sha256": "ee0213ee4899d677d9bd538d8cfa4d0f69bdbacd462c1cf3ca3901036cf2fce7",
+   "p90_L": 73.9633237475305,
+   "stratum": "mid",
+   "make": "OM System",
+   "model": "OM-5",
+   "subject": "green plants and dry twigs in a garden",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/OM System/TG-7/UWAG0002.ORF",
+   "sha256": "4f7344c67bfcfcfec45f754195ba612fc2ad6312f5fab87812bf04b9e9e7d46a",
+   "p90_L": 78.48814803792281,
+   "stratum": "high",
+   "make": "OM System",
+   "model": "TG-7",
+   "subject": "dense green shrubbery in a garden",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Olympus/E-M10 Mark IIIs/ilhabela_202110_0082.ORF",
+   "sha256": "8bc0009eaacdbeacc72606581665702a1242bc6d4b405d1f0b3f149fe6c85e55",
+   "p90_L": 78.87515892390901,
+   "stratum": "high",
+   "make": "Olympus",
+   "model": "E-M10 Mark IIIs",
+   "subject": "lush green coastline with rocky shore and ocean",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-7C/DSC00107[1].ARW",
+   "sha256": "386ce0122687b802e8e57151d36643b830f87e59eed15b65c690d1032eb3b763",
+   "p90_L": 90.66719163664212,
+   "stratum": "high",
+   "make": "Sony",
+   "model": "ILCE-7C",
+   "subject": "fern leaf with berries in a planter",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/OM System/OM-1/OM_Systems_OM1_RAW_image_HiRes_80mpx_P1010027.ORF",
+   "sha256": "862dda54644400335633578ea3a37912fbe56429f755499fdbcab9e993543874",
+   "p90_L": 88.24696304495319,
+   "stratum": "high",
+   "make": "OM System",
+   "model": "OM-1",
+   "subject": "snow-covered forest clearing with a paved driveway",
+   "score": null
+  }
+ ],
+ "crs": {
+  "green-hue-50": {
+   "HueAdjustmentGreen": "-50"
+  },
+  "green-hue+50": {
+   "HueAdjustmentGreen": "+50"
+  },
+  "yellow-sat-50": {
+   "SaturationAdjustmentYellow": "-50"
+  },
+  "yellow-sat+50": {
+   "SaturationAdjustmentYellow": "+50"
+  },
+  "green-lum-50": {
+   "LuminanceAdjustmentGreen": "-50"
+  },
+  "green-lum+50": {
+   "LuminanceAdjustmentGreen": "+50"
+  }
+ }
+}

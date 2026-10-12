@@ -1,0 +1,154 @@
+{
+ "schema": 1,
+ "set": "highlights-train",
+ "settings": [
+  "highlights-100",
+  "highlights-50",
+  "highlights-25",
+  "highlights+25",
+  "highlights+50",
+  "highlights+100"
+ ],
+ "photos": [
+  {
+   "raw": "raws/pixls/Canon/PowerShot G1 X Mark III/20180719T101829IMG_0246.CR2",
+   "sha256": "ca052ed025432fdacfba7347cb4374fa3b727155912a91c42ed9a275d13bedf5",
+   "p90_L": 70.62433843630569,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "PowerShot G1 X Mark III",
+   "subject": "arched window with brickwork and red metal bars",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-T30/DSCF0065.RAF",
+   "sha256": "f0353544bc62a6816385de0850e1d37e2f3383892a7eb3928c73e4517fe47ff5",
+   "p90_L": 63.822609842198716,
+   "stratum": "mid",
+   "make": "Fujifilm",
+   "model": "X-T30",
+   "subject": "cityscape with buildings and distant hills under a clear sky",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Leica Camera AG/LEICA M10-R/M10R0324.DNG",
+   "sha256": "ba35d25d521c7ddbc4feca69c8cdbe071ac65dcd6cf2c93374391bf6f3662b8d",
+   "p90_L": 70.80539015308348,
+   "stratum": "mid",
+   "make": "Leica",
+   "model": "M10-R",
+   "subject": "overgrown garden with fencing and plant supports",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Nikon/D5600/2018-01-20_01-14_0792.NEF",
+   "sha256": "4d9b49e6eb8a9e055b10be67f580a9c42538132e3a6e808d2fd08826c644827e",
+   "p90_L": 55.45377077092965,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "D5600",
+   "subject": "night street scene viewed through tree branches",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-G9/P1000951.RW2",
+   "sha256": "16282357ce0143ff7d36737f82074662db7aa0790ecd309196f406baf0f586a7",
+   "p90_L": 63.74690559469991,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DC-G9",
+   "subject": "black motorcycle jacket with red and white accents displayed on a shelf",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Pentax/K-1 Mark II/_K1I9779.DNG",
+   "sha256": "05b0ecfeddfdf404b5a5831763c3aa77bbf9f5b7b9ad502bb93ff5d68887b9e7",
+   "p90_L": 71.68180638205727,
+   "stratum": "mid",
+   "make": "Pentax",
+   "model": "K-1 Mark II",
+   "subject": "bare tree in a grassy field with evergreens in background",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Sigma/fp L/SDIM0915.DNG",
+   "sha256": "8e7229f28be30bfa45289940eac04194af2b3474f6db286e4fa4070c145a0a70",
+   "p90_L": 71.6964533044757,
+   "stratum": "mid",
+   "make": "Sigma",
+   "model": "fp L",
+   "subject": "artificial flower made of layered petals",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Apple/iPhone 7 Plus/IMG_0739.DNG",
+   "sha256": "e8c7ebd8f22f7281d165496b91c8fea8a8e79c8113172fb499e1d66d6045332e",
+   "p90_L": 78.32542395205516,
+   "stratum": "high",
+   "make": "Apple",
+   "model": "iPhone 7 Plus",
+   "subject": "aerial view of a green valley with scattered houses and clouds",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Canon/PowerShot G5 X Mark II/Canon_-_PowerShot_G5_X_Mark_II_-_RAW_(1:1).CR3",
+   "sha256": "13bc9926954dd62f2b84c1539428554754c078953c7af9baa5650cb85237aec8",
+   "p90_L": 92.76644753643757,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "PowerShot G5 X Mark II",
+   "subject": "a lakeside village seen through autumn trees",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/XF10/DSCF6466.RAF",
+   "sha256": "0486676fdbbdc7f3f4c63cd45aa76581cbc1316f4c9baef8781bced0fbc137db",
+   "p90_L": 79.05712297626046,
+   "stratum": "high",
+   "make": "Fujifilm",
+   "model": "XF10",
+   "subject": "castle on a hill overlooking a waterfront",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Google/Pixel 4 XL/IMG_20191023_125156.dng",
+   "sha256": "0c03a6c93b4b8593cd0e4426166e6389710007238b82eb23861ef191322f0c54",
+   "p90_L": 85.23252275405812,
+   "stratum": "high",
+   "make": "Google",
+   "model": "Pixel 4 XL",
+   "subject": "roadside view with houses and autumn trees",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Hasselblad/L2D-20c/DJI_0023.DNG",
+   "sha256": "dbe98cb202f884ff11e0144899613b26d33cf9cddd9f1a62226f4352397f18e4",
+   "p90_L": 89.73176092937037,
+   "stratum": "high",
+   "make": "Hasselblad",
+   "model": "L2D-20c",
+   "subject": "beach scene with swimmers and coastal houses",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Leica/CL/L1080510_2018_CL-35-135-Chateau_Thy__Chateau_Ham.DNG",
+   "sha256": "1f4cfa565d176d85838d96bd3eb598bbeed719cac8acb9999d5823c527635950",
+   "p90_L": 87.85820882036465,
+   "stratum": "high",
+   "make": "Leica",
+   "model": "CL",
+   "subject": "stone castle in a green field under a partly cloudy sky",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/NIKON CORPORATION/NIKON Z fc/Nikon_Z_fc_14bit.NEF",
+   "sha256": "038995c5108899cfa3f54d99364752fe761bb0accb8b26a21ac274d107a85d05",
+   "p90_L": 75.8937142607546,
+   "stratum": "high",
+   "make": "Nikon",
+   "model": "Z fc",
+   "subject": "garden tools and containers against a wooden fence",
+   "score": 2
+  }
+ ]
+}

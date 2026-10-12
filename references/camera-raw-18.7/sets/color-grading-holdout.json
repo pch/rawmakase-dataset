@@ -1,0 +1,149 @@
+{
+ "schema": 1,
+ "set": "color-grading-holdout",
+ "settings": [
+  "grading-shadows-h210",
+  "grading-highlights-h40",
+  "grading-midtones-h30",
+  "grading-blending-100",
+  "grading-balance-50",
+  "grading-balance+50"
+ ],
+ "photos": [
+  {
+   "raw": "raws/pixls/Fujifilm/X70/DSCF8848.RAF",
+   "sha256": "4f9c33fde578addebda991c37d26551b46fab8f592c74f7192560a05ec08d577",
+   "p90_L": 34.48887992945352,
+   "stratum": "low",
+   "make": "Fujifilm",
+   "model": "X70",
+   "subject": "night view of a stone clock tower",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Pentax/K-70/IMGP6854.PEF",
+   "sha256": "1d64c6aa71680642ba8f00b6f6105df3e66a4534e631f422fbf3316273c4408c",
+   "p90_L": 32.46673539235125,
+   "stratum": "low",
+   "make": "Pentax",
+   "model": "K-70",
+   "subject": "a ceiling light in a dim room",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS M6 Mark II/IMG_CRAW_1_1.CR3",
+   "sha256": "0ccbb6c447d0fab996291be9a5c2728cd7367bcc2f640e2a30eae112e13e6c0e",
+   "p90_L": 68.32334860208525,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS M6 Mark II",
+   "subject": "grass with scattered oak leaves",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/DJI/FC7303/DJI_0109.DNG",
+   "sha256": "21a49e63966f82391ca1188c7559c3acc01a35a89a70194fda4bf44cbd64a851",
+   "p90_L": 68.57112440139313,
+   "stratum": "mid",
+   "make": "DJI",
+   "model": "FC7303",
+   "subject": "blue car driving on winding road beside a reservoir",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-H2/Fuji-X-H2-Lossless-Compressed-Raw.RAF",
+   "sha256": "109be38f59963c9b8ff289ebe1f5ec9168c52f609e5b601432bd194520b4605b",
+   "p90_L": 52.693754240415714,
+   "stratum": "mid",
+   "make": "Fujifilm",
+   "model": "X-H2",
+   "subject": "garden with wilting and blooming flowers",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/HUAWEI/VOG-L29/IMG_20190330_123314.dng",
+   "sha256": "6dea2735a31f06e39b1a203826bcdfe4ff0fcdec444772bdab455c49f91b1846",
+   "p90_L": 68.50966729348222,
+   "stratum": "mid",
+   "make": "HUAWEI",
+   "model": "VOG-L29",
+   "subject": "model village with houses and train station",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Canon/Canon EOS R100/_MG_2195[1].CR3",
+   "sha256": "0b66842b2fe00329ebc05fe8ab9357ddbbe1a0a2d2e69a2893102de7fdf5c942",
+   "p90_L": 93.05444482485849,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS R100",
+   "subject": "orange flowers in front of a window",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/DJI/FC7303/DJI_0765.DNG",
+   "sha256": "fb4f294e12cab7b507fd0b7c07f24e5d13e7c0dd127b534ce12c48d644c9363d",
+   "p90_L": 81.91679614199599,
+   "stratum": "high",
+   "make": "DJI",
+   "model": "FC7303",
+   "subject": "lake beside a highway with surrounding trees and fields",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-T3/AFXT2720.RAF",
+   "sha256": "24abd27b4a200f3170ea1579672944b807d0eb35bf21422a3937bb644f27f2eb",
+   "p90_L": 91.46723874000647,
+   "stratum": "high",
+   "make": "Fujifilm",
+   "model": "X-T3",
+   "subject": "a bag of yerba mate tea next to plush toys",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Google/Pixel 8 Pro/PXL_20240415_103400204.RAW-02.ORIGINAL.dng",
+   "sha256": "45420c595401547cca950ae58d552bc82b32d31ce1d58c082df33004016197f5",
+   "p90_L": 84.64685911785156,
+   "stratum": "high",
+   "make": "Google",
+   "model": "Pixel 8 Pro",
+   "subject": "trees silhouetted against a sunset reflected in water",
+   "score": null
+  }
+ ],
+ "crs": {
+  "grading-shadows-h210": {
+   "SplitToningShadowHue": "210",
+   "SplitToningShadowSaturation": "50"
+  },
+  "grading-highlights-h40": {
+   "SplitToningHighlightHue": "40",
+   "SplitToningHighlightSaturation": "50"
+  },
+  "grading-midtones-h30": {
+   "ColorGradeMidtoneHue": "30",
+   "ColorGradeMidtoneSat": "50"
+  },
+  "grading-blending-100": {
+   "SplitToningShadowHue": "210",
+   "SplitToningShadowSaturation": "50",
+   "SplitToningHighlightHue": "40",
+   "SplitToningHighlightSaturation": "50",
+   "ColorGradeBlending": "100"
+  },
+  "grading-balance-50": {
+   "SplitToningShadowHue": "210",
+   "SplitToningShadowSaturation": "50",
+   "SplitToningHighlightHue": "40",
+   "SplitToningHighlightSaturation": "50",
+   "SplitToningBalance": "-50"
+  },
+  "grading-balance+50": {
+   "SplitToningShadowHue": "210",
+   "SplitToningShadowSaturation": "50",
+   "SplitToningHighlightHue": "40",
+   "SplitToningHighlightSaturation": "50",
+   "SplitToningBalance": "+50"
+  }
+ }
+}

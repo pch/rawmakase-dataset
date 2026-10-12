@@ -1,0 +1,124 @@
+{
+ "schema": 1,
+ "set": "color-mixer-sky-holdout",
+ "settings": [
+  "blue-hue-50",
+  "blue-hue+50",
+  "blue-sat-50",
+  "blue-sat+50",
+  "blue-lum-50",
+  "blue-lum+50"
+ ],
+ "photos": [
+  {
+   "raw": "raws/pixls/Fujifilm/X70/DSCF8848.RAF",
+   "sha256": "4f9c33fde578addebda991c37d26551b46fab8f592c74f7192560a05ec08d577",
+   "p90_L": 34.48887992945352,
+   "stratum": "low",
+   "make": "Fujifilm",
+   "model": "X70",
+   "subject": "night view of a stone clock tower",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS 1300D/IMG_0778.CR2",
+   "sha256": "e064327405b3a736b1cc89d499bc5a049cfb2800bcb06a5072e6d0a82cd296d7",
+   "p90_L": 69.31112931145735,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 1300D",
+   "subject": "mountain peaks rising above a sea of clouds",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-H2/Fuji-X-H2-Compressed-Raw.RAF",
+   "sha256": "caeadb2666f6c5d9bbe32fbe692c2079b6a7e028f8514a13173f360656d08507",
+   "p90_L": 63.92974995323123,
+   "stratum": "mid",
+   "make": "Fujifilm",
+   "model": "X-H2",
+   "subject": "garden with wilting and blooming flowers",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Nikon/Z 9/Nikon_-_NIKON_Z_9_-_14bit_compressed_(Lossless).NEF",
+   "sha256": "99d0fe24a38f0f7623aeab21440d266a5ac09f9665cf5283f590337e84323c38",
+   "p90_L": 66.10664106345558,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "Z 9",
+   "subject": "golden abstract sculpture in a city plaza",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-GF10/P1010034.RW2",
+   "sha256": "e1496c9235eed14da1611d163ed383b889abbb73005196b97aedc19530845714",
+   "p90_L": 71.68373955618802,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DC-GF10",
+   "subject": "green field with irrigation canal under clear sky",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS Kiss X80/IMG_3688.CR2",
+   "sha256": "155878290528ff91f67b4f9ffed5d765e80ede5fb0c36fca40107c0b7f5c1d9d",
+   "p90_L": 81.23285545467755,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS Kiss X80",
+   "subject": "curving road through arid landscape with cacti",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/DJI/FC7303/DJI_0765.DNG",
+   "sha256": "fb4f294e12cab7b507fd0b7c07f24e5d13e7c0dd127b534ce12c48d644c9363d",
+   "p90_L": 81.91679614199599,
+   "stratum": "high",
+   "make": "DJI",
+   "model": "FC7303",
+   "subject": "lake beside a highway with surrounding trees and fields",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Google/Pixel 8 Pro/PXL_20240415_103400204.RAW-02.ORIGINAL.dng",
+   "sha256": "45420c595401547cca950ae58d552bc82b32d31ce1d58c082df33004016197f5",
+   "p90_L": 84.64685911785156,
+   "stratum": "high",
+   "make": "Google",
+   "model": "Pixel 8 Pro",
+   "subject": "trees silhouetted against a sunset reflected in water",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Nikon/Z 7_2/Z72_0029.NEF",
+   "sha256": "60de3df0af395adac77c20db7f2714760450eaff99f8d0a76834c447bedf7381",
+   "p90_L": 83.56569039495895,
+   "stratum": "high",
+   "make": "Nikon",
+   "model": "Z 7_2",
+   "subject": "historic stone tower and barn in a grassy field",
+   "score": null
+  }
+ ],
+ "crs": {
+  "blue-hue-50": {
+   "HueAdjustmentBlue": "-50"
+  },
+  "blue-hue+50": {
+   "HueAdjustmentBlue": "+50"
+  },
+  "blue-sat-50": {
+   "SaturationAdjustmentBlue": "-50"
+  },
+  "blue-sat+50": {
+   "SaturationAdjustmentBlue": "+50"
+  },
+  "blue-lum-50": {
+   "LuminanceAdjustmentBlue": "-50"
+  },
+  "blue-lum+50": {
+   "LuminanceAdjustmentBlue": "+50"
+  }
+ }
+}

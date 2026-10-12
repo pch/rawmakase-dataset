@@ -1,0 +1,154 @@
+{
+ "schema": 1,
+ "set": "dehaze-train",
+ "settings": [
+  "dehaze-100",
+  "dehaze-50",
+  "dehaze-25",
+  "dehaze+25",
+  "dehaze+50",
+  "dehaze+100"
+ ],
+ "photos": [
+  {
+   "raw": "raws/pixls/Canon/PowerShot G7 X Mark II/IMG_0166.CR2",
+   "sha256": "b81acebf5ac49b0389c354942d128d9423fdd59ff92217554f232f94e3e87ef5",
+   "p90_L": 58.37516663705029,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "PowerShot G7 X Mark II",
+   "subject": "calm lake with algae-covered shoreline and distant hills",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Nikon/COOLPIX P1000/DSCN1113.NRW",
+   "sha256": "1d9470ee083f914e51aa0be782161b432f27f87dbef551a59ec435f5dbc289dd",
+   "p90_L": 51.54737661012409,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "COOLPIX P1000",
+   "subject": "sunset over water with birds flying",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS 200D Mark II/_MG_3608.CR3",
+   "sha256": "4ea0cbd52b760a5654d3f431c7c9ecf8acdc62a6aa74a2cfbfe651693c740c77",
+   "p90_L": 65.14383225684925,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 200D Mark II",
+   "subject": "a kingfisher perched on a stick near water",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Leica/Q2/L1000750.DNG",
+   "sha256": "a71f98405e9e9c1e4ac0f2d2e6c52d65daae3234fc0a9f6eed2a84ee4ce794ad",
+   "p90_L": 68.02623524848337,
+   "stratum": "mid",
+   "make": "Leica",
+   "model": "Q2",
+   "subject": "red and white ferry docked at a river pier",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Nikon/D3400/DSC_0330_bad.NEF",
+   "sha256": "69d1f76c3a206f846a3e3957663f0f3285ac4d1c74494443314019a7e889ca62",
+   "p90_L": 72.90591912709488,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "D3400",
+   "subject": "a bush with white blossoms in a field of dry reeds and bare trees",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Olympus/E-M1X/P3240916.ORF",
+   "sha256": "ab171cedfe3a65438dd47c2df704a7d3001f45f5ab43e67b7f96cfe30b6ebbcf",
+   "p90_L": 73.71540726376253,
+   "stratum": "mid",
+   "make": "Olympus",
+   "model": "E-M1X",
+   "subject": "frozen lake at dusk with wooden pier",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-G110/DC-G110-4:3.RW2",
+   "sha256": "4439a761e8fbe5d7e9b9f6a2284e77f307dc54cbb8ac7870fd8fd87acc99a82e",
+   "p90_L": 45.6398456018128,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DC-G110",
+   "subject": "view through bare branches to a calm waterway",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-S1R/P1000077.RW2",
+   "sha256": "8b8a969617705d9997ee0461354c99905b964ae08b820cd24c6d4e440461e24c",
+   "p90_L": 89.26177431556744,
+   "stratum": "high",
+   "make": "Panasonic",
+   "model": "DC-S1R",
+   "subject": "hilly countryside with trees and a hedge",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Samsung/SM-G960F/20191119_101508.dng",
+   "sha256": "b87f90976bae71035c5d001cc3d83b54abe53b45018f01fdfcf8de2a8243119d",
+   "p90_L": 85.5564683310352,
+   "stratum": "high",
+   "make": "Samsung",
+   "model": "SM-G960F",
+   "subject": "foggy rural field with a winding path and farm buildings in the distance",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Apple/iPhone 7 Plus/IMG_0739.DNG",
+   "sha256": "e8c7ebd8f22f7281d165496b91c8fea8a8e79c8113172fb499e1d66d6045332e",
+   "p90_L": 78.32542395205516,
+   "stratum": "high",
+   "make": "Apple",
+   "model": "iPhone 7 Plus",
+   "subject": "aerial view of a green valley with scattered houses and clouds",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Canon/PowerShot G5 X Mark II/Canon_-_PowerShot_G5_X_Mark_II_-_RAW_(1:1).CR3",
+   "sha256": "13bc9926954dd62f2b84c1539428554754c078953c7af9baa5650cb85237aec8",
+   "p90_L": 92.76644753643757,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "PowerShot G5 X Mark II",
+   "subject": "a lakeside village seen through autumn trees",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/DJI/FC9287/DJI_20250528104510_0025_D.DNG",
+   "sha256": "901b7970f02f7197c782f111363feef02108f75811342d8cc4a2b66757bb7af0",
+   "p90_L": 90.44344241638767,
+   "stratum": "high",
+   "make": "DJI",
+   "model": "FC9287",
+   "subject": "suburban neighborhood with solar panels and distant buildings",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/FUJIFILM/GFX100S II/_DSF0001.RAF",
+   "sha256": "10e007f3d1aef2ac9bf4da063ea1983e44515af818bf0ab63e3703cd67803810",
+   "p90_L": 79.37835107488803,
+   "stratum": "high",
+   "make": "Fujifilm",
+   "model": "GFX100S II",
+   "subject": "fence with yellow flowers in foreground",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Nikon/Coolpix A1000/DSCN0417.NRW",
+   "sha256": "9b4edd03bbb17d66eacc2a72b30f044969e67666446f3f1ed25e88bb947d4f8a",
+   "p90_L": 76.52957964870771,
+   "stratum": "high",
+   "make": "Nikon",
+   "model": "Coolpix A1000",
+   "subject": "forest stream flowing over rocks",
+   "score": 1
+  }
+ ]
+}

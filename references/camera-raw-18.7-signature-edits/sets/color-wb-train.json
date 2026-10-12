@@ -1,0 +1,262 @@
+{
+ "schema": 1,
+ "set": "color-wb-train",
+ "settings": [
+  "wb-daylight",
+  "wb-tungsten",
+  "wb-fluorescent",
+  "temperature-3200",
+  "temperature-5000",
+  "temperature-8000",
+  "tint-30",
+  "tint+30"
+ ],
+ "photos": [
+  {
+   "raw": "raws/signature-edits/credit @arielsan_m1 - signature edits free raw files.CR2",
+   "sha256": "4746b0cef348ed91011da60ffc4553a91542f73736c2888276f11cba7ab7ce65",
+   "p90_L": 38.32170964993904,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS 5D Mark III",
+   "subject": "woman in traditional attire standing in a dimly lit mosque courtyard",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits Free Raw Photos - DSC_2470.dng",
+   "sha256": "3fbc4422aa9523d7e1fc234996460ecc5a6a2458162f70bd91c0117d0d0b68a0",
+   "p90_L": 37.46964332892568,
+   "stratum": "low",
+   "make": "Nikon",
+   "model": "D800",
+   "subject": "woman lying on a rug surrounded by vinyl records",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco _DSC5952.ARW",
+   "sha256": "05a0e4a1dabf2d98dde04f8d4703dd6f0575bf78d9bde788caf3db59db87f788",
+   "p90_L": 21.9364878582095,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "ILCE-7M3",
+   "subject": "silhouette of a man in a hat looking out a window",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/IMG_0069.CR2",
+   "sha256": "5daffb31ab0aca5e2b7394dc58f52afa2b4839c364c71af8b8c5f2e7f6cdc0ef",
+   "p90_L": 38.773057707797804,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS 5D Mark III",
+   "subject": "mountain under a starry night sky",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/credit @ryanbreitkreutz signature edits free raw photos DSC01153.ARW",
+   "sha256": "5dee4eb2351133d6947bcd1a7c66d349172fd40c0baaf07f2212ee15627cb350",
+   "p90_L": 16.251516174879033,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "ILCE-7M3",
+   "subject": "person standing in a cave with a waterfall",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/Free Raw Files - Tag @signatureeditsco IMG_9034.CR2",
+   "sha256": "84f96a48f4493ef0cb51d074400b24d5776fd1acbf91edb6bd73e0b25ab0496b",
+   "p90_L": 36.891220843849574,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS 6D",
+   "subject": "Milky Way galaxy in night sky",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/Tag @ryanbreitkreutz - Free files from @signatureeditsco DSC00841.ARW",
+   "sha256": "5f882caf3dd79e432571dd84a7f7a5bbd58108e9b8cb6fe6b51391d2cdaacf17",
+   "p90_L": 1.770271627178426,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "ILCE-7M4",
+   "subject": "silhouette of a person at the top of a staircase looking into a lit doorway",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/Canon-6D-Shotkit-11.CR2",
+   "sha256": "0b4e66f1c648268544ae2506f2e0b9cdee085093666e47b16ce74ad97e61a744",
+   "p90_L": 65.59872991024392,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 6D",
+   "subject": "wedding couple sitting on a bench in a lush greenhouse",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/Free Raws From Signature EditsDSC04840.ARW",
+   "sha256": "10c512e16507c94f5f28faec34c399ac26d1be64f79ceaa9e22ca83020b9131e",
+   "p90_L": 54.48309190193323,
+   "stratum": "mid",
+   "make": "Sony",
+   "model": "ILCE-7M2",
+   "subject": "German Shepherd dog with mouth open",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/tag and folow @hisfotografia on insta1.CR2",
+   "sha256": "1021ab7d46a2e643260f44ca3f6e90d2064e249f2f3dfa56de65293333db7502",
+   "p90_L": 61.848415450250165,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS REBEL T5i",
+   "subject": "guitarist performing on stage with long hair flying",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/Copy of free raws from signatureedits.com - tag @signatureeditsco - DSC02977.ARW",
+   "sha256": "1b584346e5f4e2fe283d18a55fb08fb5092365da46162fb5e7ff146efeaecd03",
+   "p90_L": 72.06900814923029,
+   "stratum": "mid",
+   "make": "Sony",
+   "model": "ILCE-7M3",
+   "subject": "couple embracing in a warmly lit night scene",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/5I1A3230.CR2",
+   "sha256": "2c31531964dc53002c822f85aef581a841878045155d08f0dff2a2f126d9f08d",
+   "p90_L": 72.34251597375763,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 5D Mark III",
+   "subject": "child playing with colorful blocks",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - DSC00024.ARW",
+   "sha256": "300d5af58c91e6a43513559ee97d29bf161cfcb54e12bac0d8a96a1e83bf7a7d",
+   "p90_L": 48.99510620202475,
+   "stratum": "mid",
+   "make": "Sony",
+   "model": "ILCE-7M2",
+   "subject": "man with raised hand at indoor event",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/2G3A9942.CR2",
+   "sha256": "34e2aea0dc7d40465eb722f99439bf61a936e8e99d08589d1c403eb2e77a886d",
+   "p90_L": 41.805407439590795,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 5D Mark III",
+   "subject": "a musician playing electric guitar on stage",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/signatureedits8u42.dng",
+   "sha256": "d3b503a1530bfea401eb3a0f175e61da4e9a925d378eac712829e3f45fd1be52",
+   "p90_L": 79.76040000918728,
+   "stratum": "high",
+   "make": "Apple",
+   "model": "iPhone XS Max",
+   "subject": "man leaning against a teal brick wall",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws - IMG_9463.CR2",
+   "sha256": "3486de5c33be709678944a9ce968d4130181a9657ce257a7c10a09c4109a95cf",
+   "p90_L": 80.16094420132282,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS 6D",
+   "subject": "woman sitting on a washing machine in a laundromat",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/DSC09245.ARW",
+   "sha256": "75c4ffc8b50a6cedb8457287d1dbb3656908b9ce1d156aca6c6954236d49460e",
+   "p90_L": 75.57701438705871,
+   "stratum": "high",
+   "make": "Sony",
+   "model": "ILCE-7M3",
+   "subject": "skewers of meat and vegetables grilling over glowing coals",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/ IMG_3546.cr2",
+   "sha256": "9bf3ad4bc6b5ade06efb3a4adc4c5a59bc98399b016a144809fb82c0354dd8c8",
+   "p90_L": 81.29327679124579,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS 650D",
+   "subject": "woman in camouflage jacket leaning against a yellow pole",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/ CREDIT @Larson_Ryan_Photography LAR04752.ARW",
+   "sha256": "a61b936ec9924dd9d35c43b0a6523de11d5b86447ab68565b0c74167f23d65d3",
+   "p90_L": 80.13931052583716,
+   "stratum": "high",
+   "make": "Sony",
+   "model": "ILCE-7M3",
+   "subject": "man wearing sunglasses browsing books in a store",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/IMG.cr2",
+   "sha256": "b922c1279d3bc26526395efd7b5b8ff5ffd4efe5819a28ec7602c7a33cf8a165",
+   "p90_L": 86.6389705528562,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS 6D",
+   "subject": "woman with curly hair looking at camera",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/tag @exztagram - @natasyanact - free raws from @signatureeditsco.ARW",
+   "sha256": "ff372c8d58655a90d45693cd63e6da31eb938f9c525f3c8b432961543e87932d",
+   "p90_L": 77.65280720957556,
+   "stratum": "high",
+   "make": "Sony",
+   "model": "ILCE-6400",
+   "subject": "woman in red floral qipao holding a fan in front of a traditional door",
+   "score": null
+  }
+ ],
+ "crs": {
+  "wb-daylight": {
+   "WhiteBalance": "Daylight"
+  },
+  "wb-tungsten": {
+   "WhiteBalance": "Tungsten"
+  },
+  "wb-fluorescent": {
+   "WhiteBalance": "Fluorescent"
+  },
+  "temperature-3200": {
+   "WhiteBalance": "Custom",
+   "Temperature": "3200",
+   "Tint": "+0"
+  },
+  "temperature-5000": {
+   "WhiteBalance": "Custom",
+   "Temperature": "5000",
+   "Tint": "+0"
+  },
+  "temperature-8000": {
+   "WhiteBalance": "Custom",
+   "Temperature": "8000",
+   "Tint": "+0"
+  },
+  "tint-30": {
+   "WhiteBalance": "Custom",
+   "Temperature": "6500",
+   "Tint": "-30"
+  },
+  "tint+30": {
+   "WhiteBalance": "Custom",
+   "Temperature": "6500",
+   "Tint": "+30"
+  }
+ }
+}

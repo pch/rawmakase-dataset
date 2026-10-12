@@ -1,0 +1,94 @@
+{
+ "schema": 1,
+ "set": "dehaze-holdout",
+ "settings": [
+  "dehaze-100",
+  "dehaze-50",
+  "dehaze-25",
+  "dehaze+25",
+  "dehaze+50",
+  "dehaze+100"
+ ],
+ "photos": [
+  {
+   "raw": "raws/pixls/Canon/EOS 1300D/IMG_0778.CR2",
+   "sha256": "e064327405b3a736b1cc89d499bc5a049cfb2800bcb06a5072e6d0a82cd296d7",
+   "p90_L": 69.31112931145735,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 1300D",
+   "subject": "mountain peaks rising above a sea of clouds",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-7SM3/DSC01568.ARW",
+   "sha256": "876c7b74c957b6d8c7f9a1c285806d4a3f62269c1a3af070965bcc02fcf903f1",
+   "p90_L": 74.92366654351932,
+   "stratum": "mid",
+   "make": "Sony",
+   "model": "ILCE-7SM3",
+   "subject": "silhouetted trees against a hazy sky",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS REBEL T7i/IMG_1322.CR2",
+   "sha256": "ae5155e5a0b83d009cd8fee82a19b051b391db100a638e16368a9af6d8d509b6",
+   "p90_L": 52.59676365995617,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS REBEL T7i",
+   "subject": "green and pink apple on a tree",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-H2/Fuji-X-H2-Lossless-Compressed-Raw.RAF",
+   "sha256": "109be38f59963c9b8ff289ebe1f5ec9168c52f609e5b601432bd194520b4605b",
+   "p90_L": 52.693754240415714,
+   "stratum": "mid",
+   "make": "Fujifilm",
+   "model": "X-H2",
+   "subject": "garden with wilting and blooming flowers",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/NIKON CORPORATION/NIKON Z50_2/DSC_0060_DX_Lossless.NEF",
+   "sha256": "a3314a026524396e603b461afc4fe61a8a5a3958232f3687bb1c8eca0dcbed93",
+   "p90_L": 92.55737022992999,
+   "stratum": "high",
+   "make": "Nikon",
+   "model": "Z50_2",
+   "subject": "urban landscape with residential and commercial buildings",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/NIKON CORPORATION/NIKON Z50_2/DSC_0063_1x1_Lossless.NEF",
+   "sha256": "ba925fc9fed35a82e279eb4e102d2221e36d35a8df3e21fb24037e0e518b715a",
+   "p90_L": 91.59729456905885,
+   "stratum": "high",
+   "make": "Nikon",
+   "model": "Z50_2",
+   "subject": "urban residential area with distant skyscrapers",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS M5/IMG_6968.CR2",
+   "sha256": "5af02dbad6cd90eeac2b0b1c0be0aeb9a5d2841c6dd984ee415ede9f2566667d",
+   "p90_L": 94.90191882429276,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS M5",
+   "subject": "cityscape with vineyards in foreground",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Google/Pixel 8 Pro/PXL_20240415_103400204.RAW-02.ORIGINAL.dng",
+   "sha256": "45420c595401547cca950ae58d552bc82b32d31ce1d58c082df33004016197f5",
+   "p90_L": 84.64685911785156,
+   "stratum": "high",
+   "make": "Google",
+   "model": "Pixel 8 Pro",
+   "subject": "trees silhouetted against a sunset reflected in water",
+   "score": 1
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "schema": 1,
+ "set": "clarity-holdout",
+ "settings": [
+  "clarity-100",
+  "clarity-50",
+  "clarity-25",
+  "clarity+25",
+  "clarity+50",
+  "clarity+100"
+ ],
+ "photos": [
+  {
+   "raw": "raws/pixls/Fujifilm/X70/DSCF8848.RAF",
+   "sha256": "4f9c33fde578addebda991c37d26551b46fab8f592c74f7192560a05ec08d577",
+   "p90_L": 34.48887992945352,
+   "stratum": "low",
+   "make": "Fujifilm",
+   "model": "X70",
+   "subject": "night view of a stone clock tower",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Pentax/K-70/IMGP6854.PEF",
+   "sha256": "1d64c6aa71680642ba8f00b6f6105df3e66a4534e631f422fbf3316273c4408c",
+   "p90_L": 32.46673539235125,
+   "stratum": "low",
+   "make": "Pentax",
+   "model": "K-70",
+   "subject": "a ceiling light in a dim room",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS Rebel T6/IMG_2422.CR2",
+   "sha256": "432e968a244816ed9c7bbae1807bbc66dc6245d294e9f11cb5b3ab1fc830df5a",
+   "p90_L": 48.821274536232195,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS Rebel T6",
+   "subject": "wooden boardwalk through a dense tropical forest",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/DJI/FC7303/DJI_0109.DNG",
+   "sha256": "21a49e63966f82391ca1188c7559c3acc01a35a89a70194fda4bf44cbd64a851",
+   "p90_L": 68.57112440139313,
+   "stratum": "mid",
+   "make": "DJI",
+   "model": "FC7303",
+   "subject": "blue car driving on winding road beside a reservoir",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/GFX50S II/Fuji_GFX50S_II_-_Lossless_Compressed.RAF",
+   "sha256": "4aada4653d7f876ee5e7b1cff36671d7820600adb98af39e8fb7c41ae0ace96d",
+   "p90_L": 62.65896031061086,
+   "stratum": "mid",
+   "make": "Fujifilm",
+   "model": "GFX50S II",
+   "subject": "bare trees in a grassy orchard on an overcast day",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/HUAWEI/VOG-L29/IMG_20190330_123314.dng",
+   "sha256": "6dea2735a31f06e39b1a203826bcdfe4ff0fcdec444772bdab455c49f91b1846",
+   "p90_L": 68.50966729348222,
+   "stratum": "mid",
+   "make": "HUAWEI",
+   "model": "VOG-L29",
+   "subject": "model village with houses and train station",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS Kiss X80/IMG_3688.CR2",
+   "sha256": "155878290528ff91f67b4f9ffed5d765e80ede5fb0c36fca40107c0b7f5c1d9d",
+   "p90_L": 81.23285545467755,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS Kiss X80",
+   "subject": "curving road through arid landscape with cacti",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/DJI/FC7303/DJI_0765.DNG",
+   "sha256": "fb4f294e12cab7b507fd0b7c07f24e5d13e7c0dd127b534ce12c48d644c9363d",
+   "p90_L": 81.91679614199599,
+   "stratum": "high",
+   "make": "DJI",
+   "model": "FC7303",
+   "subject": "lake beside a highway with surrounding trees and fields",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Google/Pixel 8 Pro/PXL_20240415_103400204.RAW-02.ORIGINAL.dng",
+   "sha256": "45420c595401547cca950ae58d552bc82b32d31ce1d58c082df33004016197f5",
+   "p90_L": 84.64685911785156,
+   "stratum": "high",
+   "make": "Google",
+   "model": "Pixel 8 Pro",
+   "subject": "trees silhouetted against a sunset reflected in water",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Nikon/Z 7_2/Z72_0029.NEF",
+   "sha256": "60de3df0af395adac77c20db7f2714760450eaff99f8d0a76834c447bedf7381",
+   "p90_L": 83.56569039495895,
+   "stratum": "high",
+   "make": "Nikon",
+   "model": "Z 7_2",
+   "subject": "historic stone tower and barn in a grassy field",
+   "score": 2
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+*.log
+# Made locally by setup.sh and the steps, never committed
+/raws
+/meta
+/describe
+/models
+/own-*
+references/*/survey/renders/
+references/*/survey/work/
+references/*/resolved/
+references/*/*/references/
+references/*/*/work/
+/dataset.sqlite
+references/*-own/
+# Test baselines kept on the runner (pch/rawmakase#420); private sources must never be committed
+/baselines/

@@ -1,0 +1,134 @@
+{
+ "schema": 1,
+ "set": "shadows-holdout",
+ "settings": [
+  "shadows-100",
+  "shadows-50",
+  "shadows-25",
+  "shadows+25",
+  "shadows+50",
+  "shadows+100"
+ ],
+ "photos": [
+  {
+   "raw": "raws/signature-edits/Mthembeni Mavundla (2).CR2",
+   "sha256": "ddc0a86b9ee24872dcdd67ba689dad2b6a2aee8c13e3a761e255d39427ac872e",
+   "p90_L": 5.354358717575379,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS M3",
+   "subject": "portrait of a man in a dark setting",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/Free Raw Files - Tag @signatureeditsco DSC_3500.nef",
+   "sha256": "133c5741e60bd6cfa12550a74f4a801a76376b5ff6795fd1a912025d16083a29",
+   "p90_L": 32.34933854561544,
+   "stratum": "low",
+   "make": "Nikon",
+   "model": "D3100",
+   "subject": "woman in black dress lying on stone steps",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/PANA8679.RW2",
+   "sha256": "dc5361099bd205a7bcc82868766098fdcd37774d4f754f3c298edcf06b78f6c4",
+   "p90_L": 36.938062562568895,
+   "stratum": "low",
+   "make": "Panasonic",
+   "model": "DC-GH5",
+   "subject": "two people watching a sunset over rocky coastline",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/signature edits free raws DSC08455.arw",
+   "sha256": "0d8075966a38ef4798eea7d52916e7d6c1bf0dd151de1607784d8fdf0bf32fec",
+   "p90_L": 29.757108088076194,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "ILCE-6300",
+   "subject": "woman sitting on a chair in a sunlit room",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/IMG_9087.CR2",
+   "sha256": "1ce800437163d6cb3e0b3bc46a4316ab932768402ba2a0cf82af27e9e4ecd39c",
+   "p90_L": 73.42840519982477,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 1200D",
+   "subject": "pink building viewed from between stone and beige walls",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/pls tag @ryanbreitkreutz signature edits free raw photos DJI_0239.DNG",
+   "sha256": "b81eab585cf2fa8a7b56c6f9f617a0af2f3d40450bb1c05e655034bff3fa54b1",
+   "p90_L": 66.81749428424304,
+   "stratum": "mid",
+   "make": "DJI",
+   "model": "FC7303",
+   "subject": "person floating in a swimming pool surrounded by tropical foliage",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/free raws from www.signatureedits.com - tag @signatureeditsco DSC_5488.NEF",
+   "sha256": "3f70439aee1e598dbb418b6032266c0a6ceb99f15d8117b26856e9f3fd02e2b5",
+   "p90_L": 74.20223636799032,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "D3200",
+   "subject": "silhouette of a person at sunset",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/PANA5062.RW2",
+   "sha256": "246b4648f1009a62fea7a6b1359496d42d51497e6590253ca0906d66402ec8d1",
+   "p90_L": 67.21096162971061,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DC-GH5",
+   "subject": "silver necklace on a patterned scarf",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits Free Raw Files - Tag @signatureeditsco C66A5959.CR2",
+   "sha256": "6c93882fdb9c9f6dfabc2716449b9d1917d4df73e12a492b8d1e5d752c2835c7",
+   "p90_L": 87.95564751349133,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS 5D Mark IV",
+   "subject": "children playing on a rope swing under a tree",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/Copy of signature edits free raw files - tag @signatureeditsco - DSC_0836.nef",
+   "sha256": "0dfa0ef8b7bde61fa61215512559e3d2dbe359827fc1db03a2983ae52fd5ff7b",
+   "p90_L": 94.16831109535144,
+   "stratum": "high",
+   "make": "Nikon",
+   "model": "D3200",
+   "subject": "woman lying on a bed looking at the camera",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/P1011659.RW2",
+   "sha256": "1c4b50fcc9060778c3ca83623a48049c9d9ecbb5e77dd5f744a4fc12e8deafee",
+   "p90_L": 75.8635815521896,
+   "stratum": "high",
+   "make": "Panasonic",
+   "model": "DC-GH5",
+   "subject": "a white wooden yacht docked at a marina",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco DSC04841.ARW",
+   "sha256": "57c82f748b6b9de3ddf14c94631c3342555437cdd2647ec3d88dda0aefeb3718",
+   "p90_L": 80.93428310685019,
+   "stratum": "high",
+   "make": "Sony",
+   "model": "ILCE-7SM3",
+   "subject": "man proposing to woman on a pier at dusk",
+   "score": 2
+  }
+ ]
+}

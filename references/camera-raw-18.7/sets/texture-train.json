@@ -1,0 +1,174 @@
+{
+ "schema": 1,
+ "set": "texture-train",
+ "settings": [
+  "texture-100",
+  "texture-50",
+  "texture-25",
+  "texture+25",
+  "texture+50",
+  "texture+100"
+ ],
+ "photos": [
+  {
+   "raw": "raws/pixls/Canon/EOS 850D/IMG_1837.CR3",
+   "sha256": "47f7747b74073515bdbd65015738bc31947504d68255c5377baa21f179df2486",
+   "p90_L": 34.86673123208111,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS 850D",
+   "subject": "fairytale scene with magical creatures and horses",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Leica/V-Lux 5/_1000200.RWL",
+   "sha256": "6540d067665a842d903d2c44ec101e6f95f65759d4754a94f38817d7a2fd72f4",
+   "p90_L": 0.003529896599236082,
+   "stratum": "low",
+   "make": "Leica",
+   "model": "V-Lux 5",
+   "subject": "full moon against a dark sky",
+   "score": 1
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS 4000D/IMG_0361.CR2",
+   "sha256": "06daaf663f42d3f6ceb1a837d3ca4db2cfcb5899888ed13510bfa01e3261a896",
+   "p90_L": 59.646102203388516,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 4000D",
+   "subject": "lavender plants with a bee in a garden",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Leica Camera AG/LEICA M10-R/M10R0324.DNG",
+   "sha256": "ba35d25d521c7ddbc4feca69c8cdbe071ac65dcd6cf2c93374391bf6f3662b8d",
+   "p90_L": 70.80539015308348,
+   "stratum": "mid",
+   "make": "Leica",
+   "model": "M10-R",
+   "subject": "overgrown garden with fencing and plant supports",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/NIKON CORPORATION/NIKON Z5_2/Lossless_compression_1-1.NEF",
+   "sha256": "133d8a624f2d39769dec3cb9e7b9ae81971ae8787b5e8d0675bc6ecd27ddef4b",
+   "p90_L": 70.23765733226382,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "Z5_2",
+   "subject": "view from a quarry overlooking farmland and a village",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/OM Digital Solutions/OM-3/P5048182.ORF",
+   "sha256": "1cee7deb661e45101ab3ca6c4240d24ed949b167ed423703fca15c09dd8ec176",
+   "p90_L": 73.16297661838517,
+   "stratum": "mid",
+   "make": "OM System",
+   "model": "OM-3",
+   "subject": "wooden play structure in a sunlit garden",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Olympus/E-PL8/P9110021.ORF",
+   "sha256": "68400f859dea4be9a398fdc1f97613962b92d14b53d96531e2310b7dde2e674e",
+   "p90_L": 57.59668584098803,
+   "stratum": "mid",
+   "make": "Olympus",
+   "model": "E-PL8",
+   "subject": "brick apartment building facade",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-GH6/4-3.RW2",
+   "sha256": "07996bca904a178d02c5f56ee03a8dce775a0e1150c1beeaec51d72ff5e700d0",
+   "p90_L": 65.37285622457964,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DC-GH6",
+   "subject": "stone sculpture of a seated figure in a garden",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Pentax/KF/IMGP0063.PEF",
+   "sha256": "ddc9cdf399a7210b203dee1765ab9f4165a2e695da59bce6bcabf75b77174a4b",
+   "p90_L": 66.37792612434446,
+   "stratum": "mid",
+   "make": "Pentax",
+   "model": "KF",
+   "subject": "flowering plants growing beside a stone wall and trellis",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS M50/Canon_EOS_M50_RAW_ISO_100_nocrop_nodual.CR3",
+   "sha256": "1ba9ad6b51b315b88820eb0fe5fd7f52bc136ba37b1a5ca76825ebfe25b18058",
+   "p90_L": 92.3652605118366,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS M50",
+   "subject": "stone Buddha head planter with succulent",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-A3/DSCF7241.RAF",
+   "sha256": "4187cb5caa72320a74e9b4355db01e8e21edd43f3084873f9b9b67169d8d4ad8",
+   "p90_L": 91.23857683389637,
+   "stratum": "high",
+   "make": "Fujifilm",
+   "model": "X-A3",
+   "subject": "wooden pier extending into calm water with a distant pyramid-shaped structure",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Google/Pixel 4a/PXL_20201121_100251397.dng",
+   "sha256": "11b38186ee3455376291bcdb3049728a3f9dcd94b9e82ff76855d9f3430e44be",
+   "p90_L": 87.07676896777717,
+   "stratum": "high",
+   "make": "Google",
+   "model": "Pixel 4a",
+   "subject": "mushrooms growing at the base of a tree in a forest",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/Hasselblad/L2D-20c/DJI_0023.DNG",
+   "sha256": "dbe98cb202f884ff11e0144899613b26d33cf9cddd9f1a62226f4352397f18e4",
+   "p90_L": 89.73176092937037,
+   "stratum": "high",
+   "make": "Hasselblad",
+   "model": "L2D-20c",
+   "subject": "beach scene with swimmers and coastal houses",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/LEICA CAMERA AG/LEICA SL2/L1020010.DNG",
+   "sha256": "d00f05468793e4509b53230e90dcdc078e823b254eee95f1c68b29e217df99bf",
+   "p90_L": 91.5396432423089,
+   "stratum": "high",
+   "make": "Leica",
+   "model": "SL2",
+   "subject": "green bush in front of brick building with window",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/NIKON CORPORATION/NIKON Z fc/Nikon_Z_fc_14bit.NEF",
+   "sha256": "038995c5108899cfa3f54d99364752fe761bb0accb8b26a21ac274d107a85d05",
+   "p90_L": 75.8937142607546,
+   "stratum": "high",
+   "make": "Nikon",
+   "model": "Z fc",
+   "subject": "garden tools and containers against a wooden fence",
+   "score": 2
+  },
+  {
+   "raw": "raws/pixls/OM Digital Solutions/OM-5MarkII/OM_System_OM-5_2_regular.ORF",
+   "sha256": "c6fe861982ddc18464cf6858d2700f6813cc3a17956bcb12d1179212c999c76a",
+   "p90_L": 84.92070532365615,
+   "stratum": "high",
+   "make": "OM System",
+   "model": "OM-5 Mark II",
+   "subject": "green hillside overlooking a distant town under a partly cloudy sky",
+   "score": 2
+  }
+ ]
+}

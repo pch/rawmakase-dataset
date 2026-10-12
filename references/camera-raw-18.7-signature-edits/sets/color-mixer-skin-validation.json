@@ -1,0 +1,154 @@
+{
+ "schema": 1,
+ "set": "color-mixer-skin-validation",
+ "settings": [
+  "orange-hue-50",
+  "orange-hue+50",
+  "orange-sat-50",
+  "orange-sat+50",
+  "orange-lum-50",
+  "orange-lum+50"
+ ],
+ "photos": [
+  {
+   "raw": "raws/signature-edits/_MGL0192.CR2",
+   "sha256": "0201e5a2ce31e3d61af5db8fbaf97cc2e09a83e26942e4cf2c907cbf907c03db",
+   "p90_L": 13.525838321925468,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS 7D",
+   "subject": "woman with tattoos and sunglasses sitting in a dim arcade",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/free raws from signature edits - credit @ Detty Studio (1).NEF",
+   "sha256": "e1566576c90be294c30e951482fa726de1a938268c119400b004e39f89dd2085",
+   "p90_L": 35.598942271312126,
+   "stratum": "low",
+   "make": "Nikon",
+   "model": "D7000",
+   "subject": "portrait of a woman with bold makeup",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/free raw files - credit signatureedits.com - CF000981.dng",
+   "sha256": "bc5e8af06334e715ba9524069fac4c09e1292da99f75d6b2dccbb7f7c87f296b",
+   "p90_L": 25.913585099804564,
+   "stratum": "low",
+   "make": "Phase One A/S",
+   "model": "IQ250",
+   "subject": "female dancer mid-leap against a black backdrop",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/_DSC7300.ARW",
+   "sha256": "0f40581b8a3fda6ae522b2b79c4c90ef9d529187b06ca487d66da7d01e8f76a4",
+   "p90_L": 39.70552264907422,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "ILCE-7RM3",
+   "subject": "bride and groom standing outside a brick building",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/IMG_4525.cr2",
+   "sha256": "0fe2aa8ce3db9196aab1bbbda5f996eb9833e32ba048d7f31487f4dacef25305",
+   "p90_L": 57.80783548880318,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 750D",
+   "subject": "couple holding hands in a vineyard",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/M50R3197.dng",
+   "sha256": "ae83bb3ad7d71c3b80a247f514ffe316510dbc8fbbc0c1ec18bd429f743f4515",
+   "p90_L": 57.20962863505874,
+   "stratum": "mid",
+   "make": "Fujifilm",
+   "model": "GFX 50R",
+   "subject": "woman sitting in a vintage car",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits Free Raws - 1 (103).NEF",
+   "sha256": "3ee510044371f45dffaf78d77d76fbb59393fb01bc10ec5519e359bebddbcad0",
+   "p90_L": 61.98264216960476,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "D7200",
+   "subject": "young woman smiling while leaning against a wall",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/signature edits aP1028088.dng",
+   "sha256": "0f66a2a3822e8cc871ff8765eb10f88af909c0cb5bfe8a8526220cc9361728e6",
+   "p90_L": 63.21184620653883,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DC-S1",
+   "subject": "woman standing barefoot on rock holding leafy branch",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/IMG_7495.CR2",
+   "sha256": "0ed65f1923b881cd09b07d73732ee9bf3b996a6302f6490ccd288cc89d4f7957",
+   "p90_L": 83.12550180892967,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS Rebel T7i",
+   "subject": "woman leaning against a brick wall in an urban setting",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/ free raw files from signatureedits.com 1 (72).NEF",
+   "sha256": "0831fd4abfa6b5aae00963b04cc20a75462427c11d11c97e8a4d7ac9fed322cd",
+   "p90_L": 82.08327216391433,
+   "stratum": "high",
+   "make": "Nikon",
+   "model": "D7200",
+   "subject": "woman leaning against a wall",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/P1000904.dng",
+   "sha256": "2fb3caf8d351fb617ab4bca4a2f128cde72c062db14a5b65d751f4bd7d5de1bd",
+   "p90_L": 93.20645695770929,
+   "stratum": "high",
+   "make": "Panasonic",
+   "model": "DC-S1",
+   "subject": "woman in white dress spinning in a field at dusk",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/free raw files - credit signatureedits.com - Capture00674.dng",
+   "sha256": "78ee2c9a12cc77332cf791aa98f25981f4bac290315b3552699c7f07a3e82dac",
+   "p90_L": 82.47859694966556,
+   "stratum": "high",
+   "make": "Phase One A/S",
+   "model": "IQ250",
+   "subject": "portrait of a smiling young woman",
+   "score": null
+  }
+ ],
+ "crs": {
+  "orange-hue-50": {
+   "HueAdjustmentOrange": "-50"
+  },
+  "orange-hue+50": {
+   "HueAdjustmentOrange": "+50"
+  },
+  "orange-sat-50": {
+   "SaturationAdjustmentOrange": "-50"
+  },
+  "orange-sat+50": {
+   "SaturationAdjustmentOrange": "+50"
+  },
+  "orange-lum-50": {
+   "LuminanceAdjustmentOrange": "-50"
+  },
+  "orange-lum+50": {
+   "LuminanceAdjustmentOrange": "+50"
+  }
+ }
+}

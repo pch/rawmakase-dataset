@@ -1,0 +1,819 @@
+{
+ "schema": 1,
+ "camera_raw": "18.7",
+ "set": "mixed-validation",
+ "photos": [
+  {
+   "raw": "raws/pixls/Panasonic/DC-S1RM2/P1000454.RW2",
+   "sha256": "0fde3176fd98214f64d5d472162d47f7146267c29f39eb8f3dd2351bc60158d0",
+   "p90_L": 30.57402220611348,
+   "stratum": "low",
+   "make": "Panasonic",
+   "model": "DC-S1RM2",
+   "subject": "star trails over a lit urban scene",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS Rebel T7i/20190925-1501-0421.cr2",
+   "sha256": "03fb55af71f384ada6b6aa0ca93279d48cf5fbd13651a323408d2fd97e1d1f7c",
+   "p90_L": 70.2815250024545,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS Rebel T7i",
+   "subject": "a yellow and pink plastic chair in a grassy field with trees",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Fujifilm/X-A10/DSCF8207.RAF",
+   "sha256": "05309c5434500cc53d5782072cc0dcdd947d2f0a34f0ddcd4656c82cc7803272",
+   "p90_L": 55.132809170214536,
+   "stratum": "mid",
+   "make": "Fujifilm",
+   "model": "X-A10",
+   "subject": "mountainous valley with grassy field under blue sky",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Olympus/E-PL9/EB000005.ORF",
+   "sha256": "22525e54442f52281d007b5e8a75a2c61f768856699cf5ed697d85e055f2cc4f",
+   "p90_L": 73.73384406303272,
+   "stratum": "mid",
+   "make": "Olympus",
+   "model": "E-PL9",
+   "subject": "trees against a clear blue sky",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-G95/_1000574.RW2",
+   "sha256": "0183b3d50ad11146df28014ea24c381d9f45bb3df94c6e72e71a41dc1c2973d7",
+   "p90_L": 60.65280396769165,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DC-G95",
+   "subject": "a plush penguin wearing a pink headband and wristbands",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Canon/Canon EOS M200/_MG_2233.CR3",
+   "sha256": "0585a468143c6606936d0ffbff1788c6c02e3610d8ecb50614e21492fbacd052",
+   "p90_L": 75.24732937356374,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS M200",
+   "subject": "residential waterfront with distant city skyline",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/FUJIFILM/X-T30 III/DSCF0133.RAF",
+   "sha256": "1910b95422240f97781fa3296d67a56cc8f62de63144ac11cbf4267a11278042",
+   "p90_L": 81.09573295160197,
+   "stratum": "high",
+   "make": "Fujifilm",
+   "model": "X-T30 III",
+   "subject": "rock formation at sunset with parking lot in foreground",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Google/Pixel 7 Pro/PXL_20221204_063131635.dng",
+   "sha256": "6b921558944db5fdb4f1c63dc64919b6666ef700857a187e18500099c6e7c6c6",
+   "p90_L": 86.79843873174339,
+   "stratum": "high",
+   "make": "Google",
+   "model": "Pixel 7 Pro",
+   "subject": "succulents in pots against a green fence",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Hasselblad/L1D-20c/DJI_0017.DNG",
+   "sha256": "7afecae0db80d832941eeeb3c0eb2dc03f5696637b6e78b3c592e8c002dce4ec",
+   "p90_L": 91.26349434036108,
+   "stratum": "high",
+   "make": "Hasselblad",
+   "model": "L1D-20c",
+   "subject": "historic city with red rooftops and a tall spire",
+   "score": null
+  }
+ ],
+ "cases": [
+  {
+   "photo": 0,
+   "name": "default",
+   "reference": "references/0-default.tif",
+   "reference_sha256": "12fe7d94a712ad44bc00ae22cd47b785a55d2c2e07489dc6bc564ff667f0ff79",
+   "xmp": "references/0-default.xmp",
+   "xmp_sha256": "cc9d328426e77bc0e818cc544837c158b29d0c9f143002e9e20cc47d2a1bb6e1"
+  },
+  {
+   "photo": 0,
+   "name": "exposure-1+whites+100",
+   "reference": "references/0-exposure-1+whites+100.tif",
+   "reference_sha256": "039e46d236aa9230a38d549add1261a32ab78d7f3ab95a45e5923d0338f9ec03",
+   "xmp": "references/0-exposure-1+whites+100.xmp",
+   "xmp_sha256": "b2d9526f0823ae96e1e75824e6b9421961858cf9a2e7e47745e752b78497e7d7"
+  },
+  {
+   "photo": 0,
+   "name": "shadows+50+highlights-50",
+   "reference": "references/0-shadows+50+highlights-50.tif",
+   "reference_sha256": "01392b73c6f447e38de19af13c32906dcdfc8f3c24ecfed439c91dfed4aa2c0d",
+   "xmp": "references/0-shadows+50+highlights-50.xmp",
+   "xmp_sha256": "b30aa8142802629ccce38e94748e6edf7fa739004c09d0098c629026985f0e58"
+  },
+  {
+   "photo": 0,
+   "name": "contrast+50+blacks-50",
+   "reference": "references/0-contrast+50+blacks-50.tif",
+   "reference_sha256": "a3444bcb4543d94a7a9698c6e4711412744bab36ecc0788c7690cd2f1dd1b766",
+   "xmp": "references/0-contrast+50+blacks-50.xmp",
+   "xmp_sha256": "47e9f7fb367712f7402cce9756939e252d3eddb2ce35e4d458e930e531df0574"
+  },
+  {
+   "photo": 0,
+   "name": "dehaze+40+clarity+40",
+   "reference": "references/0-dehaze+40+clarity+40.tif",
+   "reference_sha256": "e5812b7ce0be80c6436c25541490487ba285251d7ea8859896efdc5be1004fe8",
+   "xmp": "references/0-dehaze+40+clarity+40.xmp",
+   "xmp_sha256": "28bd205c90c7fa28b8c0b1a2cff66fd3d598787ba82064801212a68e829ef710"
+  },
+  {
+   "photo": 0,
+   "name": "mask-exposure+shadows",
+   "reference": "references/0-mask-exposure+shadows.tif",
+   "reference_sha256": "7a3a0d3310402ad302f20a21689d75f44485b2922ab5bb3ec97e54e821912b03",
+   "xmp": "references/0-mask-exposure+shadows.xmp",
+   "xmp_sha256": "2dfdbeea7c3a67221da472cc097c9932a4813ce9881a2cd35231b990467a5c57"
+  },
+  {
+   "photo": 0,
+   "name": "color-default",
+   "reference": "references/0-color-default.tif",
+   "reference_sha256": "cd700073e53e42d19c38b79e08b63c5417e11478439fad55fbbe3502f67582ae",
+   "xmp": "references/0-color-default.xmp",
+   "xmp_sha256": "faad7eaebd6fa310335806a47427518d676e378360ba5a067028ba05324b40ee"
+  },
+  {
+   "photo": 0,
+   "name": "color-shadows+100",
+   "reference": "references/0-color-shadows+100.tif",
+   "reference_sha256": "257c0d5812e6c7ab4d1ae9e2f4414408a509ef35f59649febf06d0cf24dc5de0",
+   "xmp": "references/0-color-shadows+100.xmp",
+   "xmp_sha256": "9a074106f0e1a95fd48322d2608a751933472465d3f427b6983e8f18bd161c5f"
+  },
+  {
+   "photo": 0,
+   "name": "color-dehaze+40",
+   "reference": "references/0-color-dehaze+40.tif",
+   "reference_sha256": "57ac8cb53143c446ef326708b961a242b651664029ccac2bd194f3af82f7695c",
+   "xmp": "references/0-color-dehaze+40.xmp",
+   "xmp_sha256": "d3bbf0daf43b0a5badb83af8e7df9ef660292043b0d4f5db885b5ea41f87cfe5"
+  },
+  {
+   "photo": 0,
+   "name": "color-whites+100",
+   "reference": "references/0-color-whites+100.tif",
+   "reference_sha256": "f6b0135aca5964d9bd178b4c4ec0a4bdf86fc6cb468ca24fc25428fa110da3ec",
+   "xmp": "references/0-color-whites+100.xmp",
+   "xmp_sha256": "dbe7fb3ff2effb31a830ac9be72f904a566c375b6f35acb66b5b88def8ff0c03"
+  },
+  {
+   "photo": 1,
+   "name": "default",
+   "reference": "references/1-default.tif",
+   "reference_sha256": "c75301d5dea6bb9870a676ee13cec67d7e031a7dba1d7e5de0ca9fb3f16140ac",
+   "xmp": "references/1-default.xmp",
+   "xmp_sha256": "7dbd9d19b319c16299a0e4f691a3fe4b06350927f679c5296d41d27695afccc8"
+  },
+  {
+   "photo": 1,
+   "name": "exposure-1+whites+100",
+   "reference": "references/1-exposure-1+whites+100.tif",
+   "reference_sha256": "001881170ecdb21088ed50a8ef68246386a3fb6744f78c5a72e71c1a4ad6e3d7",
+   "xmp": "references/1-exposure-1+whites+100.xmp",
+   "xmp_sha256": "d20830fe5b58884065a77660c139251be64df167cee07859ca60b5218664d11e"
+  },
+  {
+   "photo": 1,
+   "name": "shadows+50+highlights-50",
+   "reference": "references/1-shadows+50+highlights-50.tif",
+   "reference_sha256": "331d96cbb83629ab533b0b720c1b0118e730e3915e45ec3ab4686816f62ffa05",
+   "xmp": "references/1-shadows+50+highlights-50.xmp",
+   "xmp_sha256": "a40bb0b6dd5bca571ad44768634550905635e3a3269b1fc5615d3e149c36e66d"
+  },
+  {
+   "photo": 1,
+   "name": "contrast+50+blacks-50",
+   "reference": "references/1-contrast+50+blacks-50.tif",
+   "reference_sha256": "730c4c68147571d722bfd4820b2d2111ce83e7bed9ac79a937e7969863ef319b",
+   "xmp": "references/1-contrast+50+blacks-50.xmp",
+   "xmp_sha256": "76d6fd7f908429ba7074c29656f60868c1339e38dca84f240d32bc23ea7bc60b"
+  },
+  {
+   "photo": 1,
+   "name": "dehaze+40+clarity+40",
+   "reference": "references/1-dehaze+40+clarity+40.tif",
+   "reference_sha256": "8dfb393f6a11b432b90f128d835193055f1bc2d64c3bd33a049e1fe174f7c67d",
+   "xmp": "references/1-dehaze+40+clarity+40.xmp",
+   "xmp_sha256": "50416dd3d9b29c187afe3e5e75a1dad3afad337b52d0c27fe370acd25f39c73e"
+  },
+  {
+   "photo": 1,
+   "name": "mask-exposure+shadows",
+   "reference": "references/1-mask-exposure+shadows.tif",
+   "reference_sha256": "59b64f928a496410e57ea670a72f1dd3eccc9ac31b8322d9c68200891e54d42d",
+   "xmp": "references/1-mask-exposure+shadows.xmp",
+   "xmp_sha256": "a4e80874314bfe18c0d117d3dfbb08e85fb27fdba7b976cd39a26b7fd2565879"
+  },
+  {
+   "photo": 1,
+   "name": "color-default",
+   "reference": "references/1-color-default.tif",
+   "reference_sha256": "b6ed798c94b7bbc58db6a7d6c227d252669c1d86151aebdadac6a664d2bea225",
+   "xmp": "references/1-color-default.xmp",
+   "xmp_sha256": "7b1552455cd76712f55dce86b1dd857ba4984dd1fb41d8a859c7d92f8f9d4bfb"
+  },
+  {
+   "photo": 1,
+   "name": "color-shadows+100",
+   "reference": "references/1-color-shadows+100.tif",
+   "reference_sha256": "5b9588da75e944ba0a2c3eaba505a92b5fab05d5a0211612fcad6e5fce60b75c",
+   "xmp": "references/1-color-shadows+100.xmp",
+   "xmp_sha256": "644c4cb0110af6398a5db05e4d9a3dad9d66ab35f67fa4138d51deef34002aa9"
+  },
+  {
+   "photo": 1,
+   "name": "color-dehaze+40",
+   "reference": "references/1-color-dehaze+40.tif",
+   "reference_sha256": "7bfc49d242308f83f575d0ac7fa12937202b52471744e431dd2ac8fb5f0dbe10",
+   "xmp": "references/1-color-dehaze+40.xmp",
+   "xmp_sha256": "1f0175f03b9d1bd4db807ac225c377bb26891aeb679d30b5e0cb770605de32df"
+  },
+  {
+   "photo": 1,
+   "name": "color-whites+100",
+   "reference": "references/1-color-whites+100.tif",
+   "reference_sha256": "7a8c78d02c703ef15a69ef60c1876b4b609739e78b8d235b22fe0026924d5746",
+   "xmp": "references/1-color-whites+100.xmp",
+   "xmp_sha256": "e59655e7d6d2e14dad30956ee039e7434e8c611f7898c01adfc2ee5bc86a99b3"
+  },
+  {
+   "photo": 2,
+   "name": "default",
+   "reference": "references/2-default.tif",
+   "reference_sha256": "53cdb789be3f0bdfd63f4dec80f9a374ddc5c12909145fbac9f025d2b12f1fb7",
+   "xmp": "references/2-default.xmp",
+   "xmp_sha256": "d4b7fc5eb95601771851ee4fd738a6d0ca40b0e99367e1151534c873437bd073"
+  },
+  {
+   "photo": 2,
+   "name": "exposure-1+whites+100",
+   "reference": "references/2-exposure-1+whites+100.tif",
+   "reference_sha256": "8bcc9fc03445ce3fc6a86d4bf3016016d12a16b66d53b4d58a979f65eb9395cb",
+   "xmp": "references/2-exposure-1+whites+100.xmp",
+   "xmp_sha256": "c17e1195b8bb321be4f2e4a8620980de8806eee56c5b9a3da27a3fc5366f7f33"
+  },
+  {
+   "photo": 2,
+   "name": "shadows+50+highlights-50",
+   "reference": "references/2-shadows+50+highlights-50.tif",
+   "reference_sha256": "512de5ab073ca6923b5da8954e2a0b4fe3dd1ee21b66449c12642f269155086d",
+   "xmp": "references/2-shadows+50+highlights-50.xmp",
+   "xmp_sha256": "80da3bdbb37a835dc8da1f4ec47d2e840437b7b4dfaca93e2c20809e557fb1ba"
+  },
+  {
+   "photo": 2,
+   "name": "contrast+50+blacks-50",
+   "reference": "references/2-contrast+50+blacks-50.tif",
+   "reference_sha256": "e113791be41f18f0b3e35fcc7b8ee5f6cd761f78448806d64b7cb553341cf436",
+   "xmp": "references/2-contrast+50+blacks-50.xmp",
+   "xmp_sha256": "9b4f804337016a6165890de74153e6ce4f19c770f69cd7957516cfb06cea3741"
+  },
+  {
+   "photo": 2,
+   "name": "dehaze+40+clarity+40",
+   "reference": "references/2-dehaze+40+clarity+40.tif",
+   "reference_sha256": "8a0abd5c12f8370c2bb1d51e075e16492014c7cde17019521b9390c4d79ae67c",
+   "xmp": "references/2-dehaze+40+clarity+40.xmp",
+   "xmp_sha256": "303716b1dbab9df6181cd6fcdfbe7dfe38d12ccd8b6f38dbe8ba9827b698341e"
+  },
+  {
+   "photo": 2,
+   "name": "mask-exposure+shadows",
+   "reference": "references/2-mask-exposure+shadows.tif",
+   "reference_sha256": "52852a8279720cc71f4d256d782eebc437ac9cfe53f78706a28ad3b3f35b9885",
+   "xmp": "references/2-mask-exposure+shadows.xmp",
+   "xmp_sha256": "6f1ecfdb165560fec640382ec9908cf4ce62b8cf12b98486c109838d8213adb5"
+  },
+  {
+   "photo": 2,
+   "name": "color-default",
+   "reference": "references/2-color-default.tif",
+   "reference_sha256": "a90a90950f7182d71c309044b42820608efcb1e12cc3ce6f4c6f0033b4a67835",
+   "xmp": "references/2-color-default.xmp",
+   "xmp_sha256": "b2a5ba36efed111671626f8f63940c352a7601c14d4ba09681a2b5e943de09ac"
+  },
+  {
+   "photo": 2,
+   "name": "color-shadows+100",
+   "reference": "references/2-color-shadows+100.tif",
+   "reference_sha256": "d2f99abc79c3099fe466f36d267ff73fbfc9bb8461777119a6a52e04fa913972",
+   "xmp": "references/2-color-shadows+100.xmp",
+   "xmp_sha256": "69a6683d62758c624b16e4a4f6129dc21a9a616146fbadd3d0242d98ecbae099"
+  },
+  {
+   "photo": 2,
+   "name": "color-dehaze+40",
+   "reference": "references/2-color-dehaze+40.tif",
+   "reference_sha256": "883673882257d8e877c2745188e85a4b155431c37f653c1014a844662e4d6220",
+   "xmp": "references/2-color-dehaze+40.xmp",
+   "xmp_sha256": "618865eb7c221a27c831a1b0f712d5eb80a0b91102ef0b256e8f1f1548b234bc"
+  },
+  {
+   "photo": 2,
+   "name": "color-whites+100",
+   "reference": "references/2-color-whites+100.tif",
+   "reference_sha256": "240edd5ba9db0b54e52932cc22fe332131600e74169607cc9c20c13f6c793259",
+   "xmp": "references/2-color-whites+100.xmp",
+   "xmp_sha256": "29245b67329ecefb82b32bdbba4b150c25a0dc810e76d04d1fbde4a3f0514ea2"
+  },
+  {
+   "photo": 3,
+   "name": "default",
+   "reference": "references/3-default.tif",
+   "reference_sha256": "9fd7d3e52d0dd6e352e3c57344f879ff6006aec4014d05ef530c3486554a7cb4",
+   "xmp": "references/3-default.xmp",
+   "xmp_sha256": "829cdc526a302b8c6845fe9f1efa88b6b602c79238f4b6bd78c8bdb413274207"
+  },
+  {
+   "photo": 3,
+   "name": "exposure-1+whites+100",
+   "reference": "references/3-exposure-1+whites+100.tif",
+   "reference_sha256": "f87829f0ff0242f0f64d590c7a9f3771d7dcc10afc23f762bd504fde7ceb944f",
+   "xmp": "references/3-exposure-1+whites+100.xmp",
+   "xmp_sha256": "c7faa80594851b07d14e178f901656ea1712b0dc6f5544fad05254a33eb8cabb"
+  },
+  {
+   "photo": 3,
+   "name": "shadows+50+highlights-50",
+   "reference": "references/3-shadows+50+highlights-50.tif",
+   "reference_sha256": "377a1305b7f440dc4e5cb1477f4d3b01f127eab8fbf16a3dba5a4b25bed2466e",
+   "xmp": "references/3-shadows+50+highlights-50.xmp",
+   "xmp_sha256": "c6ef1985e010480d2345046f80723b2f2fdf16ca47c0735a50ffdea6f7e78624"
+  },
+  {
+   "photo": 3,
+   "name": "contrast+50+blacks-50",
+   "reference": "references/3-contrast+50+blacks-50.tif",
+   "reference_sha256": "5e4c9f7665077bf0a4a505cd2fe08121aca5364ed16c1de6a62ce6346b88c3c3",
+   "xmp": "references/3-contrast+50+blacks-50.xmp",
+   "xmp_sha256": "e343b07e843f418c62878d16035f6b5b028474e801a0f16b7b0182e5029cd7b6"
+  },
+  {
+   "photo": 3,
+   "name": "dehaze+40+clarity+40",
+   "reference": "references/3-dehaze+40+clarity+40.tif",
+   "reference_sha256": "c81aa1db5429687d8c113766060908802d642945a510ea21335bc04ac83d088a",
+   "xmp": "references/3-dehaze+40+clarity+40.xmp",
+   "xmp_sha256": "db7688352d5e6eecaea28d5eb76c888c55f8f7893907a84e45944700f9edb3c7"
+  },
+  {
+   "photo": 3,
+   "name": "mask-exposure+shadows",
+   "reference": "references/3-mask-exposure+shadows.tif",
+   "reference_sha256": "f206f107be5c0f744caf662bfcd3b1d6d82dcbba00639aefe245368bcafabbd7",
+   "xmp": "references/3-mask-exposure+shadows.xmp",
+   "xmp_sha256": "d8f77c3176cd7a259c648647b8805c0320f3ff9a0025a21d0f148f90dcd86a50"
+  },
+  {
+   "photo": 3,
+   "name": "color-default",
+   "reference": "references/3-color-default.tif",
+   "reference_sha256": "e3822d51436f9beae2174cd43df89e3e6e6b76517cd943795f05313b360b4492",
+   "xmp": "references/3-color-default.xmp",
+   "xmp_sha256": "6e7f04a535b9a5163cb0f3e7f81715f328da309aff8d3cc3b9d2787c2033f83d"
+  },
+  {
+   "photo": 3,
+   "name": "color-shadows+100",
+   "reference": "references/3-color-shadows+100.tif",
+   "reference_sha256": "0c0399762263497186be6aadf59ed11b02f708c34b5c7d8daceaa1e08e0538a0",
+   "xmp": "references/3-color-shadows+100.xmp",
+   "xmp_sha256": "e349e4520674276c7dc9fd644eac547b21a441dba5d6f57f128bfac8541e4fb4"
+  },
+  {
+   "photo": 3,
+   "name": "color-dehaze+40",
+   "reference": "references/3-color-dehaze+40.tif",
+   "reference_sha256": "247ba8d88fc14f489cc92b03d17d5f1a24905046fac4dca249deb628a49ac28a",
+   "xmp": "references/3-color-dehaze+40.xmp",
+   "xmp_sha256": "94905ef3d2661eea0ec37ec4f206d867cdc81e81da09a26dbddf1ee493b6a106"
+  },
+  {
+   "photo": 3,
+   "name": "color-whites+100",
+   "reference": "references/3-color-whites+100.tif",
+   "reference_sha256": "d03f65eb6a4ea20e82af621734058625d4d9fc084f2f0ce2a6cc7ae1999693a5",
+   "xmp": "references/3-color-whites+100.xmp",
+   "xmp_sha256": "d94d526f0a835383959899978034ea9e490b71349722999a71f3e8059d3e0929"
+  },
+  {
+   "photo": 4,
+   "name": "default",
+   "reference": "references/4-default.tif",
+   "reference_sha256": "8bc5d8e3a7e5c05248b6d73aec190ce91e74a117961daf4ab0a59b772e9a028c",
+   "xmp": "references/4-default.xmp",
+   "xmp_sha256": "d2776169b96178dea90f4fd40adf982cc55cbea2041d4d8c85aff17863a425ec"
+  },
+  {
+   "photo": 4,
+   "name": "exposure-1+whites+100",
+   "reference": "references/4-exposure-1+whites+100.tif",
+   "reference_sha256": "6ec13aea07616dae660ab2fae9432f040e09c63e610164f51f45d664937e14e1",
+   "xmp": "references/4-exposure-1+whites+100.xmp",
+   "xmp_sha256": "b82ec3af02fd3183bdeef5724a700b6ec6aaefd8b6c3e31185d9cc9717c05e95"
+  },
+  {
+   "photo": 4,
+   "name": "shadows+50+highlights-50",
+   "reference": "references/4-shadows+50+highlights-50.tif",
+   "reference_sha256": "1c884d3b5c326040daec33e7f1bc67ec1a755069bda9db5b3e47eeb9ac88fc76",
+   "xmp": "references/4-shadows+50+highlights-50.xmp",
+   "xmp_sha256": "66b2cc49fd04aafbf2feef78029e919add91d05b30df9e63d07f1f4c83b704da"
+  },
+  {
+   "photo": 4,
+   "name": "contrast+50+blacks-50",
+   "reference": "references/4-contrast+50+blacks-50.tif",
+   "reference_sha256": "8aa94792c05674f7cbc77ceb846b9c3a3713800ef6b34305d9995bce539c0b2e",
+   "xmp": "references/4-contrast+50+blacks-50.xmp",
+   "xmp_sha256": "66274761db67cdc6ef06654fba7a220d4c406259d67dd2acbd276c7eabd1e4c7"
+  },
+  {
+   "photo": 4,
+   "name": "dehaze+40+clarity+40",
+   "reference": "references/4-dehaze+40+clarity+40.tif",
+   "reference_sha256": "a0040e75554250e78f39a5dcc8c9ad2e9ee112bf788f20e1fabbe6883c982624",
+   "xmp": "references/4-dehaze+40+clarity+40.xmp",
+   "xmp_sha256": "5f3812203b65bab674f4b6538cbf4a552719f72b5973f56d552dc571ccb98fe8"
+  },
+  {
+   "photo": 4,
+   "name": "mask-exposure+shadows",
+   "reference": "references/4-mask-exposure+shadows.tif",
+   "reference_sha256": "28fefc1e4967c5c7519ca891c9b19ef0b6ea367a4f9fe6baec2acd5b81282fcb",
+   "xmp": "references/4-mask-exposure+shadows.xmp",
+   "xmp_sha256": "5817338a6bcf7453e19527d7201533cfea3f0b2f8987de5ed14cc62dd84faaa6"
+  },
+  {
+   "photo": 4,
+   "name": "color-default",
+   "reference": "references/4-color-default.tif",
+   "reference_sha256": "a4419d66f878a908b2fe0498a752784dfcb71c84cf0e28d7404a41d0a25cfff4",
+   "xmp": "references/4-color-default.xmp",
+   "xmp_sha256": "e124045bcd8e48ef80da3e75a5a6428b91912b7d874901c01da1e0a4a54a3077"
+  },
+  {
+   "photo": 4,
+   "name": "color-shadows+100",
+   "reference": "references/4-color-shadows+100.tif",
+   "reference_sha256": "db7b2da052eb48df9a77c92af0e7378754ed6f44bfa5caab2bbced863948f340",
+   "xmp": "references/4-color-shadows+100.xmp",
+   "xmp_sha256": "51f3c534c3faeea09e88e63000a1c55e946d89ca481c6445013d7fd17efb4646"
+  },
+  {
+   "photo": 4,
+   "name": "color-dehaze+40",
+   "reference": "references/4-color-dehaze+40.tif",
+   "reference_sha256": "003bc4b1519e0fcff780cb2575a66421ca6ace2bcccf23aa7e40de1d87aa3bb8",
+   "xmp": "references/4-color-dehaze+40.xmp",
+   "xmp_sha256": "eaabc00fbf78d53e3406f31e853867790200616a2e59e3ae9901cf8b197de6cf"
+  },
+  {
+   "photo": 4,
+   "name": "color-whites+100",
+   "reference": "references/4-color-whites+100.tif",
+   "reference_sha256": "1c523822d8fe4c0970b923f28d24c01c93ec88bf748321644d2a5e27fe3dab94",
+   "xmp": "references/4-color-whites+100.xmp",
+   "xmp_sha256": "da6054eea75162c3903b0f1fa5da7b121c11a7103d08b2afcb65aefc7af2ba96"
+  },
+  {
+   "photo": 5,
+   "name": "default",
+   "reference": "references/5-default.tif",
+   "reference_sha256": "959a61e62afe650df173866f8f31190af8f1236c7cbddfb702fc870e3b67d055",
+   "xmp": "references/5-default.xmp",
+   "xmp_sha256": "10ec8070a2ba9720fa4530075cc8954e91f000533fe9bfd68ea5c1e5eef5eeab"
+  },
+  {
+   "photo": 5,
+   "name": "exposure-1+whites+100",
+   "reference": "references/5-exposure-1+whites+100.tif",
+   "reference_sha256": "dc2eaeab5a64accc4cfb100099a3eb8c38a7ab45d6a2a5c9441a3ddc692982e0",
+   "xmp": "references/5-exposure-1+whites+100.xmp",
+   "xmp_sha256": "4d63f232aaffca85bb51b9fd79317cd55c888706ad322a1832234cf29f3a9a5c"
+  },
+  {
+   "photo": 5,
+   "name": "shadows+50+highlights-50",
+   "reference": "references/5-shadows+50+highlights-50.tif",
+   "reference_sha256": "91ee1092414ebaf35c44f740c905dac96fe325e7ed93162dcddbb39875bdcc3d",
+   "xmp": "references/5-shadows+50+highlights-50.xmp",
+   "xmp_sha256": "057f76dc4e1e29c0336c8da60439253e0285ec0fa0d03495a646650fc73c2792"
+  },
+  {
+   "photo": 5,
+   "name": "contrast+50+blacks-50",
+   "reference": "references/5-contrast+50+blacks-50.tif",
+   "reference_sha256": "7434f67c6941f4ae7e5030eab98063d4bee56cde57d4fa80457dde4feadf4417",
+   "xmp": "references/5-contrast+50+blacks-50.xmp",
+   "xmp_sha256": "89c1af69f39aa57b5bd0a7475868676e5ed0b37f04fab7ffed05b90b33dc563d"
+  },
+  {
+   "photo": 5,
+   "name": "dehaze+40+clarity+40",
+   "reference": "references/5-dehaze+40+clarity+40.tif",
+   "reference_sha256": "b044f4dc9e8b3a62e0bca5cc1bf6b0c2de54eec48905682c64cef9b0f8e64f6a",
+   "xmp": "references/5-dehaze+40+clarity+40.xmp",
+   "xmp_sha256": "face5041a6cc75d7eacbb3f411e23f2c9eb3d2ae79f9b58192a7597a6b5b4e53"
+  },
+  {
+   "photo": 5,
+   "name": "mask-exposure+shadows",
+   "reference": "references/5-mask-exposure+shadows.tif",
+   "reference_sha256": "0b59ad9556fca6e6220dc1a7b1edd26ca722e37a55f105d5ceed0ad51732145a",
+   "xmp": "references/5-mask-exposure+shadows.xmp",
+   "xmp_sha256": "1be7b8b6cf20d39492a126941144896528e90a1584f90b9733f062307c6c9ecc"
+  },
+  {
+   "photo": 5,
+   "name": "color-default",
+   "reference": "references/5-color-default.tif",
+   "reference_sha256": "83063028a7b57956299e87b0c9c0583f87cfee4e679b9491b9bbc37f34a079d1",
+   "xmp": "references/5-color-default.xmp",
+   "xmp_sha256": "3d12ce3d6f45fde2c05beecc2e9f4fa172f202390235332bd7c43dedc6f43025"
+  },
+  {
+   "photo": 5,
+   "name": "color-shadows+100",
+   "reference": "references/5-color-shadows+100.tif",
+   "reference_sha256": "5176c36731cb9259ee4d707d795ada4d7d69673dd5def339c29704b03780222b",
+   "xmp": "references/5-color-shadows+100.xmp",
+   "xmp_sha256": "e9e69843da63a6e29764274da90afa80158d0c6532c8d5512f5af42d902306f0"
+  },
+  {
+   "photo": 5,
+   "name": "color-dehaze+40",
+   "reference": "references/5-color-dehaze+40.tif",
+   "reference_sha256": "bc6d12db3d5b50bf4a8ae1a7c3b831a12101e6122c32fd4c583bb90b49eb1bad",
+   "xmp": "references/5-color-dehaze+40.xmp",
+   "xmp_sha256": "bef0237035a3bd7f8bc397fc7cb2acf5d7fe2aef2b284df94e98974aa09a5837"
+  },
+  {
+   "photo": 5,
+   "name": "color-whites+100",
+   "reference": "references/5-color-whites+100.tif",
+   "reference_sha256": "cae780fa487d1dc03d3fe94c645e405fecd2bbb9d2529677f6eb748ffacba986",
+   "xmp": "references/5-color-whites+100.xmp",
+   "xmp_sha256": "79d502b48bab24435c3fd8a249e6ef403b86bd4808dcf4269978e3552878d56d"
+  },
+  {
+   "photo": 6,
+   "name": "default",
+   "reference": "references/6-default.tif",
+   "reference_sha256": "f8c1c335b68c6374e275981a3af13d47961aa017cf6ff35e7327c3c7adf2ae96",
+   "xmp": "references/6-default.xmp",
+   "xmp_sha256": "a8ebf3ca66aa2fbda96c6b9af3fa74300f44b60e3886db18337ba77571641a8f"
+  },
+  {
+   "photo": 6,
+   "name": "exposure-1+whites+100",
+   "reference": "references/6-exposure-1+whites+100.tif",
+   "reference_sha256": "ae1b6e16b275d5d57d100424f180f93413d481e5328f52a91aa15198df92fb9a",
+   "xmp": "references/6-exposure-1+whites+100.xmp",
+   "xmp_sha256": "490c3ad1762ce7a33d742d3160e73ca06061726cf74543e85e525d60d4bb78df"
+  },
+  {
+   "photo": 6,
+   "name": "shadows+50+highlights-50",
+   "reference": "references/6-shadows+50+highlights-50.tif",
+   "reference_sha256": "23fdf4440b669ff7d6b4237aa692a761a224d10cef272d04996687038712bdcc",
+   "xmp": "references/6-shadows+50+highlights-50.xmp",
+   "xmp_sha256": "d63460b20832889a8421da2b2ce993c9b11d25ce52d4cf5e8b811ceca6d66e05"
+  },
+  {
+   "photo": 6,
+   "name": "contrast+50+blacks-50",
+   "reference": "references/6-contrast+50+blacks-50.tif",
+   "reference_sha256": "4c863ca6a19dd357753c0ad3d35c205bffecf654bf2ef5ce7a41a403cbb8d455",
+   "xmp": "references/6-contrast+50+blacks-50.xmp",
+   "xmp_sha256": "34552476351f67fbe803f7e60dde36cddb73e10096fb8ab5f320286e5a732002"
+  },
+  {
+   "photo": 6,
+   "name": "dehaze+40+clarity+40",
+   "reference": "references/6-dehaze+40+clarity+40.tif",
+   "reference_sha256": "26f0324e77e1f782dee24a2b43c30a9a254e2bb4cbea9833b3e0442bb054065c",
+   "xmp": "references/6-dehaze+40+clarity+40.xmp",
+   "xmp_sha256": "f29575bd03fa11e21d7dac21d881864cb3257030be0fad7aa9d1288158d2a302"
+  },
+  {
+   "photo": 6,
+   "name": "mask-exposure+shadows",
+   "reference": "references/6-mask-exposure+shadows.tif",
+   "reference_sha256": "3a02f4cfd46679429602bf4eada9da4938c6357e2e08a4f2977db8c496dce7e7",
+   "xmp": "references/6-mask-exposure+shadows.xmp",
+   "xmp_sha256": "6ae0454721294288af4a2826638dd44be61b361c6564d46aeb72c85735c4568a"
+  },
+  {
+   "photo": 6,
+   "name": "color-default",
+   "reference": "references/6-color-default.tif",
+   "reference_sha256": "e955438d0338e9c027c04c3f11013a6c9b1030cbd0f8e4ff515e4df103cc1895",
+   "xmp": "references/6-color-default.xmp",
+   "xmp_sha256": "ac24f6c8acca0bf04bfa48ea4da9ced9d1e1d31fb68aa5c283d819aa904f4273"
+  },
+  {
+   "photo": 6,
+   "name": "color-shadows+100",
+   "reference": "references/6-color-shadows+100.tif",
+   "reference_sha256": "c876c4db4331845f8080f99dbac631600c5ff13c864e7f0d6c997851102b0612",
+   "xmp": "references/6-color-shadows+100.xmp",
+   "xmp_sha256": "415bb0f849f3fb7d9327d9e29bb68d908caa4a4aa0a117a2920bec32509fbfb3"
+  },
+  {
+   "photo": 6,
+   "name": "color-dehaze+40",
+   "reference": "references/6-color-dehaze+40.tif",
+   "reference_sha256": "2a089d7ee78296410b00af06dfb8f119a5d13184be958c02a3259704903d48c1",
+   "xmp": "references/6-color-dehaze+40.xmp",
+   "xmp_sha256": "37be0df6e77ee995b0d17eb1fbf599ad524fc952cfd3e2f2cb4a4e9a6a9505bb"
+  },
+  {
+   "photo": 6,
+   "name": "color-whites+100",
+   "reference": "references/6-color-whites+100.tif",
+   "reference_sha256": "8efc21f65e4ef61faf66f50546b2ac1a53d09994d05d69a3415e3095b36cd904",
+   "xmp": "references/6-color-whites+100.xmp",
+   "xmp_sha256": "2bbcf829fd4f17b75000aa2709c0ab7e19d2459b83068a6d5911019812399722"
+  },
+  {
+   "photo": 7,
+   "name": "default",
+   "reference": "references/7-default.tif",
+   "reference_sha256": "d321ab907e175a11d579f9b451c7a1d108a6d87291e93dd59f5d650cc6b9a650",
+   "xmp": "references/7-default.xmp",
+   "xmp_sha256": "8571cca854f3850e9e94675e86beca1b1d04acfcc99c0d145c33d0a2dc335c61"
+  },
+  {
+   "photo": 7,
+   "name": "exposure-1+whites+100",
+   "reference": "references/7-exposure-1+whites+100.tif",
+   "reference_sha256": "db90eaae5f42c62bfc3fd8c0f1e9e0439aead449f98563f64ed8704a162c2741",
+   "xmp": "references/7-exposure-1+whites+100.xmp",
+   "xmp_sha256": "7859617b5b2570e509656d6b3a88183727fcf882c909c64560a1da3b66900c02"
+  },
+  {
+   "photo": 7,
+   "name": "shadows+50+highlights-50",
+   "reference": "references/7-shadows+50+highlights-50.tif",
+   "reference_sha256": "21f688ff9aec4d34b265b0318a5ed05e78194b8566adecd16d67e58e9d8f8f98",
+   "xmp": "references/7-shadows+50+highlights-50.xmp",
+   "xmp_sha256": "ea8a26bc1fb295c8fedd1da27a60b54053992fc8da58ff40c033c8bf6d11371f"
+  },
+  {
+   "photo": 7,
+   "name": "contrast+50+blacks-50",
+   "reference": "references/7-contrast+50+blacks-50.tif",
+   "reference_sha256": "13c76f8d2e104914df254ebcf4de40a5091e0d89087d832fba4b77ed616a3119",
+   "xmp": "references/7-contrast+50+blacks-50.xmp",
+   "xmp_sha256": "5fed5ac205e19ba177ee013d1f1d27ecd66243a5ebd5b519f3ea1493363743de"
+  },
+  {
+   "photo": 7,
+   "name": "dehaze+40+clarity+40",
+   "reference": "references/7-dehaze+40+clarity+40.tif",
+   "reference_sha256": "6d9e4cf8178ccaa6933b96e82587a4ba4e33815fb529606981a4d3759c34cad8",
+   "xmp": "references/7-dehaze+40+clarity+40.xmp",
+   "xmp_sha256": "0121a0c0390d717a3099ed53516cc742c82a0645af796ac18159e4517e4fb344"
+  },
+  {
+   "photo": 7,
+   "name": "mask-exposure+shadows",
+   "reference": "references/7-mask-exposure+shadows.tif",
+   "reference_sha256": "44759a56b58d638ddb2a6f2996bea5354334ca4f747e2219d14bd382313b5b32",
+   "xmp": "references/7-mask-exposure+shadows.xmp",
+   "xmp_sha256": "c0917da80587fe2462d66b1a942b2c9e9084fef224196685cff5848f3fcbd1d7"
+  },
+  {
+   "photo": 7,
+   "name": "color-default",
+   "reference": "references/7-color-default.tif",
+   "reference_sha256": "a1db4f31e566030d88222739b3000460da73376bbdad34cc638e2e66c2fe969f",
+   "xmp": "references/7-color-default.xmp",
+   "xmp_sha256": "79e4973398df19c268065112c0d198ed3467c711e405b258a127bf499a707da0"
+  },
+  {
+   "photo": 7,
+   "name": "color-shadows+100",
+   "reference": "references/7-color-shadows+100.tif",
+   "reference_sha256": "edbd7e26df4ca673da594c0033404d1ec9ec6ca7b3b2b11e5aa234597e020a80",
+   "xmp": "references/7-color-shadows+100.xmp",
+   "xmp_sha256": "e461d49565b24111e66852ac3073308f95479e8303d59ed66adbf5ba7cb9b0f5"
+  },
+  {
+   "photo": 7,
+   "name": "color-dehaze+40",
+   "reference": "references/7-color-dehaze+40.tif",
+   "reference_sha256": "1c18b2d43049bd920626b605c154bdec1993d4352f296b37f5b06dc900bd2427",
+   "xmp": "references/7-color-dehaze+40.xmp",
+   "xmp_sha256": "9ed0e94fc05c180837c6cc56e1fba86a400af693de5b588fed3288e532e29b66"
+  },
+  {
+   "photo": 7,
+   "name": "color-whites+100",
+   "reference": "references/7-color-whites+100.tif",
+   "reference_sha256": "31c4b5cbf1922e6c592ca994795f9fc9188d75d9305c713d9099f596809f4f90",
+   "xmp": "references/7-color-whites+100.xmp",
+   "xmp_sha256": "65c5457589dd23ff4c2ec560ba8c91b0cb10e9e5db15d344c809d6bff9549cb5"
+  },
+  {
+   "photo": 8,
+   "name": "default",
+   "reference": "references/8-default.tif",
+   "reference_sha256": "1786b88654284e8804defedd36efa0eecbac70e96d5a629faa3281b330d05575",
+   "xmp": "references/8-default.xmp",
+   "xmp_sha256": "0b14cced19fb6f7f201930eb1a0898d5851b2e30f11f9e5af73bf3620400e804"
+  },
+  {
+   "photo": 8,
+   "name": "exposure-1+whites+100",
+   "reference": "references/8-exposure-1+whites+100.tif",
+   "reference_sha256": "c53fb062197e87dce0460f9071d4cfea0b2f2cbb0641f833552055323116d35f",
+   "xmp": "references/8-exposure-1+whites+100.xmp",
+   "xmp_sha256": "cf8e4c998f7b7141f1c2e7dbaf43e4169d919dab820707da0b7409e751105985"
+  },
+  {
+   "photo": 8,
+   "name": "shadows+50+highlights-50",
+   "reference": "references/8-shadows+50+highlights-50.tif",
+   "reference_sha256": "9e9f9f4eaf25d432108bdacaaeee7a150b88a4f7f74df3edb15d40ff293a4e31",
+   "xmp": "references/8-shadows+50+highlights-50.xmp",
+   "xmp_sha256": "5acbb0ff9a0965a960a00c932412c07bc92670feaeab28275458d28c0e5e17ad"
+  },
+  {
+   "photo": 8,
+   "name": "contrast+50+blacks-50",
+   "reference": "references/8-contrast+50+blacks-50.tif",
+   "reference_sha256": "0bdb895dca037103dbabfbe640881cad2ea67a34c28e54fb1a59c9b07e94cb7d",
+   "xmp": "references/8-contrast+50+blacks-50.xmp",
+   "xmp_sha256": "27c1a552dd7cb63892e7ebca83caa8695020ac6468364017034819c01986683d"
+  },
+  {
+   "photo": 8,
+   "name": "dehaze+40+clarity+40",
+   "reference": "references/8-dehaze+40+clarity+40.tif",
+   "reference_sha256": "9356cb6e0f6f9fcb9ef0a60c55ccfe6d66c45b7b6782b829422bf24b8426c7ee",
+   "xmp": "references/8-dehaze+40+clarity+40.xmp",
+   "xmp_sha256": "d4a6c22fe456e7e30241b64f3671af90aac7a357f2f8c7a2ec947451f7972a5f"
+  },
+  {
+   "photo": 8,
+   "name": "mask-exposure+shadows",
+   "reference": "references/8-mask-exposure+shadows.tif",
+   "reference_sha256": "ea5b7307b0681f0bb74b32952e79e4f3636e5479c1d0d88ab667357991990046",
+   "xmp": "references/8-mask-exposure+shadows.xmp",
+   "xmp_sha256": "cd71d82332f7625b45dd216009cd551fffe15807cd7bf4495571c6e96da66c09"
+  },
+  {
+   "photo": 8,
+   "name": "color-default",
+   "reference": "references/8-color-default.tif",
+   "reference_sha256": "83190802ccf0d1cfd4b977146d81ab16f50ce4b86cdeaf99e57267d54eac435b",
+   "xmp": "references/8-color-default.xmp",
+   "xmp_sha256": "6226d232c4fc564a3da856520370d23ee4c803de5dc553499d9a534d86a0c236"
+  },
+  {
+   "photo": 8,
+   "name": "color-shadows+100",
+   "reference": "references/8-color-shadows+100.tif",
+   "reference_sha256": "74394f64a1358c77ec5174fdd67a0ecdb1277e0219c7f098675e7366469d59dc",
+   "xmp": "references/8-color-shadows+100.xmp",
+   "xmp_sha256": "10d1d16ad87a5728ad6207fa826cbf9502ee038929e1aa229c6e6f97b4ed70fc"
+  },
+  {
+   "photo": 8,
+   "name": "color-dehaze+40",
+   "reference": "references/8-color-dehaze+40.tif",
+   "reference_sha256": "afb104d497de180e718b3272955351e65d614651db19b3046a01bfaed1b6cc8c",
+   "xmp": "references/8-color-dehaze+40.xmp",
+   "xmp_sha256": "96618d949c3d6f0b8f93ef78864d3a34914d14fcac865a867d8176ff529a968b"
+  },
+  {
+   "photo": 8,
+   "name": "color-whites+100",
+   "reference": "references/8-color-whites+100.tif",
+   "reference_sha256": "0deff60fe5a7891fdd7ae580a0460499ec10f5710adf3f80d97268638c465e0c",
+   "xmp": "references/8-color-whites+100.xmp",
+   "xmp_sha256": "74ff0eba787ecf1fea0915101540174b70214fa088b39df2a4448d07d053052c"
+  }
+ ]
+}

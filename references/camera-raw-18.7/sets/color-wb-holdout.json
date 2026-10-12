@@ -1,0 +1,152 @@
+{
+ "schema": 1,
+ "set": "color-wb-holdout",
+ "settings": [
+  "wb-daylight",
+  "wb-tungsten",
+  "wb-fluorescent",
+  "temperature-3200",
+  "temperature-5000",
+  "temperature-8000",
+  "tint-30",
+  "tint+30"
+ ],
+ "photos": [
+  {
+   "raw": "raws/pixls/Fujifilm/X70/DSCF8848.RAF",
+   "sha256": "4f9c33fde578addebda991c37d26551b46fab8f592c74f7192560a05ec08d577",
+   "p90_L": 34.48887992945352,
+   "stratum": "low",
+   "make": "Fujifilm",
+   "model": "X70",
+   "subject": "night view of a stone clock tower",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Pentax/K-70/IMGP6854.PEF",
+   "sha256": "1d64c6aa71680642ba8f00b6f6105df3e66a4534e631f422fbf3316273c4408c",
+   "p90_L": 32.46673539235125,
+   "stratum": "low",
+   "make": "Pentax",
+   "model": "K-70",
+   "subject": "a ceiling light in a dim room",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-GX7MK3/P2010097.RW2",
+   "sha256": "b801f4b12b18d7c01289a8be5555e753edd38f9c7ffbb8922eede2506d511c66",
+   "p90_L": 72.12438664211149,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DC-GX7MK3",
+   "subject": "a green thermos with a pink plastic egg on top",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/SONY/ZV-E10M2/DSC00696.ARW",
+   "sha256": "3d61e7f685460e6e77a52355d88bc960d51332f3470468a06c4490a406e6b715",
+   "p90_L": 44.624307382391144,
+   "stratum": "mid",
+   "make": "Sony",
+   "model": "ZV-E10M2",
+   "subject": "red paper lantern hanging from ceiling",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-LX100M2/P1020077.RW2",
+   "sha256": "be21bf90fef3ecb9f38467f3cbaca45c852d1b07976dc307f03a97bf30eb73d3",
+   "p90_L": 66.83748316848322,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DC-LX100M2",
+   "subject": "hanging mosaic lanterns against a concrete wall",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS M6 Mark II/IMG_CRAW_1_1.CR3",
+   "sha256": "0ccbb6c447d0fab996291be9a5c2728cd7367bcc2f640e2a30eae112e13e6c0e",
+   "p90_L": 68.32334860208525,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS M6 Mark II",
+   "subject": "grass with scattered oak leaves",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Canon/Canon EOS R100/_MG_2195[1].CR3",
+   "sha256": "0b66842b2fe00329ebc05fe8ab9357ddbbe1a0a2d2e69a2893102de7fdf5c942",
+   "p90_L": 93.05444482485849,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS R100",
+   "subject": "orange flowers in front of a window",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Panasonic/DC-S5/P1047510.RW2",
+   "sha256": "3615c85207097180b231f0c89d018eb3f1a71988780612921eb0a05246bca706",
+   "p90_L": 82.02227029648658,
+   "stratum": "high",
+   "make": "Panasonic",
+   "model": "DC-S5",
+   "subject": "pirate-themed rubber duck on carpet",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Sony/ILCE-9M3/DSC00110.ARW",
+   "sha256": "6645e8038b9f2c92ab8e27c8fc2258b23d2f99b397ea2e256ce35bddfa9a2078",
+   "p90_L": 80.23997750673365,
+   "stratum": "high",
+   "make": "Sony",
+   "model": "ILCE-9M3",
+   "subject": "organized workshop tools on a pegboard",
+   "score": null
+  },
+  {
+   "raw": "raws/pixls/Canon/EOS M50 Mark II/IMG_0051.CR3",
+   "sha256": "1a3c11d85f48b8c644664b505f69fbdd75eb51270bb8ab556dbc660f0487e957",
+   "p90_L": 91.34244678290304,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS M50 Mark II",
+   "subject": "black cat sitting by a window",
+   "score": null
+  }
+ ],
+ "crs": {
+  "wb-daylight": {
+   "WhiteBalance": "Daylight"
+  },
+  "wb-tungsten": {
+   "WhiteBalance": "Tungsten"
+  },
+  "wb-fluorescent": {
+   "WhiteBalance": "Fluorescent"
+  },
+  "temperature-3200": {
+   "WhiteBalance": "Custom",
+   "Temperature": "3200",
+   "Tint": "+0"
+  },
+  "temperature-5000": {
+   "WhiteBalance": "Custom",
+   "Temperature": "5000",
+   "Tint": "+0"
+  },
+  "temperature-8000": {
+   "WhiteBalance": "Custom",
+   "Temperature": "8000",
+   "Tint": "+0"
+  },
+  "tint-30": {
+   "WhiteBalance": "Custom",
+   "Temperature": "6500",
+   "Tint": "-30"
+  },
+  "tint+30": {
+   "WhiteBalance": "Custom",
+   "Temperature": "6500",
+   "Tint": "+30"
+  }
+ }
+}

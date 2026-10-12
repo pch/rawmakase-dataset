@@ -1,0 +1,154 @@
+{
+ "schema": 1,
+ "set": "color-vibrance-validation",
+ "settings": [
+  "vibrance-100",
+  "vibrance-50",
+  "vibrance+50",
+  "vibrance+100",
+  "saturation-50",
+  "saturation+50"
+ ],
+ "photos": [
+  {
+   "raw": "raws/signature-edits/_MGL0192.CR2",
+   "sha256": "0201e5a2ce31e3d61af5db8fbaf97cc2e09a83e26942e4cf2c907cbf907c03db",
+   "p90_L": 13.525838321925468,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS 7D",
+   "subject": "woman with tattoos and sunglasses sitting in a dim arcade",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/free raws from signature edits - credit @ Detty Studio (1).NEF",
+   "sha256": "e1566576c90be294c30e951482fa726de1a938268c119400b004e39f89dd2085",
+   "p90_L": 35.598942271312126,
+   "stratum": "low",
+   "make": "Nikon",
+   "model": "D7000",
+   "subject": "portrait of a woman with bold makeup",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/BeSureToTag@christianbmeza - free raws from signatureedits.com.CR2",
+   "sha256": "2d9c40f6f49f2dc6d2ef9c8dd85603a4a0a0959fc85b6f39fc28a87a092c49d2",
+   "p90_L": 25.44516689184476,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS 5DS R",
+   "subject": "young man in red shirt looking up in dimly lit room",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco L7D_3458.dng",
+   "sha256": "8d31189cc8ae8deb366bb52545d76c6d85c753f2eaceadfe5703e162fd4e4dab",
+   "p90_L": 35.257719247869595,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS 7D",
+   "subject": "woman with curly hair and black lipstick",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/IMG_4525.cr2",
+   "sha256": "0fe2aa8ce3db9196aab1bbbda5f996eb9833e32ba048d7f31487f4dacef25305",
+   "p90_L": 57.80783548880318,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 750D",
+   "subject": "couple holding hands in a vineyard",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/M50R3197.dng",
+   "sha256": "ae83bb3ad7d71c3b80a247f514ffe316510dbc8fbbc0c1ec18bd429f743f4515",
+   "p90_L": 57.20962863505874,
+   "stratum": "mid",
+   "make": "Fujifilm",
+   "model": "GFX 50R",
+   "subject": "woman sitting in a vintage car",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/credit @signatureeditsco RAW_8228.NEF",
+   "sha256": "40d4e3f20420e1d57d0b60756233299e15ce2919fe1865da4cf49419efa1f5a3",
+   "p90_L": 56.09599762030681,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "D7000",
+   "subject": "young woman posing among large green leaves",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/P1015288.dng",
+   "sha256": "1860202e66858d1087fe2049d420ac2068f21ea72fd46724a7ad5085deb50eec",
+   "p90_L": 62.25797321173595,
+   "stratum": "mid",
+   "make": "Panasonic",
+   "model": "DC-S1",
+   "subject": "woman holding a pink skateboard indoors near a cactus",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/IMG_7495.CR2",
+   "sha256": "0ed65f1923b881cd09b07d73732ee9bf3b996a6302f6490ccd288cc89d4f7957",
+   "p90_L": 83.12550180892967,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS Rebel T7i",
+   "subject": "woman leaning against a brick wall in an urban setting",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/ free raw files from signatureedits.com 1 (72).NEF",
+   "sha256": "0831fd4abfa6b5aae00963b04cc20a75462427c11d11c97e8a4d7ac9fed322cd",
+   "p90_L": 82.08327216391433,
+   "stratum": "high",
+   "make": "Nikon",
+   "model": "D7200",
+   "subject": "woman leaning against a wall",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/free raw from signature edits (1).dng",
+   "sha256": "4d3f035b458cefb126f69959f9f0c71df1b65739090668ebc4268bbaea9529d5",
+   "p90_L": 87.02880039866841,
+   "stratum": "high",
+   "make": "Panasonic",
+   "model": "DC-S1",
+   "subject": "person standing on a skateboard on a road",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/@olyjuniorfotografia - from signatureedits.com.CR2",
+   "sha256": "1938870fa2b84380299f5d3cad255e9070656e54d991f9855e9f2e1104e11c5a",
+   "p90_L": 75.09703483093989,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS Rebel T7i",
+   "subject": "woman in a tropical setting with banana leaves",
+   "score": null
+  }
+ ],
+ "crs": {
+  "vibrance-100": {
+   "Vibrance": "-100"
+  },
+  "vibrance-50": {
+   "Vibrance": "-50"
+  },
+  "vibrance+50": {
+   "Vibrance": "+50"
+  },
+  "vibrance+100": {
+   "Vibrance": "+100"
+  },
+  "saturation-50": {
+   "Saturation": "-50"
+  },
+  "saturation+50": {
+   "Saturation": "+50"
+  }
+ }
+}

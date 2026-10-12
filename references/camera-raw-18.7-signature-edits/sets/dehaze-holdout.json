@@ -1,0 +1,124 @@
+{
+ "schema": 1,
+ "set": "dehaze-holdout",
+ "settings": [
+  "dehaze-100",
+  "dehaze-50",
+  "dehaze-25",
+  "dehaze+25",
+  "dehaze+50",
+  "dehaze+100"
+ ],
+ "photos": [
+  {
+   "raw": "raws/signature-edits/- credit_signatureedits.com - DSC.3003.dng",
+   "sha256": "47a4b56a36a8799ba45dc9f5e967f52f4a34931ac2c18429843d372d1ebe5a6a",
+   "p90_L": 21.124764939028193,
+   "stratum": "low",
+   "make": "Leica",
+   "model": "SL2-S",
+   "subject": "shirtless man smoking in dim light",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/DSC_0011.NEF",
+   "sha256": "e8f0d1af99f095aecdf4e587641b5cb59db9b1240a8fd079ec3e8097a850394a",
+   "p90_L": 28.684937092538842,
+   "stratum": "low",
+   "make": "Nikon",
+   "model": "D3300",
+   "subject": "night view of a winding road with city lights in the distance",
+   "score": 1
+  },
+  {
+   "raw": "raws/signature-edits/PANA8679.RW2",
+   "sha256": "dc5361099bd205a7bcc82868766098fdcd37774d4f754f3c298edcf06b78f6c4",
+   "p90_L": 36.938062562568895,
+   "stratum": "low",
+   "make": "Panasonic",
+   "model": "DC-GH5",
+   "subject": "two people watching a sunset over rocky coastline",
+   "score": 1
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco IMG_1101.CR2",
+   "sha256": "a85a21c629247cfe061a5086260a3be557bbf754657b3be23c2ca353a74fbd31",
+   "p90_L": 63.14747436439842,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 1200D",
+   "subject": "woman in red dress standing on wooden platform overlooking mountains",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/signature edits free raw feature.NEF",
+   "sha256": "a5f971cde183fe94e10026ebd6845d0e36758449b661859f535e2c9b1beb3151",
+   "p90_L": 73.7031913243052,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "D3300",
+   "subject": "person in yellow jacket crouching in a field",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/DSC3182.arw",
+   "sha256": "2b9c7b33a8deb9ef7f3828380bf04c5631b0e231f858fe1d1c21b1dd7ec751ec",
+   "p90_L": 66.2421908543802,
+   "stratum": "mid",
+   "make": "Sony",
+   "model": "DSLR-A290",
+   "subject": "snow-covered village with smoke rising from chimneys",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/Signature Edits Free Raw Files BNL_1333.NEF",
+   "sha256": "be864962047ec78fbf354a23b942336c9aff47da4a3128c88d9f9ebe5500f296",
+   "p90_L": 67.33504788800087,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "D5500",
+   "subject": "a sheep standing in tall grass",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/signature edits free raws tarevir .CR2",
+   "sha256": "39440d899a2527d4cc5574da601034e97b21c30c7710025e5e929f1c0e864a47",
+   "p90_L": 94.61672977852697,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS 700D",
+   "subject": "rustic mountain hut with prayer flags in fog",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/ emrahkaracayir02.NEF",
+   "sha256": "8e09612ae0f3193e5e5d300e77a8591361cc3459b7ca14f0f2dab08e11b2d59e",
+   "p90_L": 95.01476790809176,
+   "stratum": "high",
+   "make": "Nikon",
+   "model": "D90",
+   "subject": "coastal town nestled in a bay at dusk",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/P1061136.dng",
+   "sha256": "1c0383f0966a73d2600b371a58427516e26cfb094276f90cd246042e6ce0a7fd",
+   "p90_L": 84.32988665867738,
+   "stratum": "high",
+   "make": "Panasonic",
+   "model": "DC-S5",
+   "subject": "person in bright jacket sitting on mountain ridge overlooking valleys",
+   "score": 2
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco DSC04841.ARW",
+   "sha256": "57c82f748b6b9de3ddf14c94631c3342555437cdd2647ec3d88dda0aefeb3718",
+   "p90_L": 80.93428310685019,
+   "stratum": "high",
+   "make": "Sony",
+   "model": "ILCE-7SM3",
+   "subject": "man proposing to woman on a pier at dusk",
+   "score": 2
+  }
+ ]
+}

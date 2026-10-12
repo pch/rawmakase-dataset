@@ -1,0 +1,154 @@
+{
+ "schema": 1,
+ "set": "color-mixer-foliage-validation",
+ "settings": [
+  "green-hue-50",
+  "green-hue+50",
+  "yellow-sat-50",
+  "yellow-sat+50",
+  "green-lum-50",
+  "green-lum+50"
+ ],
+ "photos": [
+  {
+   "raw": "raws/signature-edits/IG_MuzeTheFuze_DuckPicture.NEF",
+   "sha256": "e1601cf98c4bd3d1eaf815573ab7c9f01b46d3341d5edf1437b773066fc7f83e",
+   "p90_L": 29.798595064459647,
+   "stratum": "low",
+   "make": "Nikon",
+   "model": "D7200",
+   "subject": "duck swimming in water with foliage",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/Copy of cvl5p6_adventurekid - from signatureedits.com.arw",
+   "sha256": "012aa6db443231a8b976a3489691298c7451514a5d17be5ace2ddbb55b825efc",
+   "p90_L": 37.775968556816046,
+   "stratum": "low",
+   "make": "Sony",
+   "model": "SLT-A77V",
+   "subject": "person standing in a mossy forest",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/_MGL0190.CR2",
+   "sha256": "96bc8535d074f9711ab38424ea30eb27aa92f6442140d28366492826396dcaf8",
+   "p90_L": 29.363501239883057,
+   "stratum": "low",
+   "make": "Canon",
+   "model": "EOS 7D",
+   "subject": "woman wearing sunglasses sitting in a darkened amusement park ride",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/Photodesk 20.NEF",
+   "sha256": "14f951cc72325fbe6143436cf13630e4a8eeff0557e0a2150046f249d8853ea3",
+   "p90_L": 13.20468236320793,
+   "stratum": "low",
+   "make": "Nikon",
+   "model": "D7000",
+   "subject": "a cat standing in a dimly lit forest path",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/IMG_4525.cr2",
+   "sha256": "0fe2aa8ce3db9196aab1bbbda5f996eb9833e32ba048d7f31487f4dacef25305",
+   "p90_L": 57.80783548880318,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 750D",
+   "subject": "couple holding hands in a vineyard",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/credit @signatureeditsco RAW_8228.NEF",
+   "sha256": "40d4e3f20420e1d57d0b60756233299e15ce2919fe1865da4cf49419efa1f5a3",
+   "p90_L": 56.09599762030681,
+   "stratum": "mid",
+   "make": "Nikon",
+   "model": "D7000",
+   "subject": "young woman posing among large green leaves",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/@olyjuniorfotografia  - from signatureedits.com.CR2",
+   "sha256": "44df58cae3c9a28d829615744fe3535d38e1033f9447bb1d5fd4401f7dcdd48a",
+   "p90_L": 70.11890183690957,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS Rebel T7i",
+   "subject": "woman with long blonde hair standing beside red flowers",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/IMG_0088.cr2",
+   "sha256": "6041253695dc7a479c0ec1c2056d9be6fec9135eb69224f7476c8fd8a7d4fa37",
+   "p90_L": 52.49179643603279,
+   "stratum": "mid",
+   "make": "Canon",
+   "model": "EOS 600D",
+   "subject": "woman in forest with autumn leaves",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/@olyjuniorfotografia - from signatureedits.com.CR2",
+   "sha256": "1938870fa2b84380299f5d3cad255e9070656e54d991f9855e9f2e1104e11c5a",
+   "p90_L": 75.09703483093989,
+   "stratum": "high",
+   "make": "Canon",
+   "model": "EOS Rebel T7i",
+   "subject": "woman in a tropical setting with banana leaves",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/signature edit free raws -  PekhenkoAlex.NEF",
+   "sha256": "42a979447f576f6e9d6093bb58c66e81653a400eba4c3a1bf271475c71f38110",
+   "p90_L": 93.6072311820438,
+   "stratum": "high",
+   "make": "Nikon",
+   "model": "D80",
+   "subject": "gray cat peeking through foliage",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/signature edits aP1028585.dng",
+   "sha256": "53088b0f402b85945b7984a16c0301d2fbba0b16aeca34dc8298bc850e54825b",
+   "p90_L": 85.97365508306065,
+   "stratum": "high",
+   "make": "Panasonic",
+   "model": "DC-S1",
+   "subject": "a bighorn sheep standing on a rocky slope",
+   "score": null
+  },
+  {
+   "raw": "raws/signature-edits/tag @signatureeditsco - free raw files from signatureedits.com DSC06876.ARW",
+   "sha256": "b631bf7024ae90b1680bdfd31e63ec54dce848095b17739e7cc2e3caafeba75d",
+   "p90_L": 79.8962008812985,
+   "stratum": "high",
+   "make": "Sony",
+   "model": "DSC-RX10M4",
+   "subject": "a deer standing in a forest",
+   "score": null
+  }
+ ],
+ "crs": {
+  "green-hue-50": {
+   "HueAdjustmentGreen": "-50"
+  },
+  "green-hue+50": {
+   "HueAdjustmentGreen": "+50"
+  },
+  "yellow-sat-50": {
+   "SaturationAdjustmentYellow": "-50"
+  },
+  "yellow-sat+50": {
+   "SaturationAdjustmentYellow": "+50"
+  },
+  "green-lum-50": {
+   "LuminanceAdjustmentGreen": "-50"
+  },
+  "green-lum+50": {
+   "LuminanceAdjustmentGreen": "+50"
+  }
+ }
+}

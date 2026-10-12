@@ -1,0 +1,433 @@
+raws/pixls/Sony/ILCE-7CM2/DSC02436.ARW
+raws/pixls/Panasonic/DMC-G85/_1030984.RW2
+raws/pixls/Panasonic/DC-S1RM2/P1000236.RW2
+raws/pixls/Panasonic/DC-G95/_1000574.RW2
+raws/pixls/Sony/ILCE-6100/DSC00033.ARW
+raws/pixls/Sony/DSC-HX99/DSC00001.ARW
+raws/pixls/HUAWEI/EVA-AL00/IMG_20171015_200142.dng
+raws/pixls/Panasonic/DC-ZS200D/P1000631.RW2
+raws/pixls/NIKON CORPORATION/NIKON Z fc/Nikon_Z_fc_14bit.NEF
+raws/pixls/Canon/EOS Rebel T7i/20190925-1501-0421.cr2
+raws/pixls/Sony/ILCE-6600/_DSC0268.ARW
+raws/pixls/Panasonic/DC-G100/P1000346.RW2
+raws/pixls/Fujifilm/XF10/DSCF6466.RAF
+raws/pixls/Panasonic/DMC-TZ110/P1000491.RW2
+raws/pixls/Fujifilm/X-A10/DSCF8207.RAF
+raws/pixls/Ricoh/GR III/R0000357.DNG
+raws/pixls/Canon/Canon EOS M200/_MG_2233.CR3
+raws/pixls/Pentax/K-1 Mark II/_K1I9779.DNG
+raws/pixls/Pentax/K-1/IMGP8550.PEF
+raws/pixls/Canon/EOS 4000D/IMG_0361.CR2
+raws/pixls/Panasonic/DC-GH6/4-3.RW2
+raws/pixls/Sony/ILCE-9M3/DSC00115.ARW
+raws/pixls/Panasonic/DC-TZ91/P1000244.RW2
+raws/pixls/Fujifilm/X-T100/DSCF0627.RAF
+raws/pixls/Canon/Canon EOS R100/_MG_2195[1].CR3
+raws/pixls/SONY/ILCE-6400A/DSC04880.ARW
+raws/pixls/Google/Pixel 4 XL/IMG_20191023_125156.dng
+raws/pixls/Canon/EOS M6 Mark II/IMG_CRAW_1_1.CR3
+raws/pixls/Panasonic/DMC-G85/_1030982.RW2
+raws/pixls/Panasonic/DC-TZ90/P1010053.RW2
+raws/pixls/Panasonic/DC-GH5M2/Panasonic_-_DC-GH5M2_-_4:3.RW2
+raws/pixls/HUAWEI/ANE-LX1/IMG_20200920_112515.dng
+raws/pixls/Samsung/SM-G973F/20191114_225157.dng
+raws/pixls/Xiaomi/Redmi Note 7/IMG_20190615_155524.dng
+raws/pixls/Panasonic/DC-S1RM2/S1Rii_4x3.RW2
+raws/pixls/Panasonic/DC-S1RM2/P1000454.RW2
+raws/pixls/Fujifilm/X-H2/Fuji-X-H2-Lossless-Compressed-Raw.RAF
+raws/pixls/Canon/EOS R7/443A0159.CR3
+raws/pixls/FUJIFILM/GFX100S II/_DSF0001.RAF
+raws/pixls/Google/Pixel 4a/PXL_20201121_100251397.dng
+raws/pixls/Olympus/E-M10 Mark III/PA080192.ORF
+raws/pixls/Blackmagic/Blackmagic Pocket Cinema Camera 4k/BMPCC_4k_DCI_uncompressed.dng
+raws/pixls/NIKON CORPORATION/NIKON Z5_2/Lossless_compression_1-1.NEF
+raws/pixls/Canon/PowerShot G5 X Mark II/Canon_-_PowerShot_G5_X_Mark_II_-_RAW_(1:1).CR3
+raws/pixls/Blackmagic/Blackmagic Pocket Cinema Camera 4k/BMPCC_4k_DCI_3-1.dng
+raws/pixls/Panasonic/DMC-FZ2500/P1030343.RW2
+raws/pixls/Sony/ZV-1/DSC00056.ARW
+raws/pixls/OnePlus/ONEPLUS A6003/IMG_20201019_093659.dng
+raws/pixls/Fujifilm/X-Pro3/_DSF2385.RAF
+raws/pixls/Canon/EOS M50/Canon-EOS_M50_-CRAW_(1:1).CR3
+raws/pixls/Canon/EOS Kiss X80/IMG_3688.CR2
+raws/pixls/Olympus/PEN-F/PenFNormal.orf
+raws/pixls/OnePlus/ONEPLUS A3003/IMG_20170316_134557.dng
+raws/pixls/Canon/EOS R10/IMG_4361.CR3
+raws/pixls/Sony/ILCE-9M2/SONY_A9II_(ILCE-9M2)_-_compressed_(3:2)_14bit.ARW
+raws/pixls/Panasonic/DC-G9/P1000951.RW2
+raws/pixls/Pentax/KP/IMGP0236.DNG
+raws/pixls/Canon/PowerShot G5 X Mark II/Canon_-_PowerShot_G5_X_Mark_II_-_RAW_(3:2).CR3
+raws/pixls/NIKON CORPORATION/NIKON Z6_3/Nikon_Z6__3_Lossless_compressed_FX.NEF
+raws/pixls/Sony/ILCE-7SM3/DSC01569.ARW
+raws/pixls/Canon/EOS 80D/IMG_0097.CR2
+raws/pixls/Sony/DSC-RX10M4/DSC02484.ARW
+raws/pixls/Pentax/K-1 Mark II/_IMG2387.DNG
+raws/pixls/FUJIFILM/X-T30 III/DSCF0133.RAF
+raws/pixls/Canon/EOS M50 Mark II/IMG_0051.CR3
+raws/pixls/Canon/EOS R6 Mark II/canon-r6m2-img_0346-raw-normal-full.cr3
+raws/pixls/Nikon/Z 6_2/CZP_0299.NEF
+raws/pixls/Canon/EOS M50/Canon_EOS_M50_RAW_ISO_100_nocrop_nodual.CR3
+raws/pixls/OM Digital Solutions/OM-3/P5048182.ORF
+raws/pixls/Pentax/K-70/IMGP6854.PEF
+raws/pixls/Nikon/COOLPIX P1000/DSCN1113.NRW
+raws/pixls/Pentax/K-3 Mark III/_IMG0114.DNG
+raws/pixls/HUAWEI/EML-L09/IMG_20190316_130857_(2).dng
+raws/pixls/Leica/CL/L1080510_2018_CL-35-135-Chateau_Thy__Chateau_Ham.DNG
+raws/pixls/HUAWEI/EVA-L09/Huawai_P9_Leica.dng
+raws/pixls/Canon/EOS R5/Canon_EOS_R5_RAW_ISO_100_nocrop_nodual.CR3
+raws/pixls/DJI/FC7303/DJI_0109.DNG
+raws/pixls/Olympus/E-PL9/EB000005.ORF
+raws/pixls/Panasonic/DC-GX880/Panasonic_-_DC-GX880_-_4_3.RW2
+raws/pixls/Sony/ILCE-9/Sony_-_ILCE-9_-_uncompressed.ARW
+raws/pixls/Sony/ILCE-7RM5/7RM5-S35-LosslessCompressedMedium.ARW
+raws/pixls/FUJIFILM/X-T50/DSCF0119.RAF
+raws/pixls/HUAWEI/VKY-L09/IMG_20180429_160450.dng
+raws/pixls/Fujifilm/X-T3/AFXT2720.RAF
+raws/pixls/OLYMPUS/E-M5 Mark III/PB290154.ORF
+raws/pixls/Sony/ILCE-7M3/_DSC0009.ARW
+raws/pixls/Sony/DSC-RX10M3/RAW_SONY_RX10M3.ARW
+raws/pixls/Canon/EOS M50/Canon_EOS_M50_CRAW_ISO_100_nocrop_nodual.CR3
+raws/pixls/Leica/C-Lux/_1001076.RWL
+raws/pixls/Blackmagic Design/Pocket Cinema Camera 6k Pro/A010_04101355_S068.dng
+raws/pixls/Panasonic/DC-S9/Panasonic_DC-S9_ISO200_3_2.RW2
+raws/pixls/Canon/EOS R3/_C3A1200.CR3
+raws/pixls/Panasonic/DC-GX880/Panasonic_-_DC-GX880_-_1_1.RW2
+raws/pixls/SONY/ZV-1M2/_DSC5498.ARW
+raws/pixls/Panasonic/DC-FZ10002/P1015595.RW2
+raws/pixls/Pentax/K-1 Mark II/_IMG2393.PEF
+raws/pixls/Sony/DSC-RX100M5A/20181014_0082.ARW
+raws/pixls/Canon/Canon EOS R10/IMG_6310.CR3
+raws/pixls/Canon/EOS R5/Canon_EOS_R5_CRAW_ISO_100_nocrop_nodual.CR3
+raws/pixls/Panasonic/DC-LX100M2/P1020079.RW2
+raws/pixls/Canon/EOS-1D X Mark II/AZ1I2270.CR2
+raws/pixls/HUAWEI/PRA-LX1/IMG_20180330_171432.dng
+raws/pixls/Panasonic/DMC-TZ110/P1000488.RW2
+raws/pixls/Nikon/D780/DSC_0334.NEF
+raws/pixls/Panasonic/DC-TZ200/P1000416.RW2
+raws/pixls/Fujifilm/X-E2S/_DSF0540.RAF
+raws/pixls/Sony/ILCE-6400/DSC00475.ARW
+raws/pixls/Sony/ILCE-7CM2/DSC02431.ARW
+raws/pixls/Panasonic/DC-FZ80/P1010306.RW2
+raws/pixls/Pentax/K-3 Mark III/_IMG0115.PEF
+raws/pixls/Panasonic/DC-S5/P1047510.RW2
+raws/pixls/asus/ASUS_Z01KD/2018-12-02_07.39.26-1.dng
+raws/pixls/Sony/ILCE-7RM3/DSC03792.ARW
+raws/pixls/Sony/ILCE-7C/DSC00107[1].ARW
+raws/pixls/NIKON CORPORATION/NIKON Z5_2/Lossless_compression_FX_1.NEF
+raws/pixls/Olympus/E-P7/P8162689.ORF
+raws/pixls/Google/Pixel 6 Pro/PXL_20220910_093206982.dng
+raws/pixls/HTC/HTC 10/IMAG1305.dng
+raws/pixls/Canon/PowerShot SX70 HS/IMG_1000.CR3
+raws/pixls/Samsung/SM-G955F/20180202_091722.dng
+raws/pixls/SONY/ZV-E10M2/DSC00696.ARW
+raws/pixls/bq/Aquaris U Plus/IMG_20180217_111328_894.dng
+raws/pixls/YI TECHNOLOGY/M1/PC070001.DNG
+raws/pixls/KanDao/QooCam/Q360_20190310_123437_000001.DNG
+raws/pixls/Nikon/Z fc/_DSC0018.nef
+raws/pixls/Panasonic/DC-G95/_1000563.RW2
+raws/pixls/Fujifilm/X-A3/DSCF7241.RAF
+raws/pixls/Panasonic/DC-G90/PMAT0201.RW2
+raws/pixls/Panasonic/DC-S1RM2/S1Rii_electronic_shtr.RW2
+raws/pixls/Canon/EOS Rebel T6/IMG_2422.CR2
+raws/pixls/Panasonic/DC-G110/DC-G110-4:3.RW2
+raws/pixls/Panasonic/DC-S1/P1033119.RW2
+raws/pixls/Google/Pixel 8 Pro/PXL_20240415_103400204.RAW-02.ORIGINAL.dng
+raws/pixls/Sony/ILCE-7RM3A/_DSC0360.ARW
+raws/pixls/Fujifilm/X-A5/DSCF0617.RAF
+raws/pixls/Canon/EOS 850D/IMG_1837.CR3
+raws/pixls/Panasonic/DMC-TZ80/P1010762.RW2
+raws/pixls/Canon/EOS M6 Mark II/IMG_RAW_3_2.CR3
+raws/pixls/Panasonic/DC-GX800/P1000091.RW2
+raws/pixls/FUJIFILM/X-T30 III/DSCF0131.RAF
+raws/pixls/Panasonic/DC-S1M2ES/3_2_P1022959.RW2
+raws/pixls/Panasonic/DC-S5M2X/P1055415.RW2
+raws/pixls/Fujifilm/GFX50S II/Fuji_GFX50S_II_-_Lossless_Compressed.RAF
+raws/pixls/MADV/QJXJ01FJ/IMG_20190326_134416.DNG
+raws/pixls/Sony/ILCE-7CR/DSC00794.ARW
+raws/pixls/Nikon/D5600/2018-01-20_01-14_0792.NEF
+raws/pixls/Samsung/SM-G930T/20180602_132834.dng
+raws/pixls/Autel Robotics/XB015/MAX_0001.DNG
+raws/pixls/Canon/EOS 200D Mark II/_MG_3608.CR3
+raws/pixls/Leica/D-Lux 7/L1023208.RWL
+raws/pixls/OM System/TG-7/UWAG0002.ORF
+raws/pixls/Canon/EOS M6 Mark II/IMG_RAW_16_9.CR3
+raws/pixls/Fujifilm/X70/DSCF8848.RAF
+raws/pixls/Apple/iPhone XS/IMG_1105.dng
+raws/pixls/SONY/ILCE-7M5/apsc_compressed_lossless.ARW
+raws/pixls/Fujifilm/X-H1/fuji_xh1_compressed.RAF
+raws/pixls/Panasonic/DC-S5M2/P1126458_mechanical.RW2
+raws/pixls/Arashi Vision/Insta360 One X/IMG_20201122_142733_00_015.dng
+raws/pixls/Google/Pixel 2 XL/IMG_20180109_080629.dng
+raws/pixls/Sony/ILCE-7CM2/DSC02429.ARW
+raws/pixls/Panasonic/DMC-TX1/P1000555.RW2
+raws/pixls/Sony/ILCE-9/Sony_-_ILCE-9_-_compressed.ARW
+raws/pixls/Panasonic/DMC-GF8/P1190098.RW2
+raws/pixls/Canon/EOS M5/IMG_6968.CR2
+raws/pixls/FUJIFILM/X-M5/DSCF0620_-_uncompressed.RAF
+raws/pixls/Canon/EOS R10/IMG_4276.CR3
+raws/pixls/Xiaomi/Mi 9 Lite/IMG_20200324_073611.dng
+raws/pixls/Sony/ILCE-9M2/SONY_A9II_(ILCE-9M2)_-_uncompressed_(3:2)_14bit.ARW
+raws/pixls/Panasonic/DC-TZ96/TZ96-16:9.RW2
+raws/pixls/Nikon/Z 50/DSC_0450.NEF
+raws/pixls/Nikon/Z 7_2/Z72_0029.NEF
+raws/pixls/Panasonic/DMC-GX7MK2/P1010411.RW2
+raws/pixls/Canon/EOS R6/Canon_EOS_R6_RAW_ISO_100_crop_nodual.CR3
+raws/pixls/Sony/ILCE-7M4/ILCE-7M4_DSC06673_FullFrame-Raw-Uncompressed.ARW
+raws/pixls/Sony/ILCE-7M4/ILCE-7M4_DSC06681_APS-C-Raw-Compressed.ARW
+raws/pixls/Canon/PowerShot G7 X Mark III/IMG_0253.CR3
+raws/pixls/Fujifilm/X-S20/DSCF2528.RAF
+raws/pixls/Panasonic/DMC-ZS60/P1000290.RW2
+raws/pixls/Leica/V-Lux 5/_1000200.RWL
+raws/pixls/Panasonic/DMC-FZ2500/P1030346.RW2
+raws/pixls/FUJIFILM/X-T50/DSCF0118.RAF
+raws/pixls/Sony/ILCE-9M3/DSC00110.ARW
+raws/pixls/Fujifilm/X-H2S/IMG-20221005-0665.raf
+raws/pixls/Olympus/E-PL8/P9110021.ORF
+raws/pixls/Olympus/E-PL10/P6100030.ORF
+raws/pixls/Panasonic/DC-GX9/gx9_3_2.RW2
+raws/pixls/Panasonic/DC-GF10/P1010137.RW2
+raws/pixls/Nikon/D3400/DSC_0330_bad.NEF
+raws/pixls/Canon/EOS M6 Mark II/IMG_RAW_1_1.CR3
+raws/pixls/Samsung/SM-G950F/2018-06-08_12.48.51.dng
+raws/pixls/Google/Pixel 7 Pro/PXL_20221204_063131635.dng
+raws/pixls/Sony/ILCE-7C/DSC00018.ARW
+raws/pixls/DJI/FC6310/DJI_0220.DNG
+raws/pixls/HUAWEI/VOG-L29/IMG_20190330_123314.dng
+raws/pixls/Panasonic/DC-GH6/P1000116.RW2
+raws/pixls/Panasonic/DMC-GX80/P1010041.RW2
+raws/pixls/Nikon/D780/DSC_0340.NEF
+raws/pixls/SONY/DSC-RX1RM3/DSC00253.ARW
+raws/pixls/Canon/EOS Rebel SL3/Sedona2020_SL3__MG_1061.CR3
+raws/pixls/NIKON CORPORATION/COOLPIX P1100/DSCN0173.NRW
+raws/pixls/Fujifilm/X-S20/DSCF2526.RAF
+raws/pixls/Sony/ILCE-7M4/ILCE-7M4_DSC06677_FullFrame-Raw-Compressed.ARW
+raws/pixls/Pentax/K-70/IMGP0771.DNG
+raws/pixls/Nikon/Z 30/_DSC0028.NEF
+raws/pixls/Panasonic/DC-GH5S/P1022090.RW2
+raws/pixls/FUJIFILM/X-E5/DSCF0202.RAF
+raws/pixls/HUAWEI/EML-L29/IMG_20190507_233457.dng
+raws/pixls/Panasonic/DC-G95D/P1000318.RW2
+raws/pixls/Google/Pixel 3a/IMG_20190918_164153.dng
+raws/pixls/Canon/EOS R/Canon_EOS_R_RAW_ISO_100_crop_nodual.CR3
+raws/pixls/Fujifilm/GFX100S/Fujifilm-GFX100S-16bits-uncompress-4_3.RAF
+raws/pixls/Panasonic/DC-G9/P1000476.RW2
+raws/pixls/SONY/ILME-FX2/Image_2_-_Compressed_-_Architecture.ARW
+raws/pixls/Panasonic/DMC-GX7MK2/P1010414.RW2
+raws/pixls/XIAOYI/YDXJ 2/ydxj0065.dng
+raws/pixls/Hasselblad/L1D-20c/DJI_0017.DNG
+raws/pixls/Samsung/SM-G950U/20170828_141409.dng
+raws/pixls/Panasonic/DMC-LX10/pana_DMC-LX10_16x19.RW2
+raws/pixls/Canon/EOS RP/Canon_EOS_RP_RAW_ISO_100_crop_nodual.CR3
+raws/pixls/Canon/EOS R8/RAW_FULL_FRAME.CR3
+raws/pixls/SONY/ILCE-1M2/A1_07626_uncompressed_full_frame.ARW
+raws/pixls/Fujifilm/X-E4/fuji_xe4_32_uncompressed.RAF
+raws/pixls/Fujifilm/X100VI/DSCF0076.RAF
+raws/pixls/NIKON CORPORATION/NIKON Z6_3/Nikon_Z6__3_Lossless_compressed_DX.NEF
+raws/pixls/SONY/DSC-RX100M7A/RX700064.ARW
+raws/pixls/Canon/EOS 77D/IMG_4049.CR2
+raws/pixls/XIAOYI/YIAC 3/YIAC0075.DNG
+raws/pixls/Canon/EOS R6/Canon_EOS_R6_RAW_ISO_100_nocrop_nodual.CR3
+raws/pixls/Panasonic/DMC-TZ110/P1000489.RW2
+raws/pixls/Sony/DSC-RX100M5/RAW_SONY_RX100M5.ARW
+raws/pixls/HMD Global/Nokia 7 plus/IMG_20190612_120131.dng
+raws/pixls/Nikon/D5600/DSC_0027.NEF
+raws/pixls/Nikon/Z f/DSC_0040.NEF
+raws/pixls/Canon/EOS 2000D/IMG_0531.CR2
+raws/pixls/Samsung/G935F/20170403_104110.dng
+raws/pixls/FUJIFILM/X-M5/DSCF0622_-_compressed.RAF
+raws/pixls/Sony/ILCE-7M4/ILCE-7M4_DSC06674_FullFrame-LossLess-Compressed-Large.ARW
+raws/pixls/DJI/FC220/DJI_0004.DNG
+raws/pixls/HUAWEI/DLI-L22/IMG_20171028_150510.dng
+raws/pixls/OM System/OM-1/OM_Systems_OM1_RAW_image_HiRes_80mpx_P1010027.ORF
+raws/pixls/Sony/ILCE-7SM3/DSC01568.ARW
+raws/pixls/Sony/ILME-FX30/20230408-171459-DSC00090.ARW
+raws/pixls/Panasonic/DC-G9M2/P1000029.RW2
+raws/pixls/Canon/EOS R7/443A0157.CR3
+raws/pixls/Sony/ILCE-7RM5/7RM5-LosslessUncompressed.ARW
+raws/pixls/Canon/EOS R/Canon_EOS_R_RAW_ISO_100.CR3
+raws/pixls/Sony/ILCE-6400/DSC00087.ARW
+raws/pixls/Sony/ILCE-7RM4A/DSC00551.ARW
+raws/pixls/Nikon/D780/DSC_0338.NEF
+raws/pixls/Panasonic/DC-S1R/P1000077.RW2
+raws/pixls/Olympus/E-M10 Mark IIIs/ilhabela_202110_0082.ORF
+raws/pixls/SONY/ILCE-7M5/full_compressed_lossless.ARW
+raws/pixls/Fujifilm/X-Pro3/_DSF2384.RAF
+raws/pixls/Nikon/D6/D06_0312.NEF
+raws/pixls/Fujifilm/X-Pro2/_DSF3050.RAF
+raws/pixls/Fujifilm/X100VI/DSCF0074.RAF
+raws/pixls/Sigma/fp L/SDIM0915.DNG
+raws/pixls/Canon/EOS-1D X Mark III/Canon_EOS-1D_X_Mark_III_RAW_ISO_100_nocrop_nodual.CR3
+raws/pixls/FIMI/X8SE/IMG_20180808_081040_0001.DNG
+raws/pixls/DJI/FC9287/DJI_20250528104510_0025_D.DNG
+raws/pixls/HUAWEI/FRD-L09/IMG_20180520_132951.dng
+raws/pixls/Nikon/D500/Nikon_D500_RAWL_14bit_LosslessCompressed.NEF
+raws/pixls/Panasonic/DC-S1RM2/S1Rii_multiexposure.RW2
+raws/pixls/Panasonic/DC-TZ202/P1000584.RW2
+raws/pixls/SONY/ILME-FX2/Image_1_-_Uncompressed_-_Landscape.ARW
+raws/pixls/Panasonic/DMC-LX10/pana_DMC-LX10_3x2.RW2
+raws/pixls/Panasonic/DMC-FZ2000/fz2000-11.RW2
+raws/pixls/Canon/EOS M100/IMG_1200.CR2
+raws/pixls/Canon/EOS M6 Mark II/IMG_CRAW_3_2.CR3
+raws/pixls/Pentax/K-1 Mark II/_IMG2390.DNG
+raws/pixls/Panasonic/DC-GH5S/P1022084.RW2
+raws/pixls/HUAWEI/VTR-L09/IMG_20180307_120152.dng
+raws/pixls/Fujifilm/X-A7/DSCF1595.RAF
+raws/pixls/Canon/Canon PowerShot ELPH 180/CANON_IXUS175_ELPH180_CHDK_CRW_0194.DNG
+raws/pixls/Samsung/SM-G930F/20200125_130015.dng
+raws/pixls/Nikon/D780/DSC_0336.NEF
+raws/pixls/Nikon/Z 5/DSC_0517.NEF
+raws/pixls/Nikon/Z 9/Nikon_-_NIKON_Z_9_-_14bit_compressed_(Lossless).NEF
+raws/pixls/Yuneec/CGO3P/YUN00007.dng
+raws/pixls/Nikon/Coolpix A1000/DSCN0417.NRW
+raws/pixls/LG/LG-F800K/20171028_174609.dng
+raws/pixls/Canon/Canon EOS M200/_MG_2231.CR3
+raws/pixls/Fujifilm/GFX 50R/2019-01-24-14-02-50_DSCF1316_e819634e46ecdb8ea241012ee70ae11e5c220c48.raf
+raws/pixls/Nikon/D500/Nikon_D500_RAWL_12bit_LosslessCompressed.NEF
+raws/pixls/Samsung/SM-G965F/Samsung_SM-G965F_4-3_ratio_f2.4.dng
+raws/pixls/Canon/Canon EOS R5m2/APS-C_RAW.CR3
+raws/pixls/Panasonic/DMC-G85/_1030981.RW2
+raws/pixls/Nikon/COOLPIX B700/DSCN2079.NRW
+raws/pixls/HUAWEI/HRY-LX1/IMG_20190427_200711.dng
+raws/pixls/Parrot/Anafi/100000190019.DNG
+raws/pixls/NIKON CORPORATION/NIKON Z50_2/DSC_0060_DX_Lossless.NEF
+raws/pixls/Panasonic/DMC-G85/_1030983.RW2
+raws/pixls/Canon/EOS 6D Mark II/6DII-sRAW.CR2
+raws/pixls/Sony/ILCE-9M2/SONY_A9II_(ILCE-9M2)_-_compressed_(3:2)_12bit.ARW
+raws/pixls/FUJIFILM/GFX100RF/DSCF0077.RAF
+raws/pixls/Blackmagic/Blackmagic Pocket Cinema Camera 4k/4k_DCI_uncompressed.dng
+raws/pixls/Leica/Q2/L1000750.DNG
+raws/pixls/Panasonic/DC-TZ200D/TZ200D_16_9_1000230.RW2
+raws/pixls/Sony/ZV-E10/DSC00002.ARW
+raws/pixls/SONY/ILCE-6400A/KTB00899.ARW
+raws/pixls/Sony/ILCE-7CR/DSC00799.ARW
+raws/pixls/Blackmagic/Blackmagic Pocket Cinema Camera 4k/BMPCC_4k_DCI_lossless.dng
+raws/pixls/Nikon/Z 30/NIKON_Z30_14BIT.NEF
+raws/pixls/Panasonic/DC-ZS200D/P1000634.RW2
+raws/pixls/Olympus/E-M1X/P3240916.ORF
+raws/pixls/FUJIFILM/GFX100RF/DSCF0091.RAF
+raws/pixls/Panasonic/DMC-TZ100/PanasonicTZ100_AR3-2_1000357.rw2
+raws/pixls/Sony/ILCE-7M4/ILCE-7M4_DSC06680_APS-C-LossLess-Small.ARW
+raws/pixls/Nikon/D7500/RAW_NIKON_D7500_12BIT_COMPRESSED.NEF
+raws/pixls/Blackmagic/Blackmagic Pocket Cinema Camera 4k/BMPCC_4k_DCI_4-1.dng
+raws/pixls/Canon/EOS REBEL T7i/IMG_1322.CR2
+raws/pixls/Fujifilm/X-T30 II/lossless_X-T30II.RAF
+raws/pixls/FUJIFILM/X-M5/DSCF0623_-_crop_1,25.RAF
+raws/pixls/Fujifilm/X-T20/DSCF0526.RAF
+raws/pixls/Panasonic/DC-FZ82/P1000052.RW2
+raws/pixls/OnePlus/ONEPLUS A5000/IMG_20171224_201301.dng
+raws/pixls/Nikon/Z 7_2/Z72_0032.NEF
+raws/pixls/Nikon/Z 50/DSC_0441.NEF
+raws/pixls/Fujifilm/X-T5/DSCF0021.RAF
+raws/pixls/Fujifilm/X-E3/DSCF2175.RAF
+raws/pixls/Canon/EOS M6/Canon_EOS-M6-IMG_0302.CR2
+raws/pixls/Nikon/Z 6/DSC_0750.NEF
+raws/pixls/Nikon/D3500/DSC_0043.NEF
+raws/pixls/Panasonic/DC-GH5S/P1022081.RW2
+raws/pixls/Panasonic/DMC-TZ101/P1010192.RW2
+raws/pixls/Fujifilm/X-T5/DSCF4964_70-300.RAF
+raws/pixls/Panasonic/DC-GX7MK3/P2010097.RW2
+raws/pixls/Sony/ILCE-7CM2/DSC02430.ARW
+raws/pixls/Canon/PowerShot G7 X Mark II/IMG_0166.CR2
+raws/pixls/Canon/EOS 800D/IMG_3378.CR2
+raws/pixls/Samsung/SM-G960F/20191119_101508.dng
+raws/pixls/Xiaomi/Redmi Note 8T/IMG_20200715_094601.dng
+raws/pixls/Canon/EOS Rebel T100/IMG_7229.CR2
+raws/pixls/Canon/EOS R6 Mark II/canon-r6m2-img_0347-raw-normal-crop.cr3
+raws/pixls/Leica Camera AG/LEICA M10-R/M10R0324.DNG
+raws/pixls/NIKON CORPORATION/NIKON Z5_2/Lossless_compression_DX.NEF
+raws/pixls/NIKON CORPORATION/NIKON Z50_2/DSC_0063_1x1_Lossless.NEF
+raws/pixls/Panasonic/DMC-G81/P1000128.RW2
+raws/pixls/Fujifilm/GFX 50S/20170525_0036TEST.RAF
+raws/pixls/Sony/ILCE-7M4/ILCE-7M4_DSC06678_APS-C-Raw-Uncompressed.ARW
+raws/pixls/Panasonic/DC-G100D/P1000143.RW2
+raws/pixls/Panasonic/DMC-GF8/P1190101.RW2
+raws/pixls/Panasonic/DC-LX100M2/P1020077.RW2
+raws/pixls/LG/LG-H850/LGG5_Camera_Front.dng
+raws/pixls/Sony/ILCA-99M2/BR_00086.ARW
+raws/pixls/OM System/OM-1/OM_Systems_OM1_RAW_Image_20mpx_P1010025.ORF
+raws/pixls/Fujifilm/X100V/DSCF0733.RAF
+raws/pixls/DJI/DJI Osmo Action/DJI_0254.DNG
+raws/pixls/Canon/EOS 850D/IMG_1906.CR3
+raws/pixls/OM Digital Solutions/OM-5MarkII/OM_System_OM-5_2_regular.ORF
+raws/pixls/Panasonic/DC-G9M2/P1000022.RW2
+raws/pixls/Panasonic/DC-TZ95D/P1021321.RW2
+raws/pixls/Canon/PowerShot G1 X Mark III/20180719T101829IMG_0246.CR2
+raws/pixls/Fujifilm/X-H2/Fuji-X-H2-Compressed-Raw.RAF
+raws/pixls/Panasonic/DC-GF10/P1010140.RW2
+raws/pixls/Sony/ILCE-6300/DDL06913.ARW
+raws/pixls/Canon/EOS R50/Canon_R50_ISO100_RAW_mechanicShutter.CR3
+raws/pixls/HUAWEI/AUM-L29/IMG_20181222_154757.dng
+raws/pixls/Fujifilm/X-T5/DSCF0022.RAF
+raws/pixls/Olympus/E-M10 Mark IV/_A180042.ORF
+raws/pixls/Nikon/D850/Nikon-D850-14bit-uncompressed.NEF
+raws/pixls/Fujifilm/GFX50S II/Fuji_GFX50S_II_-_Uncompressed.RAF
+raws/pixls/LEICA CAMERA AG/LEICA SL2/L1020010.DNG
+raws/pixls/Sony/ZV-E1/DSC00489.ARW
+raws/pixls/KanDao/QooCam/KD3D_20190310_123825_000001.DNG
+raws/pixls/Samsung/SAMSUNG-SM-G930A/20180105_103031.dng
+raws/pixls/Panasonic/DC-TZ202/P1000582.RW2
+raws/pixls/motorola/moto g(7) play/IMG_20191114_091702382.dng
+raws/pixls/Panasonic/DC-TZ96/TZ96-4:3.RW2
+raws/pixls/Panasonic/DMC-TX1/P1000633.RW2
+raws/pixls/Panasonic/DC-TZ95/P1000098.RW2
+raws/pixls/Canon/Canon EOS R5m2/RAW.CR3
+raws/pixls/Panasonic/DC-GH7/P1002296.RW2
+raws/pixls/Sony/ILCE-6500/_DSC6914.ARW
+raws/pixls/Panasonic/DC-G9M2/P1000034.RW2
+raws/pixls/Sony/ILCE-6300/AST05226.ARW
+raws/pixls/Panasonic/DC-S9/Panasonic_DC-S9_ISO200_3_2_LL_48MP.RW2
+raws/pixls/FUJIFILM/GFX100RF/DSCF0075.RAF
+raws/pixls/Kandao/QooCam 8K/Q360_20210330_100513_00000D.DNG
+raws/pixls/Hasselblad/L2D-20c/DJI_0023.DNG
+raws/pixls/Sony/ILCE-6700/DSC00001.ARW
+raws/pixls/Canon/EOS R5/Canon_EOS_R5_RAW_ISO_100_crop_nodual.CR3
+raws/pixls/Panasonic/DMC-TX1/P1000635.RW2
+raws/pixls/motorola/Moto G (5S) Plus/IMG_20180328_152254.dng
+raws/pixls/Nikon/Z 7_2/Z72_0027.NEF
+raws/pixls/Canon/EOS RP/Canon_EOS_RP_RAW_ISO_100_nocrop_nodual.CR3
+raws/pixls/Panasonic/DC-G9M2/P1000019.RW2
+raws/pixls/Realme/RMX1851/IMG_OCT_20191005_163311.dng
+raws/pixls/Sony/ILCE-1/A1_full_compressed.ARW
+raws/pixls/Pentax/KF/IMGP0063.PEF
+raws/pixls/Canon/EOS 1300D/IMG_0778.CR2
+raws/pixls/Panasonic/DC-GF10/P1010034.RW2
+raws/pixls/Xiaomi/M2010J19CG/IMG_20201224_141323.dng
+raws/pixls/Panasonic/DC-TZ200/P1000418.RW2
+raws/pixls/Canon/EOS 90D/Canon-90D-RAW-ISO-100.CR3
+raws/pixls/Nikon/Z fc/_DSC0070.nef
+raws/pixls/Panasonic/DC-S1M2/Panasonic_DC-S1M2_-_32.RW2
+raws/pixls/Canon/EOS-1D X Mark III/Canon_EOS-1D_X_Mark_III_CRAW_ISO_100_nocrop_nodual.CR3
+raws/pixls/Panasonic/DMC-GX85/Panasonic_-_DMC-GX85_-_4:3.RW2
+raws/pixls/Apple/iPhone 7 Plus/IMG_0739.DNG
+raws/pixls/HUAWEI/BLA-L29/IMG_20180119_175851.dng
+raws/pixls/Nikon/D3400/DSC_0202.NEF
+raws/pixls/Canon/EOS 250D/Canon250D_RAW-2:3.CR3
+raws/pixls/Olympus/TG-6/_6100003.ORF
+raws/pixls/OM System/OM-5/C1291096.ORF
+raws/pixls/Fujifilm/X-T30 II/lossless-compressed_X-T30II.RAF
+raws/pixls/Panasonic/DC-GF10/P1010141.RW2
+raws/pixls/Fujifilm/X-T30/DSCF0065.RAF
+raws/pixls/Sony/ILCE-7RM4A/uncompressed_14_bit.ARW
+raws/pixls/Xiaomi/MI 8/IMG_20200101_174326.dng
+raws/pixls/Panasonic/DC-G91/P1000167.RW2
+raws/pixls/Xiaomi/MI MAX/IMG_2019_10_27_14_47_40.dng
+raws/pixls/Canon/EOS Rebel T7/IMG_0662.CR2
+raws/pixls/DJI/FC4382/DJI_20250506184749_0011_D.DNG
+raws/pixls/Panasonic/DC-G97/_JOS3760.RW2
+raws/pixls/Canon/EOS Kiss X9/IMG_3505.CR2
+raws/pixls/Sony/DSC-RX0/DSC00009.ARW
+raws/pixls/KanDao/QooCam/KDRaw_Q360_20190310_125715_000001.dng
+raws/pixls/HUAWEI/WAS-LX1A/IMG_20180416_193350.dng
+raws/pixls/LG/VS995/0313171232.dng
+raws/pixls/Pentax/K-3 Mark III/IMGP9863.PEF
+raws/pixls/Canon/PowerShot G9 X Mark II/IMG_1066.CR2
+raws/pixls/Canon/EOS Rebel SL2/Canon_SL2_Len_24-105.CR2
+raws/pixls/Canon/EOS 80D/IMG_0096.CR2
+raws/pixls/DJI/FC7303/DJI_0765.DNG
+raws/pixls/Panasonic/DMC-TZ80/P1010764.RW2
+raws/pixls/Nikon/COOLPIX P950/DSCN0014.NRW
+raws/pixls/SONY/ILME-FX2/Image_3_-_Lossless_Compression_(L)_-_Shade.ARW
+raws/pixls/Panasonic/DMC-ZS100/P1010048.RW2
+raws/pixls/Pentax/K-1 Mark II/_K1I9785.PEF
+raws/pixls/Canon/PowerShot G5 X Mark II/Canon_-_PowerShot_G5_X_Mark_II_-_RAW_(16:9).CR3
+raws/pixls/NIKON CORPORATION/NIKON Z6_3/Nikon_Z6__3_Lossless_compressed_1_1.NEF
+raws/pixls/Canon/EOS 200D/IMG_1813.CR2
