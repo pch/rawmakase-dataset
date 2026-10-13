@@ -1505,10 +1505,15 @@ def manifest(args):
     # The tests read every file under raws/, so links of an earlier selection
     # go; downloaded files and other links stay.
     removed = 0
+    # Links are told apart by the file itself, not by their path: on a
+    # case-insensitive volume one camera may be listed as "EOS REBEL T7i" and
+    # "EOS Rebel T7i", and rglob returns the folder's spelling, not ours.
+    wanted = {(st.st_dev, st.st_ino) for st in (os.lstat(t) for t in wanted)}
     for src, s in SOURCES.items():
         base, folder = Path(corpus) / 'raws' / src, (args.dataset / s['folder']).resolve()
         for link in base.rglob('*') if base.exists() else []:
-            if link.is_symlink() and link not in wanted and Path(os.readlink(link)).is_relative_to(folder):
+            if link.is_symlink() and (link.lstat().st_dev, link.lstat().st_ino) not in wanted \
+                    and Path(os.readlink(link)).is_relative_to(folder):
                 link.unlink()
                 removed += 1
     print(f'linked {len(wanted)} into {corpus}/raws, removed {removed} links of an earlier selection')
