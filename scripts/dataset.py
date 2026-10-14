@@ -1037,26 +1037,32 @@ def gate_sets(args):
     other = sorted(s for s in surveyed if profiles.get(s[:16]) != 'Adobe Standard')
     if other:
         print(f'  {len(other)} photos left out: Camera Raw has no Adobe Standard for them', file=sys.stderr)
-    rows = {r['sha256']: r for r in db.execute('SELECT * FROM photos')}
+    suite = getattr(args, 'suite', 'general')
+    rows = {r['sha256']: r for r in db.execute('SELECT * FROM photos p WHERE ' + selection_where(suite))}
     pool = [dict(surveyed[s], **{k: rows[s][k] for k in rows[s].keys()}) for s in surveyed
-            if s in rows and s not in other and rows[s]['parity_use'] == 'good' and rows[s]['path']
+            if s in rows and s not in other and rows[s]['path']
             and rows[s]['rawmakase_ok'] == 1]
     args.out.mkdir(parents=True, exist_ok=True)
     plan = {}
     for family, f in families().items():
-        eligible = [p for p in pool if f['eligible'](p)]
+        if suite == 'stress' and family.startswith('color-'):
+            continue
+        eligible = [p for p in pool if suite == 'stress' or f['eligible'](p)]
         for split, quota in SPLITS.items():
             name = f'{family}-{split}'
             target = args.out / f'{name}.json'
             if target.exists():
+                if json.loads(target.read_text()).get('suite', 'general') != suite:
+                    raise ValueError(f'{target}: another suite is frozen here; use a new --out')
                 continue
             chosen = []
             for stratum in STRATA:
                 group = sorted((p for p in eligible if split_of(p) == split
-                                and p['stratum'] == stratum), key=lambda p: (f['rank'](p), p['sha256']))
+                                and p['stratum'] == stratum),
+                               key=lambda p: (reference_rank(p, family, suite, f), p['sha256']))
                 by_make = {}
                 for p in group:
-                    by_make.setdefault((f['rank'](p), p['make']), []).append(p)
+                    by_make.setdefault((reference_rank(p, family, suite, f), p['make']), []).append(p)
                 order = []
                 for level in sorted({k[0] for k in by_make}):
                     makes = {k: v for k, v in by_make.items() if k[0] == level}
@@ -1069,7 +1075,7 @@ def gate_sets(args):
                        'p90_L': p['p90_L'], 'stratum': p['stratum'], 'make': p['make'], 'model': p['model'],
                        'subject': p['subject'], 'score': p[f['score']] if f['score'] else None}
                       for p in chosen]
-            doc = {'schema': 1, 'set': name, 'settings': f['settings'], 'photos': photos}
+            doc = {'schema': 1, 'suite': suite, 'set': name, 'settings': f['settings'], 'photos': photos}
             if f['crs']:
                 doc['crs'] = f['crs']
             target.write_text(json.dumps(doc, indent=1) + '\n')
@@ -1147,6 +1153,40 @@ WHERE p.source = '{source}' AND p.parity_use = 'good' AND p.rawmakase_ok = 1
   AND json_extract(d.description, '$.same_scene_as') IS NULL
   AND lower(substr(p.path, -3)) IN ('arw', 'raf', 'nef', 'nrw', 'cr2', 'cr3', 'dng', 'orf', 'rw2', 'pef', 'rwl')
 ORDER BY p.sha256"""
+
+
+def selection_where(suite):
+    """One selection rule for both the survey pool and per-control manifests.
+
+    General references stay unchanged. Stress references deliberately include
+    capture defects; they never select charts, lens caps or unreadable files.
+    """
+    if suite == 'general':
+        return "p.parity_use = 'good' AND p.rawmakase_ok = 1"
+    if suite != 'stress':
+        raise ValueError(f'Unknown reference suite: {suite}')
+    not_scenes = ', '.join("'" + s + "'" for s in sorted(NOT_SCENES))
+    return f"""p.raw_ok = 1 AND p.rawmakase_ok = 1
+      AND p.scene NOT IN ({not_scenes})
+      AND NOT EXISTS (SELECT 1 FROM json_each(p.quality_flags) WHERE value IN ('black-frame', 'lens-cap'))
+      AND (p.clipped >= 0.005 OR p.ev_p50 < -7 OR EXISTS
+        (SELECT 1 FROM json_each(p.quality_flags) WHERE value IN ('underexposed', 'overexposed', 'heavy-noise')))"""
+
+
+def pool_query(source, suite):
+    query = REFERENCE_POOL if source == 'pixls' else \
+        SOURCE_POOL.format(folder=SOURCES[source]['folder'], source=source)
+    return query.replace("p.parity_use = 'good'", '(' + selection_where(suite) + ')')
+
+
+def reference_rank(photo, family, suite, spec):
+    if suite == 'general':
+        return spec['rank'](photo)
+    # Do not reuse the general ranking: it prefers unclipped Highlights tests.
+    # Coarse severity groups still interleave camera makes within each group.
+    if family in ('shadows', 'blacks'):
+        return 0 if photo['ev_p50'] is not None and photo['ev_p50'] < -7 else 1
+    return 0 if photo['clipped'] is not None and photo['clipped'] > .05 else 1
 CAMERA_RAW_PLIST = Path('/Library/Application Support/Adobe/Plug-Ins/CC/File Formats/'
                         'Camera Raw.plugin/Contents/Info.plist')
 
@@ -1180,17 +1220,20 @@ def references(args):
     # One folder per source: raw.pixls.us' is camera-raw-<version>, others add
     # their name (the owner's is git-ignored entirely).
     suffix = '' if args.source == 'pixls' else f'-{args.source}'
+    if args.suite == 'stress':
+        suffix += '-stress'
     out = (args.out or args.dataset / 'references' / f'camera-raw-{version}{suffix}').resolve()
-    query = REFERENCE_POOL if args.source == 'pixls' else \
-        SOURCE_POOL.format(folder=SOURCES[args.source]['folder'], source=args.source)
+    query = pool_query(args.source, args.suite)
     out.mkdir(parents=True, exist_ok=True)
     python = [sys.executable, '-I', str(gate / 'scripts/corpus/gate.py')]
     recipe_path = out / 'recipe.json'
     recipe = json.loads(recipe_path.read_text()) if recipe_path.exists() else {}
+    if recipe_path.exists() and recipe.get('suite', 'general') != args.suite:
+        sys.exit(f'{out} holds another reference suite; use a new --out')
     if recipe.get('camera_raw', version) != version:
         sys.exit(f'{out} holds Camera Raw {recipe["camera_raw"]} references; this is {version}')
     recipe.update(camera_raw=version, gate_commit=git_head(gate), script_commit=git_head(ROOT),
-                  source=args.source, pool_query=query.strip())
+                  source=args.source, suite=args.suite, pool_query=query.strip())
     # 1. The pool, frozen on first use so later dataset changes don't move it.
     pool = out / 'candidates.txt'
     if not pool.exists():
@@ -1217,7 +1260,8 @@ def references(args):
         # 3. The manifests, each frozen once written: references are named by
         # their photo's place in its set, so a set must never change under them.
         # New families (color) are added beside frozen ones.
-        gate_sets(argparse.Namespace(dataset=args.dataset, survey=out / 'survey/pool.json', out=out / 'sets'))
+        gate_sets(argparse.Namespace(dataset=args.dataset, survey=out / 'survey/pool.json', out=out / 'sets',
+                                     suite=args.suite))
         recipe['sets'] = {m.stem: hashlib.sha256(m.read_bytes()).hexdigest()
                           for m in sorted((out / 'sets').glob('*.json'))}
         recipe_path.write_text(json.dumps(recipe, indent=1) + '\n')
@@ -1580,10 +1624,13 @@ def main():
                    help='only recompute the tone fields of existing descriptions')
     s.set_defaults(run=describe)
     s = sub.add_parser('gate-sets')
+    s.add_argument('--suite', choices=['general', 'stress'], default='general')
     s.add_argument('--survey', type=Path, required=True, help="gate.py survey's pool.json")
     s.add_argument('--out', type=Path, required=True)
     s.set_defaults(run=gate_sets)
     s = sub.add_parser('references')
+    s.add_argument('--suite', choices=['general', 'stress'], default='general',
+                   help='stress: separate clipped, underexposed and noisy capture references')
     s.add_argument('--gate', type=Path, required=True,
                    help='a RAWmakase checkout with scripts/corpus/gate.py (the scene-tone gate)')
     s.add_argument('--out', type=Path, help='default $RAWMAKASE_DATASET/references/camera-raw-<version>')

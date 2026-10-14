@@ -104,6 +104,31 @@ Built with [ExifTool](https://exiftool.org/), [LibRaw](https://www.libraw.org/) 
 
 ## Reclassifying
 
+### Difficult-capture references
+
+`references --suite stress --source <source> --gate <RAWmakase checkout>` makes
+a separate `camera-raw-<version>[-<source>]-stress` family. Existing general
+references, classifications and candidates remain frozen. Do not run reference
+generation concurrently with another baseline or Photoshop task.
+
+The stress pool accepts measured photos with at least 0.5% clipped samples,
+raw median luminance below −7 EV, or underexposed, overexposed or heavy-noise
+flags, even when `parity_use` is `limited`. It still excludes unreadable files,
+non-scenes, black frames and lens caps, and preserves source/license restrictions
+and scene deduplication. It renders all ten tone families; severely clipped
+captures (>5%) rank first except for Shadows/Blacks, where dark captures rank
+first. Camera/day splits are the same as the general suite, so adding stress
+references does not move training scenes into holdout. The owner's stress
+family is entirely git-ignored, like the owner's general family.
+
+Inspect coverage after survey/selection: three scored photos per brightness
+stratum and setting are required by RAWmakase's gate. The selection cannot
+manufacture missing capture conditions. Collect additional scenes when needed;
+Exposure slider variants do not reproduce sensor clipping or capture noise.
+
+Selection regression tests need only Python's standard library:
+`python3 -m unittest discover -s scripts -p 'test_*.py'`.
+
 `classify.sh` runs every step for whatever the database has no results for yet (verify, exif, cameras, previews, stats, describe); it needs `RAWMAKASE_BIN` and `requirements-describe.txt` installed in `.venv` (or `PYTHON` set to an interpreter that has it), and resumes where it stopped.
 
 ## Licenses
