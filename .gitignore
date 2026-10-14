@@ -16,5 +16,6 @@ references/*/*/references/
 references/*/*/work/
 /dataset.sqlite
 references/*-own/
+references/*-own-stress/
 # Test baselines kept on the runner (pch/rawmakase#420); private sources must never be committed
 /baselines/
