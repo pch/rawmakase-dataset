@@ -35,7 +35,7 @@ Git LFS object id, so file names and the case of directory names don't matter.
   signature-edits  download Signature Edits' free RAWs (a private source) into
                    external/signature-edits/ and index them as samples
   index-folder     index a source whose RAWs are simply placed in its folder (the
-                   owner's photos, raws/own/)
+                   owner's photos, raws/own/; issue reports, raws/reports/)
   snapshot         write the working database to data/dataset.sqlite for committing
   manifest         write a manifest in RAWmakase's tests/corpus/pixls.json format from a query, and
                    optionally link the files into $RAWMAKASE_CORPUS/raws/pixls
@@ -92,6 +92,12 @@ SOURCES = {
     # too, since nobody else has the files.
     'own': {'folder': 'raws/own', 'name': "The dataset owner's photos", 'url': None,
             'license': 'private', 'publishable': 0, 'snapshot': 0},
+    # Files users attached to RAWmakase issues, in a folder per issue: theirs,
+    # for reproducing what they reported; never published and kept out of the
+    # committed snapshot, like the owner's photos.
+    'reports': {'folder': 'raws/reports', 'name': 'Files attached to RAWmakase issues',
+                'url': 'https://github.com/pch/rawmakase/issues', 'license': 'private',
+                'publishable': 0, 'snapshot': 0},
 }
 RAW_EXTENSIONS = {'arw', 'cr2', 'cr3', 'dng', 'nef', 'nrw', 'raf', 'rw2', 'orf', 'ori', 'pef', 'rwl', 'srw', 'x3f',
                   'iiq', '3fr', 'fff', 'gpr'}
