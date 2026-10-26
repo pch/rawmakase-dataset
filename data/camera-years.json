@@ -5299,6 +5299,14 @@
   },
   {
    "make": "Panasonic",
+   "model": "DC-FZ83",
+   "announced": "2017",
+   "category": "compact",
+   "confidence": "low",
+   "note": "FZ80-family variant (FZ80 = FZ82); own announcement unverified, raw.pixls.us sample from 2026"
+  },
+  {
+   "make": "Panasonic",
    "model": "DC-G100",
    "announced": "2020-06",
    "category": "interchangeable",
