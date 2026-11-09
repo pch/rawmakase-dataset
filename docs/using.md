@@ -93,12 +93,33 @@ Sets in each: one per tone control (`contrast`, `highlights`, `shadows`, `whites
 
 Camera Raw references are never re-rendered or re-approved. A new Camera Raw version gets new folders (`references --source …` with the new version), never mixed with the old.
 
-## 4. Rules for results
+## 4. HDR references
+
+Camera Raw 18.7's HDR renders are a family of their own, made by RAWmakase's `scripts/corpus/hdr_reference.py` and `hdr_gate.py` and kept in `baselines/hdr/` (git-ignored). `scripts/hdr.py` freezes, verifies and indexes them; its indexes are committed in `references/camera-raw-18.7-hdr/`. Every photo is a CC0 raw.pixls.us sample; the rest are synthetic DNGs.
+
+| Folder | What | Index |
+|---|---|---|
+| `baselines/hdr/family/` | Every distinct job of RAWmakase's HDR measurements (#253): the twelve validation and holdout photos at neutral HDR and each measured setting with their SDR captures, the six HDRMerge floating-point DNGs of a Canon EOS 5D Mark III (CC0) at neutral HDR and SDR, and the synthetic ramps and colour patches. The Lightroom HDR merge of RAWmakase #525 is a reporter's file, not CC0, so it has no Camera Raw capture. Per job (`NNN/`): the requested and returned XMP and the capture record; its factor-8 linear Display P3 array in `arrays/` (stored once by content: float16 for photos, float64 for synthetic jobs, compressed); synthetic sources and look files in `sources/` and `looks/` by hash. | `family.json` |
+| `baselines/hdr/gate/` | The broad gate set: Camera Raw's neutral HDR render (Adobe Standard, HDR limit 4) of photos from in-scope cameras whose highlights render above white, spread over makes, split by camera model as `split_of` splits. Per photo: 48-across linear block means (`blocks/`), the factor-8 peak and share above white, the requested and returned XMP (`xmp/`). Runs of RAWmakase builds go in `runs/<name>/`. | `gate.json` |
+
+```
+py="python3 -I scripts/hdr.py"                    # the venv's python: it needs numpy
+$py freeze <capture folder>...                    # add captured families to the family; append-only
+$py select                                        # the gate set's photos -> baselines/hdr/gate/selection.json
+$py verify                                        # re-hash every frozen file
+$py index                                         # write the committed indexes
+```
+
+`freeze` keeps one entry per distinct job (source, profile and requested sidecar); a job captured twice must have the same pixels, and its other captures are recorded as `origins`. It checks each photo against the dataset (CC0 raw.pixls.us, same SHA-256) and stores it by its dataset path. Photo arrays are float16: measured on the family's photos, the stage 1 HDR metrics of a float16 reference move by at most 0.0006 stop and 0.006 ΔE_ITP from the float64 capture's, against tolerances of 0.15 stop and 5 ΔE_ITP. Full-size TIFFs are never kept. The gate's photos are chosen from `photos` by raw tone (`ev_p99 >= -1.3 OR ev_p999 >= -0.7`, which on the family's photos means at least 0.8% of the area above white), less than 15% clipped, not junk or test charts, and rendered with Adobe Standard in the SDR survey; one per training model and up to two per validation or holdout model, interleaved by make.
+
+Scoring is RAWmakase's: `hdr_validate.py validate baselines/hdr/family <build> <out> --dataset .` for the family, `hdr_gate.py run|report|accept` for the gate set (its `tests/corpus/README.md`, HDR references). As with the SDR references, these are never re-rendered or re-approved; a gate baseline is a run of RAWmakase's `main`, recorded once.
+
+## 5. Rules for results
 
 - Publish only results from CC0 raw.pixls.us samples. Signature Edits' license forbids redistributing its photos; the owner's photos are private. Neither their renders nor per-photo results leave this machine.
 - Name photos by `sha256` in reports, not by path.
 - Gaps to keep in mind: raw.pixls.us has almost no dark scenes, people or haze; the dark (low) brightness stratum and skin are filled mainly by the private sources, so results there can't be published per photo.
 
-## 5. Regression tests (planned)
+## 6. Regression tests (planned)
 
 RAWmakase issue #420 plans decode fingerprints for every file and render snapshots over the whole dataset, run on a self-hosted runner that has the dataset. This section will describe them when they exist.

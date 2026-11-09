@@ -45,6 +45,8 @@ Camera Raw 18.7 references, every one checked against the settings Camera Raw ap
 
 The renders take about 250 GB: 67.6 GB for raw.pixls.us, 98.9 GB for Signature Edits and 83.1 GB for the owner's photos.
 
+Camera Raw 18.7 HDR references (CC0 raw.pixls.us and synthetic only) are kept apart, reduced, in `baselines/hdr/`, with their indexes in `references/camera-raw-18.7-hdr/`: a family of 1,003 jobs (twelve photos at neutral HDR and each measured setting, the HDRMerge float DNGs, synthetic ramps and patches) and a gate set of 194 photos with highlights above white. See [docs/using.md](docs/using.md#4-hdr-references).
+
 ## Sources
 
 | Source | Folder | Terms | Published? |
