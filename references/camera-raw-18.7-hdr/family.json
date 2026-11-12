@@ -4585,7 +4585,8 @@
   "photoshop_output_profile": "Display P3",
   "returned_profile": "Adobe Standard",
   "tags": [
-   "base sdr"
+   "base sdr",
+   "8 base sdr"
   ],
   "storage": {
    "dtype": "float16",
@@ -4636,7 +4637,8 @@
   "photoshop_output_profile": "P3 PQ",
   "returned_profile": "Adobe Standard",
   "tags": [
-   "base"
+   "base",
+   "8 base L4"
   ],
   "storage": {
    "dtype": "float16",
@@ -5020,7 +5022,8 @@
   "photoshop_output_profile": "Display P3",
   "returned_profile": "Adobe Standard",
   "tags": [
-   "base sdr"
+   "base sdr",
+   "f base sdr"
   ],
   "storage": {
    "dtype": "float16",
@@ -5071,7 +5074,8 @@
   "photoshop_output_profile": "P3 PQ",
   "returned_profile": "Adobe Standard",
   "tags": [
-   "base"
+   "base",
+   "f base L4"
   ],
   "storage": {
    "dtype": "float16",
@@ -6325,7 +6329,8 @@
   "photoshop_output_profile": "Display P3",
   "returned_profile": "Adobe Standard",
   "tags": [
-   "base sdr"
+   "base sdr",
+   "ILCE-7RM3 base sdr"
   ],
   "storage": {
    "dtype": "float16",
@@ -6376,7 +6381,8 @@
   "photoshop_output_profile": "P3 PQ",
   "returned_profile": "Adobe Standard",
   "tags": [
-   "base"
+   "base",
+   "ILCE-7RM3 base L4"
   ],
   "storage": {
    "dtype": "float16",
@@ -68717,6 +68723,5778 @@
    "LuminanceAdjustmentBlue": "-100",
    "LuminanceAdjustmentPurple": "-100",
    "LuminanceAdjustmentMagenta": "-100"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1283",
+  "source_sha256": "c0d2f144603e41b8fabe5beadc5420b70d348233e2cc081f412bc0b658715d9d",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "9b3ff5069ea3a1956858c5eac247720909cd92569ebd861391f679423f8ce66c",
+  "returned_xmp_sha256": "4c98e2e007fee9dd980c90489f11acbfcf96e7b81abc47e7d5166153f3d326b7",
+  "output_sha256": "814fcf49983e51b9da0a8f4f394b531f2f450ba9ebfe0ff01f13461f0ca9389a",
+  "pixels_sha256": "abba0fd44e24bd5eecbc9306b578577ca97b42d396ae791bc585d12fa0e9d3f4",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "d60780d1fec2fbd9271de15743e7969115c99c82ec188d6134018fc160af249b",
+  "output_dimensions": [
+   648,
+   424
+  ],
+  "reduced_dimensions": [
+   81,
+   53
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 49.26108374384236,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "crv-hs20 L8"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "e77c6075e937dc8e6787f996876eb9fd59c2f6ab6d2166a2d07041584ce80b03"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "8"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1284",
+  "source_sha256": "c0d2f144603e41b8fabe5beadc5420b70d348233e2cc081f412bc0b658715d9d",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "66bc056f1ceae9ab0b60db1c7c2b8c31e72cc368ab6b758de5a1b083ceb5cc58",
+  "returned_xmp_sha256": "8b0073bfcef792788571b13c668f85a17040ce39614d17db86ef076b9a98e63e",
+  "output_sha256": "bb9a51866838093e8e9724c8ae1dc884c9a2d6e8bd07bb2c86ea1ca703f5c95d",
+  "pixels_sha256": "af14739d5b50fa380fc4902ef9cee3ed49a242f9406f87ac6329f59afb472627",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "542457aeeae75942c0713dd955ac9688f2048de3fe6ec98a47bfc38826da44ba",
+  "output_dimensions": [
+   648,
+   424
+  ],
+  "reduced_dimensions": [
+   81,
+   53
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "crv-hs20 sdr"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "5f6e7cea6a144e8dee4001aaba29f3423ddac5027e05f126363f5dcc2bea77d8"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "0"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1285",
+  "source_sha256": "c0d2f144603e41b8fabe5beadc5420b70d348233e2cc081f412bc0b658715d9d",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "80f966d00078c4d32e0016ccb09331b6e8d5cc0f500f57717666a556810b7a56",
+  "returned_xmp_sha256": "2f8ae3f6fdeb8b5fb37771f484cb8bc2d743fb58f54298e4b8990c13a1cbcb74",
+  "output_sha256": "b30b6d67378bf0af69f7316fc8d9fb113efff066bd4aa8793c5b68a0a32d4d24",
+  "pixels_sha256": "f3488a47f583be1d6c06d29b38dae14c096bbf77794a4ae6037e50117903f85a",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "65b63389208c2dd338469f592492ed7a99bb2feebe35d201b792bb429ded6007",
+  "output_dimensions": [
+   648,
+   424
+  ],
+  "reduced_dimensions": [
+   81,
+   53
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 16.00118379620969,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "crv-hs20 L4"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "33aff9a33af96bbd9b7628f35a07c4e9a567834fddeee5c598e2357cf6ae129d"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "4"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1286",
+  "source_sha256": "4351c832bf851116a182a59f9c191e2a92de615bc4afe0b1692e60ddbd7d951e",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "9b3ff5069ea3a1956858c5eac247720909cd92569ebd861391f679423f8ce66c",
+  "returned_xmp_sha256": "8069885c922a0d89abf847f341e65cc7c80af337bf530960689bb0e4c6f43277",
+  "output_sha256": "3fb6b6cf6f2f48d814a719e9e9625359507f3a2420fbd19ebd74674e458b63a7",
+  "pixels_sha256": "22bd33b016c3d70979c5ae76ab9c3c13ef1dd69d6a38c08705f67949b9ec59ac",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "d6ad7a19a2f7501935dd4fc4004af2a7241111f2b4ef86bb36cebe9edc6ed940",
+  "output_dimensions": [
+   960,
+   400
+  ],
+  "reduced_dimensions": [
+   120,
+   50
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 5.158970851807848,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "base L8"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "159591ec84561d06c08192e7deb8f21299692e8ca7a51bfa512c2b1591250053"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "8"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1287",
+  "source_sha256": "4351c832bf851116a182a59f9c191e2a92de615bc4afe0b1692e60ddbd7d951e",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "66bc056f1ceae9ab0b60db1c7c2b8c31e72cc368ab6b758de5a1b083ceb5cc58",
+  "returned_xmp_sha256": "1a528b9f43412a73347126a13b296417cbb1d18a0be87b1abb385770a683970f",
+  "output_sha256": "423457b2975e08255656c9e9e40ed5830a7a473738fa46ef13da56c1c08de8c7",
+  "pixels_sha256": "0d33e40b3ba90ea39295e980203c0553f97b6cdef65611fe3bbd6da2295d10f6",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "2d8bf32bc292920f8a35df0c168e7575bf489b3593c79ffad407821b00e076ac",
+  "output_dimensions": [
+   960,
+   400
+  ],
+  "reduced_dimensions": [
+   120,
+   50
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "base sdr"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "9cebb2aab8791b56e1eb0f87d07b80f7a0c34451af3a6fdf8868f96d7d548fb5"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "0"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1288",
+  "source_sha256": "4351c832bf851116a182a59f9c191e2a92de615bc4afe0b1692e60ddbd7d951e",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "91bc854f4079810d0a96f38d35c3e8b691cff2293150bf164c0617b214ae2f8e",
+  "returned_xmp_sha256": "b6d62882529ce2e6b4c9d7ada06df53db5e265acd9dbe0ccb017ccc9ec45edf2",
+  "output_sha256": "3a320e79c097a762c1d6ff4932526a7ef3425253b4fb9658113fc5856afed35e",
+  "pixels_sha256": "694e2f7fa54c97d80690cf1abe0465497f7cb6d016a894a1d2660d2831044bae",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "d66fe415fa5f9ad17dd40487a2b73008ce94454f235608a229d027daad8a403a",
+  "output_dimensions": [
+   960,
+   400
+  ],
+  "reduced_dimensions": [
+   120,
+   50
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.3276314470378838,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "eye-d0 L8"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "06493aa76f60083005826e1692c1ce6f02b78005c3983e41f831f63f785761d8"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "8"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1289",
+  "source_sha256": "4351c832bf851116a182a59f9c191e2a92de615bc4afe0b1692e60ddbd7d951e",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "7263769b656cfddf0cc3fea379c4697fe2322ce0de10adab4663061763532384",
+  "returned_xmp_sha256": "a0f18cafa692dbf155c1802ca8f94b0a9c9d1b8696850b802b65da3782bf00fd",
+  "output_sha256": "7b1df0cf496eb92f9881d9ebd7bef28dced82b6cebb4814177b7844459f18a79",
+  "pixels_sha256": "f618f1f9be806c78fb66a2ae1288469fe6d6a5f3179cbd153ff88519d4950341",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "93ba1d684cdac6e6718816cfa774a47e349f85e699d017f2e57cecfa0ebafe5f",
+  "output_dimensions": [
+   960,
+   400
+  ],
+  "reduced_dimensions": [
+   120,
+   50
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "eye-d0 sdr"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "63996d15537de796b61e3db9e3596e48d4bf9aa213d38eb33e10fc6b5f4879e0"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "0"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1290",
+  "source_sha256": "4351c832bf851116a182a59f9c191e2a92de615bc4afe0b1692e60ddbd7d951e",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "9dded0027f25b50d491e7f261507a984a902d7044afb7dd0e794838d31e63419",
+  "returned_xmp_sha256": "272193447956ef4aef2e68f8aae8ead99d096054535bee312e79beb04e482e73",
+  "output_sha256": "bf54e78b654cf1e6c22b748ddff8e67d4b5c99739d2dda7d078776a8533a1790",
+  "pixels_sha256": "e97be6a68c6d5d14f9b775bef5bf31f30042d14d9a5ecde847aabb447019103f",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "28f0b0ab76fe5039668d132d401b0e242b9ed96681eb877d5240502ae5c66bad",
+  "output_dimensions": [
+   960,
+   400
+  ],
+  "reduced_dimensions": [
+   120,
+   50
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.3276314470378838,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "eye-d50 L8"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "4e1de3687d26484b634ae5d5b2dc1f631ae73feb8cf8a82b8b65ff00b3002cd8"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "8"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1291",
+  "source_sha256": "4351c832bf851116a182a59f9c191e2a92de615bc4afe0b1692e60ddbd7d951e",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "07929d52a71cb0ccba34f5ab542cdbc42c90689b506dac9c767717b6035e867e",
+  "returned_xmp_sha256": "f6984f31092c9d84dc57925af7e6f871b7a02f22a91b1c96626b744ad138ac4b",
+  "output_sha256": "c9fabdbc7a8aa56c8022f420c3018a1bd00897353472131f08fa91c83f18b255",
+  "pixels_sha256": "2c08230da798ba82faf7314a563a33858eda4e63f2c079a93334c663aa002be7",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "9c4c0c3f635061df46f735d0327401c7cb3fb61e8cfe79662d672e799178a953",
+  "output_dimensions": [
+   960,
+   400
+  ],
+  "reduced_dimensions": [
+   120,
+   50
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "eye-d50 sdr"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "a347eddf23229e17797951e5e057ad3cbc1defc22671ab51e367252a9c0781db"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "0"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1292",
+  "source_sha256": "4351c832bf851116a182a59f9c191e2a92de615bc4afe0b1692e60ddbd7d951e",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "cec62e3dda4cbeee180863438a41e01e6276ca873d780cbf1fcc98995bbad119",
+  "returned_xmp_sha256": "a84520ede05b9e56084b8c9c7ae2ada43d4898decc13cc37eb49db314158684c",
+  "output_sha256": "7175a43facf991ec6a9c39cde7c0c20b231ac3839cf34d97debbdfbdf46eca4f",
+  "pixels_sha256": "8f53cbd3d7c3eaf3a25bdd9958389624afba71e284538ebdfbf695cf6fc1f7ff",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "51c75d4311356a99cbedd273762d2ca560bd470c4758a8e82db7ac38b825a54a",
+  "output_dimensions": [
+   960,
+   400
+  ],
+  "reduced_dimensions": [
+   120,
+   50
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.3276314470378838,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "eye-d100 L8"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "96fb365937d7d107e96d807f535c8a1c8d4fe6219d637eb2c9769aad3a5bea36"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "8"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1293",
+  "source_sha256": "4351c832bf851116a182a59f9c191e2a92de615bc4afe0b1692e60ddbd7d951e",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "8ef3fb7e54044bea490171e05beb2bd73ee62a3fd097a12c2c433f536d166ec5",
+  "returned_xmp_sha256": "92ef10d87583fbac872a33146e27aa1d6ac24f7311e6e7490f89827935ae2133",
+  "output_sha256": "bc1b0ededd7a31d0bd71f487e1b7ded59d63243ba7b697cd2fdff41821af9974",
+  "pixels_sha256": "90b5177cdbccb692c7969f4674e695fd0b14bcb9cf96cfb7f57b2b6393e82186",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "02c9a80fc8b8cbb208a65a242cffc4fe013957f14dbbdf39b0795dd914648dca",
+  "output_dimensions": [
+   960,
+   400
+  ],
+  "reduced_dimensions": [
+   120,
+   50
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "eye-d100 sdr"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "a2375d5e688988282d9ecdf4e9e5a27733ffc0ef60f1a09b4438f9bfee879385"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "0"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1294",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "9b3ff5069ea3a1956858c5eac247720909cd92569ebd861391f679423f8ce66c",
+  "returned_xmp_sha256": "53b02ddd63ac5ec70e30b148bbaa2428ae9ff936d4dec6fe68f6ba25ec39e6c6",
+  "output_sha256": "0b00fda833d22a1ce5ebc3562259bd7f5aee381e4e016873eca9bfa1439d29b1",
+  "pixels_sha256": "01af1e17f2ff2617eab9f94d21a9b2e8801abc2f5e9d62aea12621f3f452152a",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "576924ddc5b71307d8a892730a5223a1da60f3e7a54930bfce99950451a94b64",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 24.329898948253387,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "base L8"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "b36bae30292d841f144f323a643daf2d6f75b7ea06575cd28b0361f2a651b3c2"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "8"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1295",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "66bc056f1ceae9ab0b60db1c7c2b8c31e72cc368ab6b758de5a1b083ceb5cc58",
+  "returned_xmp_sha256": "99bddd012e79a296fe3894ec7724f5b0d4dbde8b34d332e1d9e0ef4906dd8a1a",
+  "output_sha256": "0a2a53b5768f3bfcba55cf2f222086eb0c3d912b2724d86d9c5b69b9d4c4b037",
+  "pixels_sha256": "e90894f5c7b606aa9b7746dd36d60e03801c4903b21682708b250e109ece63df",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "5fcf434f507c24c6c89403984fd61e96f2f8822a978b53807ccea491fb09c5f8",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "base sdr"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "04af791c064975d468789c449ed02a5ab5a5bb8579ada948775045bf5baf19cf"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "0"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1296",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "54db3cdfe296f5ad5a590606f3288d20f587216866951dc592fbe4efdf84cd01",
+  "returned_xmp_sha256": "fa86fe3910fdff6572e621c24d0295698f12cff9944524cb0a10b3ee3b1b935f",
+  "output_sha256": "4201f85603d0065b49a8d31473a703c9e6ddc3b0836aef520bea574063cc2bc8",
+  "pixels_sha256": "b34b5e229bba755ec94b1c7358b86107799178681d841fc8c67759281a792552",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "70511abedca93c5ef09c89b5691f5fcf1570400a665501ff7e6910967d8411e3",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 12.182262446683994,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "rs0-s L8"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "fdb8d959350227ee73d3079c53f3532643f189dfc65fb13ca37edc0990022399"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "8",
+   "CurveRefineSaturation": "0"
+  },
+  "curves": {
+   "ToneCurvePV2012": [
+    "0, 0",
+    "64, 50",
+    "128, 132",
+    "192, 210",
+    "255, 255"
+   ]
+  },
+  "look": null
+ },
+ {
+  "id": "1297",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "27abe30d53df4ff899a85455ac0a20eb5c5dfbb98431947c753a61eb97c64966",
+  "returned_xmp_sha256": "ccd6d2f07636c913e197444369c1779832b0c5aeeef3eff60b2cb2ffdf72d33b",
+  "output_sha256": "d2be712f79080a7ef8121bb854027423391e82b614b474b0ca964f269adcef5a",
+  "pixels_sha256": "31dd816e35c24ed6814a9e8a51fa640ec435135e9ee86c7d855ee7ea6123519d",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "8bcd97fdf120afa63e83cbc95d8513044e7a632b6044a4d6a3c6c1245a79708d",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "rs0-s sdr"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "32aaa7bb6a29ab9c3909e490475c4cd46152fea32c2625447e2d92571b988c75"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "0",
+   "CurveRefineSaturation": "0"
+  },
+  "curves": {
+   "ToneCurvePV2012": [
+    "0, 0",
+    "64, 50",
+    "128, 132",
+    "192, 210",
+    "255, 255"
+   ]
+  },
+  "look": null
+ },
+ {
+  "id": "1298",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "8ee30c4e2bfea469529cfcc2092a25e73ed93dd9e54de09befae5b90b8007fd5",
+  "returned_xmp_sha256": "ffe0c9466796cb598c076eb8a310b7fe1deb9878e48e28dd260a7de1805d9acb",
+  "output_sha256": "2d7a4073d8dc849e1f5235f0ceb93317a2b9ec0917d4e2c63c9a648fbb77bbed",
+  "pixels_sha256": "d656564bd5b0524ed5afded9ceab5d93ecae8ce43325c26a78e3610bdfd3377b",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "0e36b4fa01015a5e8e8b189d23f53351fd6e26b8996c1304047c6364ccf6c57f",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 8.78071959776195,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "rs50-s L8"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "9161e88e12daef69c8e2f2d31362364528204c77b843e40abb7e188e14f0d7a2"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "8",
+   "CurveRefineSaturation": "50"
+  },
+  "curves": {
+   "ToneCurvePV2012": [
+    "0, 0",
+    "64, 50",
+    "128, 132",
+    "192, 210",
+    "255, 255"
+   ]
+  },
+  "look": null
+ },
+ {
+  "id": "1299",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "6116fa7c3c8822de090b16676e02bde3d1b3fd86272f6976d1f39cff22b9a8c8",
+  "returned_xmp_sha256": "7b4180bc529c3cc72daecac9fb5e3dfe56fdaad6e9cdc165621dffda68255b0e",
+  "output_sha256": "d3e2d2dc5b4d964b6989a0ed03c7c9af7a501df5ed31c1c5787d5b439d824f12",
+  "pixels_sha256": "ec6c7eaeaa0ffe1644dbc2aa719137a1f1b3f0d8d379826d2e8cdb2a0bd017b4",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "85aee77f98893c0236e8efcddf33b3854e64c412f6f5e846c3a24b2db34c777c",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "rs50-s sdr"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "2569f1e97f988d646beb2f7e6f6024b5e7bc03b632cb9ddd7b288d925f6d8cd7"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "0",
+   "CurveRefineSaturation": "50"
+  },
+  "curves": {
+   "ToneCurvePV2012": [
+    "0, 0",
+    "64, 50",
+    "128, 132",
+    "192, 210",
+    "255, 255"
+   ]
+  },
+  "look": null
+ },
+ {
+  "id": "1300",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "14f26f09221ae8f8a8568ce09e187f20362d64491189efdb9a90f9d480890387",
+  "returned_xmp_sha256": "76781f33d193601125e058784a8d2a5f017c12e64b65ecbf8949292c71be2698",
+  "output_sha256": "442934d2483eb95c0b596727fe5218e03af121f922eeb867388a98c5a288ddd7",
+  "pixels_sha256": "c50c1a2859bbf946288466c23683a6a149d6445247970a49ee858c79b4beaaf7",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "4f5081f23b73bd053428601100d400450478a9649d65cc2c127c9579c7859283",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 12.45909190375203,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "rs0-bright L8"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "1e5baa8ff5eb271c7db5c7961fba3da39be2ef09fe118c5bac0ee0657d9f71d0"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "8",
+   "CurveRefineSaturation": "0"
+  },
+  "curves": {
+   "ToneCurvePV2012": [
+    "0, 0",
+    "128, 160",
+    "255, 255"
+   ]
+  },
+  "look": null
+ },
+ {
+  "id": "1301",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "6bea08b27656e11614dbf1fd7972c62d3d3a62496b7ec85813c1e89579aa76b4",
+  "returned_xmp_sha256": "ace95638bad2f1a6761fe65ae9633ab3b38934846f48422b650be170b03e2d72",
+  "output_sha256": "432f9342cc82e84a961e9c8dc62eb9405276b64bc6103811de48a63a7a6265b2",
+  "pixels_sha256": "dc0901e2bef7681575b0dede37077babbc979fd46e81f32f8b77419dfa064f66",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "2b95f2609adfe20e24db00fb069e437844f46d4a8ae4994e4e670ee53592db81",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "rs0-bright sdr"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "94e2ce6cdcca3162a90611e784dbfd74e95f9f66072b3abf0953e57e9e12ceab"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "0",
+   "CurveRefineSaturation": "0"
+  },
+  "curves": {
+   "ToneCurvePV2012": [
+    "0, 0",
+    "128, 160",
+    "255, 255"
+   ]
+  },
+  "look": null
+ },
+ {
+  "id": "1302",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "d97edd1b01692829b1ceaf14eda834bd5198527b00cdc25cb69277e35fba2c0d",
+  "returned_xmp_sha256": "48554eda810089d0261bb7e7e2d7fcb21332a616f80a58368f53a924f087b817",
+  "output_sha256": "279434543b95b1c34db7011ec8fbd9e98a49b1c930bb79ea792dd2c403267d1c",
+  "pixels_sha256": "9bd098895e489a6cf625966a106ae92b9aa5a56b75613ef505d0ce8246e46daf",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "0e72bcef3539abecab700542b054a6d57e8827cccd6a3da425e57a4336919130",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 9.451744937813034,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "rs50-bright L8"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "5edec4926b618dee740340ebb4c901df92c1cb30659c86228e42681e8df7eccf"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "8",
+   "CurveRefineSaturation": "50"
+  },
+  "curves": {
+   "ToneCurvePV2012": [
+    "0, 0",
+    "128, 160",
+    "255, 255"
+   ]
+  },
+  "look": null
+ },
+ {
+  "id": "1303",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "6c544ad02c3d6b3b329f25870c9a4359c8ac0ecdba15313610bea8482b9abf4f",
+  "returned_xmp_sha256": "4361072d76eb2fcaf71fdd2277252adba4c62c4fe5f889bcd5144fbee2e8a3a5",
+  "output_sha256": "008a510aca06446835991ba8b2d3f45123c889a0c2cd4718ebd73e7c7f84ac05",
+  "pixels_sha256": "b8c45796347efab9d9bc106ec628c7ecc2ab8105d92bb7543cfee35bc6db776f",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "fd2bbfa1a57ea706eb01a3ea9808fed433aff5a37e0a8091f7cbbf8b1d52d561",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "rs50-bright sdr"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "9e03ff31eac1b97c752602f198c7da32567356a6fb1b95c73e47126aeed03f7b"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "0",
+   "CurveRefineSaturation": "50"
+  },
+  "curves": {
+   "ToneCurvePV2012": [
+    "0, 0",
+    "128, 160",
+    "255, 255"
+   ]
+  },
+  "look": null
+ },
+ {
+  "id": "1304",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "f5bfdabb61808ce54f9f097305400709aca2df48cb56964bb7b2274fc6d1d067",
+  "returned_xmp_sha256": "95395d22d28c014bd25ed4c5cd12e793820807d9f64a84ef177f50b301ee62ae",
+  "output_sha256": "0f3cf24a4b764a5dbd613b7b19fd969bd86ffdc6282682520b542d9473cb5346",
+  "pixels_sha256": "0321c759f91ef774c49d9e196701a9c1577827560a02eaa7e102ffdd710b99eb",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "951528a807656bb75e3be4b3efdf558089a7d242f363a3551184875a23eb9319",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 6.591608455738665,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "rs100-s L8"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "959c8df459bea29543e8ac4b817abc084a80642ee1258834996949c846e66577"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "8"
+  },
+  "curves": {
+   "ToneCurvePV2012": [
+    "0, 0",
+    "64, 50",
+    "128, 132",
+    "192, 210",
+    "255, 255"
+   ]
+  },
+  "look": null
+ },
+ {
+  "id": "1305",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "0d1693fac4b719aabe3f031f20f4579b4b5e12378605a99416926d4dbd9a1ce5",
+  "returned_xmp_sha256": "aa361ec9ee243593c9d1cce2ff556bd836d1fe1819364d6086aa55c2a1b2025c",
+  "output_sha256": "212fa07675296885f58443fb33a77620e3d8f760074424fb8152d672932b3147",
+  "pixels_sha256": "d3aeab409f37b9a76466df55868b57cf36d01b9ac20ad5923470bd39d82c71e3",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "353bc22a69c2ba97f525e6a94de88735e673482168e89a16f5139241b72d01aa",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "rs100-s sdr"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "6f1b764809c9919baf332d7b2b0fa7a7b1d02206009cddbe6a80a2fb422d1997"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "0"
+  },
+  "curves": {
+   "ToneCurvePV2012": [
+    "0, 0",
+    "64, 50",
+    "128, 132",
+    "192, 210",
+    "255, 255"
+   ]
+  },
+  "look": null
+ },
+ {
+  "id": "1306",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "a0c9109e98268338104fd880d4f37bb7a09771819a0e13493f4f5cd2acac23db",
+  "returned_xmp_sha256": "aaf76422b7de6228013a109b3ca042393382dd44ef9530d3d8da92eea511f341",
+  "output_sha256": "b5236177e9c97efd7eafa0705327c984e57b07c099ad95f696f44f087366431b",
+  "pixels_sha256": "40e1c61042c43dc71acb917ca70a9fe76dc6d3d58e0adeef533d8465e76b4b07",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "37411203cd2551e521fdf402bd0dc26f28f2fb6831568599d1cef9ac19d464db",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 49.26108374384236,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "left-end220 L8"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "9bf8926024d387c859861dc6c1eb1d0f6abf7292116f908e7af2803f6bc35197"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "8"
+  },
+  "curves": {
+   "ToneCurvePV2012": [
+    "0, 0",
+    "128, 140",
+    "220, 255"
+   ]
+  },
+  "look": null
+ },
+ {
+  "id": "1307",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "2ca4afd5506139eed4767cd31b75921d3bd330b50f3a262d73671a7e00f7e092",
+  "returned_xmp_sha256": "8892eb319d1f2a0ba1257bbba40a6a494a3bfd93fef06af6927be12c43f06dd4",
+  "output_sha256": "a59c5ac107100398e5c823b2faeeff6bb4685df3fdaf1994cd6b0c701e3480e0",
+  "pixels_sha256": "f31b1d2a2ee507aba65b513cbbb5a287217803a4fb65216bde9939c42b825705",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "ac9d9f83914a85671396e24906d3c9a7620792652e7f3b2eb79822771f269fb3",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "left-end220 sdr"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "8d84496115c1330889505c05de909b8e8e5fc52c42c718550a25f907085a938a"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "0"
+  },
+  "curves": {
+   "ToneCurvePV2012": [
+    "0, 0",
+    "128, 140",
+    "220, 255"
+   ]
+  },
+  "look": null
+ },
+ {
+  "id": "1308",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "eeb37d5ce1d1171f9d05c100f16f012802900676bf4fe1e9df951787e9d00ab1",
+  "returned_xmp_sha256": "a43015691ca640ea384f3befbd3fc05f58f0991f518772334da78cdef19948b0",
+  "output_sha256": "1d882a531ef7a1d130f4a55792969c3ea280ce81d9fff6bd22fe1564662cd764",
+  "pixels_sha256": "01af1e17f2ff2617eab9f94d21a9b2e8801abc2f5e9d62aea12621f3f452152a",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "576924ddc5b71307d8a892730a5223a1da60f3e7a54930bfce99950451a94b64",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 24.329898948253387,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "left-end200id L8"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "b36bae30292d841f144f323a643daf2d6f75b7ea06575cd28b0361f2a651b3c2"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "8"
+  },
+  "curves": {
+   "ToneCurvePV2012": [
+    "0, 0",
+    "200, 200"
+   ]
+  },
+  "look": null
+ },
+ {
+  "id": "1309",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "672f8d2395fd190994e2e24aa81cac5c5fc17ec9d47197047925f00daceb8e97",
+  "returned_xmp_sha256": "43988bc89fc5b2feb6180b0794c96038d1475b9f9310905f1db9ce8c0b4fb981",
+  "output_sha256": "3093953baa4d587b96f088d5bd9d9f535201c979e278843b8df0589ad0654a6c",
+  "pixels_sha256": "f6ef8ab799d30eac4c50385a654612e8f22252147ea5aacd26751d46cbe7feaa",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "e148f45a631fa07c1938e814a532e9da701d196c849d3dbd805ad53759ae0a5c",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 0.9126378456761652,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "left-end200id sdr"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "efb8d3fe1b9fd88ebdb3de0e33e5a8993eef09db65c8d007f0d0ef2446b3821d"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "0"
+  },
+  "curves": {
+   "ToneCurvePV2012": [
+    "0, 0",
+    "200, 200"
+   ]
+  },
+  "look": null
+ },
+ {
+  "id": "1310",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "8879d0baa8b2bbd3d53cd36c08cc85fbf210d2306e175d9485de57f1702c5fee",
+  "returned_xmp_sha256": "14b4c6318d6bffaf27b1db3c2aef3310b98694e9d947332101754e451106a20f",
+  "output_sha256": "01a30ede79214985f2e7072b851abeeddfcab697ca9a2f37ec83cc165498246e",
+  "pixels_sha256": "65cd3579b689c0ace2266bec3398bc0f2993d88f8ff3c4e610eea459af8b270a",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "79832478099dbbc85ac4f6312bf6dea531c5b2386ee461e50220e53383664650",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 37.73318512292265,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "left-end230lo L8"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "4049b801575a8cd4af256faf2060499e9e3c6ae55cae324766b64db310c3c40a"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "8"
+  },
+  "curves": {
+   "ToneCurvePV2012": [
+    "0, 0",
+    "128, 128",
+    "230, 240"
+   ]
+  },
+  "look": null
+ },
+ {
+  "id": "1311",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "bfb1f333e6c944a259249183f0f0f1186691dbbd030fa627834e7ccc46693e88",
+  "returned_xmp_sha256": "7dca38ef250e82b370d50528f50374e71791d60a4f60743fed4d90fa57235b87",
+  "output_sha256": "597d0fc9c166195ef3dbc2cf6ab175941ded3db8c4bc8a24f1b14517e1e4878b",
+  "pixels_sha256": "cc367705880bfeb386064cb7ce3bf655f060f25e63ff5e4179378e933a3b4df4",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "ea7f22018b5233b955f71e29b6d446e955d7a8ace72d8fc164d74bd585936116",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "left-end230lo sdr"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "c2337bc9842b375efc466001ed6b41330edcd17114dc9dea3955cf0aa12a4444"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "0"
+  },
+  "curves": {
+   "ToneCurvePV2012": [
+    "0, 0",
+    "128, 128",
+    "230, 240"
+   ]
+  },
+  "look": null
+ },
+ {
+  "id": "1312",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "d554291495db1f6140003e0f5b1a377b37f67cea0a6ccdd0a2bd70173da0720d",
+  "returned_xmp_sha256": "5b6e8762d11fe0e4206447dddfea06fadc7d307c5175468692f847e183eb4fb4",
+  "output_sha256": "b3a62d13221bac0e4fdd08b39ae4bed3d703159a2341fbe56e163d7ba0eafd6b",
+  "pixels_sha256": "8d49d40b5c935418b998d95ed9736fe45f23c9b6e713efa79d7d2efcca95fd9c",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "02a8c05d62a7ff8bebbcd1d60055074ea77fcbb4af5fc0408d0c65ecfb21332f",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 49.26108374384236,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "left-end180 L8"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "2b06f519c41d327ad35e955efde3685f92e0723bce34b86b0db2bb73d786441b"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "8"
+  },
+  "curves": {
+   "ToneCurvePV2012": [
+    "0, 0",
+    "90, 110",
+    "180, 255"
+   ]
+  },
+  "look": null
+ },
+ {
+  "id": "1313",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "12bf87a8995f1cf3f2652d0f31c01b42454b0394607209e2390f0bd59eef30bd",
+  "returned_xmp_sha256": "4408ac72d70fbad69184bfff0fa64eca60b26fb73562b47cb653cb14bd6eaff9",
+  "output_sha256": "f2ac58df79dcb3cfa75d28e5ca05113727f46b0256834a0045b1e01b5c534c2f",
+  "pixels_sha256": "334880f866007fa199aba2f1941c114057b47afa12be8d3ca65a016ca82bf6b8",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "b5890510a1ea5ee9347a254a05479666b2c63516e30f934a26037b5b706d5e9c",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "left-end180 sdr"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "2684ae35eed6c0e9bb605a0abc58b9aa0a1e867b803a29b82395db913eb5fd05"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "0"
+  },
+  "curves": {
+   "ToneCurvePV2012": [
+    "0, 0",
+    "90, 110",
+    "180, 255"
+   ]
+  },
+  "look": null
+ },
+ {
+  "id": "1314",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "593971dd630a7aa67199d11ef1449f752c9abb8e4c4f5ce9617961e59b74f7d0",
+  "returned_xmp_sha256": "0cdf5a24b72dd5258c27fd284f304785ab08694fc5aeb1cb172822165d51fd65",
+  "output_sha256": "fb34d9f0f41e3387e91aff398635b021ab4dd6a74cb4e4dfa03650be47ec130c",
+  "pixels_sha256": "01af1e17f2ff2617eab9f94d21a9b2e8801abc2f5e9d62aea12621f3f452152a",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "576924ddc5b71307d8a892730a5223a1da60f3e7a54930bfce99950451a94b64",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 24.329898948253387,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "left-red220 L8"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "b36bae30292d841f144f323a643daf2d6f75b7ea06575cd28b0361f2a651b3c2"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "8"
+  },
+  "curves": {
+   "ToneCurvePV2012Red": [
+    "0, 0",
+    "128, 150",
+    "220, 255"
+   ]
+  },
+  "look": null
+ },
+ {
+  "id": "1315",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "be4fd948e8ed166b7b9f74c80bc632dcfdae168aec98645aeeb483363aecaed0",
+  "returned_xmp_sha256": "c47960793c3a16482d7649dd45312c6a0de9481247cfbae05d94b237990ef888",
+  "output_sha256": "bea964bcad90fe498337a2e806a3585deec595c74dea3e0a8fd2260d52b3ced6",
+  "pixels_sha256": "e90894f5c7b606aa9b7746dd36d60e03801c4903b21682708b250e109ece63df",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "5fcf434f507c24c6c89403984fd61e96f2f8822a978b53807ccea491fb09c5f8",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "left-red220 sdr"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "04af791c064975d468789c449ed02a5ab5a5bb8579ada948775045bf5baf19cf"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "0"
+  },
+  "curves": {
+   "ToneCurvePV2012Red": [
+    "0, 0",
+    "128, 150",
+    "220, 255"
+   ]
+  },
+  "look": null
+ },
+ {
+  "id": "1316",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "e07c2af92d66284dd9789546cce367cd8f093a2d39ac9df7617af0893a3074d3",
+  "returned_xmp_sha256": "2e260796a534907ec249fe7c39f119353436613c3499c5c46009e9bf50308986",
+  "output_sha256": "42fa0da0d4d6823a95d21315c2962043a3a7ce2feacd8a0ef47f4e213035f989",
+  "pixels_sha256": "b463565f9da042adba10a516c1415cfcf227d1ada9fcd212545c2835edfb851c",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "4b77ee77631618dcb1d116ee81caa562f33e09c11404f29f9dbc4e5c78cfde80",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 24.587645745757687,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "look-split L8"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "a76f05b2b9c86499f65624f339722d97e4fba5e7538904591c9d8f1d03677e15"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "8"
+  },
+  "curves": null,
+  "look": {
+   "name": "synthetic-split.xmp",
+   "amount": 1,
+   "sha256": "173d0b5d1db026042843bed6c22bea2fb3ce8a70cb9e4ac5998c9359cf16b8ca"
+  }
+ },
+ {
+  "id": "1317",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "e8cf3494b7d1dfb120eb35b4110463a2e00a8a7a9c7ab2ec9a976674739ca912",
+  "returned_xmp_sha256": "0c330a145f159ad845a092cf09d2795f7737732027e120bfb892433704d2643a",
+  "output_sha256": "35fb4c0b249a898f905e3f3691dffad4cc176975e705c5604a11d8c5dda37b2c",
+  "pixels_sha256": "5b5af13886e392c02c4efad17e6e6e7a525a2890a3a688897d527434ad71820e",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "0124a919d91e2015abb7834ab367e4362e1c45fadb7fded435d863d1e57e85cc",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "look-split sdr"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "ce11a1c3883bdfaf490af560f09cca6cdb56bd86ba749cdffd3e372e3bb18587"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "0"
+  },
+  "curves": null,
+  "look": {
+   "name": "synthetic-split.xmp",
+   "amount": 1,
+   "sha256": "173d0b5d1db026042843bed6c22bea2fb3ce8a70cb9e4ac5998c9359cf16b8ca"
+  }
+ },
+ {
+  "id": "1318",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "7b54db1f4730f9f7d1fcf29fcd949ba0e05fb325a5ad336b09953122ca88d24f",
+  "returned_xmp_sha256": "7cd7c5b1f0956b679f036fe3ce0bbccc5bcbf2d99876f84254ef84b5dff8381b",
+  "output_sha256": "8f2fcf9c2f83afa36b9ee5e3d6b2bf52fe3c09c2e6195a854febce6181d4de69",
+  "pixels_sha256": "a39c220462426f738fe0d2d9cf47dfe615a7bd771e7bf5737a193ad6e809a922",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "d8216d2354dab71f382afeadaee93559c96c363d1d4758eae21ac6e25a2cf639",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 14.728744367425534,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "mask-whi-100 L8"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "61fb85a2be3ca3e741c1dd2f22620c4a69afa5b2311111e3510a6e7570c06d1f"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "8"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1319",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "8f11e67bb4013a2c7377cb4535054503b8bd00402985606e96f5ac17311fcb0a",
+  "returned_xmp_sha256": "c1bb339ccce082221f2c70c8bb0c6cf918831486da445392ce997d4fe3681e74",
+  "output_sha256": "5545340c4a8c184b2b3627040c1f2c1bef403089b9f78f61fd059adb97e7d60e",
+  "pixels_sha256": "a91ea9e2ab391ade786b873c867175d06abbda6c04526d7a166ad04ed4fd2379",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "04d1abd2bfaffc220a569a09573b51cdd721e997bdb831dab79a5622acd80499",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 0.767615539476517,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "mask-whi-100 sdr"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "f2337d1150c9174e219bfb9d45d58a975b5674fcf1cbd59ed501ea1952401899"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "0"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1320",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "8c9fde3b378de9220b26c4cdd5dabed9f8150ed5050b04c8851ca5586a6f7b25",
+  "returned_xmp_sha256": "3bcddd05cc828caea61085a5fb53992027de878c5254054d52f5f1932f9ccb9d",
+  "output_sha256": "c4ff437e277be56c144814bf23b04acbdbaf6998e31159b523554c3da7e4b84c",
+  "pixels_sha256": "8e6a3d7928bab083a84bff02b302c6b104ff67944d5ff7bffe77f757e1fe4eec",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "91aa63df81071117691616d5a427e6ade4ac3408633d87e40c8498444f704490",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 40.2451299999446,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "mask-whi+100 L8"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "7be0ef01f98ec339758b4b9dc847339204b05d10b8c72ddf72985328944e3fff"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "8"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1321",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "a33334327df1112c0ea149d96800c287416f7ec262985019046dee870161d79e",
+  "returned_xmp_sha256": "a79faf2b038a81902fe024122382abeb2e0aa0e44237f5bd55c048b1251fa0f3",
+  "output_sha256": "caf1e1e1a3ab04335af16520b0394c336d39554dd69ff212af30dd4f3175f47a",
+  "pixels_sha256": "bae0c0cd750e175d698429ee8ce1c7fb110e19f0ab5b10d9e3010575f188d89d",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "ca103fd2da995d5ffef8b16fd489a188d80ad1a1b18d9e2d839033aaccb99dfd",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "mask-whi+100 sdr"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "51b56a80597a4eee2dcac4f8ac0891238e62f7808bd203ae9c1e67976f4c2cb1"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "0"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1322",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "962dcbb92343f45de3de89c1e42e5f0af457c6168a9b2af4195807993bf75f2d",
+  "returned_xmp_sha256": "0f5b1e38fb5567b64c16c9d91f0c5789681e53eaa5d0f7fa6b8fb6a39fa1174f",
+  "output_sha256": "da24cc1da8d4d901aa4d2b38a5f1400405b5aaa2a39f467bca90d6c27f8b8926",
+  "pixels_sha256": "24e6efac1187f30fb543e70222f6647a1b0ceea15bd1c38d627357832921da32",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "7a19a6ec0771e3e7b0cc3612788ecf830e2ea30b9c65b76b64e591e0fdaf2cf9",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 27.324807904183118,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "mask-whi+20 L8"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "debf59dc8bcf80c76ebaccc393d2ae88a3e47d0687a4b31c9bd403dadd52957a"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "8"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1323",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "499923fb13c9856b13f21cdc04c4ced389732fd88b90a2a0822d3df049bdf7a9",
+  "returned_xmp_sha256": "64933d11f35e213c9c84e68e8333cb4de3388388ddb796dc2da003cb4bcc9886",
+  "output_sha256": "5438e401dc3288cef9c194e1ef2c20cab8aea31d28c30eafaadb228bb367f1de",
+  "pixels_sha256": "2de3a0f3aeeca089dc4baf73c93518e8b56ec86f2495c8cdcb1c950e511223be",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "4dddf76407e6e31f214d8b103c97abe09354c58378de2a8c721d32e4d557ebd6",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "mask-whi+20 sdr"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "a4bb221305f634779a65f75ebfdf36d31b640ba272c355c49305299506536c34"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "0"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1324",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "13bd253d7a71883ac4d0e25e500c359a7ebf59226a35bca35069a1e1d452d80a",
+  "returned_xmp_sha256": "4cc5511f346893b12e9150658368e85808db7c62a6e62026108e1fc9bf81a236",
+  "output_sha256": "e6d7eaa0ecf90e0835de6c70d4f942d37424638de26ae0510b0a2eb2fc84057f",
+  "pixels_sha256": "d11d153d81fbeb3484d85d26053a7310c82b18dff327488068edf0c1ee6e56a3",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "4ea8574c3eab3e0cf6a82a607a8268f6df882f8f136159d775033072919cba4b",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 40.70193765376661,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "mask-bla-100 L8"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "f14221b23e337f17cfa30fd6b1570d3bf0b57962b3f2b1909a1c4077ff7cb18f"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "8"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1325",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "390d76d8890bba7e0e70e074d6ff59b391ddef6574a2c086e98fb7b129118798",
+  "returned_xmp_sha256": "77d72979e2196af88f1c53c8782e38a1c930559fc540b09c1a5ad902fd3f1534",
+  "output_sha256": "c99468834dd9d36b510d051b3bc0fa2fdbe8c791eef4bfd94288addb41792e93",
+  "pixels_sha256": "ef5a8e4bf5615b78cac5216456c6d2f1f583a15f1921512ea9ee98486a91b899",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "87ecb40cdc0f9650ddd5ebabecf24df51364d6c6f8d64e0e2e3f7f2f617aabe3",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "mask-bla-100 sdr"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "cc0fc7e89dafcd51a5651f2ed3c240a32f35dde10b1339ce75b7eed091681d44"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "0"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1326",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "fbd653f0936ebf2e0c5b9339cf68809afe20d54c029211904012b98c24492ad8",
+  "returned_xmp_sha256": "96d287d28ecbfa520a7f33e62bd777846cace8de93f859c569086f610f88a40a",
+  "output_sha256": "307e401cc565eea46fa675783f2b01ba76d43c1f1cd7ea8743775c72f364c706",
+  "pixels_sha256": "6a0c6b9e9f97528ce5f210d3b95aeb5672c904fb621c4a559a2ca966821905ac",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "5dcb97087122f98abdab0fdfa89409a1bc650f49dc8d52070b26fe7f4c5b4a06",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 18.63272346206034,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "mask-bla+50 L8"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "333c95eb6132cd6633c4e2732490a2a198bb55b5a0f2b278b75fdd9c135cf510"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "8"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1327",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "594ad7e999b35f224e8b998587265ce9d000e0834c214eed24860d222c7ca910",
+  "returned_xmp_sha256": "368f0626c525af04a2f880480b0ac1decac6f56e3f8f96b437f908ceebb631b7",
+  "output_sha256": "659e98898cc2be3c2d85c5cb15e70e088ee75d6e49f2ea060d3c4a87deaca136",
+  "pixels_sha256": "272f8d95e8452581cff882f8ca0736362f0ba5cd6da0b6e6151df59cec670c4d",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "00347ad0a6c8a670ba9db308ec2ee2b2386d6e38ea08640beb61a877e8342d67",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "mask-bla+50 sdr"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "76a4181711fa872339e910dac1ba3d2a3e3c4e1ff9b8ee933ff5bb70a49d520e"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "0"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1328",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "2a5b3098298b47003fc3b55a404a5a9b63b2ccee4f9af283ff48133c77ed86ca",
+  "returned_xmp_sha256": "63737e40566de3ccfca4a4a0bfbc114f9b26042deba805b0eb843de4bbc0bc76",
+  "output_sha256": "7d711c3f70aeec81001ed6afc716354643c5ef32c3a2400e0c222c6380fb41a0",
+  "pixels_sha256": "a99963660d3c1e0c5580d45f49867db572fb47e3e3c9ace8cd5ba199eb03c11d",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "df21e24d0dee5886c3c71e640092ee5028862cf3baebfdd91ff2b467ac8309ba",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 27.246855078345366,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "mask-bla-20 L8"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "e0da7bd942f0ae9a8199224b74231b81f93075e9a2b1552bb6c4fd6ee69e6257"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "8"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1329",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "9e6a0ba6d665c11041f216d154871195764723798eddca35a137657533f0c960",
+  "returned_xmp_sha256": "c4e446485b1d2b90572abbb68afc0188c28a20c0d241b829683cdfc4fffded03",
+  "output_sha256": "5e037584508ee58726428220022b65da263053896b07575a3414e7f7138ee703",
+  "pixels_sha256": "72d09d142f213f933acf179d92fd7571f397dc8ffa977ef8d1fcfa556926a912",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "b7bf725924ca400445df2409ff46342047d562ad63bf439634edf5a959d7d83b",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "mask-bla-20 sdr"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "a957f03c7efd0bf58393eca6728d5cb428b4a5b4af3d2f1896ad328e96393fe2"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "0"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1330",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "1ac90925c729c06fb7a02ef88c8bde38dd4b140f7a55ef731733073f19c8bc74",
+  "returned_xmp_sha256": "9524aa8b90131534c23944ad122065a5ebb6f70bce284af4d5a298d69a5c8a68",
+  "output_sha256": "5012445ac64d30ef50e70cafa40cf5e2739d3402b228c084a7383e0efab51623",
+  "pixels_sha256": "c28cdf8ddd78d504d6e21deaf132cc4b6c7d8e0a56a6635b127a8a67b4eaf1ba",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "fe6d287a21eb56075733932edc95e5a4c922175378833665780f7f8781d97dff",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 16.87778589078111,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "mask-sat-50 L8"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "1dc801f37ffcd306307921e9d83f2f1b17a69e06c0d7d660d5eb5e813b42db55"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "8"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1331",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "fc1fa4ee095acad6138a942c75b1651bb9a9d1413628924c34378cfc16978974",
+  "returned_xmp_sha256": "c3014008545da4341f19147f23155c1dbd008ceb964aac6840f3d53c5220ff02",
+  "output_sha256": "afd27b754baad4e0c36b42686664246c9c562cfd316f936d134679364f0557de",
+  "pixels_sha256": "7eac525dfdf56dbb113ef32fbead78b1dd078a62f0478789a71b0e608a88f62d",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "f9d0201f73318ae090b5d33e399a1c8b5a5b104136511654b79eb36e3dc0795e",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "mask-sat-50 sdr"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "a7e87d23d6046a1dbdd79e2b3fcd158c695179f0be75d7f39c22cbc8974bd183"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "0"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1332",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "78e8e5c875f0270e2585aaf9889bf91ba4379f3c2a68e6d4cc39f57fbcbbfe66",
+  "returned_xmp_sha256": "595dde245fa572595f94a26e721650778385a7e21b822f9ead3053419da297ba",
+  "output_sha256": "88861c5083a725300eb575726c866d6bafa5c697ae5617556a6c695b15da9db4",
+  "pixels_sha256": "281528aadbfbc91fee30e08c374558446ff22dcded8ff55587bc91e73e6da7fe",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "d9df7300c95a867b52c9d630c6381ca6f8f7713d80411ada946cd33623259a26",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 25.508425815762937,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "mask-sat+100 L8"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "57db87b8f2d6173767a4677ddf2508bef4afe9d767cb7978ad81e8d0cd77f9fe"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "8"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1333",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "84d49917cf8badfb3831f238a67cbd80fd795b9d6f3cf6cd271435a566b54dba",
+  "returned_xmp_sha256": "6ecd97f2962674fcd07f89303228e4d6fccf4f7dd57fa15569a5e994ea837a94",
+  "output_sha256": "5324a0132722c796d112bfd572eaf3ac777fa187408a7448a6f8af4e053c37cd",
+  "pixels_sha256": "6e3245eca394657291628f985df6a07be25414674e6258fc41f41f7ceb33debf",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "20a04aa7123685890754aa606c32dc382e89005d554ff557e062b3a0cd058e68",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "mask-sat+100 sdr"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "538d315c136119d826a6708bfa96303eb62d26655834868e8d638187855b9820"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "0"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1334",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "07fe2ac98f5af7a4118126f0014e329f4d903ff50dff1e0b3abc2642f39506a3",
+  "returned_xmp_sha256": "0637a39000a9ab92476f4f898467e96a9e2d25379a189cc8cef5386f78fd0449",
+  "output_sha256": "a8e5a822b27e58848ff942f9103aa05e35afb57b3fa1ba1240e10fac8bf187b0",
+  "pixels_sha256": "dea36b944e0bb4ef64277955a40a39c2f59ccfe53e821b1744b342aba492ca67",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "31b37f0d95745c12412abc019040c30cb2f7009a0004ec8a6b2ed51c048f3ef6",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 25.283967292906087,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "mask-hue+30 L8"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "ec580b82c9aff174d7ba87647ab8998e127859e1b56f39298ca6d30db73dcd2e"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "8"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1335",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "1e82ead2e6c45001d9e1063a0fbfad6041975f47c4ed15d01acca23b1a6daa06",
+  "returned_xmp_sha256": "389c9bcdb712485a01f3c0ddb7bf28b35ac280d9d012928ccb24f79d4900082d",
+  "output_sha256": "e45ac351f8ed7c8f6713c66ba3fbe699625f2cb8eab9b411676be50192b28055",
+  "pixels_sha256": "9d6a53508c5acab16fc9421a54b8dd4b26c17221f52b1d99652f856bffbaaf25",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "1685c5ed27103370e055cff400c82beac57e43790ef7fcf2c43450f074368287",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "mask-hue+30 sdr"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "27297e8936706371dab58dadba7ab1ecc0aa0844c068270f2ad0d8facd228b81"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "0"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1336",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "09435fac29373d4d435a30ddf58b77e66419c25f6bcb8a8624b71df1d95b191f",
+  "returned_xmp_sha256": "bc596664df20e589427acff5b149e2a517d9da207f84d25cc2b093d057ee284d",
+  "output_sha256": "b85e9db1a4349b91c9b78b5aa4076d4dc0a7e5963c3f1b9f95e3594eb34575a7",
+  "pixels_sha256": "c7ead553c5d8edc655b449d22938469555ad88b830d492d0a15b95c241e5caa9",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "c2d110f73af7b52ed13f41fc490aebcbdccb9b1913c8ee5902723c76d76e02a1",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 24.329898948253387,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "mask-con-50 L8"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "854270a6cb5b331ab50324ba854a3e9be9f2be1c6a531e76f4f1e0020528c8ee"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "8"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1337",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "e6e0ac04c3020703fd232eb8743f51adf5548215727fc8224a4dfc1a52dcd059",
+  "returned_xmp_sha256": "76bffa599cb921ff57468614f4e37e9a10e1473214290a2e143febed0fb639c4",
+  "output_sha256": "7d8e6ee263dc52881cb3aef0dfb901856ebf24c9740900590b3cbfc4b750b46d",
+  "pixels_sha256": "e129bf156e8b30af5443f4c2e157aaebbc799feb5672c731dcfb59393645f6e2",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "a7a085ae226f983768643e221872168e7470f17d824523ff5fc2d6593545d66d",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "mask-con-50 sdr"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "41b577fda5c47de222af56acbd1b6f70a7eb3c59a49a376c8d653f1d632a5184"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "0"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1338",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "5caddd03ffd460bea2235666a15a929d0a4eed538844c91105ecac62f897d847",
+  "returned_xmp_sha256": "7688151ddd450d2210808bea693f52ebb39de7468672e3a7fb0deb20026b1923",
+  "output_sha256": "be290c0587f709f939fe84f7ec2960f38971a53d6c757362e4a2380195347f35",
+  "pixels_sha256": "73889018844ac3dbc62f7e0443fa603630e69b89fdb5e1f7a869aee5565e75ff",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "2efc37b8431545d1c672d815cf33af8b42f9a63e0bf65690a8a932bb0a5f874e",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 24.329898948253387,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "mask-tone-h220 L8"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "bf87e0b12a368262ab819d7ebaac85bc51c5d9535a5429736948aa8ca3776be1"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "8"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1339",
+  "source_sha256": "c6e0f27bbe1bef1a4a8d26409d1e610db544cebe2fe990971240192a8cce07be",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "a3375ec7d9e1363882c6f9094f443744f6d4d5526d447659f7c5ffe60d3b2a2c",
+  "returned_xmp_sha256": "54272dcb1841801228b341ea665b325b7f306c69a94c3441b437e79b9071a1d0",
+  "output_sha256": "1ced0ee7cc688d36643f295d5028ad430e82f440a9c257ae8df326f5d6145b62",
+  "pixels_sha256": "e5c6d3184048929fc75c21bd717d63f1c2c498ae28e864f5b78d0a3dd2c1f4b3",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "f667fd6456dd33fedb1e6906082fa08574cd24500801a99a346251dc7baa9779",
+  "output_dimensions": [
+   648,
+   552
+  ],
+  "reduced_dimensions": [
+   81,
+   69
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "mask-tone-h220 sdr"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "2d5fae7458aeb5e1a385e88135c663808c85ab54417b2e5d49a081d1c138d7fe"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "0"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1340",
+  "source_sha256": "4e7ae72b59ffd00ef8da2529de9714efdd0c51e22f8d0cbcbf93b0f0cdb11001",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "9b3ff5069ea3a1956858c5eac247720909cd92569ebd861391f679423f8ce66c",
+  "returned_xmp_sha256": "ebd954f077462babab17e167661fc00e93101b0d0da804cd8cdf2217242aca73",
+  "output_sha256": "0d8967fc22ccd0f19f59aca3065c0626a1c5a9392e4740ed77a111794daf1bf0",
+  "pixels_sha256": "341835a9716daf9cac7c7d2740160d39da8cbc0c05a868b3b2414b2586929810",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "69ba6f83980cb5d202406e062fd5acae92583da85d3e21eaa2543c90e714cd8a",
+  "output_dimensions": [
+   648,
+   424
+  ],
+  "reduced_dimensions": [
+   81,
+   53
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 49.26108374384236,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "tab-srgb-lin L8"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "1971f94e17fd9a88b682265c7a15f8534fdd3a7612936790b46750a8ef6caaf5"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "8"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1341",
+  "source_sha256": "4e7ae72b59ffd00ef8da2529de9714efdd0c51e22f8d0cbcbf93b0f0cdb11001",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "66bc056f1ceae9ab0b60db1c7c2b8c31e72cc368ab6b758de5a1b083ceb5cc58",
+  "returned_xmp_sha256": "f0f53492a6b5fbd44f6cd74f17975a2088464bc43e27967bd14cdde7d46509e2",
+  "output_sha256": "c227220a0719f032aba3ddf5f0efdf59af17221fc663c2e6d9901403e318e632",
+  "pixels_sha256": "60dec80df254d6110617e901886e22a7685c990f82e418b7b9f3c4fc9549968d",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "dc62929d6b3a4680d5498b9ecce0e9787df9a1aa5921f283fa2ef113b1b2ce28",
+  "output_dimensions": [
+   648,
+   424
+  ],
+  "reduced_dimensions": [
+   81,
+   53
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "tab-srgb-lin sdr"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "2b4ebd69355fdebaf37849b70e5a6d332b89dc6479ab44374517b4f83478fba1"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "0"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1342",
+  "source_sha256": "f3aff43e9339c7e37e5f1ba8cfab45cfa133ff5e9cbec0a89f4de540511a796f",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "9b3ff5069ea3a1956858c5eac247720909cd92569ebd861391f679423f8ce66c",
+  "returned_xmp_sha256": "9278c9572eb17bce5e08d82073e565397b1580e90598f1dcce544c0af25e8d8f",
+  "output_sha256": "d6304c53a3437b8e580aee0d09594d4d438c5696e90b4e2a2b6450dc526a55aa",
+  "pixels_sha256": "065fe950e0b9762ed134a02f4f2a3ef38ddb444e8f89f8e0ce7e1552ee128da7",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "9ffa02a84fed4f8e0a14a2295177907300c4123526730b76e3c769ae529009f7",
+  "output_dimensions": [
+   648,
+   424
+  ],
+  "reduced_dimensions": [
+   81,
+   53
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 49.26108374384236,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "tab-srgb-acr3 L8"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "6a04181a8f00bf0449166b225aafc12e9b894acb24ae8d3a5198f010e872e093"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "8"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1343",
+  "source_sha256": "f3aff43e9339c7e37e5f1ba8cfab45cfa133ff5e9cbec0a89f4de540511a796f",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "66bc056f1ceae9ab0b60db1c7c2b8c31e72cc368ab6b758de5a1b083ceb5cc58",
+  "returned_xmp_sha256": "2238d5f426b43095693f96c23288fe8fe598472f4631bad9628de9f5cf51d4fe",
+  "output_sha256": "d4a38b134fd6028e46ff7676e14fb4029a79d489b7759527acffe5df1b09a5ea",
+  "pixels_sha256": "9e513b23b58c9ab2ac7df160df3dd99dc36234f9a8d341762b2c7a33425f52d8",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "bee080e6fac95751bef1349964ec04ee480257a3e24c5cffd73c57e87b92e782",
+  "output_dimensions": [
+   648,
+   424
+  ],
+  "reduced_dimensions": [
+   81,
+   53
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "tab-srgb-acr3 sdr"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "1a27aef83971ef5a3315aaf4b5fdaf108fdb6674ab69fabbb78fb53620e94917"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "0"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1344",
+  "source_sha256": "a49947d67c8f5c3a1625a70d3b3703a58ecdadab9ef418a451103656549b1d5f",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "9b3ff5069ea3a1956858c5eac247720909cd92569ebd861391f679423f8ce66c",
+  "returned_xmp_sha256": "cb1a828813ed39091e6d0e859eca26cc7bdd3bc6a28747e425d20fd9270ef67e",
+  "output_sha256": "758a0846e0491505a270d9d6e5d40f8be70784335e372a02bb93cebb1d77ad42",
+  "pixels_sha256": "e5a1d7699bed23c99e1e0b3e15201d99bc059ac5c37313d334d7ab9e118e52eb",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "149310aef61ac5300206627e112bc12cb3e307492c8539698e6f328820a472d7",
+  "output_dimensions": [
+   648,
+   424
+  ],
+  "reduced_dimensions": [
+   81,
+   53
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 49.26108374384236,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "tab-linear-lin L8"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "f5788bc71a47abf5b80ca137c7be139adeee6a1a368a8bfb000c4dbbf99ad437"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "8"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1345",
+  "source_sha256": "a49947d67c8f5c3a1625a70d3b3703a58ecdadab9ef418a451103656549b1d5f",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "66bc056f1ceae9ab0b60db1c7c2b8c31e72cc368ab6b758de5a1b083ceb5cc58",
+  "returned_xmp_sha256": "632945626a9396daa2302f39d963c5129ae2eb5e00701587bd5cafff31b495bf",
+  "output_sha256": "11660ea371a6fb72d73a77a5db0ed568f4d97ac8afbf782b2be4461488d832cb",
+  "pixels_sha256": "e6792f5dba9d3463457b52813c7e7cd3eca65e7ea4d5efff5637579650ed7556",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "7b462cdcce6bddbc08468b07e947fc2dffd84a87fc8aabc855ddf4823025b492",
+  "output_dimensions": [
+   648,
+   424
+  ],
+  "reduced_dimensions": [
+   81,
+   53
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "tab-linear-lin sdr"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "3d513bb3b2c08ed67947d923374215ff4ed33aa806010d2467477388ebb4f88b"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "0"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1346",
+  "source_sha256": "526294fef3162b4a62b89933243311551120e7f28080260fd2f9f0eff7bf6bb9",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "9b3ff5069ea3a1956858c5eac247720909cd92569ebd861391f679423f8ce66c",
+  "returned_xmp_sha256": "111214301369d21acf0ed1e47bc2f14c88f6f11a5ad6e490b4433cf3480e74b4",
+  "output_sha256": "d2b22fc582b967431fe8acaefe56952cd26989583d671934e87618def37960fa",
+  "pixels_sha256": "a4d68b3fa648310363dcb6ad5d63634f0a799b4bfe92b33596204d583133772a",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "c153da07f4d40c9cae250d8893ed6c07f5ddab54087f5dfd51c67930dd612d18",
+  "output_dimensions": [
+   648,
+   424
+  ],
+  "reduced_dimensions": [
+   81,
+   53
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 49.26108374384236,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "tab-linear-acr3 L8"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "6c55b103bab4ed3cdd095d9bdff8c80e3cd829ffdb42f62e6ead1cb8a0331464"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "8"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1347",
+  "source_sha256": "526294fef3162b4a62b89933243311551120e7f28080260fd2f9f0eff7bf6bb9",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "66bc056f1ceae9ab0b60db1c7c2b8c31e72cc368ab6b758de5a1b083ceb5cc58",
+  "returned_xmp_sha256": "b27da6b204a500ff30b75504bed338ffd6ee0ebbbf4ccf845d0b78f985f61077",
+  "output_sha256": "2cd0b87f5cf888a41e4836955a83b70ea84ed9562f5480bc0bf88b04c1864e25",
+  "pixels_sha256": "cc97ec3af75f93813e91815deae256ca46f32eb3d17e28f568ca206e4c166531",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "019e226b6eefbc645f11cee5a072abd1fefcb8da3038e01d46bf414ebf4fc3d2",
+  "output_dimensions": [
+   648,
+   424
+  ],
+  "reduced_dimensions": [
+   81,
+   53
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "tab-linear-acr3 sdr"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "201b460af3406be957cd7a151abb127a980426652767544469d245d224503c06"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "0"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1348",
+  "source_sha256": "f3aff43e9339c7e37e5f1ba8cfab45cfa133ff5e9cbec0a89f4de540511a796f",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "80f966d00078c4d32e0016ccb09331b6e8d5cc0f500f57717666a556810b7a56",
+  "returned_xmp_sha256": "ea0e045ab1fd4ddab9c0647200a8089dbeb23b7e7c6c093dc6f2498336b6318e",
+  "output_sha256": "d54bb2e9fe30e3fec1f93109accad7cc3fe7bba66cf5eae57972e6fdc308c573",
+  "pixels_sha256": "1c6a6df5f15286053aecad4b12283a276469460d8af53a085fe0a2cb864aec6e",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "a599aad8a60d5347d562cef1a4db197cc06953f24a9c1cfa47ad48371f885e0d",
+  "output_dimensions": [
+   648,
+   424
+  ],
+  "reduced_dimensions": [
+   81,
+   53
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 16.00118379620969,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "tab-srgb-acr3 L4"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "f0daa6ce8e85ac0fa81c04ab8ad3a3b94e3026239d8e3d1eddca1b81aaa00242"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "4"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1349",
+  "source_sha256": "6907ac95e019dc3014a9682dfdd6930c111d0f488d95abde06fd81ddbc3901cb",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "9b3ff5069ea3a1956858c5eac247720909cd92569ebd861391f679423f8ce66c",
+  "returned_xmp_sha256": "11dd03af07f10c2d84756a56947c3a560cb889b96422302026998efb65c565a4",
+  "output_sha256": "15fb108af832d9a08cf50b52c40690ee1e788b564673014c36f5a5a716ca2b3c",
+  "pixels_sha256": "93a441237c1ad7b75d9f0359aae02bd555b9d3f2685d89f6448b6d8a4b89e9dd",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "c9bc69bb5809ec66f0ab5486616d9c072b943887eb98cb298f36f57067107509",
+  "output_dimensions": [
+   1536,
+   1024
+  ],
+  "reduced_dimensions": [
+   192,
+   128
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 16.421938598474753,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "base L8"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "300d91a7abeba3d9c50a3022a34ae6d2d673ee425dfbe8c09f9676369763ee83"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "8"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1350",
+  "source_sha256": "6907ac95e019dc3014a9682dfdd6930c111d0f488d95abde06fd81ddbc3901cb",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "66bc056f1ceae9ab0b60db1c7c2b8c31e72cc368ab6b758de5a1b083ceb5cc58",
+  "returned_xmp_sha256": "4819b7834c69dbcf53a1ded329a84ea2100dd75caaa0dec9dae3fc61eeaaeb9b",
+  "output_sha256": "2597f7afc5e1e9eb45a11616daf4a6eda58ad8c5ae938409ca3a9009a2644b03",
+  "pixels_sha256": "4f6f4d31a8ea6cd084203d853513b9a002459453adfe085a214f4fe0907c6fea",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "6d788e1396514a631355724dbbe1c82e656d733776a87a9b8454ec46570e7753",
+  "output_dimensions": [
+   1536,
+   1024
+  ],
+  "reduced_dimensions": [
+   192,
+   128
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "base sdr"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "2ae68d8891e3aeae81b425b02e42d9da2979dfd65f08bcf6cd81746c0ccc43a2"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "0"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1351",
+  "source_sha256": "6907ac95e019dc3014a9682dfdd6930c111d0f488d95abde06fd81ddbc3901cb",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "3ee13bb2f065307e84f69b1c1d1d8bdc02b8a364834b84de8d19b60a9cd7f8f8",
+  "returned_xmp_sha256": "0d4094ff14c6c84c76374cf9b89b59c67a77dfa47a3048f46f0d55f427e7412b",
+  "output_sha256": "f4f9dfedaafee713f6d924128094245db4ab00babd9f6afa3821d243e2703fd2",
+  "pixels_sha256": "53e7764e02eb33dd2c5eafc6948e2c4ca15bda8034083e902759388bf491bf8b",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "bbc50424a776ad2e81a20392f96937e4c80e12512bea50737c2867bb5b3f80e6",
+  "output_dimensions": [
+   1536,
+   1024
+  ],
+  "reduced_dimensions": [
+   192,
+   128
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 16.421938598474753,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "hp-50-hl0 L8"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "f9f755cc97e2009cccefdf76fbaef0049c9c4821e6d80c860e4e9b38b65cdc53"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "8",
+   "PostCropVignetteAmount": "-50",
+   "PostCropVignetteStyle": "1",
+   "PostCropVignetteMidpoint": "50",
+   "PostCropVignetteFeather": "50",
+   "PostCropVignetteRoundness": "0",
+   "PostCropVignetteHighlightContrast": "0"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1352",
+  "source_sha256": "6907ac95e019dc3014a9682dfdd6930c111d0f488d95abde06fd81ddbc3901cb",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "e7c1199377c00396e34e20f52a66e130a84a1d17ae3ce911272c41ec5c089cde",
+  "returned_xmp_sha256": "58fbe5797424656963ea32f7590d9eeae4cc1500a86669c7fbf9558775a7a987",
+  "output_sha256": "7e2ad4e005f6d5646d8e388321e0e79b1f3fe2e0dd2e5b2887b2871f8fcdae61",
+  "pixels_sha256": "8ba3b9c457f664d8cd6cabbd3d4db17810c34a9446825bf7bbb834c8201bdd59",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "d84608bd4d304cd2dc8d0749ae3816220a94d8e943639c8a7c4dd7f9c10184f0",
+  "output_dimensions": [
+   1536,
+   1024
+  ],
+  "reduced_dimensions": [
+   192,
+   128
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "hp-50-hl0 sdr"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "c4c44b2c56a85bc0028c01e0eb2d1ab57aa08fe3b30af2860f3f03529b814b50"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "0",
+   "PostCropVignetteAmount": "-50",
+   "PostCropVignetteStyle": "1",
+   "PostCropVignetteMidpoint": "50",
+   "PostCropVignetteFeather": "50",
+   "PostCropVignetteRoundness": "0",
+   "PostCropVignetteHighlightContrast": "0"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1353",
+  "source_sha256": "6907ac95e019dc3014a9682dfdd6930c111d0f488d95abde06fd81ddbc3901cb",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "23390044ba808e8ef986cb8195f457dda99dedf0bacc51bf6b239bfd8cdee549",
+  "returned_xmp_sha256": "3f7aa7b1e199033adc43ced2ebe6617eb85bdfe87ed6fb07b3eb187b72a7bf84",
+  "output_sha256": "c5fa5a4fca1f0bcbefff3c4801cf49a33cb03b26292e72048ddfc04ba65569ff",
+  "pixels_sha256": "ef0672c8df6f9d0c88c85980aa09d40fe61613acd58b472bd7aa98c843baae4f",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "4e1340a4a073c3ebc4e04cfe28c3c476ef90d0fa43a5ea7f0e4056155a17b96b",
+  "output_dimensions": [
+   1536,
+   1024
+  ],
+  "reduced_dimensions": [
+   192,
+   128
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 16.421938598474753,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "hp-50-hl25 L8"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "e0b74e75e73ab7d11e062e8ebede200c53a2d6d8dae2028787e7703e22beb197"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "8",
+   "PostCropVignetteAmount": "-50",
+   "PostCropVignetteStyle": "1",
+   "PostCropVignetteMidpoint": "50",
+   "PostCropVignetteFeather": "50",
+   "PostCropVignetteRoundness": "0",
+   "PostCropVignetteHighlightContrast": "25"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1354",
+  "source_sha256": "6907ac95e019dc3014a9682dfdd6930c111d0f488d95abde06fd81ddbc3901cb",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "19a5bd1df7eff92f187ac7e8be4255b5904c046e127a7fca628954151344499a",
+  "returned_xmp_sha256": "1d63faf1c23fd449861cadd2cd792bde8d7ad0a3cb734fde2a2e7ad9c9802343",
+  "output_sha256": "9618d2f6fdb2ad1dbf33915a3953cfd0942060fde9d2a1cf31ad85ab45416e4e",
+  "pixels_sha256": "aed8d1d283bab96eed9b70428d7f8aaf4ab8d38410039a240636c96351a18af3",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "a5266241f00167a18cbd17b21995baf0fa176746f982e20f8993f1e0f1d438ac",
+  "output_dimensions": [
+   1536,
+   1024
+  ],
+  "reduced_dimensions": [
+   192,
+   128
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "hp-50-hl25 sdr"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "25640cd927e7969005c3c215f8a500b9a823667774e1b26426b52c403762cb20"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "0",
+   "PostCropVignetteAmount": "-50",
+   "PostCropVignetteStyle": "1",
+   "PostCropVignetteMidpoint": "50",
+   "PostCropVignetteFeather": "50",
+   "PostCropVignetteRoundness": "0",
+   "PostCropVignetteHighlightContrast": "25"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1355",
+  "source_sha256": "6907ac95e019dc3014a9682dfdd6930c111d0f488d95abde06fd81ddbc3901cb",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "7575e67de6a90e3795ae791a590b5e050f481376602c463375397368c0bcb83f",
+  "returned_xmp_sha256": "2647bab71a94b2faee083a644b35495c8403790007b93706838bda15a9d82519",
+  "output_sha256": "21e1b1082744787565c8bd90d37e8a465a90675c3dd14471bac0e8c38918de65",
+  "pixels_sha256": "9705024e1e2287e0366eac6b6696618cdb24f8f953507cef144a5b828ed4c42a",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "6f86cfcb6e5978cb95fe2020132d37d0ff3dc84f8fcf63811e3a79fd85bcd29a",
+  "output_dimensions": [
+   1536,
+   1024
+  ],
+  "reduced_dimensions": [
+   192,
+   128
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 16.421938598474753,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "hp-50-hl50 L8"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "3075d4da3b9f76b1fa1099a8e48dc8f35612af5da41884d375d3189dcfeac373"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "8",
+   "PostCropVignetteAmount": "-50",
+   "PostCropVignetteStyle": "1",
+   "PostCropVignetteMidpoint": "50",
+   "PostCropVignetteFeather": "50",
+   "PostCropVignetteRoundness": "0",
+   "PostCropVignetteHighlightContrast": "50"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1356",
+  "source_sha256": "6907ac95e019dc3014a9682dfdd6930c111d0f488d95abde06fd81ddbc3901cb",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "fe84909b43cda800f1000e5c8466c8c044479a6cb260e8aefce43fb7676ed1b0",
+  "returned_xmp_sha256": "893096a77c655e1046016fd7fdfb040832539f52fb56702d9d876dee98a07fbc",
+  "output_sha256": "60fa799e3b7b2f03799c66d43ff9e561a273f9ee2c1d697691c02ae132ea1976",
+  "pixels_sha256": "5d9a70e2dbf43719e194845a1071f45623aadeb32d98d15bd5e0e1d807057523",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "ed097969a7cfe34b7feb6ad8ebf9bc1939aa3db16c4b7fb142ebd620842525a2",
+  "output_dimensions": [
+   1536,
+   1024
+  ],
+  "reduced_dimensions": [
+   192,
+   128
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "hp-50-hl50 sdr"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "ee65214e581407a6a40fef79ccf181a948329a4a24caf3f3785003533f060e1a"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "0",
+   "PostCropVignetteAmount": "-50",
+   "PostCropVignetteStyle": "1",
+   "PostCropVignetteMidpoint": "50",
+   "PostCropVignetteFeather": "50",
+   "PostCropVignetteRoundness": "0",
+   "PostCropVignetteHighlightContrast": "50"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1357",
+  "source_sha256": "6907ac95e019dc3014a9682dfdd6930c111d0f488d95abde06fd81ddbc3901cb",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "c80575419c81470f1912d0211c397620f36a44b9e92e103f6e8baa8010e99804",
+  "returned_xmp_sha256": "d8afc9f729fc52dc015ab44f55bd22c0cfc91a75afb924803a05b17b7e689b49",
+  "output_sha256": "62cdb387036b28c639f3af39b2d23b73d7af0c54e6d8f93f56011ad1c1ba0c51",
+  "pixels_sha256": "2d0d6a6e160ad75d3590e283d96fcd279cef09300551cc7ba4bcb10fad11b47a",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "792078562bbf92ea63ac4d307708dac029b5d7eb971ccb13b37d3d69d923cba2",
+  "output_dimensions": [
+   1536,
+   1024
+  ],
+  "reduced_dimensions": [
+   192,
+   128
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 16.421938598474753,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "hp-50-hl75 L8"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "bb24490f81a900839b6ced3322ae435c17891451997d994a039a164803047432"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "8",
+   "PostCropVignetteAmount": "-50",
+   "PostCropVignetteStyle": "1",
+   "PostCropVignetteMidpoint": "50",
+   "PostCropVignetteFeather": "50",
+   "PostCropVignetteRoundness": "0",
+   "PostCropVignetteHighlightContrast": "75"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1358",
+  "source_sha256": "6907ac95e019dc3014a9682dfdd6930c111d0f488d95abde06fd81ddbc3901cb",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "677d2d5d1f0f7f917e486fe3d9d377b9b54f6d798512dc2adb2efd68617b8e9b",
+  "returned_xmp_sha256": "cdc2b1ee2f01e3d886c80addcd8f5fe22d3ce3d8df598848b1c213de0a1e14a2",
+  "output_sha256": "cd9675f809b87f6da67ec4c3e852405b99d6f1e5e386fe9edbeadb28e37c93de",
+  "pixels_sha256": "1587e0254afb1c54b48386cf54dbe600538eb116691737d9cb2cefbbee95468b",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "eefbbb29e26ce86dfa61778559c0382e70d4678378c625cf1f78965445ac7200",
+  "output_dimensions": [
+   1536,
+   1024
+  ],
+  "reduced_dimensions": [
+   192,
+   128
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "hp-50-hl75 sdr"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "08c1638212a5f54b6a7e5c30e8914895e2e29294dc1248c4180947d828bc3f60"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "0",
+   "PostCropVignetteAmount": "-50",
+   "PostCropVignetteStyle": "1",
+   "PostCropVignetteMidpoint": "50",
+   "PostCropVignetteFeather": "50",
+   "PostCropVignetteRoundness": "0",
+   "PostCropVignetteHighlightContrast": "75"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1359",
+  "source_sha256": "6907ac95e019dc3014a9682dfdd6930c111d0f488d95abde06fd81ddbc3901cb",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "ab5012e0fa12021b0df7f29939818e136a284f06e8131140707d6dbca46d0c6e",
+  "returned_xmp_sha256": "acb813119028bee4d3bfe2b3723f501949fcebd4f6b47dbe875e19dfe38683b5",
+  "output_sha256": "7994767f2772b19b0aa2ad52a19389b3f53b339e1adcab3aed472054eff64819",
+  "pixels_sha256": "68d6cea13a2dfa0ce3f01f33179828c8640debad8d6dc2a14973b5d5f8343598",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "c03f6e9455b7da1c174acfd9aa953ff525db41d4f49f3bc46babfb504e4e5c1c",
+  "output_dimensions": [
+   1536,
+   1024
+  ],
+  "reduced_dimensions": [
+   192,
+   128
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 16.421938598474753,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "hp-50-hl100 L8"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "dd0e872197ba751970080bafee033096a9d8e174d1e3541c19f3a870065536a2"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "8",
+   "PostCropVignetteAmount": "-50",
+   "PostCropVignetteStyle": "1",
+   "PostCropVignetteMidpoint": "50",
+   "PostCropVignetteFeather": "50",
+   "PostCropVignetteRoundness": "0",
+   "PostCropVignetteHighlightContrast": "100"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1360",
+  "source_sha256": "6907ac95e019dc3014a9682dfdd6930c111d0f488d95abde06fd81ddbc3901cb",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "dff44e23d770ece00dccc8e1a57a94c7dc613c8470fcd7f29d1f5a3c6b45cc9a",
+  "returned_xmp_sha256": "3e0be6650f8167ba77311e9852df076ac4ee9f90e04e4fcbce00518ca3db1d19",
+  "output_sha256": "0397cfe1f8cd40bf86e8075fa94260ae83adb39511536faab8dcc2c30fe1c568",
+  "pixels_sha256": "e60c00cdba43d477a62a3374fcf41e12ee9669b2e6b8825a43741bdb27fb3f34",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "2eb21b248f9abd157b9cd1d2c1b7fabf65bacdda8ab26369ae83cac55098a9d2",
+  "output_dimensions": [
+   1536,
+   1024
+  ],
+  "reduced_dimensions": [
+   192,
+   128
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "hp-50-hl100 sdr"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "c5d2166c2964c5b9a9b8c532e505c1fd3b93c60de9371817db7a7b8d4c7fd2a0"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "0",
+   "PostCropVignetteAmount": "-50",
+   "PostCropVignetteStyle": "1",
+   "PostCropVignetteMidpoint": "50",
+   "PostCropVignetteFeather": "50",
+   "PostCropVignetteRoundness": "0",
+   "PostCropVignetteHighlightContrast": "100"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1361",
+  "source_sha256": "6907ac95e019dc3014a9682dfdd6930c111d0f488d95abde06fd81ddbc3901cb",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "c3ac20efbef9a55c4b683576ed6a9f684a776cca20d9f19707064bcc7054e0b3",
+  "returned_xmp_sha256": "486acd8c84f8185dd1be0f37fa429ebaaf93cc34f4b1d6a928076c6a46634f1b",
+  "output_sha256": "958fca7a8fa4561b46d8a349c8915f1a9605595fd4719109e0c145a22ee761c6",
+  "pixels_sha256": "ee91f7911d5bf90debaba200f5a7cde4ee3b321dad029d00c15837c7a5536660",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "1d16dd94de14f29270bc8df9c44c5b973775ef77e26ed515858c770f26904806",
+  "output_dimensions": [
+   1536,
+   1024
+  ],
+  "reduced_dimensions": [
+   192,
+   128
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 16.421938598474753,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "hp-100-hl50 L8"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "5cd532b131499e9c58cf38d2e59fd63b68576b2fc701bb9a93b12a95ffa8b19f"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "8",
+   "PostCropVignetteAmount": "-100",
+   "PostCropVignetteStyle": "1",
+   "PostCropVignetteMidpoint": "50",
+   "PostCropVignetteFeather": "50",
+   "PostCropVignetteRoundness": "0",
+   "PostCropVignetteHighlightContrast": "50"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1362",
+  "source_sha256": "6907ac95e019dc3014a9682dfdd6930c111d0f488d95abde06fd81ddbc3901cb",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "137b08ca15d53fed92172e1fc558113b322138b3698627deb4c868059908ae15",
+  "returned_xmp_sha256": "1398584a5c958cc3606a47d1c9c111b946a30556704ae8a031a2c5796588a91c",
+  "output_sha256": "3bf23355cb7cfe3ccb4d2a095416a5b6e7ba977e9d4da042219f10142a23b5be",
+  "pixels_sha256": "18f838bdc92f180e1899a0a0717356e13d08f9c6f6e35fbd84c5772913fbb5ba",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "8140294039ddc771164d6c248ed8440fa484cfbb28c5bc2621d14e2b9d548578",
+  "output_dimensions": [
+   1536,
+   1024
+  ],
+  "reduced_dimensions": [
+   192,
+   128
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "hp-100-hl50 sdr"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "997e87af227ad8c2c08d06381ddab8f7a04b900415db1acb581f33d4a4f302e8"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "0",
+   "PostCropVignetteAmount": "-100",
+   "PostCropVignetteStyle": "1",
+   "PostCropVignetteMidpoint": "50",
+   "PostCropVignetteFeather": "50",
+   "PostCropVignetteRoundness": "0",
+   "PostCropVignetteHighlightContrast": "50"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1363",
+  "source_sha256": "6907ac95e019dc3014a9682dfdd6930c111d0f488d95abde06fd81ddbc3901cb",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "38703b634b903ab0b8a85be63cc3c72004ef6e803e7cff19403e3ee7f08792db",
+  "returned_xmp_sha256": "d3f718f9942683df389184188d0b9b6c43aba7364ec140d15ff341e4a9193b87",
+  "output_sha256": "1705bb4464ed12983348b7104776bd6cd4e6fccabe46aad36e1de7cc68c11863",
+  "pixels_sha256": "d4860fdd2a2ce329b5abb712be44717b1d3660b5b50d7b5986fed1de07cf1ac2",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "491fac6d14c429c73677bbadbffca634a17b7432263784b58976a602574ca09b",
+  "output_dimensions": [
+   1536,
+   1024
+  ],
+  "reduced_dimensions": [
+   192,
+   128
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 16.421938598474753,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "hp-100-hl100 L8"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "41e37446a8f94294f36c411dc8a45891401c4c5748bbbf9fb4a6f17ded40d2f3"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "8",
+   "PostCropVignetteAmount": "-100",
+   "PostCropVignetteStyle": "1",
+   "PostCropVignetteMidpoint": "50",
+   "PostCropVignetteFeather": "50",
+   "PostCropVignetteRoundness": "0",
+   "PostCropVignetteHighlightContrast": "100"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1364",
+  "source_sha256": "6907ac95e019dc3014a9682dfdd6930c111d0f488d95abde06fd81ddbc3901cb",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "aa552db46521a540c891e4a4530187a6591cc50b476534789c6dcf893d679876",
+  "returned_xmp_sha256": "e478ef22e30c794606c70d7cf65b9fa29874fc458e7a5579fef166aa6cf0ac84",
+  "output_sha256": "d53f651210848b2a89356588629af18874c801958ea02a9edfc754f794612f1a",
+  "pixels_sha256": "8997bff2dd80a278dc77ff2964c92ae191f7ca925f38ef7bd2ed5d65537f4f72",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "d3e75665d643c910d670055d910914f7fb4fc2812482ef778dba2004a026eeb2",
+  "output_dimensions": [
+   1536,
+   1024
+  ],
+  "reduced_dimensions": [
+   192,
+   128
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "hp-100-hl100 sdr"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "e430e37c2eeee25d209f9e6d4b9492859da0e9bef6e8ec00d99a8e5598fed226"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "0",
+   "PostCropVignetteAmount": "-100",
+   "PostCropVignetteStyle": "1",
+   "PostCropVignetteMidpoint": "50",
+   "PostCropVignetteFeather": "50",
+   "PostCropVignetteRoundness": "0",
+   "PostCropVignetteHighlightContrast": "100"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1365",
+  "source_sha256": "6907ac95e019dc3014a9682dfdd6930c111d0f488d95abde06fd81ddbc3901cb",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "356487d3019bad8eb50707c3a2157b66b78242d1bc338dd9c70c1b1bb370d754",
+  "returned_xmp_sha256": "820c49c9230559f5e3f18a08b1060b61c3d18f8c72e669bd5d9474f3138a1292",
+  "output_sha256": "2bc0837bb53f23e4c87cb55632492cc4d97d2b2394e1d214e38ad5d2aab90b25",
+  "pixels_sha256": "35ca4bc6c1e2819f8f0617878670233be67623058cb33ac1df98cfba6def1ac4",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "bc228bbaae165d56a13409ff8b99be720506e6d2315d6e76ed4930cc91793776",
+  "output_dimensions": [
+   1536,
+   1024
+  ],
+  "reduced_dimensions": [
+   192,
+   128
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 16.421938598474753,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "cp-50-hl50 L8"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "8e995f66d678e445e36c8151127cb61ae65ca14db53dff438f75be443465dd33"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "8",
+   "PostCropVignetteAmount": "-50",
+   "PostCropVignetteStyle": "2",
+   "PostCropVignetteMidpoint": "50",
+   "PostCropVignetteFeather": "50",
+   "PostCropVignetteRoundness": "0",
+   "PostCropVignetteHighlightContrast": "50"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1366",
+  "source_sha256": "6907ac95e019dc3014a9682dfdd6930c111d0f488d95abde06fd81ddbc3901cb",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "7a9bbf06d9937ff4704d6b00ccb768826c9ee11bdeccf346d8c13d46a5760cc3",
+  "returned_xmp_sha256": "23872f25abc11e1f00c63983d8a9ab1ed9a47a63995f04dfa6c0ddc438ed2afc",
+  "output_sha256": "f045546b93507d4d453cfaf045e4ab3d3d2c7ca1f155c5a5046972fc73225a3c",
+  "pixels_sha256": "de887e2c1adc88039592530a4264cf0c63275753aa59bca6455efbcba46bcb2b",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "e16b2f3ad716299cfd3ea714ff2685d4ff07912534b503eaacde0eca468948a0",
+  "output_dimensions": [
+   1536,
+   1024
+  ],
+  "reduced_dimensions": [
+   192,
+   128
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "cp-50-hl50 sdr"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "51abd6ef21976967c0d76c807954ea9583c4cc469b14f4722c2ae7db6445b7ca"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "0",
+   "PostCropVignetteAmount": "-50",
+   "PostCropVignetteStyle": "2",
+   "PostCropVignetteMidpoint": "50",
+   "PostCropVignetteFeather": "50",
+   "PostCropVignetteRoundness": "0",
+   "PostCropVignetteHighlightContrast": "50"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1367",
+  "source_sha256": "6907ac95e019dc3014a9682dfdd6930c111d0f488d95abde06fd81ddbc3901cb",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "aae9916455a319ace09906e5284928a8c0eb19357efd314c96d77e28d09ef3b6",
+  "returned_xmp_sha256": "30a4c03e812a1b4f5e09357be808dfc9df4b3284cae34266e3e38e718864142b",
+  "output_sha256": "200c4fe795d2f75c8185dff0063561736118ec6ed23f122041cff8dae27211de",
+  "pixels_sha256": "2959e73fb089e3e313b3545ac40dd688ee023c941ed849228cb997628afc296c",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "36430adbc68d642966b437fa67266885311c25ca52096c55c9b90585a76e54fc",
+  "output_dimensions": [
+   1536,
+   1024
+  ],
+  "reduced_dimensions": [
+   192,
+   128
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 16.421938598474753,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "cp-100-hl100 L8"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "a1bd4a6cce873b7a2fce7dcd5c0b0aa64274c4d743d8a47362d5b859b416ca47"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "8",
+   "PostCropVignetteAmount": "-100",
+   "PostCropVignetteStyle": "2",
+   "PostCropVignetteMidpoint": "50",
+   "PostCropVignetteFeather": "50",
+   "PostCropVignetteRoundness": "0",
+   "PostCropVignetteHighlightContrast": "100"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1368",
+  "source_sha256": "6907ac95e019dc3014a9682dfdd6930c111d0f488d95abde06fd81ddbc3901cb",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "48d9473a758d2451e6cc7f004029af806930f1e978d9da03dc48a1c35d978c7a",
+  "returned_xmp_sha256": "d0360026812f708749acfb4f5876577d954ab09eabf3fc228fe2bd43cfb3d9c5",
+  "output_sha256": "b94fcb0453f70e3dbd2013a8459f17997df7749a5f95b5471422b9f25499eb06",
+  "pixels_sha256": "b031782dba31f11d9e650308619ac5577d7305e117ab270dcb6cb6fe1b63a520",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "4ce3b7502193804a6e5d238bb90b7be6b90e76320ec01c1c1f1cad82e04b9495",
+  "output_dimensions": [
+   1536,
+   1024
+  ],
+  "reduced_dimensions": [
+   192,
+   128
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "cp-100-hl100 sdr"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "ed353356345ed7be4c8192b508d760298b5c99ff706fd875433207885b5a7611"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "0",
+   "PostCropVignetteAmount": "-100",
+   "PostCropVignetteStyle": "2",
+   "PostCropVignetteMidpoint": "50",
+   "PostCropVignetteFeather": "50",
+   "PostCropVignetteRoundness": "0",
+   "PostCropVignetteHighlightContrast": "100"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1369",
+  "source_sha256": "6907ac95e019dc3014a9682dfdd6930c111d0f488d95abde06fd81ddbc3901cb",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "8850ccfd001258c52b66d3bbbb7d499cc366b6c760fa8874017bba3cabbfa217",
+  "returned_xmp_sha256": "c724f49105fb6e417bcbc1f89766da75bbd35840bcb4674a4bae7a5c261c5e80",
+  "output_sha256": "31d707c86cbd1a1fbd65ee918b4be2274cb2293723582f76cae18ba856e6b80b",
+  "pixels_sha256": "414864b533989eb144f2766ee78d33bc337a93a463da324c173d0d74bf0c28fc",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "d5e78f68c78dee974449d693a1d7cf963064e2047674b3a79643256bae198d2f",
+  "output_dimensions": [
+   1536,
+   1024
+  ],
+  "reduced_dimensions": [
+   192,
+   128
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 16.00118379620969,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "hp-50-hl50 L4"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "33cc2f78abfc87a80383fa0035f122c783e60658cb220fe06fe256cc94c0b349"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "4",
+   "PostCropVignetteAmount": "-50",
+   "PostCropVignetteStyle": "1",
+   "PostCropVignetteMidpoint": "50",
+   "PostCropVignetteFeather": "50",
+   "PostCropVignetteRoundness": "0",
+   "PostCropVignetteHighlightContrast": "50"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1370",
+  "source_sha256": "6907ac95e019dc3014a9682dfdd6930c111d0f488d95abde06fd81ddbc3901cb",
+  "profile_sha256": null,
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "79f5403df4711da9001a28c96b2215f8ee9660e84bc3ec8aee73dd44b690a3f8",
+  "returned_xmp_sha256": "29c67409690f7d5e5c4edb0a7b8fa85dbf15a7f2fb00a326caf489df7d53b7ed",
+  "output_sha256": "c5ed002c542e6423490337f56b43e43445cc86d434b4180c15de0e62cc1fde59",
+  "pixels_sha256": "7a7f6ee539ae2f376cc0576d9d9f9afe072c9b4e161ae8818125bfc9d9bc23ea",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "2fd28bc12aa7c83afab4c9941571cc1f1782d2c1f3cf78728233d287f839d6d2",
+  "output_dimensions": [
+   1536,
+   1024
+  ],
+  "reduced_dimensions": [
+   192,
+   128
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 16.00118379620969,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "RAWmakase Probe",
+  "tags": [
+   "hp-50-hl0 L4"
+  ],
+  "storage": {
+   "dtype": "float64",
+   "format": "npz (zip deflate), key \"linear\"",
+   "sha256": "4a42ec852608fb8a8d107e7117362d1fcafff9efaf105f43d8d936c88b5447c2"
+  },
+  "source": "synthetic",
+  "licence": "synthetic",
+  "split": "training",
+  "profile": "embedded",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "4",
+   "PostCropVignetteAmount": "-50",
+   "PostCropVignetteStyle": "1",
+   "PostCropVignetteMidpoint": "50",
+   "PostCropVignetteFeather": "50",
+   "PostCropVignetteRoundness": "0",
+   "PostCropVignetteHighlightContrast": "0"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1371",
+  "source_sha256": "c13a8675294456b9c979e6c1e556951654f35377b2870af2874bfb556f21ce40",
+  "profile_sha256": "7e5ad59251844db358d1855efdeee57ab7cd7d13f7e9e64a9583bcaf64fa9643",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "e4f1b09c8b520f2e326cb169d0ef769eea6b436aee8d2549f0e80f940c1c8339",
+  "returned_xmp_sha256": "3312c4d1b66e316c2984651a081779385d917bf61f00408f16583a95073ea671",
+  "output_sha256": "f1467e23a98a0374c64539212349d3f81d53e5497e0cba6f28f6805dbd3997bc",
+  "pixels_sha256": "f97755ecb93fb14cbb4f36f3b282269eb86bb8cc724b5d6e27eb93fcf1075678",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "3d9ff828244be5c39a0abec1fe01a9e98072aaee49ae38f658ac88d15e99a77c",
+  "output_dimensions": [
+   8256,
+   5504
+  ],
+  "reduced_dimensions": [
+   1032,
+   688
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 12.796123780655588,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "8 mask-cla+25 L4"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006816460113907057,
+   "max_abs_error": 0.0038688496879419887,
+   "floor": 0.0001,
+   "sha256": "028b262d51041842d6d6caaff0e0d4a6ff9a04c9221faba70efe709fcc5cbb2d"
+  },
+  "source": "raws/pixls/Nikon/Z 8/Nikon_Z8_raw_14_bit_lossless_compression.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "NIKON Z 8 Adobe Standard.dcp",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "4"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1372",
+  "source_sha256": "c13a8675294456b9c979e6c1e556951654f35377b2870af2874bfb556f21ce40",
+  "profile_sha256": "7e5ad59251844db358d1855efdeee57ab7cd7d13f7e9e64a9583bcaf64fa9643",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "d82be7cd28d3915836d423619404fba3a885299faca777e5757db3eb9f330ca3",
+  "returned_xmp_sha256": "1ebc81669d4b1dcdd4840d739d0d8a90283567c678c1b01849da8c4c5f9babe2",
+  "output_sha256": "e152fdbdb40c210ee60d7f9eb7a422f1590318829931fc25d11b988fb3023c7d",
+  "pixels_sha256": "a376b116f57170c5e5b04a6ff77f3b68abcce48568b04b39452f1669066efd4d",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "a6f79bb054b8316174d52b8002403ca193b3cc191892c13f3516d99dc26d6e61",
+  "output_dimensions": [
+   8256,
+   5504
+  ],
+  "reduced_dimensions": [
+   1032,
+   688
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 15.94711845194775,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "8 mask-cla+50 L4"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.000707932272641547,
+   "max_abs_error": 0.003893258227730456,
+   "floor": 0.0001,
+   "sha256": "ad4d36a794de56d936012d90685ad10d395314a892aef7dc63675f46836c51f8"
+  },
+  "source": "raws/pixls/Nikon/Z 8/Nikon_Z8_raw_14_bit_lossless_compression.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "NIKON Z 8 Adobe Standard.dcp",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "4"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1373",
+  "source_sha256": "c13a8675294456b9c979e6c1e556951654f35377b2870af2874bfb556f21ce40",
+  "profile_sha256": "7e5ad59251844db358d1855efdeee57ab7cd7d13f7e9e64a9583bcaf64fa9643",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "891f3815374e8371ae5b38674fbf87677459d8680a2ac90d314f8cbb59fae7c8",
+  "returned_xmp_sha256": "251dc9a2a321b6692038c375af7c7ab0d4c90f3590234d2389167d83ca1f10ba",
+  "output_sha256": "9ee659e9d1446c4b72ee9df1ceb2990599a3f7c57390800ac7a63823f5af3848",
+  "pixels_sha256": "ddc422a84f15defd7b9cccb1cafab2b8de2ebce64790594f90ebc6939c115a3e",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "4e2efe18ffcce057528606a2200976a75478e5dce09815404d4574f886dfc3e3",
+  "output_dimensions": [
+   8256,
+   5504
+  ],
+  "reduced_dimensions": [
+   1032,
+   688
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 9.203598562425347,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "8 mask-dhz+30 L4"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0007144252814173433,
+   "max_abs_error": 0.0019531171416229398,
+   "floor": 0.0001,
+   "sha256": "8f12754064fcdcb263fb929477772761220511323f40b5af5054e91c87352c3c"
+  },
+  "source": "raws/pixls/Nikon/Z 8/Nikon_Z8_raw_14_bit_lossless_compression.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "NIKON Z 8 Adobe Standard.dcp",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "4"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1374",
+  "source_sha256": "c13a8675294456b9c979e6c1e556951654f35377b2870af2874bfb556f21ce40",
+  "profile_sha256": "7e5ad59251844db358d1855efdeee57ab7cd7d13f7e9e64a9583bcaf64fa9643",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "36ce8c98ed60c75b26736de8fdcc40d89af1f3f2c86b7a1a57d07b212ce3ec28",
+  "returned_xmp_sha256": "aae0d5f27119eaaf519e1deb2762d875a2bcfee1092197ed902f708e42a7db58",
+  "output_sha256": "408548c8fa2032ba9e1372da6924830de9ed1a9606a2a151b9d902d211112644",
+  "pixels_sha256": "b5652e39fc801353536245374ceff4d0d6a788ac9146284718d068bb299a33b1",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "e0478ae27d14f07a1f215ec59bb00bdf2e8b1465127ace4801f50ddc781c8a8b",
+  "output_dimensions": [
+   8256,
+   5504
+  ],
+  "reduced_dimensions": [
+   1032,
+   688
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 9.15732618043569,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "8 mask-dhz-30 L4"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006659167457646081,
+   "max_abs_error": 0.001953124891304725,
+   "floor": 0.0001,
+   "sha256": "81703846adbdea191bf8b67b6c1d25900aaa3863126798c0a4be7933b9353d3d"
+  },
+  "source": "raws/pixls/Nikon/Z 8/Nikon_Z8_raw_14_bit_lossless_compression.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "NIKON Z 8 Adobe Standard.dcp",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "4"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1375",
+  "source_sha256": "c13a8675294456b9c979e6c1e556951654f35377b2870af2874bfb556f21ce40",
+  "profile_sha256": "7e5ad59251844db358d1855efdeee57ab7cd7d13f7e9e64a9583bcaf64fa9643",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "71c61af3ad2dcb275e77d57c378fea7b1083bf5d267639b6add6836805d5b166",
+  "returned_xmp_sha256": "b30789cb6a4f56f7d728e42e18198ec89bf551dfda5fb02b805a6392a4128611",
+  "output_sha256": "736417dcacf3f9f5b636e564d66ba231660fa4f5376247e3526b96f3c76dc882",
+  "pixels_sha256": "08258b6b4a625a0adb1aa95a5c44565e346f9e148ebf17a3c4d10fcaa1045224",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "6dbc58b975b1cb79a9e0c4c407f1ae1ea443268b76bc31443cd3e3e750abfb58",
+  "output_dimensions": [
+   8256,
+   5504
+  ],
+  "reduced_dimensions": [
+   1032,
+   688
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "8 mask-cla+25 sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006745820747643555,
+   "max_abs_error": 0.0002441394069525593,
+   "floor": 0.0001,
+   "sha256": "2c8d18867c5f06bc09a61cee4458c6867c4368a8c823db714cbe8166650411e5"
+  },
+  "source": "raws/pixls/Nikon/Z 8/Nikon_Z8_raw_14_bit_lossless_compression.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "NIKON Z 8 Adobe Standard.dcp",
+  "settings": {
+   "HDREditMode": "0"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1376",
+  "source_sha256": "c13a8675294456b9c979e6c1e556951654f35377b2870af2874bfb556f21ce40",
+  "profile_sha256": "7e5ad59251844db358d1855efdeee57ab7cd7d13f7e9e64a9583bcaf64fa9643",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "3c4da3615ce4611350f2cdb733c332b82e418e483eb302a335334f059958a654",
+  "returned_xmp_sha256": "94b0429106fcd29bc8fbb1bd44875196768aa1681ee9c765a06afec534379e0e",
+  "output_sha256": "6219b15514dc5f61a049354d2e8f8e5db94751763cd139f7d4cfd3b4026b0bad",
+  "pixels_sha256": "9b48e601280abce5f46e58d630e36a1e0a83a52d07125dcab9e3b67b815e3f78",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "1dc3c2eec5bae06210e121f3e317615980675b4502a2bd32bdb6b95f0c1c3f59",
+  "output_dimensions": [
+   8256,
+   5504
+  ],
+  "reduced_dimensions": [
+   1032,
+   688
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "8 mask-cla+50 sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006684675171661978,
+   "max_abs_error": 0.00024413906578635292,
+   "floor": 0.0001,
+   "sha256": "36c1730ea77b57b00e4866476f46410043a995714ecf9ada05c3494275200178"
+  },
+  "source": "raws/pixls/Nikon/Z 8/Nikon_Z8_raw_14_bit_lossless_compression.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "NIKON Z 8 Adobe Standard.dcp",
+  "settings": {
+   "HDREditMode": "0"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1377",
+  "source_sha256": "c13a8675294456b9c979e6c1e556951654f35377b2870af2874bfb556f21ce40",
+  "profile_sha256": "7e5ad59251844db358d1855efdeee57ab7cd7d13f7e9e64a9583bcaf64fa9643",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "9d1f666657ef38b08512472309d27831fa69618e3f5334127af8daeea02b8f64",
+  "returned_xmp_sha256": "5ba97212527b702dcf142e682814589a12dc3f6e815432d84f624a463dd931cb",
+  "output_sha256": "c627a1ed8d3b079925edacc49c3cfaa44515db444101121179d9b266dab0bfc4",
+  "pixels_sha256": "92c40a3cb2d72db650e7b5fe0e2d8cd7092f98cb052edf600d5ea642d0eb8781",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "167e4a83f62bc8536b1ff68358feb1ee4c01a7fc5936cd0d70ff7cc5f3cd8505",
+  "output_dimensions": [
+   8256,
+   5504
+  ],
+  "reduced_dimensions": [
+   1032,
+   688
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "8 mask-dhz+30 sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006731454863028451,
+   "max_abs_error": 0.00024414055760069164,
+   "floor": 0.0001,
+   "sha256": "4b61c2da7819d133c76afc738ac83cfdc105977a2c5963e81c40e0c1769056c4"
+  },
+  "source": "raws/pixls/Nikon/Z 8/Nikon_Z8_raw_14_bit_lossless_compression.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "NIKON Z 8 Adobe Standard.dcp",
+  "settings": {
+   "HDREditMode": "0"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1378",
+  "source_sha256": "c13a8675294456b9c979e6c1e556951654f35377b2870af2874bfb556f21ce40",
+  "profile_sha256": "7e5ad59251844db358d1855efdeee57ab7cd7d13f7e9e64a9583bcaf64fa9643",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "44e2a16f63b08e7675fbf7045864e750011f1e776c764510f785e6214d57f9b2",
+  "returned_xmp_sha256": "abdb08d83eef65bd6f521a7d2c47d70e73570bb9d0813c76d71d4ff592d80e15",
+  "output_sha256": "c18f1308fd34e2bc4b49899b5beb7509b82fb3bd8124ba029122abf75379b1c8",
+  "pixels_sha256": "c610c86f040392412f43c01725942cb389285629c71dde772a1d3f1372349180",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "c6e6ef0fad9e1c12e0396ab5eb5a62871b406632e2843478828c0eb5b7b32d54",
+  "output_dimensions": [
+   8256,
+   5504
+  ],
+  "reduced_dimensions": [
+   1032,
+   688
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "8 mask-dhz-30 sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.000648750759058215,
+   "max_abs_error": 0.000244137546303258,
+   "floor": 0.0001,
+   "sha256": "bcd91ef95f47311d39212888f5e5bba3195d81621839af6eacb76e1de5e23f5c"
+  },
+  "source": "raws/pixls/Nikon/Z 8/Nikon_Z8_raw_14_bit_lossless_compression.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "NIKON Z 8 Adobe Standard.dcp",
+  "settings": {
+   "HDREditMode": "0"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1379",
+  "source_sha256": "83c82be0be8865d796096dfbcc8ef2abf5af1bd37db44dfad6715070b0c99d15",
+  "profile_sha256": "69a3b0fa19446338dbe0106a68c94bea42b01f8a9a8a95ed0b5fbefd5a20ba46",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "e4f1b09c8b520f2e326cb169d0ef769eea6b436aee8d2549f0e80f940c1c8339",
+  "returned_xmp_sha256": "1d0b78c792d3556071d937766faded47b11c53f17821f84e349907dde0b018ac",
+  "output_sha256": "290995f05f86b423569fee431dea96b239f2c9fb8d6f2990e836b7362c3fd584",
+  "pixels_sha256": "19888b31977e2bbbec30439afd6a0363722a2cee6a701956d84d26c205215d49",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "e068ecdeb06b501a2a15f089c7ae19ed299b8efb15c1a64cb664b50a31c732a1",
+  "output_dimensions": [
+   6048,
+   4032
+  ],
+  "reduced_dimensions": [
+   756,
+   504
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.7392161704892843,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "f mask-cla+25 L4"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006579392205581879,
+   "max_abs_error": 0.00048819793977084025,
+   "floor": 0.0001,
+   "sha256": "0ae7bc874c98bbe63813e66bdb79b76ef00fa8dc573070b5704cb114ce0b4a5d"
+  },
+  "source": "raws/pixls/Nikon/Z f/DSC_0040.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "NIKON Z f Adobe Standard.dcp",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "4"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1380",
+  "source_sha256": "83c82be0be8865d796096dfbcc8ef2abf5af1bd37db44dfad6715070b0c99d15",
+  "profile_sha256": "69a3b0fa19446338dbe0106a68c94bea42b01f8a9a8a95ed0b5fbefd5a20ba46",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "d82be7cd28d3915836d423619404fba3a885299faca777e5757db3eb9f330ca3",
+  "returned_xmp_sha256": "339cd52d0e8b63c9f5938205f63da68de9bd9003451a6061017e9ce540e626a4",
+  "output_sha256": "10411792a3eaeb14731fbce29be94c86e1d43d06ad39e18240264fb0533a220f",
+  "pixels_sha256": "948f9fde7597e08832eb55ecbaa5ab8c716e3cec59f7927f4f5499e6b1e03efa",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "75a5a42e4cb38ecb492c3a0a4ff93d2ef60ef71bd7c586d75861ffd9e9d94a87",
+  "output_dimensions": [
+   6048,
+   4032
+  ],
+  "reduced_dimensions": [
+   756,
+   504
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 2.727165280369336,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "f mask-cla+50 L4"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.000666026442936516,
+   "max_abs_error": 0.0004881895052417651,
+   "floor": 0.0001,
+   "sha256": "8b34a2d5689614adad071ca2cce2f7a01a2756a514679d1ae249de0b011e1080"
+  },
+  "source": "raws/pixls/Nikon/Z f/DSC_0040.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "NIKON Z f Adobe Standard.dcp",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "4"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1381",
+  "source_sha256": "83c82be0be8865d796096dfbcc8ef2abf5af1bd37db44dfad6715070b0c99d15",
+  "profile_sha256": "69a3b0fa19446338dbe0106a68c94bea42b01f8a9a8a95ed0b5fbefd5a20ba46",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "891f3815374e8371ae5b38674fbf87677459d8680a2ac90d314f8cbb59fae7c8",
+  "returned_xmp_sha256": "d2c97029c08b89591705798318627fed007e033ffe3300862372928cb5ef1f4d",
+  "output_sha256": "3add1a2577ff18cd6a16394d38b18cab2fe3d6c2372cfe2fc209894cf624e0db",
+  "pixels_sha256": "19bb96000c5be96794a416c83d40f208826925812a7ccd83f8ec8d356a31ce3d",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "8c555c78b3d49c95acb2ca34d8b990ff74d3a5b7a7abc51c497bad28c63510f9",
+  "output_dimensions": [
+   6048,
+   4032
+  ],
+  "reduced_dimensions": [
+   756,
+   504
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.3539157016339005,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "f mask-dhz+30 L4"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006667477333967498,
+   "max_abs_error": 0.00048823472613235275,
+   "floor": 0.0001,
+   "sha256": "f176d4144f5cded868ed9229250feafb5947b5981ca0a5c560caa064997dd83d"
+  },
+  "source": "raws/pixls/Nikon/Z f/DSC_0040.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "NIKON Z f Adobe Standard.dcp",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "4"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1382",
+  "source_sha256": "83c82be0be8865d796096dfbcc8ef2abf5af1bd37db44dfad6715070b0c99d15",
+  "profile_sha256": "69a3b0fa19446338dbe0106a68c94bea42b01f8a9a8a95ed0b5fbefd5a20ba46",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "36ce8c98ed60c75b26736de8fdcc40d89af1f3f2c86b7a1a57d07b212ce3ec28",
+  "returned_xmp_sha256": "3b5e1b1bd4c74355fc09f366801e80b563de4c739f363016ebadb483055c5314",
+  "output_sha256": "d457289635661532a70e7c164f883ec9cc7b0d657fb45e4b6a0cfd6fa5040f77",
+  "pixels_sha256": "9bc5db83bd11786d9e20092a5f674231d17416ea3beb6fca0ca52f04e92fa308",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "812c26a5fa9d4be33bc658f0f7c53f3a1f619965c763138d865009b10ce34bc0",
+  "output_dimensions": [
+   6048,
+   4032
+  ],
+  "reduced_dimensions": [
+   756,
+   504
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.232647298108404,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "f mask-dhz-30 L4"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006626273566807566,
+   "max_abs_error": 0.000488279514146317,
+   "floor": 0.0001,
+   "sha256": "8644ed268b777dcf2a85b9bb79a08b7ff9c9d455c3750e9a429f9b4273512661"
+  },
+  "source": "raws/pixls/Nikon/Z f/DSC_0040.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "NIKON Z f Adobe Standard.dcp",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "4"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1383",
+  "source_sha256": "83c82be0be8865d796096dfbcc8ef2abf5af1bd37db44dfad6715070b0c99d15",
+  "profile_sha256": "69a3b0fa19446338dbe0106a68c94bea42b01f8a9a8a95ed0b5fbefd5a20ba46",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "71c61af3ad2dcb275e77d57c378fea7b1083bf5d267639b6add6836805d5b166",
+  "returned_xmp_sha256": "a644cc7717cbaee60ef3f30d61df39c7b640898112cabe2983e13d4320633f01",
+  "output_sha256": "0bd18db003d6a0dc884e0a3d0b1d8dc76d30fac9001b889acdc627b596b046fb",
+  "pixels_sha256": "928e619ae0a2d82916ba94a5f2ee570cf7f665a23ef22a52f7d4eb69247117c0",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "bb4259203f197762184ff9ca29ffa1f22fdebf2331b6455c4c585d1f3bd29ba0",
+  "output_dimensions": [
+   6048,
+   4032
+  ],
+  "reduced_dimensions": [
+   756,
+   504
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 0.9606800491071433,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "f mask-cla+25 sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006693636869860357,
+   "max_abs_error": 0.00024414047989818055,
+   "floor": 0.0001,
+   "sha256": "8f5a493f194bad69cd7f7287c1bc99f8137b9c29b9dbf50b26a4ff5cc6428d26"
+  },
+  "source": "raws/pixls/Nikon/Z f/DSC_0040.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "NIKON Z f Adobe Standard.dcp",
+  "settings": {
+   "HDREditMode": "0"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1384",
+  "source_sha256": "83c82be0be8865d796096dfbcc8ef2abf5af1bd37db44dfad6715070b0c99d15",
+  "profile_sha256": "69a3b0fa19446338dbe0106a68c94bea42b01f8a9a8a95ed0b5fbefd5a20ba46",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "3c4da3615ce4611350f2cdb733c332b82e418e483eb302a335334f059958a654",
+  "returned_xmp_sha256": "fcb255dcf2301ebbfb938fd75af094e0fdbc216dd48f4f575ea9306251510ea1",
+  "output_sha256": "28bd23f893f450a897b3f4b4c0113b872ae0be800d5b47201f9f37c34f5d74e6",
+  "pixels_sha256": "b315e00f610c887703a28f513fab41145e30071359be4303abdd888b90b93e41",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "e2c06e495d587121ea8f390bdbed9187edf4aa7a1a948ff3a4c5b503c662a202",
+  "output_dimensions": [
+   6048,
+   4032
+  ],
+  "reduced_dimensions": [
+   756,
+   504
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "f mask-cla+50 sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006603868435327438,
+   "max_abs_error": 0.00024414053011490022,
+   "floor": 0.0001,
+   "sha256": "9a063ebefe86a790819d588a9168712f07bde695801e3887424efd8321002279"
+  },
+  "source": "raws/pixls/Nikon/Z f/DSC_0040.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "NIKON Z f Adobe Standard.dcp",
+  "settings": {
+   "HDREditMode": "0"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1385",
+  "source_sha256": "83c82be0be8865d796096dfbcc8ef2abf5af1bd37db44dfad6715070b0c99d15",
+  "profile_sha256": "69a3b0fa19446338dbe0106a68c94bea42b01f8a9a8a95ed0b5fbefd5a20ba46",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "9d1f666657ef38b08512472309d27831fa69618e3f5334127af8daeea02b8f64",
+  "returned_xmp_sha256": "8e3e3757f8fbbd65a224c2b54d3d3f34cd47b921302481d47ecf60ed7df43c13",
+  "output_sha256": "11a611bd3ceadd6fd701a3ff608e4a8c022e18c7d2be0b04c730a3d4e649a3f2",
+  "pixels_sha256": "d3d49fc2eed0ddd20ec382dea4ecc848398def44cf92def7bf189c4417132d33",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "a3358c6c4dafa33dd15c5f96209271e0df966b86c6bbdefa85c9ba2c4f6d8e22",
+  "output_dimensions": [
+   6048,
+   4032
+  ],
+  "reduced_dimensions": [
+   756,
+   504
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 0.8948371936910529,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "f mask-dhz+30 sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006832017184903942,
+   "max_abs_error": 0.0002441405595942081,
+   "floor": 0.0001,
+   "sha256": "ac1992235c6a58f909497982c5bccfaaf44db92688e054e3d3f05969c9df11da"
+  },
+  "source": "raws/pixls/Nikon/Z f/DSC_0040.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "NIKON Z f Adobe Standard.dcp",
+  "settings": {
+   "HDREditMode": "0"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1386",
+  "source_sha256": "83c82be0be8865d796096dfbcc8ef2abf5af1bd37db44dfad6715070b0c99d15",
+  "profile_sha256": "69a3b0fa19446338dbe0106a68c94bea42b01f8a9a8a95ed0b5fbefd5a20ba46",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "44e2a16f63b08e7675fbf7045864e750011f1e776c764510f785e6214d57f9b2",
+  "returned_xmp_sha256": "0f742e30c8580d8260503ea6d68f5c51d03ae2aed3f9d4a616ebe4168d7a5f5f",
+  "output_sha256": "fdbf3e33e5993359d893f61d694138290cb96bf6f6d4009b6ae22286e0b317e6",
+  "pixels_sha256": "9ccbacf253c49a1dc091ff68c532c7891260a5d9e295d112addac46d860f746d",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "8c6fcfc75ec819de0b3e8914be1320933c810b30a13dfacc5c448a1b5e3ac59c",
+  "output_dimensions": [
+   6048,
+   4032
+  ],
+  "reduced_dimensions": [
+   756,
+   504
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 0.8632209287838187,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "f mask-dhz-30 sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.00066041054257725,
+   "max_abs_error": 0.00024413992270722051,
+   "floor": 0.0001,
+   "sha256": "f4d222a98c8f5c48bf7cd5dddc271dcf5971de1983d3ebfe5ea3cc6aa37f139b"
+  },
+  "source": "raws/pixls/Nikon/Z f/DSC_0040.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "NIKON Z f Adobe Standard.dcp",
+  "settings": {
+   "HDREditMode": "0"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1387",
+  "source_sha256": "bf190e4d93b2a42f0f3c29edb4d12def41e42bd947575677ede52b4869d6a84e",
+  "profile_sha256": "9fb6966131c91c0ae3272e8d92222dd4d7711fb67df760494d3b8e7ba79c940c",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "e4f1b09c8b520f2e326cb169d0ef769eea6b436aee8d2549f0e80f940c1c8339",
+  "returned_xmp_sha256": "1a3bf48f7b4ac2497cc82ee899a5139e96b126c00990c1527b964d94ba9fa0bc",
+  "output_sha256": "fa564e100080190594b73902ac506799d7bd873f0a50f12a247e4688ab20dd0a",
+  "pixels_sha256": "d895a70ef556f733a7c753eafcac9bcea55b8994cca6600af55bd7e448e4355f",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "4bed314163684f9259846b6753ebe362f0f3f7ab24fc43384856de01b6de65d2",
+  "output_dimensions": [
+   7952,
+   5304
+  ],
+  "reduced_dimensions": [
+   994,
+   663
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 11.748935358498755,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "ILCE-7RM3 mask-cla+25 L4"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006733524875691725,
+   "max_abs_error": 0.0039012485076117542,
+   "floor": 0.0001,
+   "sha256": "02c2d34088b3c89b4686e53d8a8c31f2b4376ff91d8b97e0c45df8a193d93d02"
+  },
+  "source": "raws/pixls/Sony/ILCE-7RM3/DSC03793.ARW",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "Sony ILCE-7RM3 Adobe Standard.dcp",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "4"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1388",
+  "source_sha256": "bf190e4d93b2a42f0f3c29edb4d12def41e42bd947575677ede52b4869d6a84e",
+  "profile_sha256": "9fb6966131c91c0ae3272e8d92222dd4d7711fb67df760494d3b8e7ba79c940c",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "d82be7cd28d3915836d423619404fba3a885299faca777e5757db3eb9f330ca3",
+  "returned_xmp_sha256": "24607452b66c975f6eee7e147557013e1468a2d72bce2bce631feb725f040362",
+  "output_sha256": "f8aa7a81d3e7c8f6b47b7282fc2acabcade3f8223aca166f9502e61dd06239da",
+  "pixels_sha256": "3fb2440210e99560072b01d5530c1e8d710b6bf0c57f13f9289aa3581d81a476",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "32c3311d8459bb36fe9ecb404ed9cf2908d5c084e971f258eacdb916671b8027",
+  "output_dimensions": [
+   7952,
+   5304
+  ],
+  "reduced_dimensions": [
+   994,
+   663
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 12.61051376688648,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "ILCE-7RM3 mask-cla+50 L4"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006569761113074546,
+   "max_abs_error": 0.003893420461510644,
+   "floor": 0.0001,
+   "sha256": "e18cd29e2aac1ee74d5e47c5a4f01eadf1501f13f4abd501ee0af9480f7bfd81"
+  },
+  "source": "raws/pixls/Sony/ILCE-7RM3/DSC03793.ARW",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "Sony ILCE-7RM3 Adobe Standard.dcp",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "4"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1389",
+  "source_sha256": "bf190e4d93b2a42f0f3c29edb4d12def41e42bd947575677ede52b4869d6a84e",
+  "profile_sha256": "9fb6966131c91c0ae3272e8d92222dd4d7711fb67df760494d3b8e7ba79c940c",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "891f3815374e8371ae5b38674fbf87677459d8680a2ac90d314f8cbb59fae7c8",
+  "returned_xmp_sha256": "f620dd37221a6a9cb188a61965a29c4a6bf917a05970ce16879479afdeb029bd",
+  "output_sha256": "d2eebbad6f6607ce49945737e7b101c7cb7012f551e2c257070a4cbc47587a21",
+  "pixels_sha256": "74a9d63261b0f0234153d3fb2c0e2b16899ea37d7b6e28c0a04ba27e388d32cd",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "36afc9f040dc24a0ef887fe3251ff87fdead4b6656892da1e86f96940cdb2b42",
+  "output_dimensions": [
+   7952,
+   5304
+  ],
+  "reduced_dimensions": [
+   994,
+   663
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 16.00118379620969,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "ILCE-7RM3 mask-dhz+30 L4"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006963841319573859,
+   "max_abs_error": 0.003903063962475528,
+   "floor": 0.0001,
+   "sha256": "43bbfe26e7931798b8004b2ff2058c2c5b248f89cc49e4996e213935dbbf251e"
+  },
+  "source": "raws/pixls/Sony/ILCE-7RM3/DSC03793.ARW",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "Sony ILCE-7RM3 Adobe Standard.dcp",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "4"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1390",
+  "source_sha256": "bf190e4d93b2a42f0f3c29edb4d12def41e42bd947575677ede52b4869d6a84e",
+  "profile_sha256": "9fb6966131c91c0ae3272e8d92222dd4d7711fb67df760494d3b8e7ba79c940c",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "36ce8c98ed60c75b26736de8fdcc40d89af1f3f2c86b7a1a57d07b212ce3ec28",
+  "returned_xmp_sha256": "5aaf140f485147de73a50525eddce9a92715e524f451155c9505d829c03989b6",
+  "output_sha256": "786e5d34af655a79104b0ba4c4bb2c91c9bf9200d80c8c05c8f4b52d62304cfc",
+  "pixels_sha256": "4351bc328a577a5e602d576449ed9e41a5f28482b354e9472a6de8c4136edca2",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "4b765fa941e57cf063c3fe1a41c009e5b62678aa5c80398807cc53f7338f11b3",
+  "output_dimensions": [
+   7952,
+   5304
+  ],
+  "reduced_dimensions": [
+   994,
+   663
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 4.626618544709093,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "ILCE-7RM3 mask-dhz-30 L4"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006684320789523596,
+   "max_abs_error": 0.0009759713528718628,
+   "floor": 0.0001,
+   "sha256": "fd129b472e2d40bcf42e23da4953ff7129cb6d9f450eaf4228d7b4031d746f4d"
+  },
+  "source": "raws/pixls/Sony/ILCE-7RM3/DSC03793.ARW",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "Sony ILCE-7RM3 Adobe Standard.dcp",
+  "settings": {
+   "HDREditMode": "1",
+   "HDRMaxValue": "4"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1391",
+  "source_sha256": "bf190e4d93b2a42f0f3c29edb4d12def41e42bd947575677ede52b4869d6a84e",
+  "profile_sha256": "9fb6966131c91c0ae3272e8d92222dd4d7711fb67df760494d3b8e7ba79c940c",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "71c61af3ad2dcb275e77d57c378fea7b1083bf5d267639b6add6836805d5b166",
+  "returned_xmp_sha256": "ca42c5a83589fc8b30720dd8174f857946e3900936dfa30f252c1ae3464d6b53",
+  "output_sha256": "22a7c10b97982a9d0276257413df06dc94fa24424e2b221a25fef5cba5390e53",
+  "pixels_sha256": "b5cbf7ab3ba41c742fd971ea99a99ef3fcf1b81d364794e7b04f302a30a19d4f",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "783d9e2d2ee0a560450439386f1c670888dced4e4588e839f2b5da67ccb14b47",
+  "output_dimensions": [
+   7952,
+   5304
+  ],
+  "reduced_dimensions": [
+   994,
+   663
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "ILCE-7RM3 mask-cla+25 sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006606855955666836,
+   "max_abs_error": 0.00024413994155869645,
+   "floor": 0.0001,
+   "sha256": "82c70b9db2240fd2a70543e02f13b45ed78b6a0d70d503d107619ff1b5e44561"
+  },
+  "source": "raws/pixls/Sony/ILCE-7RM3/DSC03793.ARW",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "Sony ILCE-7RM3 Adobe Standard.dcp",
+  "settings": {
+   "HDREditMode": "0"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1392",
+  "source_sha256": "bf190e4d93b2a42f0f3c29edb4d12def41e42bd947575677ede52b4869d6a84e",
+  "profile_sha256": "9fb6966131c91c0ae3272e8d92222dd4d7711fb67df760494d3b8e7ba79c940c",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "3c4da3615ce4611350f2cdb733c332b82e418e483eb302a335334f059958a654",
+  "returned_xmp_sha256": "f0c244e90e119136f7b2e83a5b757c10434ec2395173b0a8913cf0bcb53b1467",
+  "output_sha256": "25ef0d2ea6d41fec4a85bf9d49e1ecdb5395e5d54f212411c954b849763f879c",
+  "pixels_sha256": "367ef58c3396f041a4cf3020ea316ddbabe0ff888916a599ec5d0783497f0196",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "95bf53a54024c38413581265a528da4a87d844d011a44becd79735c38e058c09",
+  "output_dimensions": [
+   7952,
+   5304
+  ],
+  "reduced_dimensions": [
+   994,
+   663
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "ILCE-7RM3 mask-cla+50 sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006687548084149472,
+   "max_abs_error": 0.00024413919176202725,
+   "floor": 0.0001,
+   "sha256": "9d0086bd1e2ea1238363b4eccd232e9b81ad999a2bee97bd15fe2426b709fc53"
+  },
+  "source": "raws/pixls/Sony/ILCE-7RM3/DSC03793.ARW",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "Sony ILCE-7RM3 Adobe Standard.dcp",
+  "settings": {
+   "HDREditMode": "0"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1393",
+  "source_sha256": "bf190e4d93b2a42f0f3c29edb4d12def41e42bd947575677ede52b4869d6a84e",
+  "profile_sha256": "9fb6966131c91c0ae3272e8d92222dd4d7711fb67df760494d3b8e7ba79c940c",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "9d1f666657ef38b08512472309d27831fa69618e3f5334127af8daeea02b8f64",
+  "returned_xmp_sha256": "3cc8ca8aac168f852a904522727bd30bec6fdb3890d6ebad22b8b62d301a13a7",
+  "output_sha256": "b6a92f14a4082d86ee7fe89c39d40928c02ef48b164cd9ea2acd14feb45d69fc",
+  "pixels_sha256": "71f89ce9ab156fb7b2a346131142741875627638e639b00b7fa8000435dc3745",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "ae995012096cb4d19e38e99f6f12fe33d905d71aa8b74cd4129afa06095f13d0",
+  "output_dimensions": [
+   7952,
+   5304
+  ],
+  "reduced_dimensions": [
+   994,
+   663
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "ILCE-7RM3 mask-dhz+30 sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.000684276735255793,
+   "max_abs_error": 0.0002441403578994361,
+   "floor": 0.0001,
+   "sha256": "d0f5c880995f78ba314b9b70176ae5fe6da57faf49ac6425f271aea47827023e"
+  },
+  "source": "raws/pixls/Sony/ILCE-7RM3/DSC03793.ARW",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "Sony ILCE-7RM3 Adobe Standard.dcp",
+  "settings": {
+   "HDREditMode": "0"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1394",
+  "source_sha256": "bf190e4d93b2a42f0f3c29edb4d12def41e42bd947575677ede52b4869d6a84e",
+  "profile_sha256": "9fb6966131c91c0ae3272e8d92222dd4d7711fb67df760494d3b8e7ba79c940c",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "44e2a16f63b08e7675fbf7045864e750011f1e776c764510f785e6214d57f9b2",
+  "returned_xmp_sha256": "cfc56036bec2e70062011ca7fff1ff42f4a0d74af1ad8bb34f64e8fe20ca0572",
+  "output_sha256": "66c0b1b4f0478cc721336012bd3140826e12785bb3aee5412d7ef2d4c3c964ed",
+  "pixels_sha256": "a1015ee2c2fe22d16e1cb9344dd3691446ae2b19e54cfc2d2501bc4bbc793fd5",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "b8807fca119be37c5cc71aaa374ff42d983ec0cd221726f0ab6af08bdedff6b5",
+  "output_dimensions": [
+   7952,
+   5304
+  ],
+  "reduced_dimensions": [
+   994,
+   663
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 0.9725912153189818,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "ILCE-7RM3 mask-dhz-30 sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006723992338201868,
+   "max_abs_error": 0.00024413954251645276,
+   "floor": 0.0001,
+   "sha256": "84e0a961a887890bc991177266cbef26951a73115f5e40db41817462cebc7c5b"
+  },
+  "source": "raws/pixls/Sony/ILCE-7RM3/DSC03793.ARW",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "Sony ILCE-7RM3 Adobe Standard.dcp",
+  "settings": {
+   "HDREditMode": "0"
   },
   "curves": null,
   "look": null
