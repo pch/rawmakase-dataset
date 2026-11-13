@@ -74498,5 +74498,3857 @@
   },
   "curves": null,
   "look": null
+ },
+ {
+  "id": "1395",
+  "source_sha256": "c13a8675294456b9c979e6c1e556951654f35377b2870af2874bfb556f21ce40",
+  "profile_sha256": "7e5ad59251844db358d1855efdeee57ab7cd7d13f7e9e64a9583bcaf64fa9643",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "e939ae5c8390990a93095f9ac06cd014335ef268d0d38abfb62ccc858429194a",
+  "returned_xmp_sha256": "f4c93676abdfce3a4358bcdb5c3a1dc76d6f2b107fe32bd9f370fa6bc1f3bf8e",
+  "output_sha256": "9d973bbbebe616ae0444084c63a4c69294e29de9f47780273773a1013ff52d08",
+  "pixels_sha256": "ff29a6ca1d94b281468701027d0535f68d50dbc3eba21f19ee84c2bb17548751",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "64bfb610b30fae3fc21b349a343d0d0474e264d141f6c14ffabbc97940ed4343",
+  "output_dimensions": [
+   8256,
+   5504
+  ],
+  "reduced_dimensions": [
+   1032,
+   688
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "C+75-sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006557010120963964,
+   "max_abs_error": 0.00024414027347330336,
+   "floor": 0.0001,
+   "sha256": "62d0c62c7010e41249ec2893076be0a7bc827d780cee33897e5e5dae26323d35"
+  },
+  "source": "raws/pixls/Nikon/Z 8/Nikon_Z8_raw_14_bit_lossless_compression.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "NIKON Z 8 Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "0",
+   "Clarity2012": "+75"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1396",
+  "source_sha256": "c13a8675294456b9c979e6c1e556951654f35377b2870af2874bfb556f21ce40",
+  "profile_sha256": "7e5ad59251844db358d1855efdeee57ab7cd7d13f7e9e64a9583bcaf64fa9643",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "469f03202256909373f30d57b2886b7a964f25b4667e751375f70bfc0f52791f",
+  "returned_xmp_sha256": "acf1112042a4dc46f24a61cf17502ef5b35b18cd63bade9a2b097a4f6ed9bd01",
+  "output_sha256": "c3e729e3b27d84ad7aa8d4d53b1b3d896f042b06d4e059fd4e0ad746cc483400",
+  "pixels_sha256": "2a0acec610c9a41d0c39adf841d97c13dbc45e4104bdb318c0b4b3547d2d8d7c",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "a2149a2ae8dc7702dc1497b7c8d9afac80b8a1792aa2b84d3cc268400845f1b6",
+  "output_dimensions": [
+   8256,
+   5504
+  ],
+  "reduced_dimensions": [
+   1032,
+   688
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 16.00118379620969,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "C+75-hdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006669768288891852,
+   "max_abs_error": 0.003902916825715863,
+   "floor": 0.0001,
+   "sha256": "1afc575a47af2104dbc530a1db1ba994f2523da831408a97a5db8b53d00ab073"
+  },
+  "source": "raws/pixls/Nikon/Z 8/Nikon_Z8_raw_14_bit_lossless_compression.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "NIKON Z 8 Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "1",
+   "HDRMaxValue": "4.0",
+   "Clarity2012": "+75"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1397",
+  "source_sha256": "c13a8675294456b9c979e6c1e556951654f35377b2870af2874bfb556f21ce40",
+  "profile_sha256": "7e5ad59251844db358d1855efdeee57ab7cd7d13f7e9e64a9583bcaf64fa9643",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "fc9d8c138c8b451a5f1786ec17b9513083625b0c0bcba022a4fbdc7846e8ff4b",
+  "returned_xmp_sha256": "8eff51a8122874e989f43f075e87675308ca7d25aa568283cf672b8c9facc18a",
+  "output_sha256": "68abd852b8b4c0aeef42d258cce12151405711451c1949f9161530cef2803e9f",
+  "pixels_sha256": "8fc5073b21aecb92ce8a2720a8caf65fb5fdb26e549aa916e9a2df2e0e7149d2",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "b74c661e0c20a7ce1ded334150ec5aa82f10c1dd29a6953e1218af5c5030431c",
+  "output_dimensions": [
+   8256,
+   5504
+  ],
+  "reduced_dimensions": [
+   1032,
+   688
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-50-sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006656456717240197,
+   "max_abs_error": 0.000244140274248128,
+   "floor": 0.0001,
+   "sha256": "cbcd2e6fdbfbcd88d8a349ce0678baa4ef67a772a5b8fef1cd1f20bfffe5be2d"
+  },
+  "source": "raws/pixls/Nikon/Z 8/Nikon_Z8_raw_14_bit_lossless_compression.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "NIKON Z 8 Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "0",
+   "Dehaze": "-50"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1398",
+  "source_sha256": "c13a8675294456b9c979e6c1e556951654f35377b2870af2874bfb556f21ce40",
+  "profile_sha256": "7e5ad59251844db358d1855efdeee57ab7cd7d13f7e9e64a9583bcaf64fa9643",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "f3d6c49eb46891559bc7faf40669a01e7e691dc50251c6d8296321c9b54a7cf7",
+  "returned_xmp_sha256": "a709bf032bfe6100bc3f3a7e92ca985b0547ecb0b46c2b0edc949d10cb809cc6",
+  "output_sha256": "2c400e29f23797fd69ec1830e71e60d059931703a9395a30ebebc42702cd8400",
+  "pixels_sha256": "4e4daa0da29ae6a32704568deb3ca1248762467aa5b50f7e0c59aacbacf5dca8",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "234bde9a0be4fc5c98c897d5484de9b83d9062aca1a73c6669f914734e7d41cb",
+  "output_dimensions": [
+   8256,
+   5504
+  ],
+  "reduced_dimensions": [
+   1032,
+   688
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 9.144514373741174,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-50-hdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006567451911144277,
+   "max_abs_error": 0.001953124266068862,
+   "floor": 0.0001,
+   "sha256": "e282e063d846ab860b82d0aad137ed79a5607e55b11d8fb3cd2d38647ded5ce3"
+  },
+  "source": "raws/pixls/Nikon/Z 8/Nikon_Z8_raw_14_bit_lossless_compression.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "NIKON Z 8 Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "1",
+   "HDRMaxValue": "4.0",
+   "Dehaze": "-50"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1399",
+  "source_sha256": "c13a8675294456b9c979e6c1e556951654f35377b2870af2874bfb556f21ce40",
+  "profile_sha256": "7e5ad59251844db358d1855efdeee57ab7cd7d13f7e9e64a9583bcaf64fa9643",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "09fb5aab5421d98b052fcbebd7b281a9051ad6100fe9ad95a6014b83b2ad8f41",
+  "returned_xmp_sha256": "5f33d695282b629b3c7e7e55b8cdcc3c161fc6d275ed780700fe233c5087a643",
+  "output_sha256": "83cd556f21c9026c3d5c6c70dfb629a80e3765b6272295101ed3f08c1fdcc919",
+  "pixels_sha256": "bf621f901d14bce8491d0dbec84ee449d6856761e56b06adefb49b12c19e7cdf",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "0603e3c55915df2783c972d6fee3f5188a26443455d39f3f8e214759d2d07f1c",
+  "output_dimensions": [
+   8256,
+   5504
+  ],
+  "reduced_dimensions": [
+   1032,
+   688
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-70-sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006659571731769822,
+   "max_abs_error": 0.00024413889862640037,
+   "floor": 0.0001,
+   "sha256": "01a70b7fe4cd67bfab57e45ed62a16f70953d55df63b5fe9d5c1028544cbefd9"
+  },
+  "source": "raws/pixls/Nikon/Z 8/Nikon_Z8_raw_14_bit_lossless_compression.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "NIKON Z 8 Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "0",
+   "Dehaze": "-70"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1400",
+  "source_sha256": "c13a8675294456b9c979e6c1e556951654f35377b2870af2874bfb556f21ce40",
+  "profile_sha256": "7e5ad59251844db358d1855efdeee57ab7cd7d13f7e9e64a9583bcaf64fa9643",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "3dc25be6f30db0f9891b607ccd611c870f6a84760c374095522fdbb153b43f9b",
+  "returned_xmp_sha256": "d81d2e085dc616d1218c4a771ae0766aee8621e0d9c8b05c092c535e3f54319e",
+  "output_sha256": "76680da5da75d3c896de6fafece3072a02317dd33629bc05ef08b217fa50e963",
+  "pixels_sha256": "1615b01430c3614f7f4df40e6c7eae1a3cccb7f88fd86a8e547310e08c8b0535",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "1dd8260d97b892500eee241eac0dd042f5d4315d409dca5e9f5d95c07df66013",
+  "output_dimensions": [
+   8256,
+   5504
+  ],
+  "reduced_dimensions": [
+   1032,
+   688
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 9.124053020828915,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-70-hdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006582653026454453,
+   "max_abs_error": 0.0019530912575582704,
+   "floor": 0.0001,
+   "sha256": "41ee8c3e1aef4c08eedd161cd68c3767c0d1f43e4f80f95a22222697f3dc1d59"
+  },
+  "source": "raws/pixls/Nikon/Z 8/Nikon_Z8_raw_14_bit_lossless_compression.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "NIKON Z 8 Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "1",
+   "HDRMaxValue": "4.0",
+   "Dehaze": "-70"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1401",
+  "source_sha256": "83c82be0be8865d796096dfbcc8ef2abf5af1bd37db44dfad6715070b0c99d15",
+  "profile_sha256": "69a3b0fa19446338dbe0106a68c94bea42b01f8a9a8a95ed0b5fbefd5a20ba46",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "e939ae5c8390990a93095f9ac06cd014335ef268d0d38abfb62ccc858429194a",
+  "returned_xmp_sha256": "854fa020ec46c4e54b25ad74b86953fc0c23543c3caee379b6142f987e531e92",
+  "output_sha256": "50ccc02da6a2dfafbac409719a47f09c65987eaba9c3a4d6b60e04acb5411688",
+  "pixels_sha256": "1ffc90eea48824ddf3c73c5d6c2169541204d8bd00ae9b216186beed60fb1d0e",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "602664c2d1b0c681c639b43463c9b57a63041e2694466b6f1e53ece4927cc8ff",
+  "output_dimensions": [
+   6048,
+   4032
+  ],
+  "reduced_dimensions": [
+   756,
+   504
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "C+75-sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006532333861452693,
+   "max_abs_error": 0.00024414062491429078,
+   "floor": 0.0001,
+   "sha256": "2a2b33d4b42b2272c2cb55a8de45207d1e438c3e816d9a48a09123cd0989e5ea"
+  },
+  "source": "raws/pixls/Nikon/Z f/DSC_0040.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "Nikon Z f Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "0",
+   "Clarity2012": "+75"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1402",
+  "source_sha256": "83c82be0be8865d796096dfbcc8ef2abf5af1bd37db44dfad6715070b0c99d15",
+  "profile_sha256": "69a3b0fa19446338dbe0106a68c94bea42b01f8a9a8a95ed0b5fbefd5a20ba46",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "469f03202256909373f30d57b2886b7a964f25b4667e751375f70bfc0f52791f",
+  "returned_xmp_sha256": "50bcbec8d915842becbc1be7dbb671935a40f29f4ec39292d946bcec6cb60c85",
+  "output_sha256": "de678774877a34fd73e65b93dcb82494cc042be8c52dafb0ca284d5eabb53f73",
+  "pixels_sha256": "45ef43a84a2b182b42e7b4e44d4f29f1a5c9a48459896eee0966aefff609f0ee",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "8af92d5a6a15c0c51779c9f561945a32dc9ac0c732db65c8023ee1702478015f",
+  "output_dimensions": [
+   6048,
+   4032
+  ],
+  "reduced_dimensions": [
+   756,
+   504
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 3.600634228503414,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "C+75-hdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.000661477031234285,
+   "max_abs_error": 0.0004882527913097068,
+   "floor": 0.0001,
+   "sha256": "e833f054a43509f337ad3c8752acff412b6354dfcb352697d3e28975fdedafdf"
+  },
+  "source": "raws/pixls/Nikon/Z f/DSC_0040.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "Nikon Z f Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "1",
+   "HDRMaxValue": "4.0",
+   "Clarity2012": "+75"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1403",
+  "source_sha256": "83c82be0be8865d796096dfbcc8ef2abf5af1bd37db44dfad6715070b0c99d15",
+  "profile_sha256": "69a3b0fa19446338dbe0106a68c94bea42b01f8a9a8a95ed0b5fbefd5a20ba46",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "fc9d8c138c8b451a5f1786ec17b9513083625b0c0bcba022a4fbdc7846e8ff4b",
+  "returned_xmp_sha256": "77438558c171bf250a4d2a41a3454f0b1af32956d0fc9660767b8ba6e2ecfd50",
+  "output_sha256": "40ebad251845cf95dc2292523b9a58583717b2c85ffbc2113b76e8a60e05f9bd",
+  "pixels_sha256": "f4d0603de5915fdd0b392fd07032865b365ee9ec4786c704c8d309f761c25e99",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "3e11316ffd6c3b4fea1d6a6ae860fcb556b2110cdd170a765a083d44bf053300",
+  "output_dimensions": [
+   6048,
+   4032
+  ],
+  "reduced_dimensions": [
+   756,
+   504
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 0.8616288684963945,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-50-sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006462357624609877,
+   "max_abs_error": 0.00024414036269937434,
+   "floor": 0.0001,
+   "sha256": "65cea3feb7cc1283c3c67ea13a0ce459f7bf5eff87d2d158acd9d7f6ae8cda4e"
+  },
+  "source": "raws/pixls/Nikon/Z f/DSC_0040.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "Nikon Z f Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "0",
+   "Dehaze": "-50"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1404",
+  "source_sha256": "83c82be0be8865d796096dfbcc8ef2abf5af1bd37db44dfad6715070b0c99d15",
+  "profile_sha256": "69a3b0fa19446338dbe0106a68c94bea42b01f8a9a8a95ed0b5fbefd5a20ba46",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "f3d6c49eb46891559bc7faf40669a01e7e691dc50251c6d8296321c9b54a7cf7",
+  "returned_xmp_sha256": "1930f4530b053a2388f271b1abc6822c8fb153ed44e5308ddf96c45cdc746250",
+  "output_sha256": "26714c9b2c29c7a88f19f307212e24bd3d31a7632b61b09c18887765db7d4077",
+  "pixels_sha256": "c454791381f217b4e136716fa4afb50fe6f3915115f840b2cddd8c12df596db0",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "8cf93de2f9a77fc7b6a1dfed1e9c1b95d2c0133c692bb9d64f2e5ac26bc7f018",
+  "output_dimensions": [
+   6048,
+   4032
+  ],
+  "reduced_dimensions": [
+   756,
+   504
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.225890084844853,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-50-hdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006677784201371089,
+   "max_abs_error": 0.00048827320524580387,
+   "floor": 0.0001,
+   "sha256": "1ca5ec308d6d785819ac2b31a568f2211ec927b17522441dc76312846e87bb7e"
+  },
+  "source": "raws/pixls/Nikon/Z f/DSC_0040.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "Nikon Z f Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "1",
+   "HDRMaxValue": "4.0",
+   "Dehaze": "-50"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1405",
+  "source_sha256": "83c82be0be8865d796096dfbcc8ef2abf5af1bd37db44dfad6715070b0c99d15",
+  "profile_sha256": "69a3b0fa19446338dbe0106a68c94bea42b01f8a9a8a95ed0b5fbefd5a20ba46",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "09fb5aab5421d98b052fcbebd7b281a9051ad6100fe9ad95a6014b83b2ad8f41",
+  "returned_xmp_sha256": "12212095c1ae9c1cf35b8e07a170d3fee87b39825a5ecf096985278cfdf4ad75",
+  "output_sha256": "49b75c48e7b1971d6ede0ae2e45ca7c8d69a5b5046c9e1b2dbde8b14819f2c30",
+  "pixels_sha256": "da5f8b3e3a31626a79d5bdde1ebb639f105566fc5a649f9180d07e55e98ad293",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "95a75542f300036a52a8f1bf2af255a8c17336b1aa4011b872b61856e4c7a6b2",
+  "output_dimensions": [
+   6048,
+   4032
+  ],
+  "reduced_dimensions": [
+   756,
+   504
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 0.8589580658295919,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-70-sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006496224837580556,
+   "max_abs_error": 0.0002441405762686477,
+   "floor": 0.0001,
+   "sha256": "2fdfc8319d0cf9e421991214e9e2e61636a8ea80234c94fa0ef0879340b64374"
+  },
+  "source": "raws/pixls/Nikon/Z f/DSC_0040.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "Nikon Z f Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "0",
+   "Dehaze": "-70"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1406",
+  "source_sha256": "83c82be0be8865d796096dfbcc8ef2abf5af1bd37db44dfad6715070b0c99d15",
+  "profile_sha256": "69a3b0fa19446338dbe0106a68c94bea42b01f8a9a8a95ed0b5fbefd5a20ba46",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "3dc25be6f30db0f9891b607ccd611c870f6a84760c374095522fdbb153b43f9b",
+  "returned_xmp_sha256": "6639f744f3bf58c6de77fdd97f970099b54b762774158ddb4d2f41bb601b230b",
+  "output_sha256": "aa5104dc0dcefa903d6b7d9c143ce070b7510a499690389c7fa089e3714f5f22",
+  "pixels_sha256": "77a674bf7aeb6be21b3eaa4c77b0466c81b76f78e44b230cbd29fe4224cb6bdb",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "83b8cb4bdad48e80d0e8bbbefa9b9cdf9c61acabfa3dcf5b5ed973bbd734cb35",
+  "output_dimensions": [
+   6048,
+   4032
+  ],
+  "reduced_dimensions": [
+   756,
+   504
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.2152930209143555,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-70-hdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006762648619590372,
+   "max_abs_error": 0.00048827927154748707,
+   "floor": 0.0001,
+   "sha256": "7046332637464d05e0d2b28b1983b45345dfb78ff844a5f73d2e1d3de589e21a"
+  },
+  "source": "raws/pixls/Nikon/Z f/DSC_0040.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "Nikon Z f Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "1",
+   "HDRMaxValue": "4.0",
+   "Dehaze": "-70"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1407",
+  "source_sha256": "ffd2eae3f5bdfd58edea142761107af70ad11a54abdd87b5896d8dba029f038c",
+  "profile_sha256": "12fb0c8c49846d37a92ee464e219af7ba7de9f6bcc86c318af820e1b79eda201",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "e939ae5c8390990a93095f9ac06cd014335ef268d0d38abfb62ccc858429194a",
+  "returned_xmp_sha256": "ae553b51fd605a466de54b223e1a04412d0f5eec49c61a9245f4de93d4b70747",
+  "output_sha256": "8943c379f25efd112995295ea2a0703eb077ced6f58ca85cfc09494c056b609a",
+  "pixels_sha256": "9e4866a71aec4ec145f836bb8bc76a4bc16df733d4b5a01e76f4d0aef8df9c1d",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "ec870ecf64298bed0264e715ee59f6a576855e25dd8360694b90c313bdf455a4",
+  "output_dimensions": [
+   4032,
+   4032
+  ],
+  "reduced_dimensions": [
+   504,
+   504
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "C+75-sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006515666270874804,
+   "max_abs_error": 0.00024413628621311467,
+   "floor": 0.0001,
+   "sha256": "ca9809e872232978928554abeeb13131e4c08c2b90400cb0bb37d7a7bb2a2652"
+  },
+  "source": "raws/pixls/NIKON CORPORATION/NIKON Z6_3/Nikon_Z6__3_Lossless_compressed_1_1.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "Nikon Z 6 3 Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "0",
+   "Clarity2012": "+75"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1408",
+  "source_sha256": "ffd2eae3f5bdfd58edea142761107af70ad11a54abdd87b5896d8dba029f038c",
+  "profile_sha256": "12fb0c8c49846d37a92ee464e219af7ba7de9f6bcc86c318af820e1b79eda201",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "469f03202256909373f30d57b2886b7a964f25b4667e751375f70bfc0f52791f",
+  "returned_xmp_sha256": "6820dbe8df6dee72a09a681476881310b6d16e3a647c6031739ad17bbdf98ac8",
+  "output_sha256": "73e3703ea621955bc9bb52b3d0dffa5ad56f2467eee12b79318f3b0517cd2c80",
+  "pixels_sha256": "ef777dce633bfff46e4503a3ab851cd5ca53761e2331b1d500d0793aff6035df",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "d16dbda45f2b4e917b0bc5c99db9829506dc20dea1077983d633d08ae53810f8",
+  "output_dimensions": [
+   4032,
+   4032
+  ],
+  "reduced_dimensions": [
+   504,
+   504
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 15.034748719425146,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "C+75-hdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006788854289396747,
+   "max_abs_error": 0.0037117412181295606,
+   "floor": 0.0001,
+   "sha256": "a571882c5d8b1ad3ba100038734eda39bb8e424924c920ec461a93bf0cf1d303"
+  },
+  "source": "raws/pixls/NIKON CORPORATION/NIKON Z6_3/Nikon_Z6__3_Lossless_compressed_1_1.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "Nikon Z 6 3 Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "1",
+   "HDRMaxValue": "4.0",
+   "Clarity2012": "+75"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1409",
+  "source_sha256": "ffd2eae3f5bdfd58edea142761107af70ad11a54abdd87b5896d8dba029f038c",
+  "profile_sha256": "12fb0c8c49846d37a92ee464e219af7ba7de9f6bcc86c318af820e1b79eda201",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "fc9d8c138c8b451a5f1786ec17b9513083625b0c0bcba022a4fbdc7846e8ff4b",
+  "returned_xmp_sha256": "18d8b230528b608e8882b69d708e0129253e46abdfdaedcb82ad668fbdfaadec",
+  "output_sha256": "d2f77de79c9f27ab88196b9342fabc87aa1c7cbd4e69d69c752e219077699265",
+  "pixels_sha256": "6aa1cbb51d407a58d2e2d814458719bf21dc860354e0ed846c09cbb92bd91fa2",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "a340b857e146df7e79562c7af55e9c8759801a018d51dcdfb7c3dfc6b58b897a",
+  "output_dimensions": [
+   4032,
+   4032
+  ],
+  "reduced_dimensions": [
+   504,
+   504
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-50-sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006313055950028355,
+   "max_abs_error": 0.00024413926144184472,
+   "floor": 0.0001,
+   "sha256": "9e99c6df81a47250f7f75a404183fb5083f48533372fb9554265e87db09839ff"
+  },
+  "source": "raws/pixls/NIKON CORPORATION/NIKON Z6_3/Nikon_Z6__3_Lossless_compressed_1_1.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "Nikon Z 6 3 Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "0",
+   "Dehaze": "-50"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1410",
+  "source_sha256": "ffd2eae3f5bdfd58edea142761107af70ad11a54abdd87b5896d8dba029f038c",
+  "profile_sha256": "12fb0c8c49846d37a92ee464e219af7ba7de9f6bcc86c318af820e1b79eda201",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "f3d6c49eb46891559bc7faf40669a01e7e691dc50251c6d8296321c9b54a7cf7",
+  "returned_xmp_sha256": "c1dfaf1a41723067f0df962842a0f61a0182d46c23ff7ee818a436b46efa72c2",
+  "output_sha256": "650eba991d355df588c228de87da98175090da142e75de03debb9053248c4a45",
+  "pixels_sha256": "b45ccdb37444436f0bcbde006b44507ffacf11c4e1accd25f5e3afe5d8d7ea39",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "cb62570e30f16b960952addecca05fdf1eac8fc414c7dd36f4f103d63a9b2693",
+  "output_dimensions": [
+   4032,
+   4032
+  ],
+  "reduced_dimensions": [
+   504,
+   504
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 9.48090980312678,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-50-hdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006468739908959373,
+   "max_abs_error": 0.001946336382349756,
+   "floor": 0.0001,
+   "sha256": "71ea166856131c8aaed0897fe094688fc77661c3090f1344341d91a769f20911"
+  },
+  "source": "raws/pixls/NIKON CORPORATION/NIKON Z6_3/Nikon_Z6__3_Lossless_compressed_1_1.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "Nikon Z 6 3 Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "1",
+   "HDRMaxValue": "4.0",
+   "Dehaze": "-50"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1411",
+  "source_sha256": "ffd2eae3f5bdfd58edea142761107af70ad11a54abdd87b5896d8dba029f038c",
+  "profile_sha256": "12fb0c8c49846d37a92ee464e219af7ba7de9f6bcc86c318af820e1b79eda201",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "09fb5aab5421d98b052fcbebd7b281a9051ad6100fe9ad95a6014b83b2ad8f41",
+  "returned_xmp_sha256": "ee31f9c27e0729efd6999b4fddafae0b50ae5c00b6bb645910fd84ccfba43adc",
+  "output_sha256": "9bf82134522568fe75432f9f28e67a6fd3f914cd2c0ace67205e429ece948264",
+  "pixels_sha256": "a4c1797a3fcfa9be2a04ca6de805b03f9fcbb44e73d4347c4c56b2fdaed38a77",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "cb30d36b663f9e5542deeca6a6781a679f4a35022412da7b871200d0f0e6643b",
+  "output_dimensions": [
+   4032,
+   4032
+  ],
+  "reduced_dimensions": [
+   504,
+   504
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-70-sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006483795914314496,
+   "max_abs_error": 0.0002441401650231656,
+   "floor": 0.0001,
+   "sha256": "8bf9d59df1f548b9e762fe946f17dc1008e6030ee3d751a0c5b6b71bee3e523b"
+  },
+  "source": "raws/pixls/NIKON CORPORATION/NIKON Z6_3/Nikon_Z6__3_Lossless_compressed_1_1.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "Nikon Z 6 3 Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "0",
+   "Dehaze": "-70"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1412",
+  "source_sha256": "ffd2eae3f5bdfd58edea142761107af70ad11a54abdd87b5896d8dba029f038c",
+  "profile_sha256": "12fb0c8c49846d37a92ee464e219af7ba7de9f6bcc86c318af820e1b79eda201",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "3dc25be6f30db0f9891b607ccd611c870f6a84760c374095522fdbb153b43f9b",
+  "returned_xmp_sha256": "3fbc362202b9e0309a373e4750ccc802edb15d1ac18abae5751f77273f769342",
+  "output_sha256": "d049869219c7ef15cd5e9b3f1e42f5b8e934c5516fb427b266b7404a6e5cb204",
+  "pixels_sha256": "74d37f608cf4d63adada3b189ddadf84001d9b5fe6a36a4028f5c955af2aa5ac",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "7920bbd5c02774969a4e8d5ff6b1f25cb9ddd9551d8118e7ff8495559242fd82",
+  "output_dimensions": [
+   4032,
+   4032
+  ],
+  "reduced_dimensions": [
+   504,
+   504
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 9.090901611809798,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-70-hdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006463649214235134,
+   "max_abs_error": 0.0019155325313073845,
+   "floor": 0.0001,
+   "sha256": "20dd7581800dfe6c2b173b2dc4b7246a6c89c76d91f708a50be8dc64f67e0387"
+  },
+  "source": "raws/pixls/NIKON CORPORATION/NIKON Z6_3/Nikon_Z6__3_Lossless_compressed_1_1.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "Nikon Z 6 3 Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "1",
+   "HDRMaxValue": "4.0",
+   "Dehaze": "-70"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1413",
+  "source_sha256": "e50ae28ab990a7997b1f2142e976619d072969186ed4f0095bef0724d2c70563",
+  "profile_sha256": "07178cdad79ecca4c9fe2d616f2d34ebb89f940794ba33cd9ae7976a64db43c6",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "e939ae5c8390990a93095f9ac06cd014335ef268d0d38abfb62ccc858429194a",
+  "returned_xmp_sha256": "8f726880af315350436740ea48a5e2ef11983ed1228ff77ebf52b67f3f5f844d",
+  "output_sha256": "3d7fb506a1a2bfeb3505926da958b89f41cb5f9b1a29645a59b2d79ed6b25532",
+  "pixels_sha256": "ac4a743a7f778a17a96f12e4f2852367b6c34f0620516350a073ad84f7762f64",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "65a5cd9c9e94e91e4b765d9108cbac51f8759d6149c57434b35cc9c22e892884",
+  "output_dimensions": [
+   6000,
+   4000
+  ],
+  "reduced_dimensions": [
+   750,
+   500
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "C+75-sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006760482740641911,
+   "max_abs_error": 0.00024414062249944468,
+   "floor": 0.0001,
+   "sha256": "f3db8889b87141a248e7bb3090162529be3a80b1df44830d9a3c7f55cfaeb884"
+  },
+  "source": "raws/pixls/Panasonic/DC-S1M2/Panasonic_DC-S1M2_-_32.RW2",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "Panasonic DC-S1M2 Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "0",
+   "Clarity2012": "+75"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1414",
+  "source_sha256": "e50ae28ab990a7997b1f2142e976619d072969186ed4f0095bef0724d2c70563",
+  "profile_sha256": "07178cdad79ecca4c9fe2d616f2d34ebb89f940794ba33cd9ae7976a64db43c6",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "469f03202256909373f30d57b2886b7a964f25b4667e751375f70bfc0f52791f",
+  "returned_xmp_sha256": "91df8d22ac222dda6ac21d579253003f38a440ed67b04298173ccb73645f2007",
+  "output_sha256": "3e6d21c519dd8f7cc241a3456e641b8ec6c14ab1c26bd57620bbaf711fa89bcb",
+  "pixels_sha256": "dbb72145db7f0920020863a72ad038a6dbd7a3c736525e620fda54ad445ff5fe",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "673b6e1ccfbdc5f29c85b0f56e7e51a7545061e834d05bfacf6685ab65268e67",
+  "output_dimensions": [
+   6000,
+   4000
+  ],
+  "reduced_dimensions": [
+   750,
+   500
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 11.65041877789559,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "C+75-hdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006760331881652062,
+   "max_abs_error": 0.003899882476511962,
+   "floor": 0.0001,
+   "sha256": "ae9e4e7adb3643ea642d6242deea0bfad6a327eb7bb7050d239c4886822dd67c"
+  },
+  "source": "raws/pixls/Panasonic/DC-S1M2/Panasonic_DC-S1M2_-_32.RW2",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "Panasonic DC-S1M2 Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "1",
+   "HDRMaxValue": "4.0",
+   "Clarity2012": "+75"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1415",
+  "source_sha256": "e50ae28ab990a7997b1f2142e976619d072969186ed4f0095bef0724d2c70563",
+  "profile_sha256": "07178cdad79ecca4c9fe2d616f2d34ebb89f940794ba33cd9ae7976a64db43c6",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "fc9d8c138c8b451a5f1786ec17b9513083625b0c0bcba022a4fbdc7846e8ff4b",
+  "returned_xmp_sha256": "950ee39b2e1b85a4d15a52a010da186ea1e37cd6c937a9f8079f3ea6e165693f",
+  "output_sha256": "5babb2257e90bd6d49dc3d1d929d87ef57257a6c5dfc76e7d378b493124255d2",
+  "pixels_sha256": "7272262b9c2f4ec04b1181d0db49129c00f1b6740e20ba73238082779474a625",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "28e01bc87c34f72b8f86ff3fb522b0aeaa8afb79efcf29c61dcf6bcf1737000b",
+  "output_dimensions": [
+   6000,
+   4000
+  ],
+  "reduced_dimensions": [
+   750,
+   500
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-50-sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006560948818762915,
+   "max_abs_error": 0.00024413937635370253,
+   "floor": 0.0001,
+   "sha256": "fdc9e18c9a4ee86578dd2d250bc33b4729e658b42ecfafb87b4321d223e3e0ef"
+  },
+  "source": "raws/pixls/Panasonic/DC-S1M2/Panasonic_DC-S1M2_-_32.RW2",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "Panasonic DC-S1M2 Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "0",
+   "Dehaze": "-50"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1416",
+  "source_sha256": "e50ae28ab990a7997b1f2142e976619d072969186ed4f0095bef0724d2c70563",
+  "profile_sha256": "07178cdad79ecca4c9fe2d616f2d34ebb89f940794ba33cd9ae7976a64db43c6",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "f3d6c49eb46891559bc7faf40669a01e7e691dc50251c6d8296321c9b54a7cf7",
+  "returned_xmp_sha256": "92bbf0b395efaad60dd96b84840195ea2da8ec3c6b27cd6cc9b73e467f31c4ed",
+  "output_sha256": "64b626e15c1ba9292443dbe8726df1120498c4fec359ddbd6bf70f99de0f1ab9",
+  "pixels_sha256": "99f5e2a7632bb81800b89bf3026456a097f2e14312345fc6810fbfad4f9c0169",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "4b0d978eace3eed575475d51463c22c72f969ab679447fb0adbd9f30121e0f19",
+  "output_dimensions": [
+   6000,
+   4000
+  ],
+  "reduced_dimensions": [
+   750,
+   500
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 5.287601406839827,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-50-hdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006731306870430358,
+   "max_abs_error": 0.0019505829181021284,
+   "floor": 0.0001,
+   "sha256": "608d95fdfbece038277b5af8ec60cd53f0d9916c5081e32540126fce4b2f09bd"
+  },
+  "source": "raws/pixls/Panasonic/DC-S1M2/Panasonic_DC-S1M2_-_32.RW2",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "Panasonic DC-S1M2 Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "1",
+   "HDRMaxValue": "4.0",
+   "Dehaze": "-50"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1417",
+  "source_sha256": "e50ae28ab990a7997b1f2142e976619d072969186ed4f0095bef0724d2c70563",
+  "profile_sha256": "07178cdad79ecca4c9fe2d616f2d34ebb89f940794ba33cd9ae7976a64db43c6",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "09fb5aab5421d98b052fcbebd7b281a9051ad6100fe9ad95a6014b83b2ad8f41",
+  "returned_xmp_sha256": "40161f0c964ed006b41ab5a1562d8b11d010306b755b9a62f201259bc46cb757",
+  "output_sha256": "9528b0f8800c85d99a8d883a63ee5772f176ebd79e6fda8d8009a17b84aacd13",
+  "pixels_sha256": "e70bd84b78366b13cef383c2fb9212b510eda7caa474366f9c9bfa01affde368",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "df0397b64afcd4cd91481000c37c70d8ab1aeb73b5fee476d8c6e9c30dc02de5",
+  "output_dimensions": [
+   6000,
+   4000
+  ],
+  "reduced_dimensions": [
+   750,
+   500
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-70-sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006700596191287703,
+   "max_abs_error": 0.00024414058637911573,
+   "floor": 0.0001,
+   "sha256": "6b916a6eab4d4be7c315c837e2895ccb8546add1751c70402b5f9b09eafc6f5b"
+  },
+  "source": "raws/pixls/Panasonic/DC-S1M2/Panasonic_DC-S1M2_-_32.RW2",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "Panasonic DC-S1M2 Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "0",
+   "Dehaze": "-70"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1418",
+  "source_sha256": "e50ae28ab990a7997b1f2142e976619d072969186ed4f0095bef0724d2c70563",
+  "profile_sha256": "07178cdad79ecca4c9fe2d616f2d34ebb89f940794ba33cd9ae7976a64db43c6",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "3dc25be6f30db0f9891b607ccd611c870f6a84760c374095522fdbb153b43f9b",
+  "returned_xmp_sha256": "d4e0a1ce3250d2d5f379b178ec6f9847ae5b49f940ecd6dd881357ca0e8705e1",
+  "output_sha256": "4d0bcd2bf7edc1308c67b88f4580e8358bbdb9f066dc33031db3cd19a70cbb11",
+  "pixels_sha256": "fa52c4cda90354deeac71790a4907f949cc5e8485c23cd28f793844123669e00",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "fe7bf48c46f27b6f5847aadf08f4c8fe5bd667c1a067335df27bbe2bf1b2c563",
+  "output_dimensions": [
+   6000,
+   4000
+  ],
+  "reduced_dimensions": [
+   750,
+   500
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 4.5853347947978635,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-70-hdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006524585234691416,
+   "max_abs_error": 0.0019438685368804443,
+   "floor": 0.0001,
+   "sha256": "094fb19f5436d6ff5dfbafceb4fb32211636d720830fb881290ed8fdbb8808db"
+  },
+  "source": "raws/pixls/Panasonic/DC-S1M2/Panasonic_DC-S1M2_-_32.RW2",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "Panasonic DC-S1M2 Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "1",
+   "HDRMaxValue": "4.0",
+   "Dehaze": "-70"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1419",
+  "source_sha256": "bf190e4d93b2a42f0f3c29edb4d12def41e42bd947575677ede52b4869d6a84e",
+  "profile_sha256": "9fb6966131c91c0ae3272e8d92222dd4d7711fb67df760494d3b8e7ba79c940c",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "e939ae5c8390990a93095f9ac06cd014335ef268d0d38abfb62ccc858429194a",
+  "returned_xmp_sha256": "9c8dd184e528716fc6a247dd538a8600ce2c9716870e71dc2436d394ae5f515b",
+  "output_sha256": "51fd6d3213edd2d1bb663c5a1a09d4459f79ea02f0910644a058548fa1f91795",
+  "pixels_sha256": "804e6ee431b544f4bbe1cfc15664b838a0fc5fb37f2af99ae859df5a2faa6bd5",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "c506f7366d7201d3872d9f590d3227adafb0c18ac3b19e8320fe3bb48aa66634",
+  "output_dimensions": [
+   7952,
+   5304
+  ],
+  "reduced_dimensions": [
+   994,
+   663
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "C+75-sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006624243881501906,
+   "max_abs_error": 0.00024414058967969776,
+   "floor": 0.0001,
+   "sha256": "cf16ef0db5f8b90dd46d315b466e392efe1598573e920349a81ce74ba6c4930c"
+  },
+  "source": "raws/pixls/Sony/ILCE-7RM3/DSC03793.ARW",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "Sony ILCE-7RM3 Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "0",
+   "Clarity2012": "+75"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1420",
+  "source_sha256": "bf190e4d93b2a42f0f3c29edb4d12def41e42bd947575677ede52b4869d6a84e",
+  "profile_sha256": "9fb6966131c91c0ae3272e8d92222dd4d7711fb67df760494d3b8e7ba79c940c",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "469f03202256909373f30d57b2886b7a964f25b4667e751375f70bfc0f52791f",
+  "returned_xmp_sha256": "4d2e0bcf7414008e941ed0aedcb05ac0423c5f1276189ea8b7e4a4b14a71cf6a",
+  "output_sha256": "53a73667ac73237a8ccffe0e7d6e9326856a6a0fb435bf4bac4bfbb69bb76215",
+  "pixels_sha256": "61db5c52786492aec34778a7c42e1ae53c923340bf3eac7f294214063b8c433d",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "d3a3a540a207e99ada52f283029cc294161c0ee9e8984e67e33e6a6dad23a84f",
+  "output_dimensions": [
+   7952,
+   5304
+  ],
+  "reduced_dimensions": [
+   994,
+   663
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 12.83934887294027,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "C+75-hdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006486106529782544,
+   "max_abs_error": 0.0039062289982965126,
+   "floor": 0.0001,
+   "sha256": "c03e82613723c365f69cea916016ea7c9ad943698a6e103179f9669ee539f456"
+  },
+  "source": "raws/pixls/Sony/ILCE-7RM3/DSC03793.ARW",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "Sony ILCE-7RM3 Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "1",
+   "HDRMaxValue": "4.0",
+   "Clarity2012": "+75"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1421",
+  "source_sha256": "bf190e4d93b2a42f0f3c29edb4d12def41e42bd947575677ede52b4869d6a84e",
+  "profile_sha256": "9fb6966131c91c0ae3272e8d92222dd4d7711fb67df760494d3b8e7ba79c940c",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "fc9d8c138c8b451a5f1786ec17b9513083625b0c0bcba022a4fbdc7846e8ff4b",
+  "returned_xmp_sha256": "2609cc25c699d137fb19aa58f66e92d59beeb1333e88af25756a08d8f8790ad5",
+  "output_sha256": "884dd0bffe3a142756e08c461a7016a5be435293da45205871293068d25ba3de",
+  "pixels_sha256": "2146d8b0fc06da63745e18981a290cd53d7daf12602899567400ba0fc750b24f",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "df96c3282520c23455cac153270eb3453d2dafe9adf0bf62e50c278191e1f04d",
+  "output_dimensions": [
+   7952,
+   5304
+  ],
+  "reduced_dimensions": [
+   994,
+   663
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 0.9751205462507745,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-50-sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006726517822113022,
+   "max_abs_error": 0.00024413953959634416,
+   "floor": 0.0001,
+   "sha256": "7c51d2d7f13556eb019782c094d5aad5d826dc0e7691b0cceb454e4644be7129"
+  },
+  "source": "raws/pixls/Sony/ILCE-7RM3/DSC03793.ARW",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "Sony ILCE-7RM3 Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "0",
+   "Dehaze": "-50"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1422",
+  "source_sha256": "bf190e4d93b2a42f0f3c29edb4d12def41e42bd947575677ede52b4869d6a84e",
+  "profile_sha256": "9fb6966131c91c0ae3272e8d92222dd4d7711fb67df760494d3b8e7ba79c940c",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "f3d6c49eb46891559bc7faf40669a01e7e691dc50251c6d8296321c9b54a7cf7",
+  "returned_xmp_sha256": "32eb1e659379b952a19b385e772c86f529ffd882ffb5593facc829eed5c7c2f7",
+  "output_sha256": "85f06d9e5f65de971e66a88b21c584ac6ace1d4a1a7b2c6c00cab762b8f5fb77",
+  "pixels_sha256": "612a28c38237f5482c6653de8f914d9398192cafb879534e7c194ae1aae09dec",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "6d2d84b99e1f01f3fe4af78abb11ad4b1c13bc929ebe97312faa0549b3915f4c",
+  "output_dimensions": [
+   7952,
+   5304
+  ],
+  "reduced_dimensions": [
+   994,
+   663
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 3.6618195182503945,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-50-hdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006629305288689484,
+   "max_abs_error": 0.0009749556041414031,
+   "floor": 0.0001,
+   "sha256": "fdac65ff8597d5c2661e9cb90e71350d6e814b74d4a22c6948abe66a53495021"
+  },
+  "source": "raws/pixls/Sony/ILCE-7RM3/DSC03793.ARW",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "Sony ILCE-7RM3 Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "1",
+   "HDRMaxValue": "4.0",
+   "Dehaze": "-50"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1423",
+  "source_sha256": "bf190e4d93b2a42f0f3c29edb4d12def41e42bd947575677ede52b4869d6a84e",
+  "profile_sha256": "9fb6966131c91c0ae3272e8d92222dd4d7711fb67df760494d3b8e7ba79c940c",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "09fb5aab5421d98b052fcbebd7b281a9051ad6100fe9ad95a6014b83b2ad8f41",
+  "returned_xmp_sha256": "e7e15ce7c3544ad18a457bb8267815873f9d18c52ca568a10c800f9996975da2",
+  "output_sha256": "bc57dfbff1b720054db58852b0a8de2d2496fcd89cff55a3d0232fa78666e628",
+  "pixels_sha256": "89df6a071a8782232ad99b3ab5e19cbcde3b16a7ce89c7f69e32fbc2d81ca178",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "5c11d4044e0dea556a5f18691ed8426938e9d890a4164e72b161cd055089548c",
+  "output_dimensions": [
+   7952,
+   5304
+  ],
+  "reduced_dimensions": [
+   994,
+   663
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 0.9759416928517349,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-70-sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006598364578264148,
+   "max_abs_error": 0.00024414061167910006,
+   "floor": 0.0001,
+   "sha256": "6d0885d435d2dfe1f0d809535b398ab3a98a3f3ebf5a19b0e2dc44607b48a6a5"
+  },
+  "source": "raws/pixls/Sony/ILCE-7RM3/DSC03793.ARW",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "Sony ILCE-7RM3 Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "0",
+   "Dehaze": "-70"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1424",
+  "source_sha256": "bf190e4d93b2a42f0f3c29edb4d12def41e42bd947575677ede52b4869d6a84e",
+  "profile_sha256": "9fb6966131c91c0ae3272e8d92222dd4d7711fb67df760494d3b8e7ba79c940c",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "3dc25be6f30db0f9891b607ccd611c870f6a84760c374095522fdbb153b43f9b",
+  "returned_xmp_sha256": "ae2dcf65ae7f7a25ba61c6249d7e82912f373c1214aa8c4786e415694e72c1c1",
+  "output_sha256": "bc64ea1fe224625e122cd011220b32a25ce5aa107085e1cd0b6df4aac319734d",
+  "pixels_sha256": "12aa5b83190827f435f7767e789a9f3b4c82571d7b4b96cf408a316f5a10d1fc",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "3602b1dee8559427d6331d79d8e45c609788974848a7c6fc616fba843e9cace5",
+  "output_dimensions": [
+   7952,
+   5304
+  ],
+  "reduced_dimensions": [
+   994,
+   663
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 2.584694366117858,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-70-hdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006683384196117772,
+   "max_abs_error": 0.0004882496795142188,
+   "floor": 0.0001,
+   "sha256": "de2d26f04a84944b0e2206a5e8d0a5365b9064b09dfb9b7513526eb3c48bd682"
+  },
+  "source": "raws/pixls/Sony/ILCE-7RM3/DSC03793.ARW",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "Sony ILCE-7RM3 Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "1",
+   "HDRMaxValue": "4.0",
+   "Dehaze": "-70"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1425",
+  "source_sha256": "c6e781a58fdbe97fac5b99deb878a8568904aba48de0e4c31076b4d3887e2c91",
+  "profile_sha256": "72e53bd60f0633a292f274063dd258c0f149b304add4408f518e208d3a17993f",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "e939ae5c8390990a93095f9ac06cd014335ef268d0d38abfb62ccc858429194a",
+  "returned_xmp_sha256": "4fcde1e161fd44e8068dd9a13f98a6eacb03983f8f9a4eb3c4bd66677ac1a7c1",
+  "output_sha256": "c439d0930b913c98990ed7d3814e018c5a3c081ec210b69d53305460e1359d8f",
+  "pixels_sha256": "14cd8c8169d4a00bf6c6d3787af5be8264b695483436fdda1aa3dabb45c5dba5",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "05bface2874b11f1ed7623db379822ee5d45957be7832714a3c76a5460f58539",
+  "output_dimensions": [
+   6000,
+   4000
+  ],
+  "reduced_dimensions": [
+   750,
+   500
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "C+75-sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006597852479151763,
+   "max_abs_error": 0.00024414060396593662,
+   "floor": 0.0001,
+   "sha256": "500f4fa600af1c72f8a8efad3c94b1eb01607266cf333b740545c514741242ec"
+  },
+  "source": "raws/pixls/Canon/EOS 850D/IMG_1906.CR3",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "Canon EOS 850D Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "0",
+   "Clarity2012": "+75"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1426",
+  "source_sha256": "c6e781a58fdbe97fac5b99deb878a8568904aba48de0e4c31076b4d3887e2c91",
+  "profile_sha256": "72e53bd60f0633a292f274063dd258c0f149b304add4408f518e208d3a17993f",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "469f03202256909373f30d57b2886b7a964f25b4667e751375f70bfc0f52791f",
+  "returned_xmp_sha256": "d87c1925a861da344fd28fbf99e8683fb41707f3dbe81d6808e95d9482b78c2f",
+  "output_sha256": "e8c0b78b6355e9945284f1eb268d930e4a3f7a97bbb9c8b9f045c2ea702e2e2e",
+  "pixels_sha256": "44a9c82d5d2803df6ac17b4c68baa00a850bdacc8e5f324bf5813af309423e84",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "21eb96cc16ebba20824fe4eb0d70a42b00af55a0cf20feaaa23b512b9e31fdcd",
+  "output_dimensions": [
+   6000,
+   4000
+  ],
+  "reduced_dimensions": [
+   750,
+   500
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 8.13481523042349,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "C+75-hdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006709712270060878,
+   "max_abs_error": 0.0019452466805454094,
+   "floor": 0.0001,
+   "sha256": "5164a7925e1789153d1bb5b4d92c8c521aac39f7fb2152387de00fd67f13f19c"
+  },
+  "source": "raws/pixls/Canon/EOS 850D/IMG_1906.CR3",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "Canon EOS 850D Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "1",
+   "HDRMaxValue": "4.0",
+   "Clarity2012": "+75"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1427",
+  "source_sha256": "c6e781a58fdbe97fac5b99deb878a8568904aba48de0e4c31076b4d3887e2c91",
+  "profile_sha256": "72e53bd60f0633a292f274063dd258c0f149b304add4408f518e208d3a17993f",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "fc9d8c138c8b451a5f1786ec17b9513083625b0c0bcba022a4fbdc7846e8ff4b",
+  "returned_xmp_sha256": "83f5a416050dec68530808c8d5d5d98a94d4fd47b9024fc564fd08cda8613224",
+  "output_sha256": "a2e4dedf4662a973c8caad773c66c2a50478367819ec9254e99cbeaa76c16728",
+  "pixels_sha256": "2f2f36fd6abc9b936420591842b8cb7f77e1f7352fc59f3c7b43ec53e0e6b442",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "9d705d02989830ebe53ac6661174ba2c2d6340fb62be63743fc9f75e44733454",
+  "output_dimensions": [
+   6000,
+   4000
+  ],
+  "reduced_dimensions": [
+   750,
+   500
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 0.9616976523218876,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-50-sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006811273457447133,
+   "max_abs_error": 0.00024413895303010413,
+   "floor": 0.0001,
+   "sha256": "dc84071a2f38287ef0f3017375f542e17bb0db23193671ccdb8ac3ac8c77e664"
+  },
+  "source": "raws/pixls/Canon/EOS 850D/IMG_1906.CR3",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "Canon EOS 850D Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "0",
+   "Dehaze": "-50"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1428",
+  "source_sha256": "c6e781a58fdbe97fac5b99deb878a8568904aba48de0e4c31076b4d3887e2c91",
+  "profile_sha256": "72e53bd60f0633a292f274063dd258c0f149b304add4408f518e208d3a17993f",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "f3d6c49eb46891559bc7faf40669a01e7e691dc50251c6d8296321c9b54a7cf7",
+  "returned_xmp_sha256": "1777c936f963cf6c81d22d4a4877e593996045c1781ed9989bd198f0e18f024d",
+  "output_sha256": "aa6d5b842db6c9f9ee18d1c44a738cfabd104ecd3300132a2dff096810f23aba",
+  "pixels_sha256": "0cc2180bf58b85a731dec642f22f3d50a536b5f057d28b180cdfaba90e4f9592",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "0735e0f4f94ccbbdfe0a49bcd28ec2ded2f103c05a07207bc310a5b885802703",
+  "output_dimensions": [
+   6000,
+   4000
+  ],
+  "reduced_dimensions": [
+   750,
+   500
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 3.075143319476058,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-50-hdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006636985526366806,
+   "max_abs_error": 0.0009765590983712436,
+   "floor": 0.0001,
+   "sha256": "93e09300218832a90366e2c719b40d649d7ab9a81cc1cb63321d130164a28c5f"
+  },
+  "source": "raws/pixls/Canon/EOS 850D/IMG_1906.CR3",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "Canon EOS 850D Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "1",
+   "HDRMaxValue": "4.0",
+   "Dehaze": "-50"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1429",
+  "source_sha256": "c6e781a58fdbe97fac5b99deb878a8568904aba48de0e4c31076b4d3887e2c91",
+  "profile_sha256": "72e53bd60f0633a292f274063dd258c0f149b304add4408f518e208d3a17993f",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "09fb5aab5421d98b052fcbebd7b281a9051ad6100fe9ad95a6014b83b2ad8f41",
+  "returned_xmp_sha256": "e2891e61fd4b8b35243730e4b944852a82c6c0c830a78602542ff1abc895e89c",
+  "output_sha256": "406a8a498542b50f6a86a67f9d96aa34f0437b38968669f9924c23d18a43f9ff",
+  "pixels_sha256": "756999b06cdd5b36c94cd07d9f9cde35000ac21c2b609211383fda84c1f14574",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "ba3bdcea5c2b4d231ca1ebaa16d97e42f0ed1aa2864b395d95f037f8f29de64f",
+  "output_dimensions": [
+   6000,
+   4000
+  ],
+  "reduced_dimensions": [
+   750,
+   500
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 0.9602053826614391,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-70-sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006630486854093772,
+   "max_abs_error": 0.0002441402443266183,
+   "floor": 0.0001,
+   "sha256": "c4fa7e3a50da45307ae699a0e30a23a012cecaecc2b5ed7b454a6dc76d75b157"
+  },
+  "source": "raws/pixls/Canon/EOS 850D/IMG_1906.CR3",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "Canon EOS 850D Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "0",
+   "Dehaze": "-70"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1430",
+  "source_sha256": "c6e781a58fdbe97fac5b99deb878a8568904aba48de0e4c31076b4d3887e2c91",
+  "profile_sha256": "72e53bd60f0633a292f274063dd258c0f149b304add4408f518e208d3a17993f",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "3dc25be6f30db0f9891b607ccd611c870f6a84760c374095522fdbb153b43f9b",
+  "returned_xmp_sha256": "08c6a30d9548428abe0f68ed5b0629106f4e5d22a599ef61b4c29c6078d09cd3",
+  "output_sha256": "9df1320fc0c3f4693f3d412ca50d2fc6883e0dd81a1fd9b1046012592e4d653a",
+  "pixels_sha256": "946bcd27f4563eec7e86dbfa57ef77d2033653033bae743441df405405c39b9e",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "51626e915da95d2184c6793de5a049f16ddc7f40b62535f4ba731d8c3ef8d268",
+  "output_dimensions": [
+   6000,
+   4000
+  ],
+  "reduced_dimensions": [
+   750,
+   500
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 3.018512568920873,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-70-hdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006545359984454742,
+   "max_abs_error": 0.0009765561609476059,
+   "floor": 0.0001,
+   "sha256": "aeeccaf7c1a587a2762659615135c93ea38ddd37db6fefb516fa4061a2c8dd33"
+  },
+  "source": "raws/pixls/Canon/EOS 850D/IMG_1906.CR3",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "validation",
+  "profile": "Canon EOS 850D Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "1",
+   "HDRMaxValue": "4.0",
+   "Dehaze": "-70"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1431",
+  "source_sha256": "a3314a026524396e603b461afc4fe61a8a5a3958232f3687bb1c8eca0dcbed93",
+  "profile_sha256": "f990ceb0a141baf0857068d2fbdbd747f8aa25a2ec12a0af27a183bdcadea71b",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "e939ae5c8390990a93095f9ac06cd014335ef268d0d38abfb62ccc858429194a",
+  "returned_xmp_sha256": "bcb5dd8d037074e11174e35e626366e4b99cf9a71ac76cb0a60f4f2a198e6996",
+  "output_sha256": "9b19b6b330dbf3353678a60779dc66d759268eac19810d4c12e19258d6b0803c",
+  "pixels_sha256": "6dffda9a7badcaf08bc5a8c3b85ee766bf37dfaedd8eb61845fdb228e375fde7",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "f4b3389a13ac2d56f09ed32e50583d0b6c95d6aa58684670f6a1f86dad54fd00",
+  "output_dimensions": [
+   5568,
+   3712
+  ],
+  "reduced_dimensions": [
+   696,
+   464
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "C+75-sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006409282494685598,
+   "max_abs_error": 0.00024414030426000988,
+   "floor": 0.0001,
+   "sha256": "fd49cc3a10fdde2b30bd376dbf035126539fde9a3a444f787d195bf18241096e"
+  },
+  "source": "raws/pixls/NIKON CORPORATION/NIKON Z50_2/DSC_0060_DX_Lossless.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "holdout",
+  "profile": "Nikon Z 50 2 Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "0",
+   "Clarity2012": "+75"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1432",
+  "source_sha256": "a3314a026524396e603b461afc4fe61a8a5a3958232f3687bb1c8eca0dcbed93",
+  "profile_sha256": "f990ceb0a141baf0857068d2fbdbd747f8aa25a2ec12a0af27a183bdcadea71b",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "469f03202256909373f30d57b2886b7a964f25b4667e751375f70bfc0f52791f",
+  "returned_xmp_sha256": "f1d6243e398bbc44de78ef1405e6e4399e40a5125a1abc89c822a3dbc45fc9a8",
+  "output_sha256": "c7672a8535ca150a418f2809b1428f1442f0c76b3c434af5afbd1ed12deab7cf",
+  "pixels_sha256": "d0d70189e12f2ee95334560e8776fbbc5f3b6a64a003703b3124984fda5b381d",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "6a08f40aa8f7e4c0a49c1dfbf0b537f065fd722814b586fc9c49b2079be08580",
+  "output_dimensions": [
+   5568,
+   3712
+  ],
+  "reduced_dimensions": [
+   696,
+   464
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 16.00118379620969,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "C+75-hdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006558752296430433,
+   "max_abs_error": 0.000976554301858279,
+   "floor": 0.0001,
+   "sha256": "e8c19c17712d34e59d65572a968e4e4550a977d1efaf3d938ca87435a8578a11"
+  },
+  "source": "raws/pixls/NIKON CORPORATION/NIKON Z50_2/DSC_0060_DX_Lossless.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "holdout",
+  "profile": "Nikon Z 50 2 Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "1",
+   "HDRMaxValue": "4.0",
+   "Clarity2012": "+75"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1433",
+  "source_sha256": "a3314a026524396e603b461afc4fe61a8a5a3958232f3687bb1c8eca0dcbed93",
+  "profile_sha256": "f990ceb0a141baf0857068d2fbdbd747f8aa25a2ec12a0af27a183bdcadea71b",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "fc9d8c138c8b451a5f1786ec17b9513083625b0c0bcba022a4fbdc7846e8ff4b",
+  "returned_xmp_sha256": "24101dcaf8fc73b0126bfbfd86bfd6cf2b545c58ac0ce45c29bd379e5ca5d50f",
+  "output_sha256": "bec6e6cfcc4eceb7207f05b2d67dfaabbb3ea018ee7de88f66c275f464427f28",
+  "pixels_sha256": "edcdc1eac046ffbe7213120bc996b90508ee01919bcdc23950b14fde9af74fd8",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "d72c661a602433a8f0d7fc91be53cfa7dba8e6fc1905f2dc652fa94846589194",
+  "output_dimensions": [
+   5568,
+   3712
+  ],
+  "reduced_dimensions": [
+   696,
+   464
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-50-sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006644956015264894,
+   "max_abs_error": 0.00024413840201076287,
+   "floor": 0.0001,
+   "sha256": "3b7c83006b33c482796798e42a0b7d9d3344b0397d1c65d6fc1b5d214b917ce9"
+  },
+  "source": "raws/pixls/NIKON CORPORATION/NIKON Z50_2/DSC_0060_DX_Lossless.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "holdout",
+  "profile": "Nikon Z 50 2 Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "0",
+   "Dehaze": "-50"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1434",
+  "source_sha256": "a3314a026524396e603b461afc4fe61a8a5a3958232f3687bb1c8eca0dcbed93",
+  "profile_sha256": "f990ceb0a141baf0857068d2fbdbd747f8aa25a2ec12a0af27a183bdcadea71b",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "f3d6c49eb46891559bc7faf40669a01e7e691dc50251c6d8296321c9b54a7cf7",
+  "returned_xmp_sha256": "7b2a77499bbd57207513ac744dc0ac4ce367978c5072656e4e5160937fc00069",
+  "output_sha256": "bcf5fe1029a5cab6443c9c736c6469b00c225624395bc8c8ac268fda0343e1d9",
+  "pixels_sha256": "fd4c83c6c7111323ca2c27c3077f273bca979493e96067a8887f366aa0aa4eef",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "27ebc07443b6c6ec94a8693516e3bc34777f7e63dc6ed356957289fd36f266bc",
+  "output_dimensions": [
+   5568,
+   3712
+  ],
+  "reduced_dimensions": [
+   696,
+   464
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 8.270235066560856,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-50-hdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006868474038374766,
+   "max_abs_error": 0.0009762918697706624,
+   "floor": 0.0001,
+   "sha256": "ce8fdf8b7caa466c9d9cf7e30d2b4d50b2fe8a725837ffd82d2d76eafc1a709c"
+  },
+  "source": "raws/pixls/NIKON CORPORATION/NIKON Z50_2/DSC_0060_DX_Lossless.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "holdout",
+  "profile": "Nikon Z 50 2 Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "1",
+   "HDRMaxValue": "4.0",
+   "Dehaze": "-50"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1435",
+  "source_sha256": "a3314a026524396e603b461afc4fe61a8a5a3958232f3687bb1c8eca0dcbed93",
+  "profile_sha256": "f990ceb0a141baf0857068d2fbdbd747f8aa25a2ec12a0af27a183bdcadea71b",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "09fb5aab5421d98b052fcbebd7b281a9051ad6100fe9ad95a6014b83b2ad8f41",
+  "returned_xmp_sha256": "29c974c1b0b8e2a3c2f8c704462f5c554ee7ebf81f6730579218f06a000dd350",
+  "output_sha256": "ad273f1bc5ccee7280503787f3f14b7f3aff0c887c0a433d887966aeced60d8e",
+  "pixels_sha256": "5da56b0254e80c4fd005cccdf9e768fa71bf4d517ef6eb313252205f7dedf005",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "da6b74e572761457d42590624b12159077e0013d1c3edd43f6c5b4f85cb6d213",
+  "output_dimensions": [
+   5568,
+   3712
+  ],
+  "reduced_dimensions": [
+   696,
+   464
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-70-sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006544862113716805,
+   "max_abs_error": 0.00024414030949981846,
+   "floor": 0.0001,
+   "sha256": "c462c6f27ddc2a9a7d6c788bde96ea7a10561079250482faa3b5dbd82b94e994"
+  },
+  "source": "raws/pixls/NIKON CORPORATION/NIKON Z50_2/DSC_0060_DX_Lossless.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "holdout",
+  "profile": "Nikon Z 50 2 Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "0",
+   "Dehaze": "-70"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1436",
+  "source_sha256": "a3314a026524396e603b461afc4fe61a8a5a3958232f3687bb1c8eca0dcbed93",
+  "profile_sha256": "f990ceb0a141baf0857068d2fbdbd747f8aa25a2ec12a0af27a183bdcadea71b",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "3dc25be6f30db0f9891b607ccd611c870f6a84760c374095522fdbb153b43f9b",
+  "returned_xmp_sha256": "e418a38f65bd50aa5de31bca5d2bc53a93e4782a941173d7d045d999ea2e128d",
+  "output_sha256": "ba8e449df9f77d1539d15ccacbe2a555adb1e133186613ee608835c62cfe406f",
+  "pixels_sha256": "cf34fd217ec33cdff683b13f7a89437474078318da51e4295d4f34f17dfa2d99",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "46ac7ef5dd22be1f1ad16d3825e88109c18054f210149d2f131465527d24e854",
+  "output_dimensions": [
+   5568,
+   3712
+  ],
+  "reduced_dimensions": [
+   696,
+   464
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 8.060045693868174,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-70-hdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006573116798102224,
+   "max_abs_error": 0.0009765443007623276,
+   "floor": 0.0001,
+   "sha256": "f9b19da23670655c6a867b04408af410fe3d4dcba107ee2bb5f47704683a243f"
+  },
+  "source": "raws/pixls/NIKON CORPORATION/NIKON Z50_2/DSC_0060_DX_Lossless.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "holdout",
+  "profile": "Nikon Z 50 2 Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "1",
+   "HDRMaxValue": "4.0",
+   "Dehaze": "-70"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1437",
+  "source_sha256": "387d613e1f81e43a704bc349d7c64ef297880a8f306b001baf8be39856c532de",
+  "profile_sha256": "ed2660c8a8453d16b706386dd92d021dc8dbc9caec0968cd55ac168aae9b89f7",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "e939ae5c8390990a93095f9ac06cd014335ef268d0d38abfb62ccc858429194a",
+  "returned_xmp_sha256": "08b31a22e6b33c733a69925af87fb8800e77d52c32871163850c1b207d02ff06",
+  "output_sha256": "f27fb5292cf8c3331aeec28c2c9c4385eaaa31dcd615cf0e665cc0401fc67220",
+  "pixels_sha256": "9cb56a1055f9fd04e3674f267168778e251791f1c3a325f8625058cceb01277a",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "1ba000becb353e5427b44b6c5e653ecf1c25d98dd238cabc4387c03232f3cc72",
+  "output_dimensions": [
+   6048,
+   4032
+  ],
+  "reduced_dimensions": [
+   756,
+   504
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "C+75-sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006480172368115054,
+   "max_abs_error": 0.00024413911889809015,
+   "floor": 0.0001,
+   "sha256": "72dd2348959d09d13a667579f925f0f643cedfcee51a86212bcdcca77c43b141"
+  },
+  "source": "raws/pixls/NIKON CORPORATION/NIKON Z5_2/Lossless_compression_FX_1.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "holdout",
+  "profile": "Nikon Z 5 2 Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "0",
+   "Clarity2012": "+75"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1438",
+  "source_sha256": "387d613e1f81e43a704bc349d7c64ef297880a8f306b001baf8be39856c532de",
+  "profile_sha256": "ed2660c8a8453d16b706386dd92d021dc8dbc9caec0968cd55ac168aae9b89f7",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "469f03202256909373f30d57b2886b7a964f25b4667e751375f70bfc0f52791f",
+  "returned_xmp_sha256": "204fc2d25b6c94fbaa2238161b16182ef1d5fc6bbc1087a7bc92b76d0503ffa7",
+  "output_sha256": "92a218fa96b09833e1fa68f5a9cb9c8265123e820c5af88cae14468e67320377",
+  "pixels_sha256": "a63a158db6b5ef40246f77b75f0abea219f5d05c2ad74733daf49bd4d403a2ab",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "8b38919720fb5986811b3c53d0bd33a3117141653627e4c8777c156c563bba1e",
+  "output_dimensions": [
+   6048,
+   4032
+  ],
+  "reduced_dimensions": [
+   756,
+   504
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 10.986889622253319,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "C+75-hdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006541321961112972,
+   "max_abs_error": 0.0008687420547062175,
+   "floor": 0.0001,
+   "sha256": "072bc348ea9a1171a218f1024a4fca1805f2d9855ec10cee56649d03a73dc52f"
+  },
+  "source": "raws/pixls/NIKON CORPORATION/NIKON Z5_2/Lossless_compression_FX_1.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "holdout",
+  "profile": "Nikon Z 5 2 Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "1",
+   "HDRMaxValue": "4.0",
+   "Clarity2012": "+75"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1439",
+  "source_sha256": "387d613e1f81e43a704bc349d7c64ef297880a8f306b001baf8be39856c532de",
+  "profile_sha256": "ed2660c8a8453d16b706386dd92d021dc8dbc9caec0968cd55ac168aae9b89f7",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "fc9d8c138c8b451a5f1786ec17b9513083625b0c0bcba022a4fbdc7846e8ff4b",
+  "returned_xmp_sha256": "7c3fc0a2216f21baf860dba18c9a0f754345f7689c9ab14cb99449f5f3d2a786",
+  "output_sha256": "0dbd9e821c49172c7a9c4553edc8a629d69f04eae7390f688fa15db122b3943c",
+  "pixels_sha256": "f78f51ccdde27a89a439b4085bdcbb6f6690a5cf5bac893e702debb1682e5d51",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "72a89efd4beb7c9323b19edded855b0b3c71104ffba742dd0556d5caa62b2dee",
+  "output_dimensions": [
+   6048,
+   4032
+  ],
+  "reduced_dimensions": [
+   756,
+   504
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 0.9788188817237587,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-50-sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006472791858981829,
+   "max_abs_error": 0.00024413993346739105,
+   "floor": 0.0001,
+   "sha256": "ab77a2a0cc1cb212392a4c53737c09e6cf4afdebe68b3700cbc44f96c791c2aa"
+  },
+  "source": "raws/pixls/NIKON CORPORATION/NIKON Z5_2/Lossless_compression_FX_1.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "holdout",
+  "profile": "Nikon Z 5 2 Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "0",
+   "Dehaze": "-50"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1440",
+  "source_sha256": "387d613e1f81e43a704bc349d7c64ef297880a8f306b001baf8be39856c532de",
+  "profile_sha256": "ed2660c8a8453d16b706386dd92d021dc8dbc9caec0968cd55ac168aae9b89f7",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "f3d6c49eb46891559bc7faf40669a01e7e691dc50251c6d8296321c9b54a7cf7",
+  "returned_xmp_sha256": "be63357ae4b909723ee88b84b6f36d08255d9bc098456fa0e9ed99d596065f95",
+  "output_sha256": "aedac36f32aa2bc35539db347112d2277d09602d6289cdcf48d26471838ccd01",
+  "pixels_sha256": "aca0683612cfa0f8361552b871777c72ecfef0fa3b633825da44d75f4e01ba9f",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "58bdbce8d9f5169ea56714c71051fb2869b88842325d244461f00251b686c045",
+  "output_dimensions": [
+   6048,
+   4032
+  ],
+  "reduced_dimensions": [
+   756,
+   504
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 2.1568786601713343,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-50-hdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006340150306773304,
+   "max_abs_error": 0.00024414034280484387,
+   "floor": 0.0001,
+   "sha256": "6f5f3d27905cd6e5cde4c2d79f9a46d78d46b8e6d5bd1fb2e9a85400803c5b39"
+  },
+  "source": "raws/pixls/NIKON CORPORATION/NIKON Z5_2/Lossless_compression_FX_1.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "holdout",
+  "profile": "Nikon Z 5 2 Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "1",
+   "HDRMaxValue": "4.0",
+   "Dehaze": "-50"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1441",
+  "source_sha256": "387d613e1f81e43a704bc349d7c64ef297880a8f306b001baf8be39856c532de",
+  "profile_sha256": "ed2660c8a8453d16b706386dd92d021dc8dbc9caec0968cd55ac168aae9b89f7",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "09fb5aab5421d98b052fcbebd7b281a9051ad6100fe9ad95a6014b83b2ad8f41",
+  "returned_xmp_sha256": "54d580b8d69e4eb47f29de41b305a0d0c67ee434dda8d23e9e8cd6adee1a5c55",
+  "output_sha256": "85054769ad284697dbc921fc1feeb928cece866126e3747143274c851b8bbcbd",
+  "pixels_sha256": "87287470d0aa7c2f8b439aa43ecdb11a554f914574b870900007b4e43cddf528",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "7457f5b0a3a8d703cdf7c3c8452d82673f16acab8629186e00f3f097c7c6262b",
+  "output_dimensions": [
+   6048,
+   4032
+  ],
+  "reduced_dimensions": [
+   756,
+   504
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 0.9130328140405142,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-70-sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006447451059637612,
+   "max_abs_error": 0.00024414046802001543,
+   "floor": 0.0001,
+   "sha256": "d1d74dd59b3249c6f611bc9aaefd5f4d8608ce5d68424301a383c9d8158502ea"
+  },
+  "source": "raws/pixls/NIKON CORPORATION/NIKON Z5_2/Lossless_compression_FX_1.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "holdout",
+  "profile": "Nikon Z 5 2 Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "0",
+   "Dehaze": "-70"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1442",
+  "source_sha256": "387d613e1f81e43a704bc349d7c64ef297880a8f306b001baf8be39856c532de",
+  "profile_sha256": "ed2660c8a8453d16b706386dd92d021dc8dbc9caec0968cd55ac168aae9b89f7",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "3dc25be6f30db0f9891b607ccd611c870f6a84760c374095522fdbb153b43f9b",
+  "returned_xmp_sha256": "1e8fdc22de3fff56202dc3e55f679d97febe7245930d749a396d8a14095786d4",
+  "output_sha256": "29bbb56fa35a309328915876ec35af0eebaae4e8ecc3ac8603d0dc72ba5fd9f2",
+  "pixels_sha256": "56d4a0ca4aea87c867ac69dd8bc9c468cb7e448bcfc17838d2748abc9c65f6da",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "aa7437b15994c0f888455e4d559965a0717aefec344c1bdf3f3aa27b59fda639",
+  "output_dimensions": [
+   6048,
+   4032
+  ],
+  "reduced_dimensions": [
+   756,
+   504
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.4998973097179107,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-70-hdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006292513698428874,
+   "max_abs_error": 0.00024414035081832264,
+   "floor": 0.0001,
+   "sha256": "d275cf9b77e54e8e40a913ca3f2bb0fecb1fc864c45999b91ec241b28328b8ce"
+  },
+  "source": "raws/pixls/NIKON CORPORATION/NIKON Z5_2/Lossless_compression_FX_1.NEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "holdout",
+  "profile": "Nikon Z 5 2 Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "1",
+   "HDRMaxValue": "4.0",
+   "Dehaze": "-70"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1443",
+  "source_sha256": "4a10d20cf5d17087d75b7acd3d1fbdab66605505e9b7af62390f1948be4b09a5",
+  "profile_sha256": "95619c1c5418eba46d2c4da5c88d36d743f5a3e673c219b4e4024e2352255cc3",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "e939ae5c8390990a93095f9ac06cd014335ef268d0d38abfb62ccc858429194a",
+  "returned_xmp_sha256": "62c1f96af9d347e3b8e15d95081eb097f63f1153c2a3a943a26a788f3c9f8bdb",
+  "output_sha256": "9ecdc6d458395224c9e12aa413f706dea5e11638e8427a60d356bd11458c2cde",
+  "pixels_sha256": "c71f6eb580931ac76cf52bcc60e5a27fc88ea34506316e6f8c8a62e383303628",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "9c9e590918501f3fc008ad290fe821e3a65ef52087da178355cb8885d1021e00",
+  "output_dimensions": [
+   6000,
+   4000
+  ],
+  "reduced_dimensions": [
+   750,
+   500
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "C+75-sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006633277527882363,
+   "max_abs_error": 0.00024413976330062148,
+   "floor": 0.0001,
+   "sha256": "56e543528c25a4a88960de149cae42b478a67d3c6a28bd53dc7036250dce1dac"
+  },
+  "source": "raws/pixls/Panasonic/DC-S1M2ES/3_2_P1022959.RW2",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "holdout",
+  "profile": "Panasonic DC-S1M2ES Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "0",
+   "Clarity2012": "+75"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1444",
+  "source_sha256": "4a10d20cf5d17087d75b7acd3d1fbdab66605505e9b7af62390f1948be4b09a5",
+  "profile_sha256": "95619c1c5418eba46d2c4da5c88d36d743f5a3e673c219b4e4024e2352255cc3",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "469f03202256909373f30d57b2886b7a964f25b4667e751375f70bfc0f52791f",
+  "returned_xmp_sha256": "4bd791a6f7ce7dca7d1d2fbff2e33360ef6202928257c1ccd0325e1262a441a8",
+  "output_sha256": "7f2c5601f6f0cc953d098a5d3a9e1aadc507e65ea29dd408ae0dc362c2282626",
+  "pixels_sha256": "414ac610a01e590a6b2af08f3755029d4ae89f28c9ec80f289dedec313e5b5fe",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "6f47dc2f735e8fac2ace0cf5946e576a8fc4cddde0f4ba77a430855d08bd604d",
+  "output_dimensions": [
+   6000,
+   4000
+  ],
+  "reduced_dimensions": [
+   750,
+   500
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 12.029293107095999,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "C+75-hdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006476568838773023,
+   "max_abs_error": 0.0009763256358401584,
+   "floor": 0.0001,
+   "sha256": "629c2657b58a763fba92be8530bcfd6c9f948a1b916e0e6feb052962522896ea"
+  },
+  "source": "raws/pixls/Panasonic/DC-S1M2ES/3_2_P1022959.RW2",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "holdout",
+  "profile": "Panasonic DC-S1M2ES Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "1",
+   "HDRMaxValue": "4.0",
+   "Clarity2012": "+75"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1445",
+  "source_sha256": "4a10d20cf5d17087d75b7acd3d1fbdab66605505e9b7af62390f1948be4b09a5",
+  "profile_sha256": "95619c1c5418eba46d2c4da5c88d36d743f5a3e673c219b4e4024e2352255cc3",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "fc9d8c138c8b451a5f1786ec17b9513083625b0c0bcba022a4fbdc7846e8ff4b",
+  "returned_xmp_sha256": "16bfffdf0a2ba9a9b9bc5accfa57e19781bffc17ba3e184e333562b3bf72a7b8",
+  "output_sha256": "97dbd24dea9c2730870592b960d1e3ae94c309d8a084af9c4f0218cf56dcfdea",
+  "pixels_sha256": "99f7306a13379ab3d93bf2cdd9385867b25dd6055cdc05d7493c63830aedba3e",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "f044498c2176cc977f621fd2b1e892f171afd7feb86c69e500ce6a4d36119fb1",
+  "output_dimensions": [
+   6000,
+   4000
+  ],
+  "reduced_dimensions": [
+   750,
+   500
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 0.9691111198980334,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-50-sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006518370357041597,
+   "max_abs_error": 0.00024413917586674216,
+   "floor": 0.0001,
+   "sha256": "06ded93bacd53bdcba48a5e428ac071fc9040528da3f513dfc9839e21902d0ec"
+  },
+  "source": "raws/pixls/Panasonic/DC-S1M2ES/3_2_P1022959.RW2",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "holdout",
+  "profile": "Panasonic DC-S1M2ES Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "0",
+   "Dehaze": "-50"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1446",
+  "source_sha256": "4a10d20cf5d17087d75b7acd3d1fbdab66605505e9b7af62390f1948be4b09a5",
+  "profile_sha256": "95619c1c5418eba46d2c4da5c88d36d743f5a3e673c219b4e4024e2352255cc3",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "f3d6c49eb46891559bc7faf40669a01e7e691dc50251c6d8296321c9b54a7cf7",
+  "returned_xmp_sha256": "bcdbf1240bf9b631980aea00ade37132adc641daaa65381b14e0ad5cfdb39969",
+  "output_sha256": "e796b06844f832cb550a03a834cdc9012937c05b6bbe35833b3c9736ca27998c",
+  "pixels_sha256": "8a411939780c7409781ca6300ddefe282da1f51fa99e50ad2980e692c93f8870",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "989e47df0ad99cdca37fb2d8545a2ef4ff222180da201419ceb86fa804ffb4c7",
+  "output_dimensions": [
+   6000,
+   4000
+  ],
+  "reduced_dimensions": [
+   750,
+   500
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 3.369595752150884,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-50-hdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006477811610301188,
+   "max_abs_error": 0.0009764814875441452,
+   "floor": 0.0001,
+   "sha256": "d3e7741ae6b0845604f20285e166706c108cd886a00fb3da2704945bf735b9c8"
+  },
+  "source": "raws/pixls/Panasonic/DC-S1M2ES/3_2_P1022959.RW2",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "holdout",
+  "profile": "Panasonic DC-S1M2ES Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "1",
+   "HDRMaxValue": "4.0",
+   "Dehaze": "-50"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1447",
+  "source_sha256": "4a10d20cf5d17087d75b7acd3d1fbdab66605505e9b7af62390f1948be4b09a5",
+  "profile_sha256": "95619c1c5418eba46d2c4da5c88d36d743f5a3e673c219b4e4024e2352255cc3",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "09fb5aab5421d98b052fcbebd7b281a9051ad6100fe9ad95a6014b83b2ad8f41",
+  "returned_xmp_sha256": "62ea186c1501f025098cf6b6a20fde784c40b2da65820921ef857a8d8619e1eb",
+  "output_sha256": "a24d0f708de8e6c8a10b42c5e09cc8734c33717dd2d32b99b0c7e81ebe99cac7",
+  "pixels_sha256": "237f2d25ebd413fc8a9dad1589febb304a9cee8f6a2302d43349051a81d61665",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "763b89116444df73977eacd0ff18f4217d33e97e654fe02fab4c6b33a36e2dfc",
+  "output_dimensions": [
+   6000,
+   4000
+  ],
+  "reduced_dimensions": [
+   750,
+   500
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 0.9645502852821457,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-70-sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006293145007581486,
+   "max_abs_error": 0.00024414014829432507,
+   "floor": 0.0001,
+   "sha256": "f4bbd94abb787aab8f9d951659e940f7dc27f442fe2fc3a1dfbc961f9e39ad4b"
+  },
+  "source": "raws/pixls/Panasonic/DC-S1M2ES/3_2_P1022959.RW2",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "holdout",
+  "profile": "Panasonic DC-S1M2ES Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "0",
+   "Dehaze": "-70"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1448",
+  "source_sha256": "4a10d20cf5d17087d75b7acd3d1fbdab66605505e9b7af62390f1948be4b09a5",
+  "profile_sha256": "95619c1c5418eba46d2c4da5c88d36d743f5a3e673c219b4e4024e2352255cc3",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "3dc25be6f30db0f9891b607ccd611c870f6a84760c374095522fdbb153b43f9b",
+  "returned_xmp_sha256": "6b527c6e2b1ab17960310ffb4e2c64cd9ef0d42885376feb9528133041c0bb85",
+  "output_sha256": "8c73347d65c71366af5f2c71578fb125e21c8f1ef73cef8b34f2f1f0ac962319",
+  "pixels_sha256": "a7d688ad5365a0d97b934d0263a6c69e894085bcef1afa733b95cb0c3cb57b56",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "161c352fd62e6e15108ba91d5f513f2e4b4089477c322d90a79d52ca21409f40",
+  "output_dimensions": [
+   6000,
+   4000
+  ],
+  "reduced_dimensions": [
+   750,
+   500
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 3.0656329432225466,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-70-hdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006290439062764436,
+   "max_abs_error": 0.0009764163504328849,
+   "floor": 0.0001,
+   "sha256": "af9c47993fc7b29e66139f9133f6b273b6046425b8ab45389221c2902607a473"
+  },
+  "source": "raws/pixls/Panasonic/DC-S1M2ES/3_2_P1022959.RW2",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "holdout",
+  "profile": "Panasonic DC-S1M2ES Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "1",
+   "HDRMaxValue": "4.0",
+   "Dehaze": "-70"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1449",
+  "source_sha256": "48f2055ab497c687347eee84103d4f48deb016fff711d2810eaf1317e506f621",
+  "profile_sha256": "4e8e1cd0fc34b2ad3bf4e4a01c7d7494bc5f2f078b0dcb330a6df14b0e8e3eff",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "e939ae5c8390990a93095f9ac06cd014335ef268d0d38abfb62ccc858429194a",
+  "returned_xmp_sha256": "1ec7373f71df4e4805df88aa379ba54f99c42353ca8572e884f1438c83d386f0",
+  "output_sha256": "4a020eee5d4e2e0434f1c356456904800df000d6c475c2a4c46c4bbfa690416e",
+  "pixels_sha256": "d793cf86f107d81bf5932541ac5e84bd5f53b6d5fc44100a03bd8772850fbb1a",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "c6af67ead6239acce6183c392886bd45ae2506f43596f22cf4f1904760c8da43",
+  "output_dimensions": [
+   6240,
+   4160
+  ],
+  "reduced_dimensions": [
+   780,
+   520
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "C+75-sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006428222097955406,
+   "max_abs_error": 0.0002441400770758495,
+   "floor": 0.0001,
+   "sha256": "42bada7ede79287fcbf907be4446a6c719891addf72b1603bdd1732ee85cd5af"
+  },
+  "source": "raws/pixls/Fujifilm/X100V/DSCF0734.RAF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "holdout",
+  "profile": "Fujifilm X100V Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "0",
+   "Clarity2012": "+75"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1450",
+  "source_sha256": "48f2055ab497c687347eee84103d4f48deb016fff711d2810eaf1317e506f621",
+  "profile_sha256": "4e8e1cd0fc34b2ad3bf4e4a01c7d7494bc5f2f078b0dcb330a6df14b0e8e3eff",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "469f03202256909373f30d57b2886b7a964f25b4667e751375f70bfc0f52791f",
+  "returned_xmp_sha256": "520cac83fe023568a1d0f7f69dc11f096c08a80531efa721bcdc88dc833ca121",
+  "output_sha256": "e72726eb494be9f0006d21fac70467a878c516bb53ffa873910e17e7194e0a5a",
+  "pixels_sha256": "b29ff1cd22feb91c85294d1e865bacc935f0ab4ac91d1d06872a1b227440ec96",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "05e1d9652bfeaff18ab66c49a2b36f14f880979b73b6beedcc6f568a90e5be93",
+  "output_dimensions": [
+   6240,
+   4160
+  ],
+  "reduced_dimensions": [
+   780,
+   520
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 11.699572093234893,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "C+75-hdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006384961195513913,
+   "max_abs_error": 0.0019498049078983115,
+   "floor": 0.0001,
+   "sha256": "0e7bf7b4e54c03ef4960674f96f705315b214a71eed31e3e3300e2df0ad4d456"
+  },
+  "source": "raws/pixls/Fujifilm/X100V/DSCF0734.RAF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "holdout",
+  "profile": "Fujifilm X100V Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "1",
+   "HDRMaxValue": "4.0",
+   "Clarity2012": "+75"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1451",
+  "source_sha256": "48f2055ab497c687347eee84103d4f48deb016fff711d2810eaf1317e506f621",
+  "profile_sha256": "4e8e1cd0fc34b2ad3bf4e4a01c7d7494bc5f2f078b0dcb330a6df14b0e8e3eff",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "fc9d8c138c8b451a5f1786ec17b9513083625b0c0bcba022a4fbdc7846e8ff4b",
+  "returned_xmp_sha256": "c1cc6eb32d4028f8ae25967b94aa27f2c6ea89d75c2652bbb62cad196bdbf33f",
+  "output_sha256": "c197882f260a52bcf181b80fd9c40c0614078a6eaf80ec22cdf270f7714d7999",
+  "pixels_sha256": "faaad72fdb68a56702133ec42bdc9409fd31d035aef300c75610e0ac54c4acda",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "708f0a879b6f8f6e01a386f0725d99024787646f376c02511a8710f8be6bfe87",
+  "output_dimensions": [
+   6240,
+   4160
+  ],
+  "reduced_dimensions": [
+   780,
+   520
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-50-sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006428025526280643,
+   "max_abs_error": 0.0002441405693391907,
+   "floor": 0.0001,
+   "sha256": "7e396b28d835d8980ff1d85b39c3a3fd50a5bae2217337b32f3f144392db88e7"
+  },
+  "source": "raws/pixls/Fujifilm/X100V/DSCF0734.RAF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "holdout",
+  "profile": "Fujifilm X100V Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "0",
+   "Dehaze": "-50"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1452",
+  "source_sha256": "48f2055ab497c687347eee84103d4f48deb016fff711d2810eaf1317e506f621",
+  "profile_sha256": "4e8e1cd0fc34b2ad3bf4e4a01c7d7494bc5f2f078b0dcb330a6df14b0e8e3eff",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "f3d6c49eb46891559bc7faf40669a01e7e691dc50251c6d8296321c9b54a7cf7",
+  "returned_xmp_sha256": "d331b30f83225f7b5546ddea7491eed9facf6ac39e932192c7cacdfc9a5775ea",
+  "output_sha256": "ea54ad3b0920fce21d1788948c435e77272c199b5569573a79738c9ffd6ce78a",
+  "pixels_sha256": "5d625cc57426703490c48b47e6f2e1361961b4b9bb29794a4269f60778e8d030",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "cfa4977201b78aab9fbdfbdd01a26686f502c27751adf7b19320e4ee7ee83640",
+  "output_dimensions": [
+   6240,
+   4160
+  ],
+  "reduced_dimensions": [
+   780,
+   520
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 6.30666450488289,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-50-hdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.00064340135454856,
+   "max_abs_error": 0.0009759833185634115,
+   "floor": 0.0001,
+   "sha256": "ca02a51ebfb749735c3d55442556d343e14b3edf375451f86633925056e9b4e0"
+  },
+  "source": "raws/pixls/Fujifilm/X100V/DSCF0734.RAF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "holdout",
+  "profile": "Fujifilm X100V Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "1",
+   "HDRMaxValue": "4.0",
+   "Dehaze": "-50"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1453",
+  "source_sha256": "48f2055ab497c687347eee84103d4f48deb016fff711d2810eaf1317e506f621",
+  "profile_sha256": "4e8e1cd0fc34b2ad3bf4e4a01c7d7494bc5f2f078b0dcb330a6df14b0e8e3eff",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "09fb5aab5421d98b052fcbebd7b281a9051ad6100fe9ad95a6014b83b2ad8f41",
+  "returned_xmp_sha256": "d3f4a8dd0ffaa632ce747c4e3ece1fcc8a9dd85b23453ecb7151ac64c68ece6a",
+  "output_sha256": "b9a35bc4019794fbbc8df846f8a2efeeb46d20e2c699d89e3a6d0f44f267da51",
+  "pixels_sha256": "134ca59887a5db076c7aa44d27e6b17bff0b872d2ffc9a96c8780b41275a41f7",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "0b62a05b5dc2c1a8302f300510124288f517362a8fc0a5ca3ca1fd9c93c10948",
+  "output_dimensions": [
+   6240,
+   4160
+  ],
+  "reduced_dimensions": [
+   780,
+   520
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-70-sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006563387678301252,
+   "max_abs_error": 0.00024413851254723173,
+   "floor": 0.0001,
+   "sha256": "bd85cd314753c2497bfaf8a417198e457fc645f860ade6a25249b9b3a819ccff"
+  },
+  "source": "raws/pixls/Fujifilm/X100V/DSCF0734.RAF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "holdout",
+  "profile": "Fujifilm X100V Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "0",
+   "Dehaze": "-70"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1454",
+  "source_sha256": "48f2055ab497c687347eee84103d4f48deb016fff711d2810eaf1317e506f621",
+  "profile_sha256": "4e8e1cd0fc34b2ad3bf4e4a01c7d7494bc5f2f078b0dcb330a6df14b0e8e3eff",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "3dc25be6f30db0f9891b607ccd611c870f6a84760c374095522fdbb153b43f9b",
+  "returned_xmp_sha256": "b33aa3bcb64d0036dbb02ae6cd8df3e7d5df3468571a824cd279486412e1e894",
+  "output_sha256": "d8c4af22cf18cf35218370cdc20fd72d359c2bfc9f5806269129c821671a8e5e",
+  "pixels_sha256": "513e2b0d7223d081c6f1742737b28df9b5939f430132b9a7c406f67b245388c9",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "d6dd641f90dbb64f90570ccfa5329b1394ea915f40533fefa0d231f2e05f07e6",
+  "output_dimensions": [
+   6240,
+   4160
+  ],
+  "reduced_dimensions": [
+   780,
+   520
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 5.910411190863721,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-70-hdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.000650189105543411,
+   "max_abs_error": 0.0009765193768425107,
+   "floor": 0.0001,
+   "sha256": "4801e02ee02aacab46184747fbb65c8bf3f5495ce6fe0a0f59c08b32bf730f85"
+  },
+  "source": "raws/pixls/Fujifilm/X100V/DSCF0734.RAF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "holdout",
+  "profile": "Fujifilm X100V Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "1",
+   "HDRMaxValue": "4.0",
+   "Dehaze": "-70"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1455",
+  "source_sha256": "04918dfe85dc1da51f875d22030f39776e99ffa2af3d210b83659933234688fa",
+  "profile_sha256": "a35223d09219f5b90d077babe897b6a05eb611bf7d4deb28f7b763b127e1b121",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "e939ae5c8390990a93095f9ac06cd014335ef268d0d38abfb62ccc858429194a",
+  "returned_xmp_sha256": "ba1d2a6c9f1e4ffc79b1e91a48afa18d748d55f5e568ce802bbc6db2a12a5e38",
+  "output_sha256": "9a0cb22abf49f7c1235ae91aab9d6bbfdbdbf5f87a3c88d426aaadb01f3b4b46",
+  "pixels_sha256": "38629cd1b34135120efa20023b54629274d60b3b54f6ad1e193147df95213fe6",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "09fc1d26324e899e2be8f2058e6319418670e3c4ea2c6122a925b17cb03c1707",
+  "output_dimensions": [
+   9504,
+   6336
+  ],
+  "reduced_dimensions": [
+   1188,
+   792
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "C+75-sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006562888403414659,
+   "max_abs_error": 0.0002441402808748272,
+   "floor": 0.0001,
+   "sha256": "1071e0b979f5e334c413703f395046775f7cf0c31b7f510caeb8d8a27ed75f69"
+  },
+  "source": "raws/pixls/Sony/ILCE-7RM4/DSC00395.ARW",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "holdout",
+  "profile": "Sony ILCE-7RM4 Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "0",
+   "Clarity2012": "+75"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1456",
+  "source_sha256": "04918dfe85dc1da51f875d22030f39776e99ffa2af3d210b83659933234688fa",
+  "profile_sha256": "a35223d09219f5b90d077babe897b6a05eb611bf7d4deb28f7b763b127e1b121",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "469f03202256909373f30d57b2886b7a964f25b4667e751375f70bfc0f52791f",
+  "returned_xmp_sha256": "ba3b5efe621b0de8e1530d6d28dbf2aa265fc56c1c63236b87c53503e9bd2d80",
+  "output_sha256": "20dfb0e055a30dcc3a12d2d7efe362ceef180fc287d434099297132efa4f53c1",
+  "pixels_sha256": "b377aaeb3ddf42ed3ce7c254e6e1b93c735b3c7e51610cac63e4d1ca889e0a24",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "80395781580403d2f92a492d27898ded1a63771288ec2f3749bcf55b445d036c",
+  "output_dimensions": [
+   9504,
+   6336
+  ],
+  "reduced_dimensions": [
+   1188,
+   792
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 13.362236736654866,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "C+75-hdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006583247907103255,
+   "max_abs_error": 0.0024224622606929813,
+   "floor": 0.0001,
+   "sha256": "12b16592987a6dd3269c22c63c5caaaea47709d9138dcb2209319d1d4bc46b4c"
+  },
+  "source": "raws/pixls/Sony/ILCE-7RM4/DSC00395.ARW",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "holdout",
+  "profile": "Sony ILCE-7RM4 Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "1",
+   "HDRMaxValue": "4.0",
+   "Clarity2012": "+75"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1457",
+  "source_sha256": "04918dfe85dc1da51f875d22030f39776e99ffa2af3d210b83659933234688fa",
+  "profile_sha256": "a35223d09219f5b90d077babe897b6a05eb611bf7d4deb28f7b763b127e1b121",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "fc9d8c138c8b451a5f1786ec17b9513083625b0c0bcba022a4fbdc7846e8ff4b",
+  "returned_xmp_sha256": "92d1bfa3970a9fff7078721ca825c918ea5f134b491dc31fdb46d350bca85236",
+  "output_sha256": "be54a9fa957a26bdcd26c91aa1093fd1d86bd254e7703fcb6b2ec8cc4c15fb81",
+  "pixels_sha256": "3965c5ca750f669f59407a4e1fd57fde60cf6c5fb06455fc314552ac4f28e5b3",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "0930a6c17db81c0e8e7bbcb3920ce62b6d76ff7615ccb129d31e8a7369c38681",
+  "output_dimensions": [
+   9504,
+   6336
+  ],
+  "reduced_dimensions": [
+   1188,
+   792
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-50-sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006347140070747937,
+   "max_abs_error": 0.00024414059731436843,
+   "floor": 0.0001,
+   "sha256": "c8e1e941c3750dd9fae5c079013cd1f8cf75f44c6bae035c629fb3eadd969771"
+  },
+  "source": "raws/pixls/Sony/ILCE-7RM4/DSC00395.ARW",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "holdout",
+  "profile": "Sony ILCE-7RM4 Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "0",
+   "Dehaze": "-50"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1458",
+  "source_sha256": "04918dfe85dc1da51f875d22030f39776e99ffa2af3d210b83659933234688fa",
+  "profile_sha256": "a35223d09219f5b90d077babe897b6a05eb611bf7d4deb28f7b763b127e1b121",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "f3d6c49eb46891559bc7faf40669a01e7e691dc50251c6d8296321c9b54a7cf7",
+  "returned_xmp_sha256": "778a3839e5fe97eb0ee99072e794c52252b345dacd9eb11f65355fe9acc17e5d",
+  "output_sha256": "4cf03e14a315a983b03d1057a25a52a3b0d8f29b11e0c47a457435b636b3e4e2",
+  "pixels_sha256": "b4dd6fce88a4f999708ded0dab9db6e89eee1a920af166fbb5b3cf43c317fd0c",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "cd25b3a18edaf02010916107a996b01725bda5f098c379aa82be7fc722645f02",
+  "output_dimensions": [
+   9504,
+   6336
+  ],
+  "reduced_dimensions": [
+   1188,
+   792
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 7.939181367244831,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-50-hdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006456765429780603,
+   "max_abs_error": 0.0016557553554710225,
+   "floor": 0.0001,
+   "sha256": "afd41ffb72cf6effb755cee21bdc474c5381034e1c9d381ceafc79b5db2aaa1d"
+  },
+  "source": "raws/pixls/Sony/ILCE-7RM4/DSC00395.ARW",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "holdout",
+  "profile": "Sony ILCE-7RM4 Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "1",
+   "HDRMaxValue": "4.0",
+   "Dehaze": "-50"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1459",
+  "source_sha256": "04918dfe85dc1da51f875d22030f39776e99ffa2af3d210b83659933234688fa",
+  "profile_sha256": "a35223d09219f5b90d077babe897b6a05eb611bf7d4deb28f7b763b127e1b121",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "09fb5aab5421d98b052fcbebd7b281a9051ad6100fe9ad95a6014b83b2ad8f41",
+  "returned_xmp_sha256": "2c8c136ad638c19ad368bc9b24ff7ffd3a24da474d2341c28d2499df189a5e41",
+  "output_sha256": "a750564162931d75717e87f7cc925f11c5d74ebe6883e16fa0944f7a717db0a8",
+  "pixels_sha256": "5b471aa8208113458d898a0041638f756823e34fa98f61f04b8e2005244970ba",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "f41eebda6c95a281f3a6ff7fdb334dbca720e6a3be586859237d8a5709a284ad",
+  "output_dimensions": [
+   9504,
+   6336
+  ],
+  "reduced_dimensions": [
+   1188,
+   792
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-70-sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006345731897241674,
+   "max_abs_error": 0.00024414052588173085,
+   "floor": 0.0001,
+   "sha256": "7b6a319a694e3d392e691b587be06d4d548d68e2a7e286e0b0a38d9f028c1369"
+  },
+  "source": "raws/pixls/Sony/ILCE-7RM4/DSC00395.ARW",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "holdout",
+  "profile": "Sony ILCE-7RM4 Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "0",
+   "Dehaze": "-70"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1460",
+  "source_sha256": "04918dfe85dc1da51f875d22030f39776e99ffa2af3d210b83659933234688fa",
+  "profile_sha256": "a35223d09219f5b90d077babe897b6a05eb611bf7d4deb28f7b763b127e1b121",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "3dc25be6f30db0f9891b607ccd611c870f6a84760c374095522fdbb153b43f9b",
+  "returned_xmp_sha256": "d70f3de91203d50d2f570372d87ebced6974edc5d5e47835bf428551878f961e",
+  "output_sha256": "a5a6dbef131380f1fde6a53294a7b95af100f84941d412f1137ba76badd90661",
+  "pixels_sha256": "f89ed80cd6babf2313ea3ecb8e4a647a155c72827603b9589f74322259a98a16",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "5e65d1377faa5b3cfbcdc1e485885fd41dcf5131f4293907cdc12cd8e52a02b0",
+  "output_dimensions": [
+   9504,
+   6336
+  ],
+  "reduced_dimensions": [
+   1188,
+   792
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 7.74610355589072,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-70-hdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006406719684737386,
+   "max_abs_error": 0.0016620447871815713,
+   "floor": 0.0001,
+   "sha256": "f6297ad582e3e1867ad6de4950da3d1bde503475719d40898f2a6890ed1920dd"
+  },
+  "source": "raws/pixls/Sony/ILCE-7RM4/DSC00395.ARW",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "holdout",
+  "profile": "Sony ILCE-7RM4 Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "1",
+   "HDRMaxValue": "4.0",
+   "Dehaze": "-70"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1461",
+  "source_sha256": "fe2330254c5313d4dde97cbd01e2987f6f1137f1c9c687d30e951f4668979381",
+  "profile_sha256": "b76ac32308197bb0f8ea7ce2c57c7d6eab69b8390b9c0f00122f3709a326469e",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "e939ae5c8390990a93095f9ac06cd014335ef268d0d38abfb62ccc858429194a",
+  "returned_xmp_sha256": "e88cea61d1e2b2081b7129d4318d90e6f271161f21333b64258dd3d13fb959ed",
+  "output_sha256": "6e6ffe6f2fa7e0a57601dc4857849440c80b871d7fdf9ed53533c4e8e48b5494",
+  "pixels_sha256": "9f05a76d34610885528a78ec134565996ecf753f958125bb44cae164b90f5b2a",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "a0d67283a64f910cbeaa1ae80acc5043a105ee2dbcedc7710e9736ebdd238c4d",
+  "output_dimensions": [
+   4800,
+   3200
+  ],
+  "reduced_dimensions": [
+   600,
+   400
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.0,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "C+75-sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006645035142490628,
+   "max_abs_error": 0.0002441376997379674,
+   "floor": 0.0001,
+   "sha256": "857f9d01bfb415c8cf49cf7a861698ce90ae0d5addf7544ff69e45323f1e8c52"
+  },
+  "source": "raws/pixls/Pentax/K-1 Mark II/_K1I9785.PEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "holdout",
+  "profile": "Pentax K-1 Mark II Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "0",
+   "Clarity2012": "+75"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1462",
+  "source_sha256": "fe2330254c5313d4dde97cbd01e2987f6f1137f1c9c687d30e951f4668979381",
+  "profile_sha256": "b76ac32308197bb0f8ea7ce2c57c7d6eab69b8390b9c0f00122f3709a326469e",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "469f03202256909373f30d57b2886b7a964f25b4667e751375f70bfc0f52791f",
+  "returned_xmp_sha256": "e17f1aa4d9605319882f782a67be815bbe71b9bec7bdb25ef6d26463c9a8c441",
+  "output_sha256": "687fa37f844806dd79679cd8a0df245a85b37612116edf8697a5a17e68ec6e41",
+  "pixels_sha256": "d5ed049f72486d78600ef570eef762cf50bed542bcdb989cc36caa76898f206f",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "41311611d325b4bef15bf1be0538e47be055c11a8b1ce8fd92b1a0289c489c8c",
+  "output_dimensions": [
+   4800,
+   3200
+  ],
+  "reduced_dimensions": [
+   600,
+   400
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 6.650867414860647,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "C+75-hdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006488929257663687,
+   "max_abs_error": 0.00048827969856923836,
+   "floor": 0.0001,
+   "sha256": "9594adc310858fd361597ec1e031707637b5724cc734d17de61f805f7edcee33"
+  },
+  "source": "raws/pixls/Pentax/K-1 Mark II/_K1I9785.PEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "holdout",
+  "profile": "Pentax K-1 Mark II Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "1",
+   "HDRMaxValue": "4.0",
+   "Clarity2012": "+75"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1463",
+  "source_sha256": "fe2330254c5313d4dde97cbd01e2987f6f1137f1c9c687d30e951f4668979381",
+  "profile_sha256": "b76ac32308197bb0f8ea7ce2c57c7d6eab69b8390b9c0f00122f3709a326469e",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "fc9d8c138c8b451a5f1786ec17b9513083625b0c0bcba022a4fbdc7846e8ff4b",
+  "returned_xmp_sha256": "311252fdda3dce66432adadd0061a54480641da2ae220050d1d5f9beb9ac5ff3",
+  "output_sha256": "fa460b8bc058e6100c897cc6466fb613750181ed69499aa76d12e1893fb7b026",
+  "pixels_sha256": "c9b4d0c3c9c5cdb1d94262ad55939cf457fe6ba4f007f4bcb5780873983d94f7",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "172b88a2f4deadd114510afad28d8060bbf11dcf44029b110a9268f33644e2fd",
+  "output_dimensions": [
+   4800,
+   3200
+  ],
+  "reduced_dimensions": [
+   600,
+   400
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 0.9957010566381802,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-50-sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006459529167031737,
+   "max_abs_error": 0.0002441377299257086,
+   "floor": 0.0001,
+   "sha256": "15e1967f8979509919a06d36923b93abe1fcdd143280792bcc23a14a4e0dd5ff"
+  },
+  "source": "raws/pixls/Pentax/K-1 Mark II/_K1I9785.PEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "holdout",
+  "profile": "Pentax K-1 Mark II Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "0",
+   "Dehaze": "-50"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1464",
+  "source_sha256": "fe2330254c5313d4dde97cbd01e2987f6f1137f1c9c687d30e951f4668979381",
+  "profile_sha256": "b76ac32308197bb0f8ea7ce2c57c7d6eab69b8390b9c0f00122f3709a326469e",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "f3d6c49eb46891559bc7faf40669a01e7e691dc50251c6d8296321c9b54a7cf7",
+  "returned_xmp_sha256": "a39cf85d562f0664a98fd41811cc9ae496d2fb76fcee84284fd3d49761b9f498",
+  "output_sha256": "2bb49b681cb7471911f60dc6d818520493be6ba07dc7cd6de34997bded732b91",
+  "pixels_sha256": "10bcbfb67cb87f8d5e73dfb2c75063c55936550e130adbf552931cc1e1f31cb2",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "c5d79701b27b61e756052e3ad690726f5483d291f44bc1d97f645c097ba86c79",
+  "output_dimensions": [
+   4800,
+   3200
+  ],
+  "reduced_dimensions": [
+   600,
+   400
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.761710394730951,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-50-hdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006519726902082785,
+   "max_abs_error": 0.00048824906594435724,
+   "floor": 0.0001,
+   "sha256": "9562e5802d324e6b13b5032e39ac8d8c75c056a7fef513e7694f7c06e9d57a3a"
+  },
+  "source": "raws/pixls/Pentax/K-1 Mark II/_K1I9785.PEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "holdout",
+  "profile": "Pentax K-1 Mark II Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "1",
+   "HDRMaxValue": "4.0",
+   "Dehaze": "-50"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1465",
+  "source_sha256": "fe2330254c5313d4dde97cbd01e2987f6f1137f1c9c687d30e951f4668979381",
+  "profile_sha256": "b76ac32308197bb0f8ea7ce2c57c7d6eab69b8390b9c0f00122f3709a326469e",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "09fb5aab5421d98b052fcbebd7b281a9051ad6100fe9ad95a6014b83b2ad8f41",
+  "returned_xmp_sha256": "3a53b7c6a370522f01cdc59d2a14de53efc78390b808d0182923c23f9f0808a0",
+  "output_sha256": "9193b660524811d105d923b42fe95eb02638d2dbf0cb9255163b62f7d9dbd3b8",
+  "pixels_sha256": "6d07a6dc38d7af6e6e3c757172bdd99bef371c4cf67574fae7bedfe22c258d22",
+  "output_icc_sha256": "7e1c7ec53e8ea35fed3e169dee62115ac045f26c7bc256fab16a5c26c29eacbd",
+  "linear_sha256": "fd13e35edd90b5b4607266cee8492a74c1b4d8116fb3b8c448a8d61a72d39cd7",
+  "output_dimensions": [
+   4800,
+   3200
+  ],
+  "reduced_dimensions": [
+   600,
+   400
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "sRGB",
+  "reference_white_nits": 203,
+  "max_reference_white": 0.9908603906001379,
+  "photoshop_output_profile": "Display P3",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-70-sdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006448931858143975,
+   "max_abs_error": 0.00024413915326482183,
+   "floor": 0.0001,
+   "sha256": "2f0ddf3fce7a349fcac2492cc17bb76514446a6e7ee42c76631c3a399c03ecee"
+  },
+  "source": "raws/pixls/Pentax/K-1 Mark II/_K1I9785.PEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "holdout",
+  "profile": "Pentax K-1 Mark II Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "0",
+   "Dehaze": "-70"
+  },
+  "curves": null,
+  "look": null
+ },
+ {
+  "id": "1466",
+  "source_sha256": "fe2330254c5313d4dde97cbd01e2987f6f1137f1c9c687d30e951f4668979381",
+  "profile_sha256": "b76ac32308197bb0f8ea7ce2c57c7d6eab69b8390b9c0f00122f3709a326469e",
+  "camera_raw": "18.7",
+  "process_version": "15.4",
+  "requested_xmp_sha256": "3dc25be6f30db0f9891b607ccd611c870f6a84760c374095522fdbb153b43f9b",
+  "returned_xmp_sha256": "ad1c6770ff741ea2f238f31f9e999f3e80161a32f8938da8dea578ade4207558",
+  "output_sha256": "7cc6a3844772b5d79c5e56cd6e5d240f50f1cb7e7bc68f1e798446326c1fd9e9",
+  "pixels_sha256": "bccca462b834fac8a69150df00e9276fd419d1f202c35b69e13e5781530fffba",
+  "output_icc_sha256": "0a5a2759bf051710953e92388aa434137fc14a8a48a6afabecb78e47d694e271",
+  "linear_sha256": "cae6d06d176ae0f1bfa62f41acd778c2a9769396b0efa10d714fe802d41a72a4",
+  "output_dimensions": [
+   4800,
+   3200
+  ],
+  "reduced_dimensions": [
+   600,
+   400
+  ],
+  "resampling": {
+   "method": "nonoverlapping area mean; partial edge blocks retained",
+   "factor": 8,
+   "domain": "linear Display P3 D65"
+  },
+  "output_transfer": "ST2084",
+  "reference_white_nits": 203,
+  "max_reference_white": 1.7347508004547227,
+  "photoshop_output_profile": "P3 PQ",
+  "returned_profile": "Adobe Standard",
+  "tags": [
+   "D-70-hdr"
+  ],
+  "storage": {
+   "dtype": "float16",
+   "format": "npz (zip deflate), key \"linear\"",
+   "max_luminance_error_stops": 0.0006411207776471212,
+   "max_abs_error": 0.00048827469654821876,
+   "floor": 0.0001,
+   "sha256": "c705e1fe503d54dc99030794f8426374a235afc6c6a9ae7c74384e5b7d2e0e49"
+  },
+  "source": "raws/pixls/Pentax/K-1 Mark II/_K1I9785.PEF",
+  "licence": "CC0-1.0, raw.pixls.us",
+  "split": "holdout",
+  "profile": "Pentax K-1 Mark II Adobe Standard.dcp",
+  "settings": {
+   "CameraProfile": "Adobe Standard",
+   "HDREditMode": "1",
+   "HDRMaxValue": "4.0",
+   "Dehaze": "-70"
+  },
+  "curves": null,
+  "look": null
  }
 ]
