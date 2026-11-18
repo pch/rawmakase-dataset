@@ -1,8 +1,8 @@
 {
  "camera_raw": "18.7",
- "gate_commit": "0f575fba73e02667cb444bde60a56f266c6d573c",
- "script_commit": "f6db03bfd3449e926040e787c1f9e681af34660c",
- "pool_query": "SELECT 'raws/pixls/' || p.path FROM photos p JOIN descriptions d USING (sha256)\nWHERE p.source = 'pixls' AND p.in_scope AND p.parity_use = 'good' AND p.license = 'CC0-1.0' AND p.rawmakase_ok = 1\n  AND json_extract(d.description, '$.same_scene_as') IS NULL\n  AND lower(substr(p.path, -3)) IN ('arw', 'raf', 'nef', 'nrw', 'cr2', 'cr3', 'dng', 'orf', 'rw2', 'pef', 'rwl')\nORDER BY p.sha256",
+ "gate_commit": "3806c5469455232b62db67633aa3564a4be2a32b",
+ "script_commit": "065c0bcbd5bf8e8e23fbf1c82c0fdee599267926",
+ "pool_query": "SELECT 'raws/pixls/' || p.path FROM photos p JOIN descriptions d USING (sha256)\nWHERE p.source = 'pixls' AND p.in_scope AND (p.parity_use = 'good' AND p.rawmakase_ok = 1) AND p.license = 'CC0-1.0' AND p.rawmakase_ok = 1\n  AND json_extract(d.description, '$.same_scene_as') IS NULL\n  AND lower(substr(p.path, -3)) IN ('arw', 'raf', 'nef', 'nrw', 'cr2', 'cr3', 'dng', 'orf', 'rw2', 'pef', 'rwl')\nORDER BY p.sha256",
  "pool": {
   "photos": 433,
   "sha256": "2313a10ba22b9f954a93de24b40b1f9f57eb05b790bf67d7d3d9f5414e733790"
@@ -47,6 +47,9 @@
   "mixed-holdout": "ee65731ccf7c78d9c7a7d9506754c5c0a33d895de9211fa678d335e3b3d6441b",
   "mixed-train": "6e2594be373def9b9174fa34648e9e744a2be321626b865347ea446809d5b3e8",
   "mixed-validation": "50ad3f5a212b0c339fa0501107575f68ce41e85252efc4a609874293039088f4",
+  "pairs-holdout": "849a70ac5167bfb86cdbd0e66015e8895d8b3cabcbabe4d819fc02716b6c44c3",
+  "pairs-train": "c5d42e1870c836934c00ba01145c449943829fd01c2bc151c1f2d776db2438f0",
+  "pairs-validation": "9f2bef1d3efa894f518911ef4864df4fe1ed66e7463710e92617685d2065d781",
   "shadows-holdout": "afecfddd537c6d0b15eec06b66c6b643f9ced286c9564c6a745ea11d06275da3",
   "shadows-train": "b37440badbaccba30d2d02024b5d245a9455b4c9e394315598e83e7652529a6b",
   "shadows-validation": "3aae6f4016f1e80ef3431f00672f9afaf3883748ec23f7f403cf297a123b4caa",
@@ -58,5 +61,6 @@
   "whites-validation": "69df38ae7e4c99137d1e531c3f9bb9b41c0c9c5cdec7bc99134791fa494c7d86"
  },
  "script_commit_note": "script_commit is a pch/rawmakase commit: the script moved to this repository afterwards",
- "source": "pixls"
+ "source": "pixls",
+ "suite": "general"
 }
