@@ -1,6 +1,6 @@
 # RAWmakase dataset
 
-A classified copy of the whole [raw.pixls.us](https://raw.pixls.us/) archive (about 2,000 samples, 56 GB) and of Signature Edits' free RAW photos (823, private), for choosing test photos for [RAWmakase](https://github.com/pch/rawmakase) by camera, exposure, measured tone and scene, plus frozen Camera Raw reference renders for its scene-tone gate.
+A classified copy of the whole [raw.pixls.us](https://raw.pixls.us/) archive (about 2,000 samples, 56 GB), of Signature Edits' free RAW photos (823, private) and of exposure brackets posted to discuss.pixls.us (21 files, for Merge to HDR), for choosing test photos for [RAWmakase](https://github.com/pch/rawmakase) by camera, exposure, measured tone and scene, plus frozen Camera Raw reference renders for its scene-tone gate.
 
 A clone of this repository is the dataset folder. It carries the metadata: the database (`data/dataset.sqlite`), the raw.pixls.us listing it was built from (`index/`) and the Camera Raw reference sets' recipes and manifests (`references/`). The RAW files, previews and renders are made locally and never committed. Stored paths are relative to the clone.
 
@@ -13,7 +13,7 @@ git clone https://github.com/pch/rawmakase-dataset.git && cd rawmakase-dataset
 ./setup.sh
 ```
 
-`setup.sh` clones raw.pixls.us' RAW files into `raws/pixls/` at the commit the database was built from (`index/pixls-commit`; `--latest` takes today's), downloads Signature Edits' RAWs (`--no-signature-edits` skips them), checks every file's SHA-256, copies the database to a working `dataset.sqlite` and makes previews and thumbnails. It needs git, git-lfs, exiftool and Python 3.10+, takes about 76 GB, and resumes where it stopped.
+`setup.sh` clones raw.pixls.us' RAW files into `raws/pixls/` at the commit the database was built from (`index/pixls-commit`; `--latest` takes today's), downloads Signature Edits' RAWs (`--no-signature-edits` skips them) and the discuss.pixls.us brackets, checks every file's SHA-256, copies the database to a working `dataset.sqlite` and makes previews and thumbnails. It needs git, git-lfs, exiftool and Python 3.10+, takes about 76 GB, and resumes where it stopped.
 
 ## Building it from scratch
 
@@ -34,6 +34,7 @@ $py snapshot                          # the working database -> data/dataset.sql
 | raw.pixls.us | 2,016 (1,008 from cameras announced 2016 or later) | 948 | 946 | 791 |
 | Signature Edits (private) | 823 (831 files; 31 gallery files rejected: JPEGs named like RAWs, DNGs made from JPEGs or TIFFs) | 823 | 821 | 772 |
 | The owner's photos (private, local only) | 105 | 105 | 105 | 103 |
+| discuss.pixls.us Play Raw (added 2026-11-18) | 21: 19 frames of 5 exposure brackets, 2 of their authors' HDRMerge outputs | 21 | 21 | 18 |
 
 Camera Raw 18.7 references, every one checked against the settings Camera Raw applied and frozen with its hash (13,287 references, 0 skipped):
 
@@ -55,10 +56,25 @@ Camera Raw 18.7 HDR references (CC0 raw.pixls.us and synthetic only) are kept ap
 | [Signature Edits free RAW photos](https://www.signatureedits.com/free-raw-photos/) | `raws/signature-edits/` | [Free Raw Files license](https://www.signatureedits.com/free-raw-license-terms/): free to use, not to redistribute or compile into a similar service; no rights to recognizable people's likeness | **Never**: local tests only |
 | The dataset owner's photos | `raws/own/` (placed by hand) | Private | **Never**, and kept out of the committed database snapshot |
 | Files attached to [RAWmakase issues](https://github.com/pch/rawmakase/issues) | `raws/reports/issue-<n>/` (placed by hand; `index-folder --source reports`) | The reporters': for reproducing their reports only | **Never**, and kept out of the committed database snapshot |
+| [discuss.pixls.us](https://discuss.pixls.us/c/processing/play-raw/30) threads, Play Raw mostly | `raws/play-raw/<bracket>/` (`dataset.py play-raw`) | Per file, as the author licenses it in the thread's opening post: CC BY-SA 4.0 so far; a file the post does not cover has the forum's default CC BY-NC-SA 4.0 ([terms](https://discuss.pixls.us/tos), section 3). Credit the author and link the thread | Yes, with attribution and the same license |
 
 Signature Edits adds what raw.pixls.us lacks, people above all. `dataset.py signature-edits` lists the four galleries on their page through the page's own gallery plugin and downloads each RAW through its Download action, one at a time with a pause; `index/signature-edits.json` records every file's Drive id, original name, file name in `raws/signature-edits/` (the original name; a name two files share gets the Drive id appended), size and SHA-256, so a redownload is checked against it. The plugin's request format may change, in which case the command needs updating. The `sources` table records each source's terms and whether it is publishable; a public release must leave out every sample, measurement and description of an unpublishable source.
 
 Files of `rejected` entries in `index/signature-edits.json` (JPEGs in the galleries named like RAWs) are not downloaded again. `dataset.py index-folder` indexes the owner's photos from `raws/own/`; `snapshot` writes no row of that source, so only the machine that has the photos knows about them. The camera-age scope (`in_scope`: announced in 2016 or later) narrows raw.pixls.us only; every Signature Edits and own photo is in scope.
+
+### Exposure brackets (discuss.pixls.us)
+
+Real RAW brackets, for developing and checking Merge to HDR; raw.pixls.us and the other sources have none (checked 2026-11-18 by grouping every file by body and capture time). `index/play-raw.json` is curated by hand: for each bracket the thread, its author's username, the license with the opening post's statement quoted, notes (EV steps, tripod or handheld, motion, clipping, license caveats) and each file's download URL, size, SHA-256, exposure and `role`. A `frame` is one exposure of the bracket; a `comparison` is the author's own merge, kept in the bracket's `comparison/` folder to compare against and never a frame. `dataset.py play-raw` downloads what is missing (some uploads come back as `text/html`; the SHA-256 decides), checks each file against its hash and indexes them; add a bracket by adding its thread to the listing.
+
+| Bracket | Camera | Frames (EV against the middle frame) | Support | Author |
+|---|---|---|---|---|
+| [`39443-piney-sunrise`](https://discuss.pixls.us/t/39443) | Canon EOS Rebel T8i | 0, −2, +2 (shutter) | tripod | lphilpot |
+| [`39864-hdr-colours-xtrans`](https://discuss.pixls.us/t/39864) | Fujifilm X-T4 (X-Trans) | −1.44, 0, +1.13 (shutter and ISO); HDRMerge output | handheld | gigaturbo |
+| [`21441-car-at-sunrise`](https://discuss.pixls.us/t/21441) | Nikon D750 | 0, −2, −1, +1, +2 (shutter) | handheld | zhopudey |
+| [`29470-hdr-scenery`](https://discuss.pixls.us/t/29470) | Panasonic DMC-GX80 | −1, 0, +1 (shutter); HDRMerge output | handheld, people walking | Newerth |
+| [`54315-cave-grand-canyon`](https://discuss.pixls.us/t/54315) | Panasonic DMC-GH3 | 0, −0.32, +0.36, −0.64, +0.68 (ISO only, 1/60 s) | handheld | daithi |
+
+All files are CC BY-SA 4.0 except the GX80 HDRMerge output, whose post licenses only "the raws" (forum default, CC BY-NC-SA 4.0). The T8i files' EXIF copyright says "All Rights Reserved"; the author's explicit CC BY-SA grant in the post is what the dataset relies on.
 
 ## What is in the database
 
@@ -94,6 +110,7 @@ The Camera Raw 18.7 sets hold 2,345 references of 143 photos (1,073 train, 618 v
 
 - **[raw.pixls.us](https://raw.pixls.us/)**, the raw sample archive run by the [PIXLS.US](https://pixls.us/) community, and its many contributors, who donated the samples. raw.pixls.us lists each sample's contributor and license; CC BY-NC-SA samples must be credited as it states.
 - **[Signature Edits](https://www.signatureedits.com/free-raw-photos/)** for its free RAW photos, used under its [Free Raw Files license](https://www.signatureedits.com/free-raw-license-terms/).
+- The **[discuss.pixls.us](https://discuss.pixls.us/)** members who shared their brackets under CC BY-SA 4.0: lphilpot, gigaturbo, zhopudey, Newerth and daithi (threads linked above).
 
 This repository adds classifications and measurements, not photos.
 
@@ -136,4 +153,4 @@ Selection regression tests need only Python's standard library:
 
 ## Licenses
 
-The scripts are MIT licensed (see [LICENSE](LICENSE)). raw.pixls.us samples are CC0 or CC BY-NC-SA, per sample; use CC0 samples for anything published. The license of published dataset files is not decided yet, and nothing derived from private sources (the owner's photos) is ever published.
+The scripts are MIT licensed (see [LICENSE](LICENSE)). raw.pixls.us samples are CC0 or CC BY-NC-SA, per sample; use CC0 samples for anything published. The discuss.pixls.us brackets are CC BY-SA 4.0 (one comparison file CC BY-NC-SA 4.0): anything published from them credits the author and the thread and is shared under the same license. The license of published dataset files is not decided yet, and nothing derived from private sources (the owner's photos) is ever published.

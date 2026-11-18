@@ -91,5 +91,30 @@ class StressSelectionTests(unittest.TestCase):
                 self.assertEqual((out / 'candidates.txt').read_bytes(), original)
 
 
+class PlayRawListingTests(unittest.TestCase):
+    def listing(self, **file_changes):
+        frame = dict(file='a.nef', role='frame', url='https://discuss.pixls.us/uploads/short-url/a.nef', size=1,
+                     sha256='a' * 64)
+        return {'brackets': {'1-x': {'posted': '2020-11-23T11:48:10Z', 'license': 'CC-BY-SA-4.0', 'files': [
+            frame, dict(frame, **dict(dict(file='b.nef', sha256='b' * 64), **file_changes))]}}}
+
+    def test_committed_listing_is_complete(self):
+        files = dataset.play_raw_files(json.loads(dataset.PLAY_RAW_LISTING.read_text()))
+        self.assertTrue(files)
+        for f in files:
+            self.assertEqual(f['role'] == 'comparison', f['file'].startswith('comparison/'), f['path'])
+
+    def test_file_license_overrides_the_thread(self):
+        files = dataset.play_raw_files(self.listing(license='CC-BY-NC-SA-4.0'))
+        self.assertEqual([f['license'] for f in files], ['CC-BY-SA-4.0', 'CC-BY-NC-SA-4.0'])
+        self.assertEqual([f['path'] for f in files], ['1-x/a.nef', '1-x/b.nef'])
+
+    def test_bad_records_are_refused(self):
+        for change in ({'role': 'merged'}, {'license': 'CC-BY-NC-ND-4.0'}, {'sha256': 'a' * 64},
+                       {'url': 'https://example.com/b.nef'}, {'role': 'comparison'}):
+            with self.subTest(change=change), self.assertRaises(ValueError):
+                dataset.play_raw_files(self.listing(**change))
+
+
 if __name__ == '__main__':
     unittest.main()

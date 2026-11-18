@@ -36,6 +36,8 @@ Git LFS object id, so file names and the case of directory names don't matter.
                    external/signature-edits/ and index them as samples
   index-folder     index a source whose RAWs are simply placed in its folder (the
                    owner's photos, raws/own/; issue reports, raws/reports/)
+  play-raw         download the discuss.pixls.us RAWs index/play-raw.json lists
+                   (exposure brackets) into raws/play-raw/ and index them as samples
   snapshot         write the working database to data/dataset.sqlite for committing
   manifest         write a manifest in RAWmakase's tests/corpus/pixls.json format from a query, and
                    optionally link the files into $RAWMAKASE_CORPUS/raws/pixls
@@ -98,11 +100,22 @@ SOURCES = {
     'reports': {'folder': 'raws/reports', 'name': 'Files attached to RAWmakase issues',
                 'url': 'https://github.com/pch/rawmakase/issues', 'license': 'private',
                 'publishable': 0, 'snapshot': 0},
+    # RAWs posted to discuss.pixls.us threads whose authors license them in the
+    # opening post (index/play-raw.json records each file, its thread, author and
+    # license), in a folder per thread: exposure brackets so far.
+    'play-raw': {'folder': 'raws/play-raw', 'name': 'discuss.pixls.us Play Raw',
+                 'url': 'https://discuss.pixls.us/c/processing/play-raw/30',
+                 'license': 'per file (CC-BY-SA-4.0 as the author states it, else the forum default '
+                            'CC-BY-NC-SA-4.0)', 'publishable': 1, 'snapshot': 1},
 }
 RAW_EXTENSIONS = {'arw', 'cr2', 'cr3', 'dng', 'nef', 'nrw', 'raf', 'rw2', 'orf', 'ori', 'pef', 'rwl', 'srw', 'x3f',
                   'iiq', '3fr', 'fff', 'gpr'}
 SE_LICENSE = 'SignatureEdits-FreeRaw'
 SE_LISTING = 'index/signature-edits.json'
+# Curated by hand, read from this repository like data/camera-years.json.
+PLAY_RAW_LISTING = ROOT / 'index/play-raw.json'
+PLAY_RAW_ROLES = {'frame', 'comparison'}  # a bracket's frame, or the author's own merge of them
+PLAY_RAW_LICENSES = {'CC-BY-SA-4.0', 'CC-BY-NC-SA-4.0'}
 
 SCHEMA = """
 CREATE TABLE IF NOT EXISTS sources (
@@ -1504,6 +1517,93 @@ def signature_edits(args):
     print(f'{len(entries)} Signature Edits samples indexed')
 
 
+# discuss.pixls.us Play Raw
+
+
+def play_raw_files(listing):
+    """index/play-raw.json's files, one dict each with its path in raws/play-raw/
+    (<bracket>/<file>) and its thread's license unless the file has its own."""
+    files, paths, hashes = [], set(), set()
+    for name, thread in sorted(listing['brackets'].items()):
+        frames = 0
+        for f in thread['files']:
+            e = dict(f, bracket=name, path=f'{name}/{f["file"]}', license=f.get('license', thread['license']),
+                     uploaded=thread['posted'][:10])
+            if e['role'] not in PLAY_RAW_ROLES or e['license'] not in PLAY_RAW_LICENSES:
+                raise ValueError(f'{e["path"]}: role {e["role"]!r}, license {e["license"]!r}')
+            if not re.fullmatch(r'[0-9a-f]{64}', e['sha256']) or not e['size'] > 0 or \
+                    not e['url'].startswith('https://discuss.pixls.us/uploads/'):
+                raise ValueError(f'{e["path"]}: incomplete record')
+            if e['path'] in paths or e['sha256'] in hashes:
+                raise ValueError(f'{e["path"]}: listed twice')
+            paths.add(e['path'])
+            hashes.add(e['sha256'])
+            frames += e['role'] == 'frame'
+            files.append(e)
+        if frames < 2:
+            raise ValueError(f'{name}: a bracket needs at least two frames')
+    return files
+
+
+def play_raw(args):
+    """Download the RAWs index/play-raw.json lists (a public source: each author's
+    license, CC BY-SA 4.0 so far, is quoted from the thread there) into
+    raws/play-raw/<bracket>/, check each against its SHA-256 and index them as
+    samples. A rerun downloads only what is missing."""
+    import time
+    folder = args.dataset / SOURCES['play-raw']['folder']
+    files = play_raw_files(json.loads(PLAY_RAW_LISTING.read_text()))
+    failed = 0
+    for e in files:
+        target = folder / e['path']
+        if args.index_only or target.exists() and target.stat().st_size == e['size']:
+            continue
+        target.parent.mkdir(parents=True, exist_ok=True)
+        tmp = target.with_name(target.name + '.part')
+        try:
+            # Discourse redirects the short URL to the stored upload; some come
+            # back as text/html although they are the RAW, so the bytes decide.
+            req = urllib.request.Request(e['url'], headers={'User-Agent': 'rawmakase-dataset'})
+            with urllib.request.urlopen(req, timeout=600) as r, open(tmp, 'wb') as out:
+                while chunk := r.read(1 << 20):
+                    out.write(chunk)
+            digest = sha256(tmp)
+            if digest != e['sha256']:
+                raise ValueError(f'SHA-256 {digest[:12]}, listed {e["sha256"][:12]}')
+            tmp.rename(target)
+        except Exception as err:
+            tmp.unlink(missing_ok=True)
+            failed += 1
+            print(f'  {e["path"]}: {err}', file=sys.stderr, flush=True)
+        time.sleep(args.pause)
+    db = connect(args.dataset)
+    spelled = {m.lower(): m for (m,) in db.execute("SELECT DISTINCT make FROM samples WHERE source = 'pixls'")}
+    present = [e for e in files if (folder / e['path']).exists()]
+    out = subprocess.run(['exiftool', '-j', '-fast2', '-Make', '-Model', *[str(folder / e['path']) for e in present]],
+                         capture_output=True, text=True).stdout if present else '[]'
+    tags = {t['SourceFile']: t for t in json.loads(out or '[]')}
+    for e in present:
+        t = tags.get(str(folder / e['path']), {})
+        make, model = camera_name(t.get('Make'), t.get('Model'))
+        make = spelled.get(make.lower(), make)
+        db.execute('INSERT INTO samples (sha256, source, make, model, mode, license, uploaded, size_bytes, url,'
+                   ' path, ext) VALUES (?,?,?,?,?,?,?,?,?,?,?) ON CONFLICT (sha256) DO UPDATE SET'
+                   ' source=excluded.source, make=excluded.make, model=excluded.model, license=excluded.license,'
+                   ' uploaded=excluded.uploaded, size_bytes=excluded.size_bytes, url=excluded.url,'
+                   ' path=excluded.path, ext=excluded.ext',
+                   (e['sha256'], 'play-raw', make or None, model or None, '', e['license'], e['uploaded'], e['size'],
+                    e['url'], e['path'], Path(e['file']).suffix.lower().lstrip('.')))
+    # Files taken off the listing go with what was derived from them.
+    listed = {e['sha256'] for e in files}
+    gone = [s for (s,) in db.execute("SELECT sha256 FROM samples WHERE source = 'play-raw'") if s not in listed]
+    for table in ('samples', 'exif', 'previews', 'stats', 'descriptions'):
+        db.executemany(f'DELETE FROM {table} WHERE sha256 = ?', [(s,) for s in gone])
+    db.commit()
+    print(f'{len(present)} of {len(files)} Play Raw files indexed, {len(gone)} gone, {failed} failed')
+    if failed or len(present) < len(files):
+        sys.exit(1)
+
+
 # manifest
 
 
@@ -1647,12 +1747,17 @@ def main():
     s.set_defaults(run=references)
     sub.add_parser('snapshot').set_defaults(run=snapshot)
     s = sub.add_parser('index-folder')
-    s.add_argument('--source', choices=[k for k in SOURCES if k not in ('pixls', 'signature-edits')], default='own')
+    s.add_argument('--source', choices=[k for k in SOURCES if k not in ('pixls', 'signature-edits', 'play-raw')],
+                   default='own')
     s.set_defaults(run=index_folder)
     s = sub.add_parser('signature-edits')
     s.add_argument('--index-only', action='store_true', help='index the files already downloaded')
     s.add_argument('--pause', type=float, default=2.0, help='seconds between requests')
     s.set_defaults(run=signature_edits)
+    s = sub.add_parser('play-raw')
+    s.add_argument('--index-only', action='store_true', help='index the files already downloaded')
+    s.add_argument('--pause', type=float, default=1.0, help='seconds between downloads')
+    s.set_defaults(run=play_raw)
     s = sub.add_parser('manifest')
     s.add_argument('--where', required=True, help="SQL over the photos view, e.g. \"t_shadows = 2 AND "
                                                   "license = 'CC0-1.0'\"")

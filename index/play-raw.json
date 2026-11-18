@@ -1,0 +1,279 @@
+{
+ "about": "RAW exposure brackets posted to discuss.pixls.us (mostly Play Raw threads), for developing and checking Merge to HDR. Each author licenses the files in the thread's opening post (license_statement quotes it), which overrides the forum's default CC BY-NC-SA 4.0 (https://discuss.pixls.us/tos section 3); a file the statement does not cover carries that default. Credit each bracket's author by username with a link to the thread. role 'frame' is one exposure of the bracket; 'comparison' is the author's own merge, kept to compare against, never a frame. ev is each frame's exposure (shutter x ISO / f-number^2) against the bracket's middle frame. Files live in raws/play-raw/<bracket>/; scripts/dataset.py play-raw downloads, checks and indexes them.",
+ "brackets": {
+  "39443-piney-sunrise": {
+   "thread": "https://discuss.pixls.us/t/39443",
+   "title": "Piney sunrise as it looked ... ?",
+   "author": "lphilpot",
+   "posted": "2023-09-13T22:23:54.450Z",
+   "license": "CC-BY-SA-4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "license_statement": "These files are licensed Creative Commons, By-Attribution, Share-Alike.",
+   "files": [
+    {
+     "file": "IMG_9814.CR3",
+     "role": "frame",
+     "url": "https://discuss.pixls.us/uploads/short-url/qOYSawHdMYfWy7TPhuQmzQF4BZA.CR3",
+     "size": 31028176,
+     "sha256": "cf9b32464fd4e5578cff36ca5c39baed8d7de54b16cadc5b22a38864d69154c5",
+     "exposure": "1/5 s, f/11, ISO 100",
+     "ev": 0.0
+    },
+    {
+     "file": "IMG_9815.CR3",
+     "role": "frame",
+     "url": "https://discuss.pixls.us/uploads/short-url/dhoZIypuK8eaBLRqPaLHStTL002.CR3",
+     "size": 23408241,
+     "sha256": "0d189a15ec2da3cd787b28030c7d1f6cfb63d4d14891cad8fb012bda509e5ed6",
+     "exposure": "1/20 s, f/11, ISO 100",
+     "ev": -2.0
+    },
+    {
+     "file": "IMG_9816.CR3",
+     "role": "frame",
+     "url": "https://discuss.pixls.us/uploads/short-url/ipkIxPRcXPd9Qo2o2b0D6AV32dh.CR3",
+     "size": 36065417,
+     "sha256": "a80654f282c0857dcf0348107ae7483c9b32dbb921faf86b641f9fe145c1fbcf",
+     "exposure": "0.8 s, f/11, ISO 100",
+     "ev": 2.0
+    }
+   ],
+   "camera": "Canon EOS Rebel T8i (EOS 850D)",
+   "bracket": "3 frames, AEB 0 / -2 / +2 EV (shutter 1/5, 1/20, 0.8 s at f/11, ISO 100, manual exposure), started in that order within 0.5 s.",
+   "support": "tripod: the frames line up to the pixel (no shift measured on the previews), and the +2 EV frame is 0.8 s.",
+   "motion": "none measured; pine needles may move in the wind over the 0.8 s frame.",
+   "clipping": "the sun is in frame, low behind the pines: even the -2 EV frame clips its disc (0.03% of photosites); 0 EV clips 0.5%, +2 EV 10% (sky).",
+   "notes": "The camera's EXIF Copyright reads 'Copyright Len Philpot, All Rights Reserved', which conflicts with the CC BY-SA 4.0 the author (lphilpot) grants in the opening post; the post is the later, explicit grant and is what this dataset relies on. The author posted their own HDR (merged in Affinity Photo) as a JPEG only, so there is no comparison file."
+  },
+  "39864-hdr-colours-xtrans": {
+   "thread": "https://discuss.pixls.us/t/39864",
+   "title": "I struggle with HDR colors in darktable (and HDRMerge)",
+   "author": "gigaturbo",
+   "posted": "2023-10-09T20:47:01.886Z",
+   "license": "CC-BY-SA-4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "license_statement": "All files are licensed CC BY-SA.",
+   "files": [
+    {
+     "file": "DSCF4066.RAF",
+     "role": "frame",
+     "url": "https://discuss.pixls.us/uploads/short-url/KjC4PHr9JOetmBHvUxsvkqiYhr.RAF",
+     "size": 25721808,
+     "sha256": "a9d86aec837e65dc707118c40acf6fc981422357ad80810ddbc145508a1b0208",
+     "exposure": "1/950 s, f/8, ISO 160",
+     "ev": -1.44
+    },
+    {
+     "file": "DSCF4067.RAF",
+     "role": "frame",
+     "url": "https://discuss.pixls.us/uploads/short-url/czvtfrfMqAevtcZIfraJbE3B3CG.RAF",
+     "size": 28976480,
+     "sha256": "2893f0588bbaae16f2e9527ba30f1a87e019e9c2b8e0bb204b57ba8f90f5578c",
+     "exposure": "1/350 s, f/8, ISO 160",
+     "ev": 0.0
+    },
+    {
+     "file": "DSCF4068.RAF",
+     "role": "frame",
+     "url": "https://discuss.pixls.us/uploads/short-url/ol0lEa2mIgS6T311SR4t98cD8wX.RAF",
+     "size": 30891520,
+     "sha256": "a6691ba2deefbc113a75e352b456d8fe60c8556d48b39e06da09ef17f60f9375",
+     "exposure": "1/200 s, f/8, ISO 200",
+     "ev": 1.13
+    },
+    {
+     "file": "comparison/DSCF4066-4068.dng",
+     "role": "comparison",
+     "url": "https://discuss.pixls.us/uploads/short-url/ehZcZhsOnN4rxuUUE214FZtQDdP.dng",
+     "size": 51586420,
+     "sha256": "248583eb7b8f06cde9a5ee39d4de161ea0e54af6ee5f1d69b002817d3bdf30d8",
+     "exposure": "1/950 s, f/8, ISO 160"
+    }
+   ],
+   "camera": "Fujifilm X-T4 (X-Trans)",
+   "bracket": "3 frames, camera AEB set to -1 2/3, -1/3 and +1 EV compensation; measured exposures -1.44 / 0 / +1.13 EV (1/950 and 1/350 s at ISO 160, 1/200 s at ISO 200, f/8).",
+   "support": "handheld: the frames drift by about 5 px at full resolution.",
+   "motion": "foliage and clouds; no people or vehicles.",
+   "clipping": "the darkest frame is unclipped (99.9th percentile 0.4 EV below clip); the middle frame clips 2% (bright clouds), the brightest 9.5%.",
+   "notes": "The thread is about HDRMerge's colours and alignment on X-Trans: comparison/DSCF4066-4068.dng is the author's HDRMerge 0.5.0 merge (floating-point X-Trans DNG), which the author says shows alignment artifacts because HDRMerge does not align X-Trans frames."
+  },
+  "21441-car-at-sunrise": {
+   "thread": "https://discuss.pixls.us/t/21441",
+   "title": "Car at sunrise - Bracketed shots",
+   "author": "zhopudey",
+   "posted": "2020-11-23T11:48:10.459Z",
+   "license": "CC-BY-SA-4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "license_statement": "This file is licensed Creative Commons, By-Attribution, Share-Alike.",
+   "files": [
+    {
+     "file": "20201122_07.16.48_DSC_3542.nef",
+     "role": "frame",
+     "url": "https://discuss.pixls.us/uploads/short-url/gpNtO7M81qLpq5pwANYHubTTsBZ.nef",
+     "size": 29230507,
+     "sha256": "d6d6fcc202db54b87e8150b23289940d0bfea40d8bf36e25c7b1ecc9f6894c7c",
+     "exposure": "1/400 s, f/9, ISO 400",
+     "ev": 0.0
+    },
+    {
+     "file": "20201122_07.16.48_DSC_3543.nef",
+     "role": "frame",
+     "url": "https://discuss.pixls.us/uploads/short-url/14GBK8w0f5LlyIH3xbRK6ff4bXD.nef",
+     "size": 27062878,
+     "sha256": "d7fffa78b0dc0041dc7420fdb9f4b3cafdb0bd48611500a75c7acde9b0834ea3",
+     "exposure": "1/1600 s, f/9, ISO 400",
+     "ev": -2.0
+    },
+    {
+     "file": "20201122_07.16.48_DSC_3544.nef",
+     "role": "frame",
+     "url": "https://discuss.pixls.us/uploads/short-url/sytOtxgy2DhkiG5EXuTGAWGWvsX.nef",
+     "size": 27983086,
+     "sha256": "b9fed77e5df5cee4c01e104336867834a94bdfab151908a3335a9fa814e7008a",
+     "exposure": "1/800 s, f/9, ISO 400",
+     "ev": -1.0
+    },
+    {
+     "file": "20201122_07.16.48_DSC_3545.nef",
+     "role": "frame",
+     "url": "https://discuss.pixls.us/uploads/short-url/bwt3HBJeccQU5Ahg8os6xg4aA3f.nef",
+     "size": 30642726,
+     "sha256": "64e69425d278321349e17035ed905b3bb9b1278011eec1c38a20580d2649b781",
+     "exposure": "1/200 s, f/9, ISO 400",
+     "ev": 1.0
+    },
+    {
+     "file": "20201122_07.16.50_DSC_3546.nef",
+     "role": "frame",
+     "url": "https://discuss.pixls.us/uploads/short-url/f0oD209j6yv44BgJrZScb0eVYgl.nef",
+     "size": 30231390,
+     "sha256": "b31c9800b44f4ac72d5f2f95263e637ae6946ca9edddecb24ff31b0b668a8cfa",
+     "exposure": "1/100 s, f/9, ISO 400",
+     "ev": 2.0
+    }
+   ],
+   "camera": "Nikon D750",
+   "bracket": "5 frames in 1 EV steps, shot 0 / -2 / -1 / +1 / +2 EV (1/400, 1/1600, 1/800, 1/200, 1/100 s at f/9, ISO 400, aperture priority) within 1.3 s.",
+   "support": "handheld: the frames drift steadily, up to about 30 px at full resolution (VR on).",
+   "motion": "the sea moves (waves and the sun's glitter); grass may move; the car is still.",
+   "clipping": "the sun sits on the horizon: even the -2 EV frame clips its disc (0.01% of photosites); +1 EV clips 4.5%, +2 EV 25% (sky).",
+   "notes": "The author reports dust spots on the sensor or lens. File names keep the author's capture-time prefix (07.16.48 is the second the series started; the EXIF time of the first frame is 07:16:47.85)."
+  },
+  "29470-hdr-scenery": {
+   "thread": "https://discuss.pixls.us/t/29470",
+   "title": "HDR scenery black point issue",
+   "author": "Newerth",
+   "posted": "2022-02-17T09:55:50.940Z",
+   "license": "CC-BY-SA-4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "license_statement": "the raws are licensed Creative Commons — Attribution-ShareAlike 4.0 International — CC BY-SA 4.0.",
+   "files": [
+    {
+     "file": "P1210701.RW2",
+     "role": "frame",
+     "url": "https://discuss.pixls.us/uploads/short-url/q5BkPC1DrqiOui4PDYR4KeaT4nS.RW2",
+     "size": 19764736,
+     "sha256": "d932ed54ddd366828974c5373aea59a6aae3b47dab929b37e3fe9745f19683b8",
+     "exposure": "1/6400 s, f/2.8, ISO 200",
+     "ev": -1.0
+    },
+    {
+     "file": "P1210702.RW2",
+     "role": "frame",
+     "url": "https://discuss.pixls.us/uploads/short-url/ga3nwpvs8uHhAdZRR0BPgRodg4a.RW2",
+     "size": 19828224,
+     "sha256": "f180de9e177695765b9de4510254e599da851ac1b1fc60a23daa2a393b804ad8",
+     "exposure": "1/3200 s, f/2.8, ISO 200",
+     "ev": 0.0
+    },
+    {
+     "file": "P1210703.RW2",
+     "role": "frame",
+     "url": "https://discuss.pixls.us/uploads/short-url/cpqiYAYDw1CVHEku6XncLZZOX7h.RW2",
+     "size": 19770368,
+     "sha256": "e012f84d2915c1e392087419803818022c371c106f7a4662707853bc938277ca",
+     "exposure": "1/1600 s, f/2.8, ISO 200",
+     "ev": 1.0
+    },
+    {
+     "file": "comparison/P1210701-1210703.dng",
+     "role": "comparison",
+     "url": "https://discuss.pixls.us/uploads/short-url/rbxeRGAbFuqJkzIQatvTcPHXFbK.dng",
+     "size": 45272342,
+     "sha256": "4ef763a9766f7cf47291818c864f5aac48dab85f662be44d942ea2932128fb75",
+     "exposure": "1/6400 s, f/2.8, ISO 200",
+     "license": "CC-BY-NC-SA-4.0",
+     "license_note": "The opening post licenses 'the raws' only; this HDRMerge output falls under the forum's default license (https://discuss.pixls.us/tos section 3)."
+    }
+   ],
+   "camera": "Panasonic Lumix DMC-GX80",
+   "bracket": "3 frames in 1 EV steps, camera AEB at -1 2/3, -2/3 and +1/3 EV compensation: -1 / 0 / +1 EV (1/6400, 1/3200, 1/1600 s at f/2.8, ISO 200) within 0.26 s.",
+   "support": "handheld: the frames shift by about 4 px at full resolution.",
+   "motion": "ghosting test: a person walks through the foreground between frames, and small figures move in the distance; bare branches against the sky.",
+   "clipping": "sun rays through cloud: the darkest frame is unclipped (99.9th percentile 1 EV below clip); the middle frame clips 0.06%, the brightest 1.1%.",
+   "notes": "The thread asks why HDRMerge's result shows a magenta tint and a wrong black point: comparison/P1210701-1210703.dng is that HDRMerge 0.5.0 output (32-bit float DNG). The opening post licenses 'the raws' only, so the merged DNG falls under the forum's default CC BY-NC-SA 4.0."
+  },
+  "54315-cave-grand-canyon": {
+   "thread": "https://discuss.pixls.us/t/54315",
+   "title": "Looking out of a cave to see the canyon below",
+   "author": "daithi",
+   "posted": "2025-11-22T16:46:06.876Z",
+   "license": "CC-BY-SA-4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "license_statement": "This file is licensed Creative Commons, By-Attribution, Share-Alike.",
+   "files": [
+    {
+     "file": "P1060778.RW2",
+     "role": "frame",
+     "url": "https://discuss.pixls.us/uploads/short-url/5qhwauZTNKYwSymIEunkiNkzNC9.RW2",
+     "size": 19823616,
+     "sha256": "43ad48eef2ef4912ed31314c56d160ff532e60b1c4c472e13499509d2a5100a5",
+     "exposure": "1/60 s, f/8, ISO 500",
+     "ev": 0.0
+    },
+    {
+     "file": "P1060779.RW2",
+     "role": "frame",
+     "url": "https://discuss.pixls.us/uploads/short-url/dHstQ9fib56MbJJGC3sSzIl4VME.RW2",
+     "size": 19824128,
+     "sha256": "fd526b953f7d3cfbbd1164e82b276cddd4be0a2fad8b73a22efcf717618339cf",
+     "exposure": "1/60 s, f/8, ISO 400",
+     "ev": -0.32
+    },
+    {
+     "file": "P1060780.RW2",
+     "role": "frame",
+     "url": "https://discuss.pixls.us/uploads/short-url/dIj3Z0Yigymz3jJInIe2lHguKE4.RW2",
+     "size": 19821056,
+     "sha256": "f8e3c8b08856e39416a87fdda697a1227860eb448564a3fecc5da939c4113c86",
+     "exposure": "1/60 s, f/8, ISO 640",
+     "ev": 0.36
+    },
+    {
+     "file": "P1060781.RW2",
+     "role": "frame",
+     "url": "https://discuss.pixls.us/uploads/short-url/mzCICw5wnhy0AxmYEf3sIby33jL.RW2",
+     "size": 19855872,
+     "sha256": "0051aaa41fc8a84e8a197a89b95e59601edd71b0423912f124e4b7503238c653",
+     "exposure": "1/60 s, f/8, ISO 320",
+     "ev": -0.64
+    },
+    {
+     "file": "P1060782.RW2",
+     "role": "frame",
+     "url": "https://discuss.pixls.us/uploads/short-url/2WSlMVUXYYqUa8XM9gkuIJyRSY9.RW2",
+     "size": 19835392,
+     "sha256": "0590372f7d357f164c061320a2b21d3aaa095e22c4f7cb0e1666f6cecbf0e9b3",
+     "exposure": "1/60 s, f/8, ISO 800",
+     "ev": 0.68
+    }
+   ],
+   "camera": "Panasonic Lumix DMC-GH3",
+   "bracket": "5 frames at a fixed 1/60 s and f/8: the camera's AEB varied ISO only (500, 400, 640, 320, 800), giving 0 / -0.32 / +0.36 / -0.64 / +0.68 EV (nominal 0, ±1/3, ±2/3) within about 2 s.",
+   "support": "handheld: the frames drift up to about 30 px at full resolution.",
+   "motion": "none: rock only.",
+   "clipping": "the sunlit canyon wall seen from the cave is clipped in every frame, even the darkest (1.9% of photosites, ISO 320); the brightest clips 4.2%. The author notes the steps were too small.",
+   "notes": "An ISO bracket, not an exposure bracket: every frame collected the same light, so the merge gains highlight headroom only from the lower analog gain (1.3 EV between ISO 800 and 320) and no cleaner shadows. A test for merges that weight frames by exposure time alone, and for unrecoverable clipping. EXIF has no subsecond times. The author's edit of the darkest frame (P1060781) was posted as a JPEG and an XMP, which are not kept."
+  }
+ }
+}

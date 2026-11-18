@@ -16,7 +16,7 @@ Run every command from the dataset folder: stored paths (`raws/pixls/…`) are r
 
 The `photos` view joins everything known about each sample. Useful columns:
 
-- Source and rights: `source` (`pixls`, `signature-edits`, `own`), `license`, `in_scope`.
+- Source and rights: `source` (`pixls`, `signature-edits`, `own`, `play-raw`), `license`, `in_scope`. A `play-raw` sample's `path` starts with its bracket's folder; `index/play-raw.json` says which files are frames and which are the authors' merges.
 - Camera: `make`, `model`, `year`, `category`, and `cfa` in `stats` (Bayer, X-Trans, linear DNG).
 - Exposure: `iso`, `exposure_s`, `fnumber`, `exposure_comp`, `flash`, `white_balance`.
 - Raw tone, measured on the sensor data: `ev_p01` … `ev_p999` (EV below clipping), `spread_ev`, `clipped`, `black`, `dark_area`, `bright_area`. `raw_ok` says LibRaw measured it; `rawmakase_ok` says RAWmakase opens it.

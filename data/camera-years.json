@@ -1227,6 +1227,14 @@
   },
   {
    "make": "Canon",
+   "model": "EOS Rebel T8i",
+   "announced": "2020-02",
+   "category": "interchangeable",
+   "confidence": "high",
+   "note": "= EOS 850D"
+  },
+  {
+   "make": "Canon",
    "model": "EOS RP",
    "announced": "2019-02",
    "category": "interchangeable",

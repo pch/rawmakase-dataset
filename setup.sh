@@ -9,6 +9,9 @@
 #                                 are added without measurements or descriptions
 #   ./setup.sh --no-signature-edits   skip the private Signature Edits source
 #
+# The discuss.pixls.us exposure brackets (index/play-raw.json, about 0.5 GB,
+# CC BY-SA 4.0) are always downloaded.
+#
 # Signature Edits' free RAWs (about 20 GB) are a private source: their license
 # allows using them, not redistributing them, so they stay local.
 #
@@ -58,6 +61,8 @@ if [ "$signature_edits" = 1 ]; then
   echo "== downloading Signature Edits' RAWs (resumable, one at a time)"
   py signature-edits
 fi
+echo "== downloading the discuss.pixls.us brackets (resumable)"
+py play-raw
 echo "== checking every file's SHA-256"
 py verify
 echo "== previews and thumbnails"
