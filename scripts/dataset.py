@@ -957,6 +957,13 @@ GATE_SETTINGS['exposure'] = ['exposure-2', 'exposure-1', 'exposure+1', 'exposure
 GATE_SETTINGS['mixed'] = ['exposure-1+whites+100', 'shadows+50+highlights-50', 'contrast+50+blacks-50',
                           'dehaze+40+clarity+40', 'mask-exposure+shadows', 'color-default', 'color-shadows+100',
                           'color-dehaze+40', 'color-whites+100']
+# Shadows with Highlights: Camera Raw's render of the two is not the sum of each alone
+# (pch/rawmakase#1153), so the four sign combinations at full sliders, unequal sliders,
+# and the pair beside Whites and Blacks. Any photo tests them, as for `mixed`.
+GATE_SETTINGS['pairs'] = ['shadows+100+highlights-100', 'shadows-100+highlights+100', 'shadows+100+highlights+100',
+                          'shadows-100+highlights-100', 'shadows+80+highlights-30',
+                          'shadows+60+highlights-60+whites+30+blacks-30']
+ANY_PHOTO = ('mixed', 'pairs')  # controls without a classification of their own
 SPLITS = {'train': 7, 'validation': 4, 'holdout': 4}  # photos per brightness stratum
 STRATA = ('low', 'mid', 'high')
 
@@ -1020,9 +1027,9 @@ def families():
     for control, names in GATE_SETTINGS.items():
         column = f't_{control}'
         out[control] = {'settings': names, 'crs': None,
-                        'eligible': (lambda p: True) if control == 'mixed' else (lambda p, c=column: (p[c] or 0) >= 1),
-                        'rank': (lambda p: 0) if control == 'mixed' else (lambda p, c=column: -(p[c] or 0)),
-                        'score': None if control == 'mixed' else column}
+                        'eligible': (lambda p: True) if control in ANY_PHOTO else (lambda p, c=column: (p[c] or 0) >= 1),
+                        'rank': (lambda p: 0) if control in ANY_PHOTO else (lambda p, c=column: -(p[c] or 0)),
+                        'score': None if control in ANY_PHOTO else column}
     rules = {
         'wb': (lambda p: True, lambda p: 0 if p['light'] in ARTIFICIAL else 1 if p['light'] not in ('direct-sun',) else 2),
         'vibrance': (lambda p: True, lambda p: -(2 * (p['skin'] or 0) + (p['saturated_colors'] or 0))),
